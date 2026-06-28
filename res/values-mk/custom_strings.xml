@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Locale Picker -->
+    <string name="clear_search_query_description">Избриши го барањето</string>
+    <string name="language_picker_page">Страница за избирач за јазик</string>
+    <string name="search_region">Пребарувајте региони</string>
+    <string name="search_region_page">Страница за пребарување регион</string>
+</resources>

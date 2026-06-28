@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Locale Picker -->
+    <string name="clear_search_query_description">Xoá cụm từ tìm kiếm</string>
+    <string name="language_picker_page">Trang bộ chọn ngôn ngữ</string>
+    <string name="search_region">Tìm khu vực</string>
+    <string name="search_region_page">Trang tìm kiếm theo khu vực</string>
+</resources>

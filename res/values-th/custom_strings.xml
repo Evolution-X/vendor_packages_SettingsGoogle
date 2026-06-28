@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Locale Picker -->
+    <string name="clear_search_query_description">ล้างคำค้นหา</string>
+    <string name="language_picker_page">หน้าเครื่องมือเลือกภาษา</string>
+    <string name="search_region">ค้นหาภูมิภาค</string>
+    <string name="search_region_page">หน้าค้นหาภูมิภาค</string>
+</resources>

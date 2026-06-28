@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Locale Picker -->
+    <string name="clear_search_query_description">প্ৰশ্ন মচক</string>
+    <string name="language_picker_page">ভাষা বাছনিকৰ্তাৰ পৃষ্ঠা</string>
+    <string name="search_region">অঞ্চল সন্ধান কৰক</string>
+    <string name="search_region_page">অঞ্চল সন্ধান কৰাৰ পৃষ্ঠা</string>
+</resources>

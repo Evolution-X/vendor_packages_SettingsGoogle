@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Locale Picker -->
+    <string name="clear_search_query_description">Tyhjennä kysely</string>
+    <string name="language_picker_page">Kielivalitsimen sivu</string>
+    <string name="search_region">Hae alueita</string>
+    <string name="search_region_page">Hakualueen sivu</string>
+</resources>

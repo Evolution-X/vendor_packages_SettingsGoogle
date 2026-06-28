@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Locale Picker -->
+    <string name="clear_search_query_description">מחיקת השאילתה</string>
+    <string name="language_picker_page">דף הכלי לבחירת שפה</string>
+    <string name="search_region">חיפוש אזורים</string>
+    <string name="search_region_page">הדף של חיפוש אזורים</string>
+</resources>

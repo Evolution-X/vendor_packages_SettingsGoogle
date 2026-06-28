@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Locale Picker -->
+    <string name="clear_search_query_description">Pastro pyetjen</string>
+    <string name="language_picker_page">Faqja e zgjedhësit të gjuhës</string>
+    <string name="search_region">Kërko për rajonin</string>
+    <string name="search_region_page">Faqja e kërkimit të rajonit</string>
+</resources>

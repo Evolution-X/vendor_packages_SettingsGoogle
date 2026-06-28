@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Locale Picker -->
+    <string name="clear_search_query_description">ചോദ്യം മായ്‌ക്കുക</string>
+    <string name="language_picker_page">ഭാഷ പിക്കർ പേജ്</string>
+    <string name="search_region">പ്രദേശങ്ങൾ തിരയുക</string>
+    <string name="search_region_page">പ്രദേശം തിരയൽ പേജ്</string>
+</resources>

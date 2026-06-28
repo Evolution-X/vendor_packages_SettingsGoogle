@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Locale Picker -->
+    <string name="clear_search_query_description">Izbriši upit</string>
+    <string name="language_picker_page">Stranica alata za odabir jezika</string>
+    <string name="search_region">Pretražite regije</string>
+    <string name="search_region_page">Stranica za pretraživanje regije</string>
+</resources>

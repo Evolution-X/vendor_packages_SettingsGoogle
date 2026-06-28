@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Locale Picker -->
+    <string name="clear_search_query_description">কোয়েরি মুছুন</string>
+    <string name="language_picker_page">ভাষা বাছাইকারী পৃষ্ঠা</string>
+    <string name="search_region">অঞ্চল সার্চ করুন</string>
+    <string name="search_region_page">অঞ্চল সার্চ করার পৃষ্ঠা</string>
+</resources>

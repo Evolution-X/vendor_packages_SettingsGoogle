@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Locale Picker -->
+    <string name="clear_search_query_description">Ta bort frågan</string>
+    <string name="language_picker_page">Språkväljarsida</string>
+    <string name="search_region">Sök efter regioner</string>
+    <string name="search_region_page">Sökområdessida</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Locale Picker -->
+    <string name="clear_search_query_description">क्वेरी हटाउनुहोस्</string>
+    <string name="language_picker_page">\"ल्याङ्वेज पिकर\" पेज</string>
+    <string name="search_region">क्षेत्रहरू खोज्नुहोस्</string>
+    <string name="search_region_page">\"क्षेत्र खोज्नुहोस्\" पेज</string>
+</resources>

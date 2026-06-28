@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Locale Picker -->
+    <string name="clear_search_query_description">សម្អាត​សំណួរ</string>
+    <string name="language_picker_page">ទំព័រ​កម្មវិធី​ជ្រើសរើស​ភាសា</string>
+    <string name="search_region">ស្វែងរកតំបន់</string>
+    <string name="search_region_page">ទំព័រស្វែងរកតំបន់</string>
+</resources>

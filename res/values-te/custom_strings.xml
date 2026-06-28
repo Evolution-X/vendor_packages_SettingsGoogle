@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Locale Picker -->
+    <string name="clear_search_query_description">ప్రశ్నను క్లియర్ చేయండి</string>
+    <string name="language_picker_page">భాష సెలెక్టర్ పేజీ</string>
+    <string name="search_region">ప్రాంతాలను సెర్చ్ చేయండి</string>
+    <string name="search_region_page">ప్రాంతం కోసం సెర్చ్ చేసే పేజీ</string>
+</resources>

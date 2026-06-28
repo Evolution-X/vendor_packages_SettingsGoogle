@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Locale Picker -->
+    <string name="clear_search_query_description">Ryd forespørgsel</string>
+    <string name="language_picker_page">Side med sprogvælger</string>
+    <string name="search_region">Søg efter regioner</string>
+    <string name="search_region_page">Side til regionsøgning</string>
+</resources>

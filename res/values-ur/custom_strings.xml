@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Locale Picker -->
+    <string name="clear_search_query_description">استفسار صاف کریں</string>
+    <string name="language_picker_page">زبان منتخب کنندہ کا صفحہ</string>
+    <string name="search_region">علاقے تلاش کریں</string>
+    <string name="search_region_page">علاقے کا صفحہ تلاش کریں</string>
+</resources>

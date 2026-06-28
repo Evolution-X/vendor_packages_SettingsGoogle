@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Locale Picker -->
+    <string name="clear_search_query_description">ਪੁੱਛਗਿੱਛ ਕਲੀਅਰ ਕਰੋ</string>
+    <string name="language_picker_page">ਭਾਸ਼ਾ ਚੋਣਕਾਰ ਪੰਨਾ</string>
+    <string name="search_region">ਖੇਤਰ ਖੋਜੋ</string>
+    <string name="search_region_page">ਖੇਤਰ ਪੰਨਾ ਖੋਜੋ</string>
+</resources>

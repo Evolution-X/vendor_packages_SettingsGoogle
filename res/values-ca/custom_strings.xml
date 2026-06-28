@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Locale Picker -->
+    <string name="clear_search_query_description">Esborra la consulta</string>
+    <string name="language_picker_page">Pàgina del selector d\'idioma</string>
+    <string name="search_region">Cerca regions</string>
+    <string name="search_region_page">Pàgina de la regió de cerca</string>
+</resources>
