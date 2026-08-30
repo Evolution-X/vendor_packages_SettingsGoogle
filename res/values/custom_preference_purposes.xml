@@ -24,4 +24,7 @@
 
     <!-- Software Update -->
     <string name="software_update_settings_v2_purpose" translatable="false">Provides a centralized dashboard for users to monitor and initiate updates across the operating system, Google Play system components, and installed applications to ensure device security and performance.</string>
+
+    <!-- Simple Mode -->
+    <string name="simple_mode_settings_purpose" translatable="false">Allows users to simplify the device\'s home screen and interface by increasing the size of text and icons, streamlining the layout, and enabling persistent on-screen navigation buttons for easier interaction.</string>
 </resources>
