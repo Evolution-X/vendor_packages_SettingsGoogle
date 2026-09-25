@@ -73,6 +73,14 @@
             settings:controller="com.android.settings.display.AmbientDisplayAlwaysOnPreferenceScreenController"
             settings:userRestriction="no_ambient_display" />
 
+        <com.android.settingslib.PrimarySwitchPreference
+            android:key="ambient_display_external_settings"
+            android:title="@string/ambient_display_screen_title"
+            android:summary="@string/doze_summary"
+            settings:controller="com.android.settings.display.AmbientDisplaySettingsController">
+            <intent android:action="org.lineageos.settings.device.DOZE_SETTINGS" />
+        </com.android.settingslib.PrimarySwitchPreference>
+
         <com.android.settingslib.RestrictedPreference
             android:fragment="com.android.settings.display.FoldLockBehaviorSettings"
             android:key="fold_lock_behavior"
@@ -111,6 +119,7 @@
     </PreferenceCategory>
 
     <PreferenceCategory
+        android:key="category_key_color"
         android:title="@string/category_name_color"
         android:order="-170">
 
@@ -127,6 +136,12 @@
             android:fragment="com.android.settings.display.ColorModePreferenceFragment"
             settings:controller="com.android.settings.display.ColorModePreferenceController"
             settings:keywords="@string/keywords_color_mode"/>
+
+        <lineageos.preference.LineagePartsPreference
+            android:key="live_display_color_profile"
+            settings:replacesKey="color_mode"
+            settings:requiresConfig="@*lineageos.platform:bool/config_enableLiveDisplay"
+            settings:requiresFeature="lineagehardware:FEATURE_DISPLAY_MODES" />
 
         <Preference
             android:fragment="com.android.settings.display.ColorContrastFragment"
@@ -163,6 +178,12 @@
             settings:keywords="@string/keywords_auto_rotate"
             settings:controller="com.android.settings.display.DeviceStateAutoRotateOverviewController"/>
 
+        <lineageos.preference.LineagePartsPreference
+            android:key="rotation"
+            settings:replacesKey="auto_rotate"
+            settings:requiresConfig="@*lineageos.platform:bool/config_enableAdvancedRotationSettings"
+            settings:requiresFeature="android.hardware.sensor.accelerometer" />
+
         <Preference
             android:key="screen_resolution"
             android:title="@string/screen_resolution_title"
@@ -176,6 +197,18 @@
             android:summary="@string/display_white_balance_summary"
             settings:controller="com.android.settings.display.DisplayWhiteBalancePreferenceController"/>
 
+        <ListPreference
+            android:key="max_refresh_rate"
+            android:title="@string/max_refresh_rate_title"
+            android:summary="@string/summary_placeholder"
+            settings:controller="com.android.settings.display.PeakRefreshRateListPreferenceController" />
+
+        <ListPreference
+            android:key="min_refresh_rate"
+            android:title="@string/min_refresh_rate_title"
+            android:summary="@string/summary_placeholder"
+            settings:controller="com.android.settings.display.MinRefreshRatePreferenceController" />
+
         <SwitchPreferenceCompat
             android:key="peak_refresh_rate"
             android:title="@string/peak_refresh_rate_title"
@@ -186,6 +219,10 @@
             android:key="show_operator_name"
             android:title="@string/show_operator_name_title"
             android:summary="@string/show_operator_name_summary"/>
+
+        <lineageos.preference.LineagePartsPreference
+            android:key="long_screen_settings"
+            settings:requiresConfig="@*lineageos.platform:bool/config_haveHigherAspectRatioScreen" />
 
         <Preference
             android:key="screensaver"
@@ -207,6 +244,43 @@
             android:key="tap_to_wake"
             android:title="@string/tap_to_wake"
             android:summary="@string/tap_to_wake_summary"/>
+
+        <!-- Prevent accidental wake-up -->
+        <lineageos.preference.LineageSystemSettingSwitchPreference
+            android:key="proximity_on_wake"
+            android:title="@string/proximity_wake_title"
+            android:summary="@string/proximity_wake_summary"
+            android:defaultValue="@*lineageos.platform:bool/config_proximityCheckOnWakeEnabledByDefault"
+            settings:requiresConfig="@*lineageos.platform:bool/config_proximityCheckOnWake" />
+
+        <!-- Double tap to sleep -->
+        <lineageos.preference.LineageSystemSettingSwitchPreference
+            android:key="double_tap_sleep_gesture"
+            android:title="@string/status_bar_double_tap_to_sleep_title"
+            android:summary="@string/status_bar_double_tap_to_sleep_summary"
+            android:defaultValue="@*lineageos.platform:bool/config_dt2sGestureEnabledByDefault"
+            settings:requiresConfig="@*lineageos.platform:bool/config_dt2sGestureAvailable" />
+
+        <lineageos.preference.LineageGlobalSettingSwitchPreference
+            android:key="wake_when_plugged_or_unplugged"
+            android:title="@string/wake_when_plugged_or_unplugged_title"
+            android:summary="@string/wake_when_plugged_or_unplugged_summary"
+            android:defaultValue="@*android:bool/config_unplugTurnsOnScreen"
+            settings:requiresConfig="@bool/config_show_top_level_battery" />
+
+        <lineageos.preference.LineageSystemSettingSwitchPreference
+            android:key="high_touch_polling_rate_enable"
+            android:title="@string/high_touch_polling_rate_title"
+            android:summary="@string/high_touch_polling_rate_summary"
+            android:defaultValue="false"
+            settings:requiresFeature="lineagehardware:FEATURE_HIGH_TOUCH_POLLING_RATE" />
+
+        <lineageos.preference.LineageSystemSettingSwitchPreference
+            android:key="high_touch_sensitivity_enable"
+            android:title="@string/high_touch_sensitivity_title"
+            android:summary="@string/high_touch_sensitivity_summary"
+            android:defaultValue="false"
+            settings:requiresFeature="lineagehardware:FEATURE_HIGH_TOUCH_SENSITIVITY" />
 
         <ListPreference
             android:key="theme"
