@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">အက်ပ်အပ်ဒိတ်များ</string>
     <string name="play_application_detail_indication_summary">အပ်ဒိတ်ရှာရန်</string>
     <string name="system_update_entry_title">စနစ်အပ်ဒိတ်</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">လှုပ်ရှားသက်ဝင်ပုံကို ခဏရပ်ပါ</string>
 </resources>

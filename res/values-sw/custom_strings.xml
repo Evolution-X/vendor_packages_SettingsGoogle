@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">Masasisho ya programu</string>
     <string name="play_application_detail_indication_summary">Angalia masasisho</string>
     <string name="system_update_entry_title">Sasisho la mfumo</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">sitisha uhuishaji</string>
 </resources>

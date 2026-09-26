@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">ಆ್ಯಪ್ ಅಪ್‌ಡೇಟ್‌ಗಳು</string>
     <string name="play_application_detail_indication_summary">ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಪರಿಶೀಲಿಸಿ</string>
     <string name="system_update_entry_title">ಸಿಸ್ಟಂ ಅಪ್‌ಡೇಟ್</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">ಆ್ಯನಿಮೇಶನ್ ಅನ್ನು ವಿರಾಮಗೊಳಿಸಿ</string>
 </resources>

@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">ଆପ ଅପଡେଟଗୁଡ଼ିକ</string>
     <string name="play_application_detail_indication_summary">ଅପଡେଟଗୁଡ଼ିକ ପାଇଁ ଯାଞ୍ଚ କରନ୍ତୁ</string>
     <string name="system_update_entry_title">ସିଷ୍ଟମ ଅପଡେଟ</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">ଆନିମେସନକୁ ବିରତ କରନ୍ତୁ</string>
 </resources>

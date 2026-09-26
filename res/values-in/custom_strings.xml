@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">Update aplikasi</string>
     <string name="play_application_detail_indication_summary">Periksa update</string>
     <string name="system_update_entry_title">Update sistem</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">jeda animasi</string>
 </resources>

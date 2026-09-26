@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">Forritauppfærslur</string>
     <string name="play_application_detail_indication_summary">Leita að uppfærslum</string>
     <string name="system_update_entry_title">Kerfisuppfærsla</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">gera hlé á hreyfimyndinni</string>
 </resources>

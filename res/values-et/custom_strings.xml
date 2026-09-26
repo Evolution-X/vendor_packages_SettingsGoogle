@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">Rakenduste värskendused</string>
     <string name="play_application_detail_indication_summary">Kontrollige värskendusi</string>
     <string name="system_update_entry_title">Süsteemivärskendus</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">peata animatsioon</string>
 </resources>

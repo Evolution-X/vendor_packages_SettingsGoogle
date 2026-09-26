@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">Actualitzacions d\'aplicacions</string>
     <string name="play_application_detail_indication_summary">Cerca actualitzacions</string>
     <string name="system_update_entry_title">Actualització del sistema</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">posa en pausa l\'animació</string>
 </resources>

@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">ອັບເດດແອັບ</string>
     <string name="play_application_detail_indication_summary">ກວດເບິ່ງການອັບເດດ</string>
     <string name="system_update_entry_title">ການອັບເດດລະບົບ</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">ຢຸດອະນິເມຊັນຊົ່ວຄາວ</string>
 </resources>

@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">Aktualizacje aplikacji</string>
     <string name="play_application_detail_indication_summary">Sprawdź dostępność aktualizacji</string>
     <string name="system_update_entry_title">Aktualizacja systemu</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">wstrzymuje odtwarzanie animacji</string>
 </resources>

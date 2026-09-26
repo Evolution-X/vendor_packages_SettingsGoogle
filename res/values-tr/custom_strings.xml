@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">Uygulama güncellemeleri</string>
     <string name="play_application_detail_indication_summary">Güncellemeleri denetleyin</string>
     <string name="system_update_entry_title">Sistem güncellemesi</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">animasyonu duraklat</string>
 </resources>

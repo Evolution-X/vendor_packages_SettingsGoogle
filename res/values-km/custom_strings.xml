@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">កំណែថ្មីរបស់កម្មវិធី</string>
     <string name="play_application_detail_indication_summary">រកមើលកំណែថ្មី</string>
     <string name="system_update_entry_title">កំណែថ្មីរបស់​ប្រព័ន្ធ</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">ផ្អាករូបមានចលនា</string>
 </resources>

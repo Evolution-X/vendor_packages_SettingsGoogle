@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">Appuppdateringar</string>
     <string name="play_application_detail_indication_summary">Sök efter uppdateringar</string>
     <string name="system_update_entry_title">Systemuppdatering</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">pausa animationen</string>
 </resources>

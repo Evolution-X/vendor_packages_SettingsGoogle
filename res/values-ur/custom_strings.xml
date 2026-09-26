@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">ایپ کی اپ ڈیٹس</string>
     <string name="play_application_detail_indication_summary">اپ ڈیٹس چیک کریں</string>
     <string name="system_update_entry_title">سسٹم اپ ڈیٹ</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">اینیمیشن کو موقوف کریں</string>
 </resources>

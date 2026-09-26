@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">యాప్ అప్‌డేట్‌లు</string>
     <string name="play_application_detail_indication_summary">అప్‌డేట్‌ల కోసం చెక్ చేయండి</string>
     <string name="system_update_entry_title">సిస్టమ్ అప్‌డేట్</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">యానిమేషన్‌ను పాజ్ చేయండి</string>
 </resources>

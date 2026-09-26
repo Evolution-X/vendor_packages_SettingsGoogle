@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">应用更新</string>
     <string name="play_application_detail_indication_summary">检查更新</string>
     <string name="system_update_entry_title">系统更新</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">暂停动画</string>
 </resources>

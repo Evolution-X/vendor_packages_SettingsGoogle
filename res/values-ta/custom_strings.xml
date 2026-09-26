@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">ஆப்ஸ் புதுப்பிப்புகள்</string>
     <string name="play_application_detail_indication_summary">புதுப்பிப்புகள் உள்ளனவா என்று பாருங்கள்</string>
     <string name="system_update_entry_title">சிஸ்டம் புதுப்பிப்பு</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">அனிமேஷனை இடைநிறுத்து</string>
 </resources>

@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">Bản cập nhật ứng dụng</string>
     <string name="play_application_detail_indication_summary">Kiểm tra để tìm bản cập nhật</string>
     <string name="system_update_entry_title">Bản cập nhật hệ thống</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">tạm dừng ảnh động</string>
 </resources>

@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">Актуализации на приложения</string>
     <string name="play_application_detail_indication_summary">Проверка за актуализации</string>
     <string name="system_update_entry_title">Системна актуализация</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">поставяне на анимацията на пауза</string>
 </resources>

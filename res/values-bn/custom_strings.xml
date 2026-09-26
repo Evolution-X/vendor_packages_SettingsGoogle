@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">অ্যাপ কতবার আপডেট করা হয়েছে</string>
     <string name="play_application_detail_indication_summary">কোনও আপডেট আছে কিনা তা চেক করুন</string>
     <string name="system_update_entry_title">সিস্টেম আপডেট</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">অ্যানিমেশন পজ করুন</string>
 </resources>

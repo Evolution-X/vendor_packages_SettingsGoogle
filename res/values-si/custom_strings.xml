@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">යෙදුම් යාවත්කාලීන</string>
     <string name="play_application_detail_indication_summary">යාවත්කාලීන සඳහා පරීක්ෂා කරන්න</string>
     <string name="system_update_entry_title">පද්ධති යාවත්කාලීනය</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">සජීවිකරණය විරාම කරන්න</string>
 </resources>

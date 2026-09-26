@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">Sovelluspäivitykset</string>
     <string name="play_application_detail_indication_summary">Tarkista päivitykset</string>
     <string name="system_update_entry_title">Järjestelmäpäivitys</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">keskeytä animaatio</string>
 </resources>

@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">एपका अपडेटहरू</string>
     <string name="play_application_detail_indication_summary">अपडेटहरू उपलब्ध छन् वा छैनन् जाँच्नुहोस्</string>
     <string name="system_update_entry_title">सिस्टम अपडेट</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">एनिमेसन पज गर्नुहोस्</string>
 </resources>

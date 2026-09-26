@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">Alkalmazásfrissítések</string>
     <string name="play_application_detail_indication_summary">Frissítések keresése</string>
     <string name="system_update_entry_title">Rendszerfrissítés</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">az animáció szüneteltetése</string>
 </resources>

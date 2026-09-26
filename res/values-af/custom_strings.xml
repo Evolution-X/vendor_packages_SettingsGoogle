@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">Appopdaterings</string>
     <string name="play_application_detail_indication_summary">Kyk vir opdaterings</string>
     <string name="system_update_entry_title">Stelselopdatering</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">onderbreek die animasie</string>
 </resources>

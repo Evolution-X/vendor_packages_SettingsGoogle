@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">Ilova yangilanishlari</string>
     <string name="play_application_detail_indication_summary">Yangilanish mavjudligini tekshiring</string>
     <string name="system_update_entry_title">Tizim yangilanishi</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">animatsiyani pauza qiling</string>
 </resources>

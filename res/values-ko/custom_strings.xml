@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">앱 업데이트</string>
     <string name="play_application_detail_indication_summary">업데이트 확인</string>
     <string name="system_update_entry_title">시스템 업데이트</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">애니메이션 일시중지</string>
 </resources>

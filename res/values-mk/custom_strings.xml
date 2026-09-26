@@ -39,4 +39,7 @@
     <string name="play_application_update_entry_title">Ажурирања за апликации</string>
     <string name="play_application_detail_indication_summary">Проверете дали има ажурирања</string>
     <string name="system_update_entry_title">Системско ажурирање</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">паузирај ја анимацијата</string>
 </resources>
