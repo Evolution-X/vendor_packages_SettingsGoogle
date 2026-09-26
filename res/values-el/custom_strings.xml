@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">Ενσωματωμένο</string>
     <string name="vpn_preference_group_title">Άλλα</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">Λειτουργία επιδιόρθωσης</string>
+    <string name="repair_mode_summary">Ασφαλές περιβάλλον για επισκευή συσκευής</string>
+    <string name="repair_mode_active_summary">Σε λειτουργία επισκευής</string>
 </resources>

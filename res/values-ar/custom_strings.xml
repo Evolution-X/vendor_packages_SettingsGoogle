@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">الإعدادات المدمجة</string>
     <string name="vpn_preference_group_title">الإعدادات الأخرى</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">وضع الإصلاح</string>
+    <string name="repair_mode_summary">بيئة آمنة لإصلاح الجهاز</string>
+    <string name="repair_mode_active_summary">في وضع الإصلاح</string>
 </resources>

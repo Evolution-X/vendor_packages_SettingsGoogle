@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">बिल्ट-इन</string>
     <string name="vpn_preference_group_title">इतर</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">रिपेअर मोड</string>
+    <string name="repair_mode_summary">डिव्हाइस दुरुस्तीसाठी सुरक्षित वातावरण</string>
+    <string name="repair_mode_active_summary">रिपेअर मोडमध्ये आहे</string>
 </resources>

@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">Integruar</string>
     <string name="vpn_preference_group_title">Të tjera</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">Modaliteti i riparimit</string>
+    <string name="repair_mode_summary">Mjedis i sigurt për riparimin e pajisjes</string>
+    <string name="repair_mode_active_summary">Në modalitetin e riparimit</string>
 </resources>

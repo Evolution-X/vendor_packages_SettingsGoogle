@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">Ingebou</string>
     <string name="vpn_preference_group_title">Ander</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">Herstelmodus</string>
+    <string name="repair_mode_summary">Veilige omgewing vir toestelherstel</string>
+    <string name="repair_mode_active_summary">In herstelmodus</string>
 </resources>

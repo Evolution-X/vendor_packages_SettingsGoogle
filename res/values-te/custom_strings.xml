@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">బిల్ట్-ఇన్</string>
     <string name="vpn_preference_group_title">ఇతరం</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">రిపేర్ మోడ్</string>
+    <string name="repair_mode_summary">డివైజ్ రిపేర్ కోసం సురక్షితమైన ఎన్విరాన్‌మెంట్‌</string>
+    <string name="repair_mode_active_summary">రిపేర్ మోడ్‌లో</string>
 </resources>

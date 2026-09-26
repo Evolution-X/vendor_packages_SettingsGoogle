@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">내장됨</string>
     <string name="vpn_preference_group_title">기타</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">수리 모드</string>
+    <string name="repair_mode_summary">기기 수리를 위한 안전한 환경</string>
+    <string name="repair_mode_active_summary">수리 모드 사용 중</string>
 </resources>

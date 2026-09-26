@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">Innebygd</string>
     <string name="vpn_preference_group_title">Andre</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">Reparasjonsmodus</string>
+    <string name="repair_mode_summary">Trygt miljø for enhetsreparasjon</string>
+    <string name="repair_mode_active_summary">I reparasjonsmodus</string>
 </resources>

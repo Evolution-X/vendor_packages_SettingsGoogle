@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">બિલ્ટ-ઇન</string>
     <string name="vpn_preference_group_title">અન્ય</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">રિપૅર મોડ</string>
+    <string name="repair_mode_summary">ડિવાઇસ રિપૅર કરવા માટે સલામત પર્યાવરણ</string>
+    <string name="repair_mode_active_summary">રિપૅર મોડમાં</string>
 </resources>

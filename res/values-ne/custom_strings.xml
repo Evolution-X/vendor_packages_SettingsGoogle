@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">अन्तर्निर्मित</string>
     <string name="vpn_preference_group_title">अन्य</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">रिपेयर मोड</string>
+    <string name="repair_mode_summary">तपाईंको डिभाइस मर्मत गर्दा प्रयोग गरिने सुरक्षित स्पेस</string>
+    <string name="repair_mode_active_summary">रिपेयर मोडमा</string>
 </resources>

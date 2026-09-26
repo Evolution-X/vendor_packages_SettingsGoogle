@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">پہلے سے شامل</string>
     <string name="vpn_preference_group_title">دیگر</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">مرمت کی وضع</string>
+    <string name="repair_mode_summary">آلے کی مرمت کے لیے محفوظ ماحول</string>
+    <string name="repair_mode_active_summary">مرمتی وضع میں</string>
 </resources>

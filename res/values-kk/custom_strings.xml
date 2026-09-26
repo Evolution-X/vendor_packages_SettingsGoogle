@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">Орнатылған</string>
     <string name="vpn_preference_group_title">Басқалары</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">Жөндеу режимі</string>
+    <string name="repair_mode_summary">Құрылғыны жөндеуге арналған қауіпсіз орта</string>
+    <string name="repair_mode_active_summary">Жөндеу режимінде</string>
 </resources>

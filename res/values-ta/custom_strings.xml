@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">உள்ளமைக்கப்பட்டவை</string>
     <string name="vpn_preference_group_title">மற்றவை</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">ரிப்பேர் மோட்</string>
+    <string name="repair_mode_summary">சாதனத்தைப் பழுதுபார்ப்பதற்கான பாதுகாப்பான சூழல்</string>
+    <string name="repair_mode_active_summary">பழுதுபார்ப்புப் பயன்முறையில் உள்ளது</string>
 </resources>

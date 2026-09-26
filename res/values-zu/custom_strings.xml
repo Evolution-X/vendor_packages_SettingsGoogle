@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">Yakhelwe ngaphakathi</string>
     <string name="vpn_preference_group_title">Abanye</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">Imodi yokulungisa</string>
+    <string name="repair_mode_summary">Indawo evikelekile yokulungisa idivayisi</string>
+    <string name="repair_mode_active_summary">Kumodi yokulungisa</string>
 </resources>

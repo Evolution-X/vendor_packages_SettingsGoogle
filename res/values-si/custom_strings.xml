@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">ආවේණික</string>
     <string name="vpn_preference_group_title">වෙනත්</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">අලුත්වැඩියා කිරීමේ ප්‍රකාරය</string>
+    <string name="repair_mode_summary">උපාංගය අලුත්වැඩියා කිරීම සඳහා සුරක්ෂිත පරිසරයක්</string>
+    <string name="repair_mode_active_summary">අලුත්වැඩියා ප්‍රකාරයේ ඇත</string>
 </resources>

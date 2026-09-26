@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">Yerleşik</string>
     <string name="vpn_preference_group_title">Diğer</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">Onarım modu</string>
+    <string name="repair_mode_summary">Cihaz onarımı için güvenli ortam</string>
+    <string name="repair_mode_active_summary">Onarım modunda</string>
 </resources>

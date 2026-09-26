@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">ในตัว</string>
     <string name="vpn_preference_group_title">อื่นๆ</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">โหมดการซ่อม</string>
+    <string name="repair_mode_summary">สภาพแวดล้อมที่ปลอดภัยสำหรับการซ่อมอุปกรณ์</string>
+    <string name="repair_mode_active_summary">อยู่ในโหมดการซ่อม</string>
 </resources>

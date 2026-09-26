@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">বিল্ট-ইন</string>
     <string name="vpn_preference_group_title">অন্যান্য</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">রিপেয়ার মোড</string>
+    <string name="repair_mode_summary">ডিভাইস রিপেয়ার করার সুরক্ষিত পরিবেশ</string>
+    <string name="repair_mode_active_summary">রিপেয়ার মোডে রয়েছে</string>
 </resources>

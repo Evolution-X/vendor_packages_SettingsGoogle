@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">ჩაშენებული</string>
     <string name="vpn_preference_group_title">სხვა</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">შეკეთების რეჟიმი</string>
+    <string name="repair_mode_summary">უსაფრთხო გარემო მოწყობილობის შესაკეთებლად</string>
+    <string name="repair_mode_active_summary">შეკეთების რეჟიმში</string>
 </resources>

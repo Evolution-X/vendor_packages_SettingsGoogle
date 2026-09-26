@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">Ներկառուցված</string>
     <string name="vpn_preference_group_title">Այլ</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">Նորոգման ռեժիմ</string>
+    <string name="repair_mode_summary">Ապահով միջավայր սարքի վերանորոգման համար</string>
+    <string name="repair_mode_active_summary">Նորոգման ռեժիմում</string>
 </resources>

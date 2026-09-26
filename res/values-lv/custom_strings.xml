@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">Iebūvēts</string>
     <string name="vpn_preference_group_title">Citi</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">Remonta režīms</string>
+    <string name="repair_mode_summary">Droša vide ierīces remontēšanai</string>
+    <string name="repair_mode_active_summary">Remonta režīmā</string>
 </resources>

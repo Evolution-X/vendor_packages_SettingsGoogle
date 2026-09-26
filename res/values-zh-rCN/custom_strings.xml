@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">内置</string>
     <string name="vpn_preference_group_title">其他</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">维修模式</string>
+    <string name="repair_mode_summary">适合设备维修的安全环境</string>
+    <string name="repair_mode_active_summary">处于维修模式</string>
 </resources>

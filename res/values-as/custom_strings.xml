@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">বিল্ট-ইন</string>
     <string name="vpn_preference_group_title">অন্য</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">মেৰামতিৰ ম’ড</string>
+    <string name="repair_mode_summary">ডিভাইচৰ মেৰামতিৰ বাবে সুৰক্ষিত পৰিৱেশ</string>
+    <string name="repair_mode_active_summary">মেৰামতি ম’ডত</string>
 </resources>

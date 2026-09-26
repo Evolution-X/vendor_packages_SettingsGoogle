@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">Вградено</string>
     <string name="vpn_preference_group_title">Други</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">Режим за ремонт</string>
+    <string name="repair_mode_summary">Сигурна среда за ремонт на устройството</string>
+    <string name="repair_mode_active_summary">В режим за ремонт</string>
 </resources>

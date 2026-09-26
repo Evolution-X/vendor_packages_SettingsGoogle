@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">Bawaan</string>
     <string name="vpn_preference_group_title">Lainnya</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">Mode reparasi</string>
+    <string name="repair_mode_summary">Lingkungan aman untuk reparasi perangkat</string>
+    <string name="repair_mode_active_summary">Dalam mode perbaikan</string>
 </resources>

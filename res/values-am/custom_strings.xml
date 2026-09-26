@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">አብሮገነብ</string>
     <string name="vpn_preference_group_title">ሌሎች</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">የጥገና ሁነታ</string>
+    <string name="repair_mode_summary">ለመሣሪያ ጥገና ደህንነቱ የተጠበቀ አካባቢ</string>
+    <string name="repair_mode_active_summary">በመጠገን ሁነታ ውስጥ</string>
 </resources>

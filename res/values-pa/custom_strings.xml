@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">ਬਿਲਟ-ਇਨ</string>
     <string name="vpn_preference_group_title">ਹੋਰ</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">ਮੁਰੰਮਤ ਮੋਡ</string>
+    <string name="repair_mode_summary">ਡੀਵਾਈਸ ਦੀ ਮੁਰੰਮਤ ਲਈ ਸੁਰੱਖਿਅਤ ਵਾਤਾਵਰਨ</string>
+    <string name="repair_mode_active_summary">ਮੁਰੰਮਤ ਮੋਡ ਵਿੱਚ</string>
 </resources>

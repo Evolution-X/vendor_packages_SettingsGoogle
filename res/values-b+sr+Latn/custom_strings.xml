@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">Ugrađeno</string>
     <string name="vpn_preference_group_title">Drugo</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">Režim za popravku</string>
+    <string name="repair_mode_summary">Bezbedno okruženje za popravku uređaja</string>
+    <string name="repair_mode_active_summary">U režimu za popravku</string>
 </resources>

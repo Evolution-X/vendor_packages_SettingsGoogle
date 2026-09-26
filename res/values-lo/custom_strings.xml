@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">ມີໃນຕົວ</string>
     <string name="vpn_preference_group_title">ອື່ນໆ</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">ໂໝດສ້ອມແປງ</string>
+    <string name="repair_mode_summary">ສະພາບແວດລ້ອມທີ່ປອດໄພສຳລັບການສ້ອມແປງອຸປະກອນ</string>
+    <string name="repair_mode_active_summary">ຢູ່ໃນໂໝດການສ້ອມແປງ</string>
 </resources>

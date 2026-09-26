@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">搭載</string>
     <string name="vpn_preference_group_title">その他</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">修理モード</string>
+    <string name="repair_mode_summary">デバイス修理のための安全な環境</string>
+    <string name="repair_mode_active_summary">修理モード使用中</string>
 </resources>

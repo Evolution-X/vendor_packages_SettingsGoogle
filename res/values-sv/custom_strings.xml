@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">Inbyggt</string>
     <string name="vpn_preference_group_title">Andra</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">Reparationsläge</string>
+    <string name="repair_mode_summary">Säker miljö för enhetsreparation</string>
+    <string name="repair_mode_active_summary">I reparationsläge</string>
 </resources>

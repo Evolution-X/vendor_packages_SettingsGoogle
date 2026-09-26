@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">Imejumuishwa</string>
     <string name="vpn_preference_group_title">Zingine</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">Hali ya kurekebisha</string>
+    <string name="repair_mode_summary">Mazingira salama ya kurekebisha kifaa</string>
+    <string name="repair_mode_active_summary">Katika hali ya kurekebisha</string>
 </resources>

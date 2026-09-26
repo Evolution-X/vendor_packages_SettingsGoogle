@@ -46,4 +46,9 @@
     <!-- Advanced VPN -->
     <string name="advanced_vpn_preference_group_title">Integriert</string>
     <string name="vpn_preference_group_title">Sonstige</string>
+
+    <!-- Repair Mode -->
+    <string name="repair_mode_title">Reparaturmodus</string>
+    <string name="repair_mode_summary">Sichere Umgebung für Gerätereparatur</string>
+    <string name="repair_mode_active_summary">Im Reparaturmodus</string>
 </resources>
