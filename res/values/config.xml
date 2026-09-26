@@ -257,6 +257,9 @@
     <!-- Whether to enable the app battery usage list page feature. -->
     <bool name="config_app_battery_usage_list_enabled">true</bool>
 
+    <!-- Whether to initiate Account login during Private Space setup.-->
+    <bool name="config_privatespace_account_login_enabled">true</bool>
+
     <!-- Certificates of apps which are allowed to use activity embedding with Settings.-->
     <string-array name="config_known_host_certs" translatable="false">
         <item>1975B2F17177BC89A5DFF31F9E64A6CAE281A53DC1D1D59B1D147FE1C82AFA00</item>
