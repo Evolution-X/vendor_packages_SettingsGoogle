@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Дасан зохицох батарейг ашиглах</string>
     <string name="smart_battery_summary_on">Асаалттай</string>
     <string name="smart_battery_summary_off">Унтраалттай</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Программ хангамжийн шинэчлэлт</string>
+    <string name="software_update_banner_checking">Шинэчлэлт байгаа эсэхийг шалгаж байна…</string>
+    <string name="software_update_banner_up_to_date">Таны төхөөрөмж хамгийн шинэ байна</string>
+    <string name="software_update_banner_update_available">Шинэчлэлт хийх боломжтой байна</string>
+    <string name="software_update_can_be_updated_header">Pixel-ээ илүү сайжруулаарай</string>
+    <string name="software_update_up_to_date_header">Таны Pixel хамгийн шинэ байна</string>
+    <string name="software_update_up_to_specific_date_summary">%1$s болгож шинэчилсэн</string>
+    <string name="software_update_pending_update_summary">Шинэчлэлт хүлээгдэж байна</string>
+    <string name="play_application_update_entry_title">Аппын шинэчлэлтүүд</string>
+    <string name="play_application_detail_indication_summary">Шинэчлэлт шалгах</string>
+    <string name="system_update_entry_title">Систем шинэчлэлт</string>
 </resources>

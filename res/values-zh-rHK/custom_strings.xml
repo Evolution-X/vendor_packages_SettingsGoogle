@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">使用「自動調節電池用量」功能</string>
     <string name="smart_battery_summary_on">開啟</string>
     <string name="smart_battery_summary_off">關閉</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">軟件更新</string>
+    <string name="software_update_banner_checking">正在檢查更新…</string>
+    <string name="software_update_banner_up_to_date">你的裝置已是最新版本</string>
+    <string name="software_update_banner_update_available">有可用的更新</string>
+    <string name="software_update_can_be_updated_header">讓 Pixel 更臻完善</string>
+    <string name="software_update_up_to_date_header">Pixel 目前是最新版本</string>
+    <string name="software_update_up_to_specific_date_summary">更新日期：%1$s</string>
+    <string name="software_update_pending_update_summary">待更新</string>
+    <string name="play_application_update_entry_title">應用程式更新</string>
+    <string name="play_application_detail_indication_summary">檢查更新</string>
+    <string name="system_update_entry_title">系統更新</string>
 </resources>

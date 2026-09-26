@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Aangepast batterijgebruik gebruiken</string>
     <string name="smart_battery_summary_on">Aan</string>
     <string name="smart_battery_summary_off">Uit</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Software-updates</string>
+    <string name="software_update_banner_checking">Checken op updates…</string>
+    <string name="software_update_banner_up_to_date">Je apparaat is up-to-date</string>
+    <string name="software_update_banner_update_available">Updates beschikbaar</string>
+    <string name="software_update_can_be_updated_header">Maak je Pixel nog beter</string>
+    <string name="software_update_up_to_date_header">Je Pixel is up-to-date</string>
+    <string name="software_update_up_to_specific_date_summary">Geüpdatet op %1$s</string>
+    <string name="software_update_pending_update_summary">Update in behandeling</string>
+    <string name="play_application_update_entry_title">App-updates</string>
+    <string name="play_application_detail_indication_summary">Zoek naar updates</string>
+    <string name="system_update_entry_title">Systeemupdate</string>
 </resources>

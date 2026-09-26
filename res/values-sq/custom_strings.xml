@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Përdor \"Baterinë me përshtatje\"</string>
     <string name="smart_battery_summary_on">Aktive</string>
     <string name="smart_battery_summary_off">Joaktive</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Përditësimet e softuerit</string>
+    <string name="software_update_banner_checking">Po kontrollon për përditësime…</string>
+    <string name="software_update_banner_up_to_date">Pajisja jote është e përditësuar</string>
+    <string name="software_update_banner_update_available">Ofrohen përditësime</string>
+    <string name="software_update_can_be_updated_header">Bëje pajisjen tënde Pixel akoma më të mirë</string>
+    <string name="software_update_up_to_date_header">Pajisja jote Pixel është e përditësuar</string>
+    <string name="software_update_up_to_specific_date_summary">Përditësuar më %1$s</string>
+    <string name="software_update_pending_update_summary">Në pritje të përditësimit</string>
+    <string name="play_application_update_entry_title">Përditësimet e aplikacioneve</string>
+    <string name="play_application_detail_indication_summary">Kontrollo për përditësime</string>
+    <string name="system_update_entry_title">Përditësimi i sistemit</string>
 </resources>

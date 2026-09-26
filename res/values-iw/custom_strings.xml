@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">שימוש באופטימיזציה של ניצול הסוללה</string>
     <string name="smart_battery_summary_on">מופעל</string>
     <string name="smart_battery_summary_off">מושבת</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">עדכוני תוכנה</string>
+    <string name="software_update_banner_checking">בתהליך חיפוש עדכונים…</string>
+    <string name="software_update_banner_up_to_date">המכשיר שלך מעודכן</string>
+    <string name="software_update_banner_update_available">יש עדכונים</string>
+    <string name="software_update_can_be_updated_header">‏רוצה לשפר את Pixel אפילו יותר?</string>
+    <string name="software_update_up_to_date_header">‏מכשיר ה-Pixel שלך מעודכן</string>
+    <string name="software_update_up_to_specific_date_summary">עודכן לתאריך %1$s</string>
+    <string name="software_update_pending_update_summary">עדכון בהמתנה</string>
+    <string name="play_application_update_entry_title">עדכונים לאפליקציות</string>
+    <string name="play_application_detail_indication_summary">חיפוש עדכונים</string>
+    <string name="system_update_entry_title">עדכון מערכת</string>
 </resources>

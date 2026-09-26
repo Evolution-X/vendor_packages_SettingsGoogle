@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res-auto"
+    android:title="@string/software_update_entry_title"
+    android:key="software_update_screen">
+    <com.android.settingslib.widget.StatusBannerPreference
+        android:title="@string/software_update_banner_checking"
+        android:key="key_status_banner"
+        settings:iconLevel="loading_indeterminate"/>
+    <com.android.settingslib.widget.UntitledPreferenceCategory>
+        <Preference
+            android:icon="@drawable/settingslib_expressive_icon_level_normal"
+            android:title="@string/system_update_entry_title"
+            android:key="key_system_update_preference"
+            android:summary="@string/summary_placeholder"
+            settings:controller="com.google.android.settings.update.SystemUpdatePreferenceController">
+            <intent android:action="android.settings.SYSTEM_UPDATE_SETTINGS"/>
+        </Preference>
+        <Preference
+            android:icon="@drawable/software_update_play_prism"
+            android:title="@string/module_version"
+            android:key="key_play_system_update_preference"
+            android:summary="@string/summary_placeholder"
+            settings:controller="com.android.settings.deviceinfo.firmwareversion.MainlineModuleVersionPreferenceController"/>
+        <Preference
+            android:icon="@drawable/software_update_apps"
+            android:title="@string/play_application_update_entry_title"
+            android:key="app_updates"
+            android:summary="@string/play_application_detail_indication_summary">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://play.google.com/apps"/>
+        </Preference>
+    </com.android.settingslib.widget.UntitledPreferenceCategory>
+</PreferenceScreen>

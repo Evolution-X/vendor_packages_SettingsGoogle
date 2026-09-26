@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Χρήση της λειτουργίας Προσαρμοστική μπαταρία</string>
     <string name="smart_battery_summary_on">Ενεργό</string>
     <string name="smart_battery_summary_off">Ανενεργό</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Ενημερώσεις λογισμικού</string>
+    <string name="software_update_banner_checking">Έλεγχος για ενημερώσεις…</string>
+    <string name="software_update_banner_up_to_date">Η συσκευή σας είναι ενημερωμένη</string>
+    <string name="software_update_banner_update_available">Διαθέσιμες ενημερώσεις</string>
+    <string name="software_update_can_be_updated_header">Κάντε το Pixel ακόμα καλύτερο</string>
+    <string name="software_update_up_to_date_header">Το Pixel είναι ενημερωμένο</string>
+    <string name="software_update_up_to_specific_date_summary">Ενημερώθηκε %1$s</string>
+    <string name="software_update_pending_update_summary">Ενημέρωση σε εκκρεμότητα</string>
+    <string name="play_application_update_entry_title">Ενημερώσεις εφαρμογών</string>
+    <string name="play_application_detail_indication_summary">Έλεγχος για ενημερώσεις</string>
+    <string name="system_update_entry_title">Ενημέρωση συστήματος</string>
 </resources>

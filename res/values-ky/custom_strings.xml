@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Adaptive Battery функциясын иштетүү</string>
     <string name="smart_battery_summary_on">Күйүк</string>
     <string name="smart_battery_summary_off">Өчүк</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Программаны жаңыртуу</string>
+    <string name="software_update_banner_checking">Жаңыртуулар изделүүдө…</string>
+    <string name="software_update_banner_up_to_date">Түзмөгүңүз жаңырды</string>
+    <string name="software_update_banner_update_available">Жаңыртуулар бар</string>
+    <string name="software_update_can_be_updated_header">Pixel түзмөгүңүздү жакшыртыңыз</string>
+    <string name="software_update_up_to_date_header">Pixel түзмөгүңүз жаңырды</string>
+    <string name="software_update_up_to_specific_date_summary">%1$s жаңырды</string>
+    <string name="software_update_pending_update_summary">Жаңыртуу күтүлүүдө</string>
+    <string name="play_application_update_entry_title">Колдонмонун жаңыртуулары</string>
+    <string name="play_application_detail_indication_summary">Жаңыртууларды карап көрүү</string>
+    <string name="system_update_entry_title">Системаны жаңыртуу</string>
 </resources>

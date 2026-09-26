@@ -10,7 +10,10 @@ android_library {
         "res",
         "res-product",
     ],
-    static_libs: ["Settings-core"],
+    static_libs: [
+        "Settings-core",
+        "androidx.compose.runtime_runtime",
+    ],
     manifest: "AndroidManifest-res.xml",
 }
 

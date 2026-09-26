@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">ใช้แบตเตอรี่แบบปรับอัตโนมัติ</string>
     <string name="smart_battery_summary_on">เปิด</string>
     <string name="smart_battery_summary_off">ปิด</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">การอัปเดตซอฟต์แวร์</string>
+    <string name="software_update_banner_checking">กำลังตรวจหาอัปเดต…</string>
+    <string name="software_update_banner_up_to_date">อุปกรณ์ของคุณเป็นเวอร์ชันล่าสุดแล้ว</string>
+    <string name="software_update_banner_update_available">มีการอัปเดต</string>
+    <string name="software_update_can_be_updated_header">ทำให้ Pixel มีประสิทธิภาพดียิ่งขึ้น</string>
+    <string name="software_update_up_to_date_header">Pixel ของคุณเป็นเวอร์ชันล่าสุด</string>
+    <string name="software_update_up_to_specific_date_summary">อัปเดตถึงวันที่ %1$s</string>
+    <string name="software_update_pending_update_summary">กำลังรอดำเนินการอัปเดต</string>
+    <string name="play_application_update_entry_title">การอัปเดตแอป</string>
+    <string name="play_application_detail_indication_summary">ตรวจหาการอัปเดต</string>
+    <string name="system_update_entry_title">การอัปเดตระบบ</string>
 </resources>

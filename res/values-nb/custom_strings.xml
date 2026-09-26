@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Bruk tilpasset batteri</string>
     <string name="smart_battery_summary_on">På</string>
     <string name="smart_battery_summary_off">Av</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Programvareoppdateringer</string>
+    <string name="software_update_banner_checking">Ser etter oppdateringer …</string>
+    <string name="software_update_banner_up_to_date">Enheten er oppdatert</string>
+    <string name="software_update_banner_update_available">Tilgjengelige oppdateringer</string>
+    <string name="software_update_can_be_updated_header">Få enda mer ut av Pixel-telefonen</string>
+    <string name="software_update_up_to_date_header">Pixel-telefonen er oppdatert</string>
+    <string name="software_update_up_to_specific_date_summary">Oppdatert %1$s</string>
+    <string name="software_update_pending_update_summary">Ventende oppdatering</string>
+    <string name="play_application_update_entry_title">Appoppdateringer</string>
+    <string name="play_application_detail_indication_summary">Se etter oppdateringer</string>
+    <string name="system_update_entry_title">Systemoppdatering</string>
 </resources>

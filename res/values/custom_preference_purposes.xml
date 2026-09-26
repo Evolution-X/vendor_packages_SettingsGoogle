@@ -21,4 +21,7 @@
     <string name="adaptive_battery_top_intro_purpose" translatable="false">adaptive_battery_top_intro</string>
     <string name="adaptive_battery_illustration_purpose" translatable="false">adaptive_battery_illustration</string>
     <string name="adaptive_battery_management_enabled_purpose" translatable="false">Whether Adaptive Battery is enabled to optimize battery usage based on app usage patterns.</string>
+
+    <!-- Software Update -->
+    <string name="software_update_settings_v2_purpose" translatable="false">Provides a centralized dashboard for users to monitor and initiate updates across the operating system, Google Play system components, and installed applications to ensure device security and performance.</string>
 </resources>

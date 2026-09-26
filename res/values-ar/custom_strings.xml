@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">استخدام ميزة \"البطارية التكيُّفية\"</string>
     <string name="smart_battery_summary_on">مفعّلة</string>
     <string name="smart_battery_summary_off">غير مفعَّلة</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">تحديثات البرامج</string>
+    <string name="software_update_banner_checking">جارٍ البحث عن تحديثات…</string>
+    <string name="software_update_banner_up_to_date">جهازك مُحدَّث</string>
+    <string name="software_update_banner_update_available">تتوفّر تحديثات</string>
+    <string name="software_update_can_be_updated_header">‏تحسين أداء جهاز Pixel</string>
+    <string name="software_update_up_to_date_header">‏هاتف Pixel مُحدّث</string>
+    <string name="software_update_up_to_specific_date_summary">‏تم تحديثه في ‎%1$s</string>
+    <string name="software_update_pending_update_summary">في انتظار التحديث</string>
+    <string name="play_application_update_entry_title">تحديثات التطبيقات</string>
+    <string name="play_application_detail_indication_summary">البحث عن تحديثات</string>
+    <string name="system_update_entry_title">تحديث النظام</string>
 </resources>

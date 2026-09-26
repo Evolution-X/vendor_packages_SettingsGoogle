@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">배터리 자동 조절 사용</string>
     <string name="smart_battery_summary_on">사용</string>
     <string name="smart_battery_summary_off">사용 안함</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">소프트웨어 업데이트</string>
+    <string name="software_update_banner_checking">업데이트 확인 중…</string>
+    <string name="software_update_banner_up_to_date">기기가 최신 상태입니다</string>
+    <string name="software_update_banner_update_available">업데이트가 있습니다.</string>
+    <string name="software_update_can_be_updated_header">Pixel 더 효과적으로 사용하기</string>
+    <string name="software_update_up_to_date_header">Pixel이 최신 상태임</string>
+    <string name="software_update_up_to_specific_date_summary">%1$s 업데이트되었습니다</string>
+    <string name="software_update_pending_update_summary">업데이트 대기 중</string>
+    <string name="play_application_update_entry_title">앱 업데이트</string>
+    <string name="play_application_detail_indication_summary">업데이트 확인</string>
+    <string name="system_update_entry_title">시스템 업데이트</string>
 </resources>

@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">ተለማማጅ ባትሪን ይጠቀሙ</string>
     <string name="smart_battery_summary_on">በርቷል</string>
     <string name="smart_battery_summary_off">ጠፍቷል</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">የሶፍትዌር ዝማኔዎች</string>
+    <string name="software_update_banner_checking">ዝማኔዎችን በመፈለግ ላይ…</string>
+    <string name="software_update_banner_up_to_date">የእርስዎ መሣሪያ የተዘመነ ነው</string>
+    <string name="software_update_banner_update_available">ዝማኔዎች አሉ</string>
+    <string name="software_update_can_be_updated_header">የእርስዎን Pixel ይበልጥ የተሻለ ያድርጉ</string>
+    <string name="software_update_up_to_date_header">የእርስዎ Pixel ወቅታዊ ነው</string>
+    <string name="software_update_up_to_specific_date_summary">ወደ %1$s ተዘምኗል</string>
+    <string name="software_update_pending_update_summary">በመጠባበቅ ላይ ያለ ዝማኔ</string>
+    <string name="play_application_update_entry_title">የመተግበሪያ ዝማኔዎች</string>
+    <string name="play_application_detail_indication_summary">ዝማኔዎች ካሉ ይፈትሹ</string>
+    <string name="system_update_entry_title">የሥርዓት ዝማኔ</string>
 </resources>

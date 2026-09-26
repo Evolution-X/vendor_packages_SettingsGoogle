@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Gamitin ang Adaptive Battery</string>
     <string name="smart_battery_summary_on">Naka-on</string>
     <string name="smart_battery_summary_off">Naka-off</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Mga update sa software</string>
+    <string name="software_update_banner_checking">Tinitingnan kung may mga update…</string>
+    <string name="software_update_banner_up_to_date">Up to date ang iyong device</string>
+    <string name="software_update_banner_update_available">May mga available na update</string>
+    <string name="software_update_can_be_updated_header">Gawing mas mahusay pa ang iyong Pixel</string>
+    <string name="software_update_up_to_date_header">Up to date ang iyong Pixel</string>
+    <string name="software_update_up_to_specific_date_summary">Na-update sa %1$s</string>
+    <string name="software_update_pending_update_summary">Nakabinbing pag-update</string>
+    <string name="play_application_update_entry_title">Mga update sa app</string>
+    <string name="play_application_detail_indication_summary">Tingnan kung may mga update</string>
+    <string name="system_update_entry_title">Update sa system</string>
 </resources>

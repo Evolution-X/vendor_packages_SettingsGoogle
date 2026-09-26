@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Адаптивное энергопотребление</string>
     <string name="smart_battery_summary_on">Включено</string>
     <string name="smart_battery_summary_off">Отключено</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Обновления ПО</string>
+    <string name="software_update_banner_checking">Поиск обновлений…</string>
+    <string name="software_update_banner_up_to_date">На устройстве установлена последняя версия ПО</string>
+    <string name="software_update_banner_update_available">Доступны обновления</string>
+    <string name="software_update_can_be_updated_header">Сделайте Pixel ещё лучше</string>
+    <string name="software_update_up_to_date_header">Установлена последняя версия ПО</string>
+    <string name="software_update_up_to_specific_date_summary">Последнее обновление: %1$s</string>
+    <string name="software_update_pending_update_summary">Ожидание обновления</string>
+    <string name="play_application_update_entry_title">Обновления приложений</string>
+    <string name="play_application_detail_indication_summary">Проверить наличие обновлений</string>
+    <string name="system_update_entry_title">Обновление системы</string>
 </resources>

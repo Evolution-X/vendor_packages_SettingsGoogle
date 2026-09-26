@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Włącz baterię adaptacyjną</string>
     <string name="smart_battery_summary_on">Wł.</string>
     <string name="smart_battery_summary_off">Wył.</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Aktualizacje oprogramowania</string>
+    <string name="software_update_banner_checking">Sprawdzam dostępność aktualizacji…</string>
+    <string name="software_update_banner_up_to_date">Urządzenie ma aktualną wersję oprogramowania</string>
+    <string name="software_update_banner_update_available">Dostępne są aktualizacje</string>
+    <string name="software_update_can_be_updated_header">Ulepsz Pixela</string>
+    <string name="software_update_up_to_date_header">Pixel jest aktualny</string>
+    <string name="software_update_up_to_specific_date_summary">Zaktualizowano %1$s</string>
+    <string name="software_update_pending_update_summary">Czeka na aktualizację</string>
+    <string name="play_application_update_entry_title">Aktualizacje aplikacji</string>
+    <string name="play_application_detail_indication_summary">Sprawdź dostępność aktualizacji</string>
+    <string name="system_update_entry_title">Aktualizacja systemu</string>
 </resources>

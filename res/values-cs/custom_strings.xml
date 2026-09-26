@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Používat adaptivní baterii</string>
     <string name="smart_battery_summary_on">Zapnuto</string>
     <string name="smart_battery_summary_off">Vypnuto</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Aktualizace softwaru</string>
+    <string name="software_update_banner_checking">Kontrola dostupnosti aktualizací…</string>
+    <string name="software_update_banner_up_to_date">Zařízení je aktualizováno</string>
+    <string name="software_update_banner_update_available">Jsou k dispozici aktualizace</string>
+    <string name="software_update_can_be_updated_header">Váš Pixel bude ještě lepší</string>
+    <string name="software_update_up_to_date_header">Telefon Pixel je aktuální</string>
+    <string name="software_update_up_to_specific_date_summary">Aktualizováno %1$s</string>
+    <string name="software_update_pending_update_summary">Čeká na aktualizaci</string>
+    <string name="play_application_update_entry_title">Aktualizace aplikací</string>
+    <string name="play_application_detail_indication_summary">Kontrola dostupnosti aktualizací</string>
+    <string name="system_update_entry_title">Aktualizace systému</string>
 </resources>

@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Gunakan Bateri Boleh Suai</string>
     <string name="smart_battery_summary_on">Hidup</string>
     <string name="smart_battery_summary_off">Mati</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Kemaskinian perisian</string>
+    <string name="software_update_banner_checking">Menyemak kemaskinian…</string>
+    <string name="software_update_banner_up_to_date">Peranti anda telah dikemaskinikan</string>
+    <string name="software_update_banner_update_available">Kemaskinian tersedia</string>
+    <string name="software_update_can_be_updated_header">Kemas kinikan Pixel anda</string>
+    <string name="software_update_up_to_date_header">Pixel anda telah dikemaskinikan</string>
+    <string name="software_update_up_to_specific_date_summary">Dikemaskinikan pada %1$s</string>
+    <string name="software_update_pending_update_summary">Kemaskinian belum selesai</string>
+    <string name="play_application_update_entry_title">Kemaskinian apl</string>
+    <string name="play_application_detail_indication_summary">Semak kemaskinian</string>
+    <string name="system_update_entry_title">Kemaskinian sistem</string>
 </resources>

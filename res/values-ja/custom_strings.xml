@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">自動調整バッテリーを使用</string>
     <string name="smart_battery_summary_on">ON</string>
     <string name="smart_battery_summary_off">OFF</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">ソフトウェア アップデート</string>
+    <string name="software_update_banner_checking">アップデートを確認中…</string>
+    <string name="software_update_banner_up_to_date">お使いのデバイスは最新の状態です</string>
+    <string name="software_update_banner_update_available">アップデート利用可能</string>
+    <string name="software_update_can_be_updated_header">Google Pixel がさらに便利に</string>
+    <string name="software_update_up_to_date_header">お使いの Google Pixel は最新の状態です</string>
+    <string name="software_update_up_to_specific_date_summary">%1$sに更新しました</string>
+    <string name="software_update_pending_update_summary">保留中の更新があります</string>
+    <string name="play_application_update_entry_title">アプリ アップデート</string>
+    <string name="play_application_detail_indication_summary">更新を確認しましょう</string>
+    <string name="system_update_entry_title">システム アップデート</string>
 </resources>

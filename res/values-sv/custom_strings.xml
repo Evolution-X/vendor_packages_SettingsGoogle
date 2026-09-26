@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Använd Smart batteri</string>
     <string name="smart_battery_summary_on">På</string>
     <string name="smart_battery_summary_off">Av</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Programuppdateringar</string>
+    <string name="software_update_banner_checking">Kollar efter uppdateringar …</string>
+    <string name="software_update_banner_up_to_date">Enheten är uppdaterad</string>
+    <string name="software_update_banner_update_available">Uppdateringar är tillgängliga</string>
+    <string name="software_update_can_be_updated_header">Gör din Pixel ännu bättre</string>
+    <string name="software_update_up_to_date_header">Din Pixel är uppdaterad</string>
+    <string name="software_update_up_to_specific_date_summary">Uppdaterades %1$s</string>
+    <string name="software_update_pending_update_summary">Väntande uppdatering</string>
+    <string name="play_application_update_entry_title">Appuppdateringar</string>
+    <string name="play_application_detail_indication_summary">Sök efter uppdateringar</string>
+    <string name="system_update_entry_title">Systemuppdatering</string>
 </resources>

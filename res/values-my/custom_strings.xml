@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">‘အလိုက်အထိုက် ဘက်ထရီအားထိန်း’ သုံးရန်</string>
     <string name="smart_battery_summary_on">ဖွင့်</string>
     <string name="smart_battery_summary_off">ပိတ်</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">ဆော့ဖ်ဝဲအပ်ဒိတ်များ</string>
+    <string name="software_update_banner_checking">အပ်ဒိတ်များကို စစ်ဆေးနေသည်…</string>
+    <string name="software_update_banner_up_to_date">သင့်စက် အပ်ဒိတ်ဖြစ်ပါသည်</string>
+    <string name="software_update_banner_update_available">အပ်ဒိတ်များ ရနိုင်ပါပြီ</string>
+    <string name="software_update_can_be_updated_header">သင့် Pixel ပိုကောင်းအောင်လုပ်ခြင်း</string>
+    <string name="software_update_up_to_date_header">သင့် Pixel အပ်ဒိတ်ဖြစ်ပါသည်</string>
+    <string name="software_update_up_to_specific_date_summary">%1$s တွင် အပ်ဒိတ်လုပ်လိုက်သည်</string>
+    <string name="software_update_pending_update_summary">အပ်ဒိတ်လုပ်နေဆဲ</string>
+    <string name="play_application_update_entry_title">အက်ပ်အပ်ဒိတ်များ</string>
+    <string name="play_application_detail_indication_summary">အပ်ဒိတ်ရှာရန်</string>
+    <string name="system_update_entry_title">စနစ်အပ်ဒိတ်</string>
 </resources>

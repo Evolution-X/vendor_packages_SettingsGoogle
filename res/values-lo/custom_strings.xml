@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">ໃຊ້ແບັດເຕີຣີແບບປັບຕົວໄດ້</string>
     <string name="smart_battery_summary_on">ເປີດ</string>
     <string name="smart_battery_summary_off">ປິດ</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">ການອັບເດດຊອບແວ</string>
+    <string name="software_update_banner_checking">ກຳລັງກວດຫາການອັບເດດ…</string>
+    <string name="software_update_banner_up_to_date">ອຸປະກອນຂອງທ່ານອັບເດດຫຼ້າສຸດແລ້ວ</string>
+    <string name="software_update_banner_update_available">ມີອັບເດດມາໃໝ່</string>
+    <string name="software_update_can_be_updated_header">ເຮັດໃຫ້ Pixel ຂອງທ່ານມີປະສິດທິພາບດີຍິ່ງຂຶ້ນ</string>
+    <string name="software_update_up_to_date_header">Pixel ຂອງທ່ານອັບເດດແລ້ວ</string>
+    <string name="software_update_up_to_specific_date_summary">ອັບເດດເມື່ອ %1$s</string>
+    <string name="software_update_pending_update_summary">ກຳລັງລໍຖ້າການອັບເດດ</string>
+    <string name="play_application_update_entry_title">ອັບເດດແອັບ</string>
+    <string name="play_application_detail_indication_summary">ກວດເບິ່ງການອັບເດດ</string>
+    <string name="system_update_entry_title">ການອັບເດດລະບົບ</string>
 </resources>

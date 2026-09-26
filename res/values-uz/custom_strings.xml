@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Adaptive Battery ishlatish</string>
     <string name="smart_battery_summary_on">Yoniq</string>
     <string name="smart_battery_summary_off">Yoqilmagan</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Dasturiy yangilanishlar</string>
+    <string name="software_update_banner_checking">Yangilanish borligi tekshirilmoqda…</string>
+    <string name="software_update_banner_up_to_date">Qurilmangiz dasturi yangilandi</string>
+    <string name="software_update_banner_update_available">Yangilanish chiqqanda</string>
+    <string name="software_update_can_be_updated_header">Pixel qurilmangizni yanada yaxshilang</string>
+    <string name="software_update_up_to_date_header">Pixel qurilmangiz yangilandi</string>
+    <string name="software_update_up_to_specific_date_summary">Yangilandi: %1$s</string>
+    <string name="software_update_pending_update_summary">Yangilanish kutilmoqda</string>
+    <string name="play_application_update_entry_title">Ilova yangilanishlari</string>
+    <string name="play_application_detail_indication_summary">Yangilanish mavjudligini tekshiring</string>
+    <string name="system_update_entry_title">Tizim yangilanishi</string>
 </resources>

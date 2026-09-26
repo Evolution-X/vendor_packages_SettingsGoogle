@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Izmantot funkciju Adaptīvais akumulators</string>
     <string name="smart_battery_summary_on">Ieslēgts</string>
     <string name="smart_battery_summary_off">Izslēgts</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Programmatūras atjauninājumi</string>
+    <string name="software_update_banner_checking">Notiek atjauninājumu pārbaude…</string>
+    <string name="software_update_banner_up_to_date">Jūsu ierīce ir atjaunināta</string>
+    <string name="software_update_banner_update_available">Ir pieejami atjauninājumi</string>
+    <string name="software_update_can_be_updated_header">Padariet savu Pixel ierīci vēl labāku</string>
+    <string name="software_update_up_to_date_header">Pixel ierīce ir atjaunināta</string>
+    <string name="software_update_up_to_specific_date_summary">Atjaunināta šādā datumā: %1$s.</string>
+    <string name="software_update_pending_update_summary">Neapstiprināts atjauninājums</string>
+    <string name="play_application_update_entry_title">Lietotņu atjauninājumi</string>
+    <string name="play_application_detail_indication_summary">Pārbaudiet, vai ir pieejami atjauninājumi.</string>
+    <string name="system_update_entry_title">Sistēmas atjauninājums</string>
 </resources>

@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Uyarlanabilir Pil\'i kullan</string>
     <string name="smart_battery_summary_on">Açık</string>
     <string name="smart_battery_summary_off">Kapalı</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Yazılım güncellemeleri</string>
+    <string name="software_update_banner_checking">Güncellemeler denetleniyor…</string>
+    <string name="software_update_banner_up_to_date">Cihazınız güncel</string>
+    <string name="software_update_banner_update_available">Güncellemeler var</string>
+    <string name="software_update_can_be_updated_header">Pixel\'inizi daha da iyi hale getirin</string>
+    <string name="software_update_up_to_date_header">Pixel\'iniz güncel durumda</string>
+    <string name="software_update_up_to_specific_date_summary">%1$s olarak güncellendi</string>
+    <string name="software_update_pending_update_summary">Güncelleme bekleniyor</string>
+    <string name="play_application_update_entry_title">Uygulama güncellemeleri</string>
+    <string name="play_application_detail_indication_summary">Güncellemeleri denetleyin</string>
+    <string name="system_update_entry_title">Sistem güncellemesi</string>
 </resources>

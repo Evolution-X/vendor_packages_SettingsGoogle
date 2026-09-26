@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Funktion „Intelligenter Akku“ verwenden</string>
     <string name="smart_battery_summary_on">An</string>
     <string name="smart_battery_summary_off">Aus</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Softwareupdates</string>
+    <string name="software_update_banner_checking">Suche nach Updates…</string>
+    <string name="software_update_banner_up_to_date">Dein Gerät ist auf dem neuesten Stand</string>
+    <string name="software_update_banner_update_available">Updates verfügbar</string>
+    <string name="software_update_can_be_updated_header">Neue und verbesserte Funktionen für dein Pixel</string>
+    <string name="software_update_up_to_date_header">Dein Pixel ist auf dem neuesten Stand</string>
+    <string name="software_update_up_to_specific_date_summary">Aktualisiert auf %1$s</string>
+    <string name="software_update_pending_update_summary">Aktualisierung ausstehend</string>
+    <string name="play_application_update_entry_title">App-Updates</string>
+    <string name="play_application_detail_indication_summary">Nach Updates suchen</string>
+    <string name="system_update_entry_title">Systemupdate</string>
 </resources>

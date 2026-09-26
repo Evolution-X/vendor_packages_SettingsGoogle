@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Користи „Адаптивна батерија“</string>
     <string name="smart_battery_summary_on">Вклучено</string>
     <string name="smart_battery_summary_off">Исклучено</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Софтверски ажурирања</string>
+    <string name="software_update_banner_checking">Се проверува дали има ажурирања…</string>
+    <string name="software_update_banner_up_to_date">Вашиот уред е ажуриран</string>
+    <string name="software_update_banner_update_available">Достапни се ажурирања</string>
+    <string name="software_update_can_be_updated_header">Направете го Pixel уште подобар</string>
+    <string name="software_update_up_to_date_header">Вашиот Pixel е ажуриран</string>
+    <string name="software_update_up_to_specific_date_summary">Ажурирано на %1$s</string>
+    <string name="software_update_pending_update_summary">Ажурирање во фаза на чекање</string>
+    <string name="play_application_update_entry_title">Ажурирања за апликации</string>
+    <string name="play_application_detail_indication_summary">Проверете дали има ажурирања</string>
+    <string name="system_update_entry_title">Системско ажурирање</string>
 </resources>

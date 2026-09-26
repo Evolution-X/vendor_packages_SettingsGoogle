@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Gunakan Baterai Adaptif</string>
     <string name="smart_battery_summary_on">Aktif</string>
     <string name="smart_battery_summary_off">Nonaktif</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Update software</string>
+    <string name="software_update_banner_checking">Memeriksa update…</string>
+    <string name="software_update_banner_up_to_date">Perangkat Anda sudah menjalankan versi terbaru</string>
+    <string name="software_update_banner_update_available">Update tersedia</string>
+    <string name="software_update_can_be_updated_header">Buat Pixel jadi lebih baik</string>
+    <string name="software_update_up_to_date_header">Software Pixel Anda sudah yang terbaru</string>
+    <string name="software_update_up_to_specific_date_summary">Diupdate %1$s</string>
+    <string name="software_update_pending_update_summary">Update tertunda</string>
+    <string name="play_application_update_entry_title">Update aplikasi</string>
+    <string name="play_application_detail_indication_summary">Periksa update</string>
+    <string name="system_update_entry_title">Update sistem</string>
 </resources>

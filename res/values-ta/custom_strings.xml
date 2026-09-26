@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">அடாப்டிவ் பேட்டரியைப் பயன்படுத்துதல்</string>
     <string name="smart_battery_summary_on">ஆன்</string>
     <string name="smart_battery_summary_off">ஆஃப்</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">மென்பொருள் புதுப்பிப்புகள்</string>
+    <string name="software_update_banner_checking">புதுப்பிப்புகளைத் தேடுகிறது…</string>
+    <string name="software_update_banner_up_to_date">உங்கள் சாதனம் சமீபத்தியதாக உள்ளது</string>
+    <string name="software_update_banner_update_available">புதுப்பிப்புகள் உள்ளன</string>
+    <string name="software_update_can_be_updated_header">உங்கள் Pixelலை மேலும் சிறப்பாக்குங்கள்</string>
+    <string name="software_update_up_to_date_header">உங்கள் Pixel புதுப்பிக்கப்பட்டுள்ளது</string>
+    <string name="software_update_up_to_specific_date_summary">%1$s அன்று புதுப்பிக்கப்பட்டது</string>
+    <string name="software_update_pending_update_summary">மீதமுள்ள புதுப்பிப்பு</string>
+    <string name="play_application_update_entry_title">ஆப்ஸ் புதுப்பிப்புகள்</string>
+    <string name="play_application_detail_indication_summary">புதுப்பிப்புகள் உள்ளனவா என்று பாருங்கள்</string>
+    <string name="system_update_entry_title">சிஸ்டம் புதுப்பிப்பு</string>
 </resources>

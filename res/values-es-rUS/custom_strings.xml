@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Usar Batería adaptable</string>
     <string name="smart_battery_summary_on">Activada</string>
     <string name="smart_battery_summary_off">Desactivada</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Actualizaciones de software</string>
+    <string name="software_update_banner_checking">Buscando actualizaciones…</string>
+    <string name="software_update_banner_up_to_date">El dispositivo está actualizado</string>
+    <string name="software_update_banner_update_available">Actualizaciones disponibles</string>
+    <string name="software_update_can_be_updated_header">Mejora tu Pixel aún más</string>
+    <string name="software_update_up_to_date_header">Tu Pixel está actualizado</string>
+    <string name="software_update_up_to_specific_date_summary">Actualización: %1$s</string>
+    <string name="software_update_pending_update_summary">Actualización pendiente</string>
+    <string name="play_application_update_entry_title">Actualizaciones de apps</string>
+    <string name="play_application_detail_indication_summary">Comprueba si hay actualizaciones</string>
+    <string name="system_update_entry_title">Actualización del sistema</string>
 </resources>

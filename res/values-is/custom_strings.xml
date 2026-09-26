@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Nota breytilega rafhlöðustjórnun</string>
     <string name="smart_battery_summary_on">Kveikt</string>
     <string name="smart_battery_summary_off">Slökkt</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Hugbúnaðaruppfærslur</string>
+    <string name="software_update_banner_checking">Leitar að uppfærslum …</string>
+    <string name="software_update_banner_up_to_date">Tækið er uppfært</string>
+    <string name="software_update_banner_update_available">Uppfærslur í boði</string>
+    <string name="software_update_can_be_updated_header">Gerðu Pixel-tækið enn betra</string>
+    <string name="software_update_up_to_date_header">Pixel-tækið þitt er uppfært</string>
+    <string name="software_update_up_to_specific_date_summary">Uppfært %1$s</string>
+    <string name="software_update_pending_update_summary">Bíður uppfærslu</string>
+    <string name="play_application_update_entry_title">Forritauppfærslur</string>
+    <string name="play_application_detail_indication_summary">Leita að uppfærslum</string>
+    <string name="system_update_entry_title">Kerfisuppfærsla</string>
 </resources>

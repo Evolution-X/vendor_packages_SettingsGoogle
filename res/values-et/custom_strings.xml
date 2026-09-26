@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Kasuta kohanduvat akuhaldurit</string>
     <string name="smart_battery_summary_on">Sees</string>
     <string name="smart_battery_summary_off">Väljas</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Tarkvaravärskendused</string>
+    <string name="software_update_banner_checking">Värskenduste otsimine …</string>
+    <string name="software_update_banner_up_to_date">Teie seade on ajakohane</string>
+    <string name="software_update_banner_update_available">Värskendused on saadaval</string>
+    <string name="software_update_can_be_updated_header">Muutke oma Pixel veelgi paremaks</string>
+    <string name="software_update_up_to_date_header">Teie Pixel on ajakohane</string>
+    <string name="software_update_up_to_specific_date_summary">Värskendati: %1$s</string>
+    <string name="software_update_pending_update_summary">Ootelolev värskendus</string>
+    <string name="play_application_update_entry_title">Rakenduste värskendused</string>
+    <string name="play_application_detail_indication_summary">Kontrollige värskendusi</string>
+    <string name="system_update_entry_title">Süsteemivärskendus</string>
 </resources>

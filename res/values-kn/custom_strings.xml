@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">ಅಡಾಪ್ಟಿವ್ ಬ್ಯಾಟರಿಯನ್ನು ಬಳಸಿ</string>
     <string name="smart_battery_summary_on">ಆನ್‌ ಆಗಿದೆ</string>
     <string name="smart_battery_summary_off">ಆಫ್‌ ಆಗಿದೆ</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">ಸಾಫ್ಟ್‌ವೇರ್ ಅಪ್‌ಡೇಟ್‌ಗಳು</string>
+    <string name="software_update_banner_checking">ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="software_update_banner_up_to_date">ನಿಮ್ಮ ಸಾಧನವು ಅಪ್‌ ಟು ಡೇಟ್‌ ಆಗಿದೆ</string>
+    <string name="software_update_banner_update_available">ಅಪ್‌ಡೇಟ್‌ಗಳು ಲಭ್ಯವಿವೆ</string>
+    <string name="software_update_can_be_updated_header">ನಿಮ್ಮ Pixel ಅನ್ನು ಇನ್ನಷ್ಟು ಉತ್ತಮಗೊಳಿಸಿ</string>
+    <string name="software_update_up_to_date_header">ನಿಮ್ಮ Pixel ಅಪ್ ಟು ಡೇಟ್ ಆಗಿದೆ</string>
+    <string name="software_update_up_to_specific_date_summary">%1$s ಕ್ಕೆ ಅಪ್‌ಡೇಟ್‌ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="software_update_pending_update_summary">ಅಪ್‌ಡೇಟ್ ಪೆಂಡಿಂಗ್ ಇದೆ</string>
+    <string name="play_application_update_entry_title">ಆ್ಯಪ್ ಅಪ್‌ಡೇಟ್‌ಗಳು</string>
+    <string name="play_application_detail_indication_summary">ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಪರಿಶೀಲಿಸಿ</string>
+    <string name="system_update_entry_title">ಸಿಸ್ಟಂ ಅಪ್‌ಡೇಟ್</string>
 </resources>

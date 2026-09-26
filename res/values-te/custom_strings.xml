@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">అనుకూల బ్యాటరీని ఉపయోగించండి</string>
     <string name="smart_battery_summary_on">ఆన్‌లో ఉంది</string>
     <string name="smart_battery_summary_off">ఆఫ్‌లో ఉంది</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">సాఫ్ట్‌వేర్ అప్‌డేట్‌లు</string>
+    <string name="software_update_banner_checking">అప్‌డేట్‌ల కోసం చెక్ చేస్తోంది…</string>
+    <string name="software_update_banner_up_to_date">మీ డివైజ్ అప్‌డేట్ అయ్యి ఉంది</string>
+    <string name="software_update_banner_update_available">అప్‌డేట్‌లు అందుబాటులో ఉన్నాయి</string>
+    <string name="software_update_can_be_updated_header">మీ Pixelను మరింత మెరుగుపరచండి</string>
+    <string name="software_update_up_to_date_header">మీ Pixel అప్‌డేట్ అయ్యి ఉంది</string>
+    <string name="software_update_up_to_specific_date_summary">%1$s తేదీన అప్‌డేట్ చేయబడింది</string>
+    <string name="software_update_pending_update_summary">పెండింగ్‌లో ఉన్న అప్‌డేట్</string>
+    <string name="play_application_update_entry_title">యాప్ అప్‌డేట్‌లు</string>
+    <string name="play_application_detail_indication_summary">అప్‌డేట్‌ల కోసం చెక్ చేయండి</string>
+    <string name="system_update_entry_title">సిస్టమ్ అప్‌డేట్</string>
 </resources>

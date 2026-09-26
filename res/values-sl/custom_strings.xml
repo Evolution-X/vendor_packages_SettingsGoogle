@@ -26,4 +26,17 @@
     <string name="adaptive_battery_switch_title">Uporabi prilagodljivo varčevanje z energijo baterije</string>
     <string name="smart_battery_summary_on">Vklopljeno</string>
     <string name="smart_battery_summary_off">Izklopljeno</string>
+
+    <!-- Software Update -->
+    <string name="software_update_entry_title">Posodobitve programske opreme</string>
+    <string name="software_update_banner_checking">Iskanje posodobitev …</string>
+    <string name="software_update_banner_up_to_date">Naprava je posodobljena</string>
+    <string name="software_update_banner_update_available">Na voljo so posodobitve</string>
+    <string name="software_update_can_be_updated_header">Pixel lahko še izboljšate</string>
+    <string name="software_update_up_to_date_header">Naprava Pixel je posodobljena</string>
+    <string name="software_update_up_to_specific_date_summary">Posodobljeno na %1$s</string>
+    <string name="software_update_pending_update_summary">Čakajoča posodobitev</string>
+    <string name="play_application_update_entry_title">Posodobitve aplikacij</string>
+    <string name="play_application_detail_indication_summary">Preverite, ali so na voljo posodobitve</string>
+    <string name="system_update_entry_title">Posodobitev sistema</string>
 </resources>
