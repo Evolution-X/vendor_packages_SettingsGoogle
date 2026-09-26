@@ -42,4 +42,8 @@
 
     <!-- Expressive QR -->
     <string name="wifi_qr_code_animation_control">애니메이션 일시중지</string>
+
+    <!-- Advanced VPN -->
+    <string name="advanced_vpn_preference_group_title">내장됨</string>
+    <string name="vpn_preference_group_title">기타</string>
 </resources>

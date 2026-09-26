@@ -42,4 +42,8 @@
 
     <!-- Expressive QR -->
     <string name="wifi_qr_code_animation_control">поставяне на анимацията на пауза</string>
+
+    <!-- Advanced VPN -->
+    <string name="advanced_vpn_preference_group_title">Вградено</string>
+    <string name="vpn_preference_group_title">Други</string>
 </resources>

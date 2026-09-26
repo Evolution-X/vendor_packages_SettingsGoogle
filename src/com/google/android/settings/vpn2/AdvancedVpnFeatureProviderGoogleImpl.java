@@ -1,0 +1,56 @@
+/*
+ * Copyright (C) 2022 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+package com.google.android.settings.vpn2;
+
+import android.content.Context;
+
+import com.android.settings.vpn2.AdvancedVpnFeatureProviderImpl;
+
+import com.google.android.settings.R;
+
+/** Feature provider implementation for advanced vpn. */
+public class AdvancedVpnFeatureProviderGoogleImpl extends AdvancedVpnFeatureProviderImpl {
+    @Override
+    public String getAdvancedVpnPackageName() {
+        return "com.google.android.apps.privacy.wildlife";
+    }
+
+    @Override
+    public boolean isAdvancedVpnSupported(Context context) {
+        return context.getResources().getBoolean(R.bool.config_advanced_vpn_enabled);
+    }
+
+    @Override
+    public String getAdvancedVpnPreferenceGroupTitle(Context context) {
+        return context.getString(R.string.advanced_vpn_preference_group_title);
+    }
+
+    @Override
+    public String getVpnPreferenceGroupTitle(Context context) {
+        return context.getString(R.string.vpn_preference_group_title);
+    }
+
+    @Override
+    public boolean isAdvancedVpnRemovable() {
+        return false;
+    }
+
+    @Override
+    public boolean isDisconnectDialogEnabled() {
+        return false;
+    }
+}

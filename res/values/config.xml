@@ -59,7 +59,6 @@
         <item>com.google.android.accessibility.switchaccess/com.android.switchaccess.SwitchAccessService</item>
         <item>com.google.android.inputmethod.latin/com.google.android.libraries.inputmethod.pksimulator.settings.PkSimulatorToggleActivity</item>
     </string-array>
-
     <string-array name="config_order_captions_services" translatable="false">
         <item>live_caption</item>
         <item>com.google.audio.hearing.visualization.accessibility.scribe/com.google.audio.hearing.visualization.accessibility.scribe.MainActivity</item>
@@ -251,6 +250,9 @@
 
     <!-- The extra value for battery tip -->
     <integer name="config_battery_extra_tip_value">90</integer>
+
+    <!-- Whether to enable the advanced vpn feature. The default is not to. -->
+    <bool name="config_advanced_vpn_enabled">true</bool>
 
     <!-- Whether to enable the app battery usage list page feature. -->
     <bool name="config_app_battery_usage_list_enabled">true</bool>

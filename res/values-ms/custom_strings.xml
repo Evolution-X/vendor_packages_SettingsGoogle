@@ -42,4 +42,8 @@
 
     <!-- Expressive QR -->
     <string name="wifi_qr_code_animation_control">jeda animasi</string>
+
+    <!-- Advanced VPN -->
+    <string name="advanced_vpn_preference_group_title">Terbina dalam</string>
+    <string name="vpn_preference_group_title">Lain-lain</string>
 </resources>

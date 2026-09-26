@@ -42,4 +42,8 @@
 
     <!-- Expressive QR -->
     <string name="wifi_qr_code_animation_control">animasyonu duraklat</string>
+
+    <!-- Advanced VPN -->
+    <string name="advanced_vpn_preference_group_title">Yerleşik</string>
+    <string name="vpn_preference_group_title">Diğer</string>
 </resources>

@@ -42,4 +42,8 @@
 
     <!-- Expressive QR -->
     <string name="wifi_qr_code_animation_control">ຢຸດອະນິເມຊັນຊົ່ວຄາວ</string>
+
+    <!-- Advanced VPN -->
+    <string name="advanced_vpn_preference_group_title">ມີໃນຕົວ</string>
+    <string name="vpn_preference_group_title">ອື່ນໆ</string>
 </resources>

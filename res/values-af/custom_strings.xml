@@ -42,4 +42,8 @@
 
     <!-- Expressive QR -->
     <string name="wifi_qr_code_animation_control">onderbreek die animasie</string>
+
+    <!-- Advanced VPN -->
+    <string name="advanced_vpn_preference_group_title">Ingebou</string>
+    <string name="vpn_preference_group_title">Ander</string>
 </resources>

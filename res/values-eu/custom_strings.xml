@@ -42,4 +42,8 @@
 
     <!-- Expressive QR -->
     <string name="wifi_qr_code_animation_control">pausatu animazioa</string>
+
+    <!-- Advanced VPN -->
+    <string name="advanced_vpn_preference_group_title">Integratuak</string>
+    <string name="vpn_preference_group_title">Bestelakoak</string>
 </resources>

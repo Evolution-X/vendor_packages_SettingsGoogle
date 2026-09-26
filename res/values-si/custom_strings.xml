@@ -42,4 +42,8 @@
 
     <!-- Expressive QR -->
     <string name="wifi_qr_code_animation_control">සජීවිකරණය විරාම කරන්න</string>
+
+    <!-- Advanced VPN -->
+    <string name="advanced_vpn_preference_group_title">ආවේණික</string>
+    <string name="vpn_preference_group_title">වෙනත්</string>
 </resources>

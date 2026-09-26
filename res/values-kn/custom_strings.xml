@@ -42,4 +42,8 @@
 
     <!-- Expressive QR -->
     <string name="wifi_qr_code_animation_control">ಆ್ಯನಿಮೇಶನ್ ಅನ್ನು ವಿರಾಮಗೊಳಿಸಿ</string>
+
+    <!-- Advanced VPN -->
+    <string name="advanced_vpn_preference_group_title">ಬಿಲ್ಟ್-ಇನ್</string>
+    <string name="vpn_preference_group_title">ಇತರೆ</string>
 </resources>

@@ -42,4 +42,8 @@
 
     <!-- Expressive QR -->
     <string name="wifi_qr_code_animation_control">ઍનિમેશન થોભાવો</string>
+
+    <!-- Advanced VPN -->
+    <string name="advanced_vpn_preference_group_title">બિલ્ટ-ઇન</string>
+    <string name="vpn_preference_group_title">અન્ય</string>
 </resources>
