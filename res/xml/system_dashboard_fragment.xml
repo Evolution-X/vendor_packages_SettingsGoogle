@@ -191,7 +191,7 @@
             android:key="device_diagnostics"
             android:title="@string/device_diagnostics_title"
             android:icon="@drawable/ic_device_diagnostics"
-            settings:controller="com.android.settings.system.DeviceDiagnosticsPreferenceController"/>
+            settings:controller="com.google.android.settings.system.GoogleDeviceDiagnosticsPreferenceController"/>
 
         <Preference
             android:key="reset_dashboard"
