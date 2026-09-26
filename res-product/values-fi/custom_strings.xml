@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Säästä virtaa ja auta puhelimen akkua kestämään pidempään latausten välillä</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Säästä virtaa ja auta tabletin akkua kestämään pidempään latausten välillä</string>
+</resources>

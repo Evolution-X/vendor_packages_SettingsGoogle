@@ -5,4 +5,25 @@
     <string name="language_picker_page">Страница бирача језика</string>
     <string name="search_region">Претражите регионе</string>
     <string name="search_region_page">Страница претраге региона</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Стандардна уштеда батерије</string>
+    <string name="basic_battery_saver_summary">Ограничава визуелне ефекте и активности у позадини. Укључује тамну тему ако већ није укључена.</string>
+    <string name="extreme_battery_saver_title">Екстремна уштеда батерије</string>
+    <string name="extreme_battery_saver_summary">Обухвата све промене наведене изнад. Такође паузира апликације које нису неопходне и њихова обавештења.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Распоред и подсетници</string>
+    <string name="battery_schedule_summary">Управљајте тиме када се Уштеда батерије укључује</string>
+    <string name="battery_saver_schedule_category">Распоред</string>
+    <string name="battery_saver_schedule_switch_title">Укључи на основу нивоа батерије</string>
+    <string name="battery_saver_schedule_switch_summary">Уштеда батерије се укључује када батерија падне на ниво који сте подесили</string>
+    <string name="battery_saver_reminder_category">Подсетници</string>
+    <string name="battery_saver_reminder_switch_title">Подсетници уштеде батерије</string>
+    <string name="battery_saver_reminder_switch_summary">Добијајте подсетнике када је батерија скоро празна</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Користи прилагодљиву батерију</string>
+    <string name="smart_battery_summary_on">Укључено</string>
+    <string name="smart_battery_summary_off">Искључено</string>
 </resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">ਚਾਰਜ ਕਰਨ ਤੋਂ ਬਾਅਦ ਆਪਣੇ ਫ਼ੋਨ ਦੀ ਬੈਟਰੀ ਨੂੰ ਲੰਬੇ ਸਮੇਂ ਤੱਕ ਵਰਤਣ ਵਿੱਚ ਮਦਦ ਕਰਨ ਲਈ ਪਾਵਰ ਬਚਾਓ</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">ਚਾਰਜ ਕਰਨ ਤੋਂ ਬਾਅਦ ਆਪਣੇ ਟੈਬਲੈੱਟ ਦੀ ਬੈਟਰੀ ਨੂੰ ਲੰਬੇ ਸਮੇਂ ਤੱਕ ਵਰਤਣ ਵਿੱਚ ਮਦਦ ਕਰਨ ਲਈ ਪਾਵਰ ਬਚਾਓ</string>
+</resources>

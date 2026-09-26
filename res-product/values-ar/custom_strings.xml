@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">وفِّر الطاقة لكي تدوم البطارية لفترة أطول بين كل عملية شحن وأخرى</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">وفِّر الطاقة للمساعدة في إطالة عمر بطارية جهازك اللوحي بين كل عملية شحن وأخرى</string>
+</resources>

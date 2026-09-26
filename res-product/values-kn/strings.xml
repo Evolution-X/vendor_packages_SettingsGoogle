@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">ಆ್ಯಪ್‌ಗಳು ಬ್ಯಾಟರಿಯನ್ನು ಹೇಗೆ ಬಳಸುತ್ತವೆ ಎಂಬುದನ್ನು ನಿರಂತರವಾಗಿ ಆಪ್ಟಿಮೈಜ್ ಮಾಡಲು ನಿಮ್ಮ ಫೋನ್‌ನ ಬಳಕೆಯಿಂದ ಅಡಾಪ್ಟಿವ್ ಬ್ಯಾಟರಿ ಕಲಿಯುತ್ತದೆ. ಬ್ಯಾಟರಿ ಬಾಳಿಕೆಯನ್ನು ಹೆಚ್ಚಿಸಲು, ಇದು ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ ಮತ್ತು ನೋಟಿಫಿಕೇಶನ್‌ಗಳನ್ನು ವಿಳಂಬಗೊಳಿಸುತ್ತದೆ.</string>
+    <string name="smart_battery_summary" product="tablet">ಆ್ಯಪ್‌ಗಳು ಬ್ಯಾಟರಿಯನ್ನು ಹೇಗೆ ಬಳಸುತ್ತವೆ ಎಂಬುದನ್ನು ನಿರಂತರವಾಗಿ ಆಪ್ಟಿಮೈಜ್ ಮಾಡಲು ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್‌ನ ಬಳಕೆಯಿಂದ ಅಡಾಪ್ಟಿವ್ ಬ್ಯಾಟರಿ ಕಲಿಯುತ್ತದೆ. ಬ್ಯಾಟರಿ ಬಾಳಿಕೆಯನ್ನು ಹೆಚ್ಚಿಸಲು, ಇದು ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ ಮತ್ತು ನೋಟಿಫಿಕೇಶನ್‌ಗಳನ್ನು ವಿಳಂಬಗೊಳಿಸುತ್ತದೆ.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">ಡಿಸ್‌ಪ್ಲೇ ಮತ್ತು ಟಚ್</string>
 </resources>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Bateri Boleh Suai mempelajari penggunaan telefon untuk terus mengoptimumkan cara apl menggunakan bateri. Untuk melanjutkan hayat bateri, ciri ini mungkin mengurangkan prestasi dan melewatkan pemberitahuan.</string>
+    <string name="smart_battery_summary" product="tablet">Bateri Boleh Suai mempelajari daripada penggunaan tablet anda untuk terus mengoptimumkan cara apl menggunakan bateri. Untuk melanjutkan hayat bateri, ciri ini mungkin mengurangkan prestasi dan melewatkan pemberitahuan.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Paparan &amp; sentuhan</string>
 </resources>

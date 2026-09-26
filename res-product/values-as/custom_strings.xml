@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">চাৰ্জ দিয়াৰ সময়ৰ মাজৰ সময়খিনিত ফ’নৰ বেটাৰীৰ চাৰ্জ অধিক সময় থকাত সহায় কৰিবলৈ পাৱাৰ ৰাহি কৰক</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">এবাৰ চাৰ্জ দিয়া আৰু পৰৱৰ্তীবাৰ পুনৰ চাৰ্জ দিয়াৰ মাজৰ সময়খিনিত টেবলেটৰ বেটাৰীৰ চাৰ্জ অধিক সময় থকাত সহায় কৰিবলৈ পাৱাৰ ৰাহি কৰক</string>
+</resources>

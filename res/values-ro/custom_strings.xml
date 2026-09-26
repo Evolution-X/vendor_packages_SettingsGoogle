@@ -5,4 +5,25 @@
     <string name="language_picker_page">Pagina selectorului de limbă</string>
     <string name="search_region">Caută regiuni</string>
     <string name="search_region_page">Pagina regiunilor de căutare</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Economisirea bateriei standard</string>
+    <string name="basic_battery_saver_summary">Limitează efectele vizuale și activitatea din fundal. Activează Tema întunecată dacă nu este deja activată.</string>
+    <string name="extreme_battery_saver_title">Economisirea extremă a bateriei</string>
+    <string name="extreme_battery_saver_summary">Include toate modificările menționate mai sus. Întrerupe și aplicațiile neesențiale și notificările aferente.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Program și mementouri</string>
+    <string name="battery_schedule_summary">Stabilește când va porni Economisirea bateriei</string>
+    <string name="battery_saver_schedule_category">Program</string>
+    <string name="battery_saver_schedule_switch_title">Activează în funcție de nivelul bateriei</string>
+    <string name="battery_saver_schedule_switch_summary">Economisirea bateriei se activează când bateria scade la nivelul pe care l-ai stabilit</string>
+    <string name="battery_saver_reminder_category">Mementouri</string>
+    <string name="battery_saver_reminder_switch_title">Mementouri Economisirea bateriei</string>
+    <string name="battery_saver_reminder_switch_summary">Primește mementouri când se descarcă bateria</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Folosește Baterie adaptabilă</string>
+    <string name="smart_battery_summary_on">Activat</string>
+    <string name="smart_battery_summary_off">Dezactivat</string>
 </resources>

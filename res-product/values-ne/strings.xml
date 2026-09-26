@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">एड्याप्टिप ब्याट्री मोडले तपाईंको फोनको प्रयोगका आधारमा निरन्तर रूपमा एपहरूले ब्याट्रीको प्रयोग गर्ने तरिका अप्टिमाइज गर्न सिक्छ। एड्याप्टिभ ब्याट्री मोडले ब्याट्रीको आयु बढाउनका निम्ति पर्फर्मेन्सको स्तर घटाउन सक्छ र नोटिफिकेसन पठाउन विलम्ब गर्न सक्छ।</string>
+    <string name="smart_battery_summary" product="tablet">एड्याप्टिप ब्याट्री मोडले तपाईंको ट्याब्लेटको प्रयोगका आधारमा निरन्तर रूपमा एपहरूले ब्याट्रीको प्रयोग गर्ने तरिका अप्टिमाइज गर्न सिक्छ। एड्याप्टिभ ब्याट्री मोडले ब्याट्रीको आयु बढाउनका निम्ति पर्फर्मेन्सको स्तर घटाउन सक्छ र सूचना पठाउन विलम्ब गर्न सक्छ।</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">डिस्प्ले तथा टच</string>
 </resources>

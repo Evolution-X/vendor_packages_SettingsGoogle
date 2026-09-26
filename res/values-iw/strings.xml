@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">העדפות סוללה</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">אופטימיזציה של ניצול הסוללה</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">כדי להאריך את חיי הסוללה, התכונה \'אופטימיזציה של ניצול הסוללה\' עשויה להפחית את רמת הביצועים ואת הפעילות ברקע. ייתכן שיהיה עיכוב בקבלת התראות מסוימות.</string>
 

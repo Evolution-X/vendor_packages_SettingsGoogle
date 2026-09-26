@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">自動調節偏好設定</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">自動調節電池用量</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">為延長電池壽命，「自動調節電池用量」功能可能會降低效能及減少背景活動。部分通知可能會延遲。</string>
 

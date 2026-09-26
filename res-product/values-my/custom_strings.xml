@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">ဖုန်းဘက်ထရီ ကြာရှည်အားခံစေရန် အားသွင်းမှုများကြား ပါဝါကို ချွေတာပေးသည်</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">တက်ဘလက်ဘက်ထရီ ကြာရှည်အားခံစေရန် အားသွင်းမှုများကြား ပါဝါကို ချွေတာပေးသည်</string>
+</resources>

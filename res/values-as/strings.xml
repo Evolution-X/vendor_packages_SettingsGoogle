@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">অভিযোজিত অগ্ৰাধিকাৰ</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">অভিযোজিত বেটাৰী</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">বেটাৰীৰ জীৱনকাল বৃদ্ধি কৰিবলৈ অভিযোজিত বেটাৰীয়ে কাৰ্যদক্ষতা অথবা নেপথ্যৰ কাৰ্যকলাপ হ্ৰাস কৰিব পাৰে। কিছুমান জাননী লাভ কৰাত পলম হ’ব পাৰে।</string>
 

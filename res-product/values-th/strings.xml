@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">แบตเตอรี่แบบปรับอัตโนมัติจะเรียนรู้จากการใช้งานโทรศัพท์เพื่อเพิ่มประสิทธิภาพการใช้แบตเตอรี่ของแอปอย่างต่อเนื่อง โดยอาจลดประสิทธิภาพและเลื่อนการแจ้งเตือนออกไปเพื่อยืดระยะเวลาการใช้งานแบตเตอรี่</string>
+    <string name="smart_battery_summary" product="tablet">แบตเตอรี่แบบปรับอัตโนมัติจะเรียนรู้จากการใช้งานแท็บเล็ตเพื่อเพิ่มประสิทธิภาพการใช้แบตเตอรี่ของแอปอย่างต่อเนื่อง โดยอาจลดประสิทธิภาพและเลื่อนการแจ้งเตือนออกไปเพื่อยืดระยะเวลาการใช้งานแบตเตอรี่</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">จอแสดงผลและการแตะ</string>
 </resources>

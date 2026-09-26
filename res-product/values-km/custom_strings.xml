@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">សន្សំសំចៃថាមពល ដើម្បីជួយឱ្យថ្មទូរសព្ទរបស់អ្នកប្រើបានកាន់តែយូរក្រោយពេលសាកថ្មរួចម្ដងៗ</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">សន្សំសំចៃថាមពល ដើម្បីជួយឱ្យថ្មថេប្លេតរបស់អ្នកប្រើបានកាន់តែយូរក្រោយពេលសាកថ្មរួចម្ដងៗ</string>
+</resources>

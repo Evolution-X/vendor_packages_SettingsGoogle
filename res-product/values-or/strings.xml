@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">ଆପ୍ସ ବେଟେରୀକୁ କିପରି ବ୍ୟବହାର କରେ ତାହାକୁ ନିରନ୍ତର ଭାବେ ଅପ୍ଟିମାଇଜ କରିବା ପାଇଁ ଆଡେପ୍ଟିଭ ବେଟେରୀ ଆପଣଙ୍କ ଫୋନ ବ୍ୟବହାରରୁ ଜାଣିଥାଏ। ବେଟେରୀ ଲାଇଫ ବଢ଼ାଇବା ପାଇଁ ଏହା ପରଫରମାନ୍ସକୁ ହ୍ରାସ କରିପାରେ ଏବଂ ବିଜ୍ଞପ୍ତିକୁ ବିଳମ୍ବ କରିପାରେ।</string>
+    <string name="smart_battery_summary" product="tablet">ଆପ୍ସ ବେଟେରୀକୁ କିପରି ବ୍ୟବହାର କରେ ତାହାକୁ ନିରନ୍ତର ଭାବେ ଅପ୍ଟିମାଇଜ କରିବା ପାଇଁ ଆଡେପ୍ଟିଭ ବେଟେରୀ ଆପଣଙ୍କ ଟାବଲେଟ ବ୍ୟବହାରରୁ ଜାଣିଥାଏ। ବେଟେରୀ ଲାଇଫ ବଢ଼ାଇବା ପାଇଁ ଏହା ପରଫରମାନ୍ସକୁ ହ୍ରାସ କରିପାରେ ଏବଂ ବିଜ୍ଞପ୍ତିକୁ ବିଳମ୍ବ କରିପାରେ।</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">ଡିସପ୍ଲେ ଓ ସ୍ପର୍ଶ</string>
 </resources>

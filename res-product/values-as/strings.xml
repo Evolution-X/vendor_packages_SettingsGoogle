@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">অভিযোজিত বেটাৰীয়ে আপোনাৰ ফ’নৰ ব্যৱহাৰৰ পৰা এপে বেটাৰী ব্যৱহাৰ কৰাৰ ধৰণ ধাৰাবাহিকভাৱে অপ্টিমাইজ কৰিবলৈ শিকে। বেটাৰীৰ জীৱনকাল বৃদ্ধি কৰিবলৈ ই পাৰদৰ্শিতা নিম্নমানৰ কৰিব পাৰে আৰু জাননী পলমকৈ দিব পাৰে।</string>
+    <string name="smart_battery_summary" product="tablet">অভিযোজিত বেটাৰীয়ে আপোনাৰ টেবলেটৰ ব্যৱহাৰৰ পৰা এপে বেটাৰী ব্যৱহাৰ কৰাৰ ধৰণ ধাৰাবাহিকভাৱে অপ্টিমাইজ কৰিবলৈ শিকে। বেটাৰীৰ জীৱনকাল বৃদ্ধি কৰিবলৈ ই পাৰদৰ্শিতা নিম্নমানৰ কৰিব পাৰে আৰু জাননী পলমকৈ দিব পাৰে।</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">ডিছপ্লে’ আৰু স্পৰ্শ</string>
 </resources>

@@ -5,4 +5,25 @@
     <string name="language_picker_page">භාෂා තෝරක පිටුව</string>
     <string name="search_region">කලාප සොයන්න</string>
     <string name="search_region_page">කලාප පිටුව සොයන්න</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">සම්මත බැටරි සුරැකුම</string>
+    <string name="basic_battery_saver_summary">දෘශ්‍ය ප්‍රයෝග සහ පසුබිම් ක්‍රියාකාරකම් සීමා කරයි. දැනටමත් ක්‍රියාත්මක නොවේ නම්, අඳුරු තේමාව ක්‍රියාත්මක කරයි.</string>
+    <string name="extreme_battery_saver_title">උපරිම බැටරි සුරැකුම</string>
+    <string name="extreme_battery_saver_summary">ඉහත ලැයිස්තුගත කර ඇති සියලුම වෙනස්කම් ඇතුළත් වේ. අත්‍යවශ්‍ය නොවන යෙදුම් සහ ඒවායේ දැනුම්දීම් ද විරාම කරයි.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">කාල සටහන සහ සිහිකැඳවීම්</string>
+    <string name="battery_schedule_summary">බැටරි සුරැකුම ක්‍රියාත්මක වන විට කළමනාකරණය කරන්න</string>
+    <string name="battery_saver_schedule_category">කාල සටහන</string>
+    <string name="battery_saver_schedule_switch_title">බැටරි මට්ටම මත පදනම්ව සක්‍රීය කරන්න</string>
+    <string name="battery_saver_schedule_switch_summary">ඔබ සකසන මට්ටමට බැටරිය වැටෙන විට බැටරි සුරැකුම සක්‍රීය වේ</string>
+    <string name="battery_saver_reminder_category">සිහිකැඳවීම්</string>
+    <string name="battery_saver_reminder_switch_title">බැටරි සුරැකුම් සිහිකැඳවීම්</string>
+    <string name="battery_saver_reminder_switch_summary">බැටරිය අඩු වූ විට සිහිකැඳවීම් ලබා ගන්න</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">අනුවර්තනීය බැටරිය භාවිතා කරන්න</string>
+    <string name="smart_battery_summary_on">ක්‍රියාත්මකයි</string>
+    <string name="smart_battery_summary_off">ක්‍රියාවිරහිතයි</string>
 </resources>

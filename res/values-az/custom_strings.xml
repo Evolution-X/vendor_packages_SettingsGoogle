@@ -5,4 +5,25 @@
     <string name="language_picker_page">Dil seçici səhifə</string>
     <string name="search_region">Bölgələri axtarın</string>
     <string name="search_region_page">Region axtarış səhifəsi</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Standart Enerjiyə Qənaət</string>
+    <string name="basic_battery_saver_summary">Vizual effekt və arxa fon fəaliyyətinə limit qoyur. Artıq aktiv deyilsə, tünd temanı aktivləşdirir.</string>
+    <string name="extreme_battery_saver_title">Yüksək Enerji Qənaəti</string>
+    <string name="extreme_battery_saver_summary">Yuxarıdakı bütün dəyişikliklər daxildir. Əsas olmayan tətbiqlərə və onların bildirişlərinə də pauza verir.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Cədvəl və xatırladıcılar</string>
+    <string name="battery_schedule_summary">Enerjiyə Qənaətin nə zaman aktiv olmasını idarə edin</string>
+    <string name="battery_saver_schedule_category">Cədvəl</string>
+    <string name="battery_saver_schedule_switch_title">Batareya səviyyəsinə əsasən aktiv edin</string>
+    <string name="battery_saver_schedule_switch_summary">Batareya ayarladığınız səviyyəyə düşdükdə Enerjiyə Qənaət aktiv olur</string>
+    <string name="battery_saver_reminder_category">Xatırladıcılar</string>
+    <string name="battery_saver_reminder_switch_title">Enerjiyə Qənaət xatırlatmaları</string>
+    <string name="battery_saver_reminder_switch_summary">Enerji az olduqda xatırlatmalar alın</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Adaptiv Batareyadan istifadə edin</string>
+    <string name="smart_battery_summary_on">Aktiv</string>
+    <string name="smart_battery_summary_off">Deaktiv</string>
 </resources>

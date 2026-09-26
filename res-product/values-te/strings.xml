@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">మీ ఫోన్ వినియోగం ఆధారంగా అనుకూల బ్యాటరీ, డేటాను సేకరిస్తుంది. తద్వారా యాప్‌లు, బ్యాటరీ వినియోగించే తీరును నిరంతరం ఆప్టిమైజ్ చేస్తుంది. బ్యాట‌రీ లైఫ్‌ను పొడిగించ‌డానికి ఫోన్ ప‌నితీరు నెమ్మదించేలా, నోటిఫికేషన్‌లు ఆలస్యం అయ్యేలా చేసే అవకాశం ఉంది.</string>
+    <string name="smart_battery_summary" product="tablet">అనుకూల బ్యాటరీ ఫీచర్ మీ టాబ్లెట్ వినియోగం ఆధారంగా యాప్‌లు బ్యాటరీని ఎలా ఉపయోగిస్తాయో నిరంతరం ఆప్టిమైజ్ చేయడం నేర్చుకుంటుంది. బ్యాటరీ లైఫ్‌ను పొడిగించడానికి, ఇది పనితీరును తగ్గించవచ్చు, నోటిఫికేషన్‌లను ఆలస్యం చేయవచ్చు.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">డిస్‌ప్లే &amp; టచ్</string>
 </resources>

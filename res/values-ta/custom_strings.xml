@@ -5,4 +5,25 @@
     <string name="language_picker_page">மொழித் தேர்வுப் பக்கம்</string>
     <string name="search_region">பிராந்தியங்களைத் தேடுங்கள்</string>
     <string name="search_region_page">பிராந்தியத்தைத் தேடுவதற்கான பக்கம்</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">இயல்புநிலை பேட்டரி சேமிப்பு</string>
+    <string name="basic_battery_saver_summary">விஷுவல் எஃபெக்ட்டுகளையும் பின்னணிச் செயல்பாடுகளையும் குறைக்கும். டார்க் தீம் ஏற்கெனவே ஆன் செய்யப்படவில்லை எனில் அதை ஆன் செய்யும்.</string>
+    <string name="extreme_battery_saver_title">மேம்பட்ட பேட்டரி சேமிப்பு</string>
+    <string name="extreme_battery_saver_summary">மேலே பட்டியலிடப்பட்டுள்ள அனைத்து மாற்றங்களும் அடங்கும். அத்துடன், அத்தியாவசியமற்ற ஆப்ஸையும் அவற்றின் அறிவிப்புகளையும் இடைநிறுத்தும்.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">திட்ட அட்டவணை மற்றும் நினைவூட்டல்கள்</string>
+    <string name="battery_schedule_summary">பேட்டரி சேமிப்பை எப்போது இயக்குவது என நிர்வகிக்கலாம்</string>
+    <string name="battery_saver_schedule_category">திட்ட அட்டவணை</string>
+    <string name="battery_saver_schedule_switch_title">பேட்டரி நிலையைப் பொறுத்து ஆன் ஆகுதல்</string>
+    <string name="battery_saver_schedule_switch_summary">பேட்டரி சார்ஜ் நீங்கள் அமைத்திருக்கும் சதவீதத்தை அடையும்போது பேட்டரி சேமிப்பு ஆன் ஆகும்</string>
+    <string name="battery_saver_reminder_category">நினைவூட்டல்கள்</string>
+    <string name="battery_saver_reminder_switch_title">பேட்டரி சேமிப்பு பற்றிய நினைவூட்டல்கள்</string>
+    <string name="battery_saver_reminder_switch_summary">பேட்டரி குறைவாக இருக்கும்போது நினைவூட்டல்களைப் பெறலாம்</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">அடாப்டிவ் பேட்டரியைப் பயன்படுத்துதல்</string>
+    <string name="smart_battery_summary_on">ஆன்</string>
+    <string name="smart_battery_summary_off">ஆஃப்</string>
 </resources>

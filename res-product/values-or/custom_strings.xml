@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">ଚାର୍ଜଗୁଡ଼ିକ ମଧ୍ୟରେ ଆପଣଙ୍କ ଫୋନର ବେଟେରୀ ଅଧିକ ସମୟ ପର୍ଯ୍ୟନ୍ତ ଚାଲିବାରେ ସାହାଯ୍ୟ କରିବାକୁ ପାୱାର ସେଭ କରନ୍ତୁ</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">ଚାର୍ଜଗୁଡ଼ିକ ମଧ୍ୟରେ ଆପଣଙ୍କ ଟାବଲେଟର ବେଟେରୀ ଅଧିକ ସମୟ ପର୍ଯ୍ୟନ୍ତ ଚାଲିବାରେ ସାହାଯ୍ୟ କରିବାକୁ ପାୱାର ସେଭ କରନ୍ତୁ</string>
+</resources>

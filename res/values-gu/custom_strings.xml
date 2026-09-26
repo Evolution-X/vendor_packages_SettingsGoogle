@@ -5,4 +5,25 @@
     <string name="language_picker_page">ભાષા પિકર પેજ</string>
     <string name="search_region">પ્રદેશો શોધો</string>
     <string name="search_region_page">શોધના પ્રદેશનું પેજ</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">સ્ટૅન્ડર્ડ બૅટરી સેવર</string>
+    <string name="basic_battery_saver_summary">વિઝ્યુઅલ ઇફેક્ટ અને બૅકગ્રાઉન્ડની ઍક્ટિવિટીને મર્યાદિત કરે છે. જો પહેલેથી ચાલુ ન હોય, તો ડાર્ક થીમ ચાલુ કરે છે.</string>
+    <string name="extreme_battery_saver_title">એક્સ્ટ્રીમ બૅટરી સેવર</string>
+    <string name="extreme_battery_saver_summary">ઉપર સૂચિબદ્ધ બધા ફેરફારો શામેલ છે. અનાવશ્યક ઍપ અને તેના નોટિફિકેશન પણ થોભાવે છે.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">શેડ્યૂલ અને રિમાઇન્ડર</string>
+    <string name="battery_schedule_summary">બૅટરી સેવર ક્યારે ચાલુ થાય તે મેનેજ કરો</string>
+    <string name="battery_saver_schedule_category">શેડ્યૂલ</string>
+    <string name="battery_saver_schedule_switch_title">બૅટરીના લેવલના આધારે ચાલુ કરો</string>
+    <string name="battery_saver_schedule_switch_summary">તમે સેટ કરેલા લેવલ પર બૅટરી આવી જાય પછી બૅટરી સેવર ચાલુ થાય છે</string>
+    <string name="battery_saver_reminder_category">રિમાઇન્ડર</string>
+    <string name="battery_saver_reminder_switch_title">બૅટરી સેવર સંબંધિત રિમાઇન્ડર</string>
+    <string name="battery_saver_reminder_switch_summary">જ્યારે બૅટરીનું લેવલ ઓછું હોય ત્યારે રિમાઇન્ડર મેળવો</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">અડૅપ્ટિવ બૅટરીનો ઉપયોગ કરો</string>
+    <string name="smart_battery_summary_on">ચાલુ છે</string>
+    <string name="smart_battery_summary_off">બંધ</string>
 </resources>

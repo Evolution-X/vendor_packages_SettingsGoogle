@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">A bateria adaptável aprende com a utilização do seu telemóvel para otimizar continuamente a forma como as apps usam a bateria. Pode reduzir o desempenho e atrasar as notificações para prolongar a autonomia da bateria.</string>
+    <string name="smart_battery_summary" product="tablet">A bateria adaptável aprende com a utilização do seu tablet para otimizar continuamente a forma como as apps usam a bateria. Pode reduzir o desempenho e atrasar as notificações para prolongar a autonomia da bateria.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Ecrã e toque</string>
 </resources>

@@ -5,4 +5,25 @@
     <string name="language_picker_page">Dil seçici sayfası</string>
     <string name="search_region">Bölge ara</string>
     <string name="search_region_page">Arama bölgesi sayfası</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Standart Pil Tasarrufu</string>
+    <string name="basic_battery_saver_summary">Görsel efektleri ve arka plan etkinliğini sınırlandırır. Açık değilse koyu temayı açar.</string>
+    <string name="extreme_battery_saver_title">Ekstra Pil Tasarrufu</string>
+    <string name="extreme_battery_saver_summary">Yukarıda listelenen tüm değişiklikleri içerir. Bunun yanı sıra, gerekli olmayan uygulamaları ve bildirimlerini duraklatır.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Program ve hatırlatıcılar</string>
+    <string name="battery_schedule_summary">Pil Tasarrufu\'nun ne zaman açılacağını belirleyin</string>
+    <string name="battery_saver_schedule_category">Program</string>
+    <string name="battery_saver_schedule_switch_title">Pil seviyesine göre etkinleştir</string>
+    <string name="battery_saver_schedule_switch_summary">Pil ayarladığınız seviyenin altına düştüğünde Pil Tasarrufu etkinleşir</string>
+    <string name="battery_saver_reminder_category">Hatırlatıcılar</string>
+    <string name="battery_saver_reminder_switch_title">Pil Tasarrufu hatırlatıcıları</string>
+    <string name="battery_saver_reminder_switch_summary">Pil seviyesi azaldığında hatırlatıcı alın</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Uyarlanabilir Pil\'i kullan</string>
+    <string name="smart_battery_summary_on">Açık</string>
+    <string name="smart_battery_summary_off">Kapalı</string>
 </resources>

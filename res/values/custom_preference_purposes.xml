@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="battery_saver_group_purpose" translatable="false">battery_saver_group</string>
+    <string name="basic_battery_saver_purpose" translatable="false">Enables Standard Battery Saver mode which limits visual effects and background activity</string>
+    <string name="extreme_battery_saver_purpose" translatable="false">Enables Extreme Battery Saver mode which pauses non-essential apps and notifications</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_saver_schedule_purpose" translatable="false">Allows users to configure Battery Saver schedules, including automatic activation based on battery percentage and automatic deactivation when charged, as well as managing low-battery notification reminders.</string>
+    <string name="battery_saver_schedule_category_purpose" translatable="false">battery_saver_schedule_category</string>
+    <string name="battery_saver_reminder_entry_purpose" translatable="false">battery_saver_reminder_entry</string>
+    <string name="low_power_mode_reminder_enabled_purpose" translatable="false">Whether to receive notification reminders when the battery is low</string>
+
+    <!-- Battery Saver API Screen -->
+    <string name="battery_saver_type_purpose" translatable="false">Allows the user to choose a battery saver mode to extend battery life. Extreme battery saver further limits apps and features beyond Standard battery saver mode to save more battery power.</string>
+    <string name="battery_saver_type_options_purpose" translatable="false">Battery Saver modes.</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_category_purpose" translatable="false">adaptive_battery_category</string>
+    <string name="adaptive_battery_entry_purpose" translatable="false">Allows users to enable or disable Adaptive Battery, which optimizes app battery usage based on phone usage patterns to extend battery life.</string>
+    <string name="adaptive_battery_top_intro_purpose" translatable="false">adaptive_battery_top_intro</string>
+    <string name="adaptive_battery_illustration_purpose" translatable="false">adaptive_battery_illustration</string>
+    <string name="adaptive_battery_management_enabled_purpose" translatable="false">Whether Adaptive Battery is enabled to optimize battery usage based on app usage patterns.</string>
+</resources>

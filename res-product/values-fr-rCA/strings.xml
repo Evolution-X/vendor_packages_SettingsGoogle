@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">La Pile adaptative apprend de votre utilisation du téléphone pour optimiser en permanence la façon dont les applis utilisent la pile. Pour prolonger l\'autonomie de la pile, cette fonctionnalité pourrait réduire les performances et retarder les notifications.</string>
+    <string name="smart_battery_summary" product="tablet">La Pile adaptative apprend de votre utilisation de la tablette pour optimiser en permanence la façon dont les applis utilisent la pile. Pour prolonger l\'autonomie de la pile, cette fonctionnalité pourrait réduire les performances et retarder les notifications.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Affichage et toucher</string>
 </resources>

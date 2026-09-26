@@ -5,4 +5,25 @@
     <string name="language_picker_page">ਭਾਸ਼ਾ ਚੋਣਕਾਰ ਪੰਨਾ</string>
     <string name="search_region">ਖੇਤਰ ਖੋਜੋ</string>
     <string name="search_region_page">ਖੇਤਰ ਪੰਨਾ ਖੋਜੋ</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">ਸਟੈਂਡਰਡ ਬੈਟਰੀ ਸੇਵਰ</string>
+    <string name="basic_battery_saver_summary">ਦ੍ਰਿਸ਼ਟੀਗਤ ਪ੍ਰਭਾਵਾਂ ਅਤੇ ਬੈਕਗ੍ਰਾਊਂਡ ਸਰਗਰਮੀ ਨੂੰ ਸੀਮਤ ਕਰਦਾ ਹੈ। ਜੇ ਗੂੜ੍ਹਾ ਥੀਮ ਪਹਿਲਾਂ ਤੋਂ ਚਾਲੂ ਨਹੀਂ ਹੈ, ਤਾਂ ਉਸਨੂੰ ਚਾਲੂ ਕਰਦਾ ਹੈ।</string>
+    <string name="extreme_battery_saver_title">ਐਕਸਟ੍ਰੀਮ ਬੈਟਰੀ ਸੇਵਰ</string>
+    <string name="extreme_battery_saver_summary">ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਵਿੱਚ ਉੱਪਰ ਸੂਚੀਬੱਧ ਕੀਤੀਆਂ ਸਾਰੀਆਂ ਤਬਦੀਲੀਆਂ ਸ਼ਾਮਲ ਹਨ। ਇਹ ਗੈਰ-ਜ਼ਰੂਰੀ ਐਪਾਂ ਅਤੇ ਉਨ੍ਹਾਂ ਦੀਆਂ ਸੂਚਨਾਵਾਂ ਨੂੰ ਵੀ ਰੋਕਦੀ ਹੈ।</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">ਸਮਾਂ-ਸੂਚੀ ਅਤੇ ਰਿਮਾਈਂਡਰ</string>
+    <string name="battery_schedule_summary">ਬੈਟਰੀ ਸੇਵਰ ਦੇ ਚਾਲੂ ਹੋਣ ਦੇ ਸਮੇਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ</string>
+    <string name="battery_saver_schedule_category">ਸਮਾਂ-ਸੂਚੀ</string>
+    <string name="battery_saver_schedule_switch_title">ਬੈਟਰੀ ਪੱਧਰ ਦੇ ਆਧਾਰ \'ਤੇ ਚਾਲੂ ਕਰੋ</string>
+    <string name="battery_saver_schedule_switch_summary">ਜਦੋਂ ਬੈਟਰੀ ਤੁਹਾਡੇ ਵੱਲੋਂ ਸੈੱਟ ਕੀਤੇ ਗਏ ਪੱਧਰ \'ਤੇ ਆ ਜਾਂਦੀ ਹੈ, ਤਾਂ ਬੈਟਰੀ ਸੇਵਰ ਵਿਸ਼ੇਸ਼ਤਾ ਚਾਲੂ ਹੋ ਜਾਂਦੀ ਹੈ</string>
+    <string name="battery_saver_reminder_category">ਰਿਮਾਈਂਡਰ</string>
+    <string name="battery_saver_reminder_switch_title">ਬੈਟਰੀ ਸੇਵਰ ਦੇ ਰਿਮਾਈਂਡਰ</string>
+    <string name="battery_saver_reminder_switch_summary">ਬੈਟਰੀ ਘੱਟ ਹੋਣ \'ਤੇ ਰਿਮਾਈਂਡਰ ਪ੍ਰਾਪਤ ਕਰੋ</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">ਅਡੈਪਟਿਵ ਬੈਟਰੀ ਵਿਸ਼ੇਸ਼ਤਾ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="smart_battery_summary_on">ਚਾਲੂ ਹੈ</string>
+    <string name="smart_battery_summary_off">ਬੰਦ ਹੈ</string>
 </resources>

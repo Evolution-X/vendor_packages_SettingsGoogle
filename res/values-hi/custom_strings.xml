@@ -5,4 +5,25 @@
     <string name="language_picker_page">\'भाषा चुनने की सुविधा\' पेज</string>
     <string name="search_region">इलाके खोजें</string>
     <string name="search_region_page">\'खोज का क्षेत्र\' पेज</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">स्टैंडर्ड बैटरी सेवर</string>
+    <string name="basic_battery_saver_summary">यह मोड, विज़ुअल इफ़ेक्ट के इस्तेमाल और बैकग्राउंड में होने वाली गतिविधि को कम करता है. अगर गहरे रंग वाली थीम पहले से चालू नहीं है, तो उसे भी चालू करता है.</string>
+    <string name="extreme_battery_saver_title">एक्स्ट्रीम बैटरी सेवर</string>
+    <string name="extreme_battery_saver_summary">ऊपर बताए गए सभी बदलाव लागू होंगे. इसके साथ ही, यह ग़ैर-ज़रूरी ऐप्लिकेशन की गतिविधियों और उनसे मिलने वाली सूचनाओं को रोक देगा.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">शेड्यूल करें और रिमाइंडर सेट करें</string>
+    <string name="battery_schedule_summary">बैटरी सेवर की सुविधा चालू होने पर मैनेज करें</string>
+    <string name="battery_saver_schedule_category">शेड्यूल करें</string>
+    <string name="battery_saver_schedule_switch_title">बैटरी लेवल के हिसाब से चालू हो</string>
+    <string name="battery_saver_schedule_switch_summary">सेट किए गए लेवल से कम बैटरी होने पर, बैटरी सेवर की सुविधा चालू हो जाएगी</string>
+    <string name="battery_saver_reminder_category">रिमाइंडर</string>
+    <string name="battery_saver_reminder_switch_title">बैटरी सेवर रिमाइंडर</string>
+    <string name="battery_saver_reminder_switch_summary">फ़ोन की बैटरी कम होने पर रिमाइंडर पाएं</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">ज़रूरत के हिसाब से बैटरी का इस्तेमाल करने की सुविधा आज़माएं</string>
+    <string name="smart_battery_summary_on">चालू है</string>
+    <string name="smart_battery_summary_off">बंद है</string>
 </resources>

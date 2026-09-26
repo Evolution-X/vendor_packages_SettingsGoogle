@@ -5,4 +5,25 @@
     <string name="language_picker_page">ഭാഷ പിക്കർ പേജ്</string>
     <string name="search_region">പ്രദേശങ്ങൾ തിരയുക</string>
     <string name="search_region_page">പ്രദേശം തിരയൽ പേജ്</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">സ്റ്റാൻഡേർഡ് ബാറ്ററി സേവർ</string>
+    <string name="basic_battery_saver_summary">വിഷ്വൽ ഇഫക്റ്റുകളും പശ്ചാത്തല ആക്റ്റിവിറ്റിയും പരിമിതപ്പെടുത്തുന്നു. ഡാർക്ക് തീം നിലവിൽ ഓണല്ലെങ്കിൽ, അത് ഓണാക്കുന്നു.</string>
+    <string name="extreme_battery_saver_title">പരമാവധി ബാറ്ററി സേവർ</string>
+    <string name="extreme_battery_saver_summary">മുകളിൽ ലിസ്റ്റ് ചെയ്ത എല്ലാ മാറ്റങ്ങളും ഉൾപ്പെടുന്നു. അത്യാവശ്യമല്ലാത്ത ആപ്പുകളും അവയുടെ അറിയിപ്പുകളും താൽക്കാലികമായി നിർത്തുകയും ചെയ്യുന്നു.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">ഷെഡ്യൂളും റിമൈൻഡറുകളും</string>
+    <string name="battery_schedule_summary">ബാറ്ററി സേവർ എപ്പോൾ ഓണാകണമെന്നത് മാനേജ് ചെയ്യുക</string>
+    <string name="battery_saver_schedule_category">ഷെഡ്യൂൾ</string>
+    <string name="battery_saver_schedule_switch_title">ബാറ്ററി നില അടിസ്ഥാനമാക്കി ഓണാക്കുക</string>
+    <string name="battery_saver_schedule_switch_summary">നിങ്ങൾ സജ്ജീകരിച്ച നിലയിലേക്ക് ബാറ്ററി താഴുമ്പോൾ ബാറ്ററി സേവർ മോഡ് ഓണാകുന്നു</string>
+    <string name="battery_saver_reminder_category">റിമൈൻഡറുകൾ</string>
+    <string name="battery_saver_reminder_switch_title">ബാറ്ററി സേവർ റിമൈൻഡറുകൾ</string>
+    <string name="battery_saver_reminder_switch_summary">ബാറ്ററി ചാർജ് കുറയുമ്പോൾ റിമൈൻഡറുകൾ നേടുക</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">അഡാപ്റ്റീവ് ബാറ്ററി ഉപയോഗിക്കുക</string>
+    <string name="smart_battery_summary_on">ഓണാണ്</string>
+    <string name="smart_battery_summary_off">ഓഫാണ്</string>
 </resources>

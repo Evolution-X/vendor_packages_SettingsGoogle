@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">உங்கள் மொபைல் பேட்டரியை ஒருமுறை சார்ஜ் செய்தால் நீண்ட நேரம் நீடித்திருக்க உதவும் வகையில் பவரைச் சேமிக்கும்</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">உங்கள் டேப்லெட் பேட்டரியை ஒருமுறை சார்ஜ் செய்தால் நீண்ட நேரம் நீடித்திருக்க உதவும் வகையில் பவரைச் சேமிக்கும்</string>
+</resources>

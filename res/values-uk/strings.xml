@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Адаптивні налаштування</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Адаптивне енергоспоживання</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Щоб заощадити заряд, функція \"Адаптивне енергоспоживання\" може обмежувати швидкодію пристрою й роботу додатків у фоновому режимі. Деякі сповіщення можуть з’являтись із затримкою.</string>
 

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Adaptive Battery learns from your phone usage to continuously optimize how apps use battery. To extend battery life, it may reduce performance and delay notifications.</string>
+    <string name="smart_battery_summary" product="tablet">Adaptive Battery learns from your tablet usage to continuously optimize how apps use battery. To extend battery life, it may reduce performance and delay notifications.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Display &amp; touch</string>
 </resources>

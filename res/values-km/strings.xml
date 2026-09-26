@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">ចំណូលចិត្តដែលមានភាពបត់បែន</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">មុខងារ​ថ្ម​មាន​ភាព​បត់បែន</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">ដើម្បីបង្កើនកម្រិតថាមពលថ្ម កម្មវិធីថ្ម​មាន​ភាព​បត់បែនអាចកាត់បន្ថយប្រតិបត្តិការ និងសកម្មភាពនៅផ្ទៃខាងក្រោយ។ ការជូនដំណឹងមួយចំនួនអាចត្រូវបានពន្យារពេល។</string>
 

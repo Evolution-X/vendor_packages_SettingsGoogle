@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">ປະຢັດພະລັງງານເພື່ອຊ່ວຍໃຫ້ແບັດເຕີຣີໂທລະສັບຂອງທ່ານໃຊ້ໄດ້ດົນຂຶ້ນໃນການສາກໄຟແຕ່ລະເທື່ອ</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">ປະຢັດພະລັງງານເພື່ອຊ່ວຍໃຫ້ແບັດເຕີຣີແທັບເລັດຂອງທ່ານໃຊ້ໄດ້ດົນຂຶ້ນໃນການສາກໄຟແຕ່ລະເທື່ອ</string>
+</resources>

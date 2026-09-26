@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Mukautuva virta oppii puhelimesi käytöstä ja optimoi sovellusten akkuvirran käyttöä jatkuvasti. Mukautuva virta voi alentaa suorituskykyä ja viivästyttää ilmoituksia akunkeston pidentämiseksi.</string>
+    <string name="smart_battery_summary" product="tablet">Mukautuva virta oppii tablettisi käytöstä ja optimoi sovellusten akun käyttöä jatkuvasti. Mukautuva virta voi alentaa suorituskykyä ja viivästyttää ilmoituksia akunkeston pidentämiseksi.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Näyttö ja kosketus</string>
 </resources>

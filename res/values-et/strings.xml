@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Kohanduvad eelistused</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Kohanduv akuhaldur</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Aku tööea pikendamiseks võib kohanduv akuhaldur vähendada jõudlust ja taustategevusi. Mõni märguanne võib viibida.</string>
 

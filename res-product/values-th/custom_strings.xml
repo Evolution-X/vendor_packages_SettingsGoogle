@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">ประหยัดพลังงานเพื่อช่วยให้แบตเตอรี่ของโทรศัพท์ใช้งานได้ยาวนานขึ้นในการชาร์จแต่ละครั้ง</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">ประหยัดพลังงานเพื่อช่วยให้แบตเตอรี่ของแท็บเล็ตใช้งานได้ยาวนานขึ้นในการชาร์จแต่ละครั้ง</string>
+</resources>

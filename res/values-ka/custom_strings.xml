@@ -5,4 +5,25 @@
     <string name="language_picker_page">ენის ამომრჩევის გვერდი</string>
     <string name="search_region">რეგიონების ძიება</string>
     <string name="search_region_page">რეგიონის გვერდის ძიება</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">სტანდარტული ბატარეის დამზოგი</string>
+    <string name="basic_battery_saver_summary">ზღუდავს ვიზუალურ ეფექტებსა და აქტივობას ფონურ რეჟიმში. რთავს მუქ თემას, თუ უკვე ჩართული არაა.</string>
+    <string name="extreme_battery_saver_title">ბატარეის სუპერდამზოგი</string>
+    <string name="extreme_battery_saver_summary">მოიცავს ყველა ზემოხსენებულ ცვლილებას ასევე აპაუზებს უმნიშვნელო აპებს და მათ შეტყობინებებს.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">განრიგი და შეხსენებები</string>
+    <string name="battery_schedule_summary">მართეთ, როდის ჩაირთოს ბატარეის დამზოგი</string>
+    <string name="battery_saver_schedule_category">განრიგი</string>
+    <string name="battery_saver_schedule_switch_title">ჩართვა ბატარეის დატენვის დონის მიხედვით</string>
+    <string name="battery_saver_schedule_switch_summary">ბატარეის დამზოგი ჩაირთვება როდესაც ბატარეის დატენვის დონე დაიწევს თქვენ მიერ დაყენებულ დონემდე</string>
+    <string name="battery_saver_reminder_category">შეხსენებები</string>
+    <string name="battery_saver_reminder_switch_title">ბატარეის დამზოგის შეხსენებები</string>
+    <string name="battery_saver_reminder_switch_summary">მიიღეთ შეხსენებები, როდესაც ბატარეა იცლება</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">ადაპტაციური ბატარეის გამოყენება</string>
+    <string name="smart_battery_summary_on">ჩართული</string>
+    <string name="smart_battery_summary_off">გამორთული</string>
 </resources>

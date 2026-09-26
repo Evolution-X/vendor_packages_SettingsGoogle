@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">അഡാപ്റ്റീവ് മുൻഗണനകൾ</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">അഡാപ്റ്റീവ് ബാറ്ററി</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">ബാറ്ററി ലെെഫ് വർദ്ധിപ്പിക്കുന്നതിന് അഡാപ്റ്റീവ് ബാറ്ററി, പ്രകടനവും പശ്ചാത്തല ആക്‌റ്റിവിറ്റിയും കുറച്ചേക്കാം. ചില അറിയിപ്പുകൾ വെെകിയേക്കാം.</string>
 

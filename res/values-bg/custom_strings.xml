@@ -5,4 +5,25 @@
     <string name="language_picker_page">Страница за избор на език</string>
     <string name="search_region">Търсете региони</string>
     <string name="search_region_page">Страница за региона на търсенето</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Стандартен режим за запазване на батерията</string>
+    <string name="basic_battery_saver_summary">Ограничава визуалните ефекти и активността на заден план. Включва тъмната тема, ако не е активирана.</string>
+    <string name="extreme_battery_saver_title">Екстремен режим за запазване на батерията</string>
+    <string name="extreme_battery_saver_summary">Включва всички посочени по-горе промени. Също така поставя на пауза маловажните приложения и съответните известия.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">График и напомняния</string>
+    <string name="battery_schedule_summary">Управление на включването на режима за запазване на батерията</string>
+    <string name="battery_saver_schedule_category">Насрочване</string>
+    <string name="battery_saver_schedule_switch_title">Включване въз основа на нивото на батерията</string>
+    <string name="battery_saver_schedule_switch_summary">Режимът за запазване на батерията се включва, когато зарядът ѝ падне до зададено от вас ниво</string>
+    <string name="battery_saver_reminder_category">Напомняния</string>
+    <string name="battery_saver_reminder_switch_title">Напомняния за режима за запазване на батерията</string>
+    <string name="battery_saver_reminder_switch_summary">Получавайте напомняния, когато батерията е изтощена</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Използване на режима за адаптивна батерия</string>
+    <string name="smart_battery_summary_on">Вкл.</string>
+    <string name="smart_battery_summary_off">Изкл.</string>
 </resources>

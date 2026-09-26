@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">មុខងារថ្ម​មាន​ភាពបត់បែនរៀនសូត្រពីការប្រើទូរសព្ទរបស់អ្នក ដើម្បីកែលម្អរបៀបដែលកម្មវិធីនានាប្រើប្រាស់ថ្មជាបន្តបន្ទាប់។ ដើម្បីបង្កើនកម្រិតថាមពលថ្ម ប្រតិបត្តិការអាចថយចុះ ហើយការជូនដំណឹងអាចមានការពន្យារពេល។</string>
+    <string name="smart_battery_summary" product="tablet">មុខងារថ្ម​មាន​ភាពបត់បែនរៀនសូត្រពីការប្រើថេប្លេតរបស់អ្នក ដើម្បីបង្កើនប្រសិទ្ធភាពរបៀបប្រើប្រាស់ថ្មរបស់កម្មវិធីជាបន្តបន្ទាប់។ ដើម្បីបង្កើនកម្រិតថាមពលថ្ម ប្រតិបត្តិការអាចថយចុះ ហើយការជូនដំណឹងអាចមានការពន្យារពេល។</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">ការបង្ហាញ និងការចុច</string>
 </resources>

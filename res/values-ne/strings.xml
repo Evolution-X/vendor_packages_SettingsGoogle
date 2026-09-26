@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">एड्याप्टिभ प्राथमिकताहरू</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">एड्याप्टिभ ब्याट्री</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">ब्याट्रीको आयु बढाउन एड्याप्टिभ ब्याट्री मोडले कार्यसम्पादन र ब्याकग्राउन्डमा हुने क्रियाकलाप घटाउन सक्छ। केही सूचनाहरू ढिलो प्राप्त हुन सक्छन्।</string>
 

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">节省电量，延长手机充电后的电池续航时间</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">节省电量，以帮助延长平板电脑在每次充电后的续航能力</string>
+</resources>

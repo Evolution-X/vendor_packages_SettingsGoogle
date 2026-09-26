@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">ആപ്പുകൾ ബാറ്ററി ഉപയോഗിക്കുന്നത് എങ്ങനെയെന്ന് തുടർച്ചയായി ഒപ്റ്റിമൈസ് ചെയ്യാൻ നിങ്ങളുടെ ഫോൺ ഉപയോഗത്തിൽ നിന്ന് അഡാപ്റ്റീവ് ബാറ്ററി മനസ്സിലാക്കുന്നു. ബാറ്ററി ലൈഫ് കൂട്ടാൻ, ഇത് പ്രകടനം കുറയ്ക്കുകയും അറിയിപ്പുകൾ വൈകിപ്പിക്കുകയും ചെയ്തേക്കാം.</string>
+    <string name="smart_battery_summary" product="tablet">ആപ്പുകൾ ബാറ്ററി ഉപയോഗിക്കുന്നത് എങ്ങനെയെന്ന് തുടർച്ചയായി ഒപ്റ്റിമൈസ് ചെയ്യാൻ നിങ്ങളുടെ ടാബ്‌ലെറ്റ് ഉപയോഗത്തിൽ നിന്ന് അഡാപ്റ്റീവ് ബാറ്ററി മനസ്സിലാക്കുന്നു. ബാറ്ററി ലൈഫ് കൂട്ടാൻ, ഇത് പ്രകടനം കുറയ്ക്കുകയും അറിയിപ്പുകൾ വൈകിപ്പിക്കുകയും ചെയ്തേക്കാം.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">ഡിസ്പ്ലേയും ടച്ചും</string>
 </resources>

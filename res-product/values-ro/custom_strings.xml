@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Economisește energie pentru ca bateria telefonului să dureze mai mult între încărcări</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Economisește energie pentru ca bateria tabletei să dureze mai mult între încărcări</string>
+</resources>

@@ -5,4 +5,25 @@
     <string name="language_picker_page">Halaman pemilih bahasa</string>
     <string name="search_region">Telusuri wilayah</string>
     <string name="search_region_page">Halaman wilayah penelusuran</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Penghemat Baterai Standar</string>
+    <string name="basic_battery_saver_summary">Membatasi efek visual dan aktivitas latar belakang. Mengaktifkan tema gelap, jika belum diaktifkan.</string>
+    <string name="extreme_battery_saver_title">Penghemat Baterai Super</string>
+    <string name="extreme_battery_saver_summary">Mencakup semua perubahan yang tercantum di atas. Juga menjeda aplikasi yang tidak penting dan notifikasinya.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Jadwal dan pengingat</string>
+    <string name="battery_schedule_summary">Kelola waktu pengaktifan Penghemat Baterai</string>
+    <string name="battery_saver_schedule_category">Jadwal</string>
+    <string name="battery_saver_schedule_switch_title">Aktifkan berdasarkan level baterai</string>
+    <string name="battery_saver_schedule_switch_summary">Penghemat Baterai diaktifkan saat daya baterai mencapai level yang Anda tetapkan</string>
+    <string name="battery_saver_reminder_category">Pengingat</string>
+    <string name="battery_saver_reminder_switch_title">Pengingat Penghemat Baterai</string>
+    <string name="battery_saver_reminder_switch_summary">Dapatkan pengingat saat daya baterai rendah</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Gunakan Baterai Adaptif</string>
+    <string name="smart_battery_summary_on">Aktif</string>
+    <string name="smart_battery_summary_off">Nonaktif</string>
 </resources>

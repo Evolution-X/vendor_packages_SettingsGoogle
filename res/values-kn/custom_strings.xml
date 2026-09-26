@@ -5,4 +5,25 @@
     <string name="language_picker_page">ಭಾಷಾ ಪಿಕರ್ ಪುಟ</string>
     <string name="search_region">ಪ್ರದೇಶಗಳನ್ನು ಹುಡುಕಿ</string>
     <string name="search_region_page">ಹುಡುಕಾಟ ಪ್ರದೇಶದ ಪುಟ</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">ಪ್ರಮಾಣಿತ ಬ್ಯಾಟರಿ ಸೇವರ್</string>
+    <string name="basic_battery_saver_summary">ವಿಷುವಲ್ ಎಫೆಕ್ಟ್‌ಗಳು ಹಾಗೂ ಹಿನ್ನೆಲೆ ಚಟುವಟಿಕೆಯನ್ನು ಸೀಮಿತಗೊಳಿಸುತ್ತದೆ. ಡಾರ್ಕ್ ಥೀಮ್ ಈಗಾಗಲೇ ಆನ್ ಆಗಿರದಿದ್ದರೆ ಅದನ್ನು ಆನ್ ಮಾಡುತ್ತದೆ.</string>
+    <string name="extreme_battery_saver_title">ಎಕ್ಸ್‌ಟ್ರೀಮ್ ಬ್ಯಾಟರಿ ಸೇವರ್</string>
+    <string name="extreme_battery_saver_summary">ಮೇಲೆ ಪಟ್ಟಿ ಮಾಡಲಾದ ಎಲ್ಲಾ ಬದಲಾವಣೆಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಅನಗತ್ಯ ಆ್ಯಪ್‌ಗಳು ಹಾಗೂ ಅವುಗಳ ನೋಟಿಫಿಕೇಶನ್‌ಗಳನ್ನು ಸಹ ವಿರಾಮಗೊಳಿಸುತ್ತದೆ.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">ವೇಳಾಪಟ್ಟಿ ಮತ್ತು ರಿಮೈಂಡರ್‌ಗಳು</string>
+    <string name="battery_schedule_summary">ಬ್ಯಾಟರಿ ಸೇವರ್ ಆನ್ ಆಗುವಿಕೆ ನಿರ್ವಹಿಸಿ</string>
+    <string name="battery_saver_schedule_category">ವೇಳಾಪಟ್ಟಿ</string>
+    <string name="battery_saver_schedule_switch_title">ಬ್ಯಾಟರಿ ಮಟ್ಟದ ಆಧಾರದ ಮೇಲೆ ಆನ್ ಮಾಡಿ</string>
+    <string name="battery_saver_schedule_switch_summary">ಬ್ಯಾಟರಿಯ ಚಾರ್ಜ್ ನೀವು ಸೆಟ್ ಮಾಡಿರುವ ಮಟ್ಟಕ್ಕಿಂತ ಕಡಿಮೆಯಾದಾಗ ಬ್ಯಾಟರಿ ಸೇವರ್ ಆನ್ ಆಗುತ್ತದೆ</string>
+    <string name="battery_saver_reminder_category">ರಿಮೈಂಡರ್‌ಗಳು</string>
+    <string name="battery_saver_reminder_switch_title">ಬ್ಯಾಟರಿ ಸೇವರ್ ರಿಮೈಂಡರ್‌ಗಳು</string>
+    <string name="battery_saver_reminder_switch_summary">ಬ್ಯಾಟರಿ ಕಡಿಮೆಯಿದ್ದಾಗ ರಿಮೈಂಡರ್‌ಗಳನ್ನು ಪಡೆಯಿರಿ</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">ಅಡಾಪ್ಟಿವ್ ಬ್ಯಾಟರಿಯನ್ನು ಬಳಸಿ</string>
+    <string name="smart_battery_summary_on">ಆನ್‌ ಆಗಿದೆ</string>
+    <string name="smart_battery_summary_off">ಆಫ್‌ ಆಗಿದೆ</string>
 </resources>

@@ -5,4 +5,25 @@
     <string name="language_picker_page">Тил тандоо барагы</string>
     <string name="search_region">Аймактарды издөө</string>
     <string name="search_region_page">Аймакты издөө барагы</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Батареяны үнөмдөөчү стандарттуу режим</string>
+    <string name="basic_battery_saver_summary">Визуалдык эффекттерди жана фондогу процесстерди чектейт. Эгер күйгүзүлө элек болсо, караңгы теманы күйгүзүңүз.</string>
+    <string name="extreme_battery_saver_title">Батареяны кескин үнөмдөө режими</string>
+    <string name="extreme_battery_saver_summary">Жогорудагы өзгөрүүлөрдөн тышкары, кереги жок колдонмолорду токтотуп, алардын билдирмелерин тындырат.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">График жана эстеткичтер</string>
+    <string name="battery_schedule_summary">Батареяны үнөмдөгүч качан күйө турганын тандайсыз</string>
+    <string name="battery_saver_schedule_category">График</string>
+    <string name="battery_saver_schedule_switch_title">Батареянын деңгээлине жараша күйгүзүү</string>
+    <string name="battery_saver_schedule_switch_summary">Батарея сиз койгон деңгээлге түшкөндө, кубат үнөмдөө режими күйөт</string>
+    <string name="battery_saver_reminder_category">Эстеткичтер</string>
+    <string name="battery_saver_reminder_switch_title">Батареяны үнөмдөгүч режиминин эстеткичтери</string>
+    <string name="battery_saver_reminder_switch_summary">Батареянын отуруп баратканын билип турасыз</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Adaptive Battery функциясын иштетүү</string>
+    <string name="smart_battery_summary_on">Күйүк</string>
+    <string name="smart_battery_summary_off">Өчүк</string>
 </resources>

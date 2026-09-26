@@ -5,4 +5,25 @@
     <string name="language_picker_page">زبان منتخب کنندہ کا صفحہ</string>
     <string name="search_region">علاقے تلاش کریں</string>
     <string name="search_region_page">علاقے کا صفحہ تلاش کریں</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">معیاری بیٹری سیور</string>
+    <string name="basic_battery_saver_summary">ویژوئل کے اثرات اور پس منظر کی سرگرمی کو محدود کرتی ہے۔ گہری تھیم کے پہلے سے آن نہ ہونے پر اسے آن کرتی ہے۔</string>
+    <string name="extreme_battery_saver_title">انتہائی بیٹری سیور</string>
+    <string name="extreme_battery_saver_summary">اوپر درج کردہ تمام تبدیلیاں شامل ہیں۔ غیر ضروری ایپس اور ان کی اطلاعات کو بھی موقوف کرتا ہے۔</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">شیڈول اور یاد دہانیاں</string>
+    <string name="battery_schedule_summary">بیٹری سیور کے آن ہونے پر نظم کریں</string>
+    <string name="battery_saver_schedule_category">شیڈول</string>
+    <string name="battery_saver_schedule_switch_title">بیٹری کی سطح کی بنیاد پر آن کریں</string>
+    <string name="battery_saver_schedule_switch_summary">جب بیٹری آپ کی سیٹ کی گئی سطح تک گر جاتی ہے تو بیٹری سیور آن ہو جاتا ہے</string>
+    <string name="battery_saver_reminder_category">یاد دہانیاں</string>
+    <string name="battery_saver_reminder_switch_title">بیٹری سیور کی یاد دہانیاں</string>
+    <string name="battery_saver_reminder_switch_summary">بیٹری کے کم ہونے پر یاد دہانیاں حاصل کریں</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">تغیر پذیر بیٹری کا استعمال کریں</string>
+    <string name="smart_battery_summary_on">آن</string>
+    <string name="smart_battery_summary_off">آف</string>
 </resources>

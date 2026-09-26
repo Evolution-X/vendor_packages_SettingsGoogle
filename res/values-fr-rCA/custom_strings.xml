@@ -5,4 +5,25 @@
     <string name="language_picker_page">Page du sélecteur de langue</string>
     <string name="search_region">Recherchez des régions</string>
     <string name="search_region_page">Page de recherche régionale</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Économiseur de pile standard</string>
+    <string name="basic_battery_saver_summary">Limite les effets visuels et l\'activité en arrière-plan. Active le thème Sombre, s\'il n\'est pas déjà activé.</string>
+    <string name="extreme_battery_saver_title">Économiseur de pile extrême</string>
+    <string name="extreme_battery_saver_summary">Comprend toutes les modifications énumérées ci-dessus. Met également en pause les applis non essentielles et leurs notifications.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Programme et rappels</string>
+    <string name="battery_schedule_summary">Gérez quand l\'Économiseur de pile s\'active</string>
+    <string name="battery_saver_schedule_category">Programme</string>
+    <string name="battery_saver_schedule_switch_title">Activer selon le niveau de la pile</string>
+    <string name="battery_saver_schedule_switch_summary">L\'Économiseur de pile s\'active lorsque le niveau de la pile atteint celui que vous avez défini</string>
+    <string name="battery_saver_reminder_category">Rappels</string>
+    <string name="battery_saver_reminder_switch_title">Rappels de l\'Économiseur de pile</string>
+    <string name="battery_saver_reminder_switch_summary">Recevez des rappels lorsque la pile est faible</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Utiliser la Pile adaptative</string>
+    <string name="smart_battery_summary_on">Activée</string>
+    <string name="smart_battery_summary_off">Désactivée</string>
 </resources>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">ແບັດເຕີຣີແບບປັບຕົວໄດ້ຈະຮຽນຮູ້ຈາກການນຳໃຊ້ໂທລະສັບຂອງທ່ານເພື່ອເພີ່ມປະສິດທິພາບການໃຊ້ແບັດເຕີຣີຂອງແອັບຢ່າງຕໍ່ເນື່ອງ. ເພື່ອຍືດອາຍຸແບັດເຕີຣີ, ມັນອາດຈະຫຼຸດປະສິດທິພາບ ແລະ ເລື່ອນການແຈ້ງເຕືອນອອກໄປ.</string>
+    <string name="smart_battery_summary" product="tablet">ແບັດເຕີຣີແບບປັບຕົວໄດ້ຈະຮຽນຮູ້ຈາກການນຳໃຊ້ແທັບເລັດຂອງທ່ານເພື່ອເພີ່ມປະສິດທິພາບການໃຊ້ແບັດເຕີຣີຂອງແອັບຢ່າງຕໍ່ເນື່ອງ. ເພື່ອຍືດອາຍຸແບັດເຕີຣີ, ມັນອາດຈະຫຼຸດປະສິດທິພາບ ແລະ ເລື່ອນການແຈ້ງເຕືອນອອກໄປ.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">ຈໍສະແດງຜົນ ແລະ ການສຳຜັດ</string>
 </resources>

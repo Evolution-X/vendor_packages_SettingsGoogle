@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Batteria Adattiva apprende dall\'utilizzo del tuo smartphone per ottimizzare continuamente il modo in cui le app usano la batteria. Per estendere la durata della batteria, potrebbe ridurre le prestazioni e ritardare le notifiche.</string>
+    <string name="smart_battery_summary" product="tablet">Batteria Adattiva apprende dall\'utilizzo del tuo tablet per ottimizzare continuamente il modo in cui le app usano la batteria. Per estendere la durata della batteria, potrebbe ridurre le prestazioni e ritardare le notifiche.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Display e tocco</string>
 </resources>

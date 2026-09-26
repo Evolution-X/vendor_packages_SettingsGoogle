@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Verbruik minder om de batterij langer te kunnen gebruiken tussen oplaadbeurten</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Verbruik minder om de batterij langer te laten meegaan tussen oplaadbeurten</string>
+</resources>

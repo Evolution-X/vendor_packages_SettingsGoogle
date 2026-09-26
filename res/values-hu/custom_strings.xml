@@ -5,4 +5,25 @@
     <string name="language_picker_page">Nyelvválasztó oldal</string>
     <string name="search_region">Régiók keresése</string>
     <string name="search_region_page">Keresés régiója oldal</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Normál akkumulátorkímélő mód</string>
+    <string name="basic_battery_saver_summary">Korlátozza a vizuális effekteket és a háttértevékenységeket. Bekapcsolja a Sötét témát, ha még nem aktív.</string>
+    <string name="extreme_battery_saver_title">Extrém akkumulátorkímélő mód</string>
+    <string name="extreme_battery_saver_summary">Az összes fenti módosítást tartalmazza. Ezek mellett nem alapvető alkalmazásokat és azok értesítéseit is szünetelteti.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Ütemezés és emlékeztetők</string>
+    <string name="battery_schedule_summary">Kezelés, ha az Akkumulátorkímélő mód bekapcsol</string>
+    <string name="battery_saver_schedule_category">Ütemezés</string>
+    <string name="battery_saver_schedule_switch_title">Bekapcsolás az akkumulátorszint alapján</string>
+    <string name="battery_saver_schedule_switch_summary">Az Akkumulátorkímélő mód akkor kapcsol be, amikor az akkumulátor szintje az Ön által beállított értékre csökken.</string>
+    <string name="battery_saver_reminder_category">Emlékeztetők</string>
+    <string name="battery_saver_reminder_switch_title">Az Akkumulátorkímélő mód emlékeztetői</string>
+    <string name="battery_saver_reminder_switch_summary">Emlékeztetőket kaphat, ha alacsony az akkumulátor töltöttségi szintje.</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Alkalmazkodó akkumulátor használata</string>
+    <string name="smart_battery_summary_on">Be</string>
+    <string name="smart_battery_summary_off">Ki</string>
 </resources>

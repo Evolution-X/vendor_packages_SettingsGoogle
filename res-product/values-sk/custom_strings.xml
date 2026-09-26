@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Šetrite energiu, aby batéria vášho telefónu vydržala medzi nabitiami dlhšie</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Šetrite energiu, aby batéria vášho tabletu vydržala medzi nabitiami dlhšie</string>
+</resources>

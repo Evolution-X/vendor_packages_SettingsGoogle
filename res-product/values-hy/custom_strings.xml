@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Տնտեսեք մարտկոցի լիցքը, որպեսզի ավելի երկար օգտագործեք հեռախոսը լիցքավորումների միջակայքում</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Տնտեսեք մարտկոցի լիցքը, որպեսզի ավելի երկար օգտագործեք պլանշետը լիցքավորումների միջակայքում</string>
+</resources>

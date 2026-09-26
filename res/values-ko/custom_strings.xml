@@ -5,4 +5,25 @@
     <string name="language_picker_page">언어 선택 도구 페이지</string>
     <string name="search_region">지역 검색</string>
     <string name="search_region_page">검색 지역 페이지</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">기본 절전 모드</string>
+    <string name="basic_battery_saver_summary">시각 효과와 백그라운드 활동을 제한합니다. 어두운 테마가 아직 사용 설정되어 있지 않은 경우 사용 설정합니다.</string>
+    <string name="extreme_battery_saver_title">최대 절전 모드</string>
+    <string name="extreme_battery_saver_summary">위의 모든 변경사항을 포함합니다. 필수 앱 및 알림을 제외하고 모두 일시중지합니다.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">일정 및 알림</string>
+    <string name="battery_schedule_summary">절전 모드가 켜지는 시점 관리</string>
+    <string name="battery_saver_schedule_category">일정</string>
+    <string name="battery_saver_schedule_switch_title">배터리 잔량에 따라 시작</string>
+    <string name="battery_saver_schedule_switch_summary">배터리 잔량이 설정한 수준까지 떨어지면 절전 모드가 시작됩니다.</string>
+    <string name="battery_saver_reminder_category">알림</string>
+    <string name="battery_saver_reminder_switch_title">절전 모드 알림</string>
+    <string name="battery_saver_reminder_switch_summary">배터리가 부족할 때 알림을 받습니다.</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">배터리 자동 조절 사용</string>
+    <string name="smart_battery_summary_on">사용</string>
+    <string name="smart_battery_summary_off">사용 안함</string>
 </resources>

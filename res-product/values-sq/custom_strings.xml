@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Kurse energjinë për të ndihmuar që bateria e telefonit të zgjasë më shumë midis karikimeve</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Kurse energjinë për të ndihmuar që bateria e tabletit të zgjasë më shumë midis karikimeve</string>
+</resources>

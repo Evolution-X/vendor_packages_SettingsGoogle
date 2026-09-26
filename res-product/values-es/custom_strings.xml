@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Ahorra energía para que la batería de tu teléfono dure más entre cargas</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Ahorra energía para que la batería de tu tablet dure más entre cargas</string>
+</resources>

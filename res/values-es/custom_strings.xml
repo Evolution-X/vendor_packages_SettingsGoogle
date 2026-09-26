@@ -5,4 +5,25 @@
     <string name="language_picker_page">Página del selector de idioma</string>
     <string name="search_region">Buscar regiones</string>
     <string name="search_region_page">Página de búsqueda por región</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Ahorro de batería estándar</string>
+    <string name="basic_battery_saver_summary">Limita los efectos visuales y la actividad en segundo plano. Activa el tema oscuro si no se ha activado previamente.</string>
+    <string name="extreme_battery_saver_title">Ahorro de batería extremo</string>
+    <string name="extreme_battery_saver_summary">Aplica los mismos cambios que en Ahorro de batería estándar y, además, pausa las aplicaciones no esenciales y sus notificaciones.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Programación y recordatorios</string>
+    <string name="battery_schedule_summary">Gestiona cuándo se activa Ahorro de batería</string>
+    <string name="battery_saver_schedule_category">Programación</string>
+    <string name="battery_saver_schedule_switch_title">Activar según el nivel de batería</string>
+    <string name="battery_saver_schedule_switch_summary">Ahorro de batería se activa cuando la batería desciende hasta el nivel que hayas configurado</string>
+    <string name="battery_saver_reminder_category">Recordatorios</string>
+    <string name="battery_saver_reminder_switch_title">Recordatorio de Ahorro de batería</string>
+    <string name="battery_saver_reminder_switch_summary">Recibe recordatorios cuando la batería esté baja</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Usar Batería inteligente</string>
+    <string name="smart_battery_summary_on">Activada</string>
+    <string name="smart_battery_summary_off">Desactivada</string>
 </resources>

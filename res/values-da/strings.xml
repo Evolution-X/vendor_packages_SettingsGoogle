@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Præferencer for adaptiv justering</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Adaptivt batteri</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Adaptivt batteri kan reducere ydeevnen og begrænse baggrundsaktivitet for at forlænge batteritiden. Nogle notifikationer kan blive forsinket.</string>
 

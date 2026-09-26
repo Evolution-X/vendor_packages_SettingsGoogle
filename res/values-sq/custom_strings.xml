@@ -5,4 +5,25 @@
     <string name="language_picker_page">Faqja e zgjedhësit të gjuhës</string>
     <string name="search_region">Kërko për rajonin</string>
     <string name="search_region_page">Faqja e kërkimit të rajonit</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Kursyesi standard i baterisë</string>
+    <string name="basic_battery_saver_summary">Kufizon efektet vizuale dhe aktivitetin në sfond. Aktivizon \"Temën e errët\", nëse nuk është aktivizuar tashmë.</string>
+    <string name="extreme_battery_saver_title">Kursyesi ekstrem i baterisë</string>
+    <string name="extreme_battery_saver_summary">Përfshin të gjitha ndryshimet e listuara më sipër. Vendos në pauzë edhe aplikacionet jothelbësore dhe njoftimet e tyre.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Planifikimi dhe alarmet rikujtuese</string>
+    <string name="battery_schedule_summary">Menaxhoje kur aktivizohet \"Kursyesi i baterisë\"</string>
+    <string name="battery_saver_schedule_category">Orari</string>
+    <string name="battery_saver_schedule_switch_title">Aktivizo bazuar në nivelin e baterisë</string>
+    <string name="battery_saver_schedule_switch_summary">\"Kursyesi i baterisë\" aktivizohet kur bateria bie në një nivel që cakton ti</string>
+    <string name="battery_saver_reminder_category">Alarmet rikujtuese</string>
+    <string name="battery_saver_reminder_switch_title">Alarmet rikujtuese për \"Kursyesin e baterisë\"</string>
+    <string name="battery_saver_reminder_switch_summary">Merr alarme rikujtuese kur bateria është në nivel të ulët</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Përdor \"Baterinë me përshtatje\"</string>
+    <string name="smart_battery_summary_on">Aktive</string>
+    <string name="smart_battery_summary_off">Joaktive</string>
 </resources>

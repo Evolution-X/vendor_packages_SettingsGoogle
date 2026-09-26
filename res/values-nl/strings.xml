@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Aangepaste voorkeuren</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Aangepast batterijgebruik</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Aangepast batterijgebruik kan achtergrondactiviteit uitzetten of beperken om de batterijduur te verlengen. Sommige meldingen kunnen vertraagd zijn.</string>
 

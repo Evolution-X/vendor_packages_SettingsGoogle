@@ -5,4 +5,25 @@
     <string name="language_picker_page">భాష సెలెక్టర్ పేజీ</string>
     <string name="search_region">ప్రాంతాలను సెర్చ్ చేయండి</string>
     <string name="search_region_page">ప్రాంతం కోసం సెర్చ్ చేసే పేజీ</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">స్టాండర్డ్ బ్యాటరీ సేవర్</string>
+    <string name="basic_battery_saver_summary">విజువల్ ఎఫెక్ట్‌లను, బ్యాక్‌గ్రౌండ్ యాక్టివిటీని పరిమితం చేస్తుంది. డార్క్ థీమ్ ఆన్‌లో లేకపోతే, దాన్ని ఆన్ చేస్తుంది.</string>
+    <string name="extreme_battery_saver_title">అధునాతన బ్యాటరీ సేవర్</string>
+    <string name="extreme_battery_saver_summary">పైన లిస్ట్ చేసిన అన్ని మార్పులు ఇందులో ఉంటాయి. అనవసరమైన యాప్‌లను, వాటి నోటిఫికేషన్‌లను కూడా పాజ్ చేస్తుంది.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">షెడ్యూల్, రిమైండర్‌లు</string>
+    <string name="battery_schedule_summary">బ్యాటరీ సేవర్ ఎప్పుడు ఆన్ అవ్వాలో మేనేజ్ చేయండి</string>
+    <string name="battery_saver_schedule_category">షెడ్యూల్</string>
+    <string name="battery_saver_schedule_switch_title">బ్యాటరీ స్థాయి ఆధారంగా ఆన్ చేయండి</string>
+    <string name="battery_saver_schedule_switch_summary">మీరు సెట్ చేసిన స్థాయికి బ్యాటరీ పడిపోయినప్పుడు బ్యాటరీ సేవర్ ఆన్ అవుతుంది</string>
+    <string name="battery_saver_reminder_category">రిమైండర్‌లు</string>
+    <string name="battery_saver_reminder_switch_title">బ్యాటరీ సేవర్ రిమైండర్‌లు</string>
+    <string name="battery_saver_reminder_switch_summary">బ్యాటరీ తక్కువగా ఉన్నప్పుడు రిమైండర్‌లను పొందండి</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">అనుకూల బ్యాటరీని ఉపయోగించండి</string>
+    <string name="smart_battery_summary_on">ఆన్‌లో ఉంది</string>
+    <string name="smart_battery_summary_off">ఆఫ్‌లో ఉంది</string>
 </resources>

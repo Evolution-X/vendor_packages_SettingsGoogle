@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Адаптивне енергоспоживання аналізує використання телефона, щоб постійно оптимізувати споживання заряду акумулятора додатками. Щоб збільшувати час роботи акумулятора, ця функція може обмежувати продуктивність, а сповіщення можуть з’являтись із затримкою.</string>
+    <string name="smart_battery_summary" product="tablet">Адаптивне енергоспоживання аналізує використання планшета, щоб постійно оптимізувати споживання заряду акумулятора додатками. Щоб збільшувати час роботи акумулятора, ця функція може обмежувати продуктивність, а сповіщення можуть з’являтись із затримкою.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Екран і сенсорне введення</string>
 </resources>

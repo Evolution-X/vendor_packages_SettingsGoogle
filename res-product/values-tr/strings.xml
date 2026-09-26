@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Uyarlanabilir Pil özelliği, telefon kullanımınızdan bilgi edinerek uygulamaların pili kullanma şeklini sürekli optimize eder. Pil ömrünü uzatmak için performansı düşürebilir ve bildirimleri gecikmeli gönderebilir.</string>
+    <string name="smart_battery_summary" product="tablet">Uyarlanabilir Pil özelliği, tablet kullanımınızdan bilgi edinerek uygulamaların pili kullanma şeklini sürekli optimize eder. Pil ömrünü uzatmak için performansı düşürebilir ve bildirimleri gecikmeli gönderebilir.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Ekran ve dokunma</string>
 </resources>

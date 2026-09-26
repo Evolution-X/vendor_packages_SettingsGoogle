@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Прилагодљива подешавања</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Прилагодљива батерија</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Да би продужила трајање батерије, прилагодљива батерија може да смањи учинак и активности у позадини. Нека обавештења могу да касне.</string>
 

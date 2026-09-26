@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Tính năng Pin thích ứng sẽ tìm hiểu cách bạn dùng điện thoại để liên tục tối ưu hoá cách ứng dụng sử dụng pin. Để kéo dài thời lượng pin, tính năng này có thể sẽ giảm mức hiệu suất và gửi thông báo chậm hơn.</string>
+    <string name="smart_battery_summary" product="tablet">Tính năng Pin thích ứng sẽ tìm hiểu cách bạn dùng máy tính bảng để liên tục tối ưu hoá cách ứng dụng sử dụng pin. Để kéo dài thời lượng pin, tính năng này có thể sẽ giảm mức hiệu suất và gửi thông báo chậm hơn.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Màn hình và thao tác chạm</string>
 </resources>

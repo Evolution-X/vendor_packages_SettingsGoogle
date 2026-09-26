@@ -5,4 +5,25 @@
     <string name="language_picker_page">Страница выбора языка</string>
     <string name="search_region">Поиск региона</string>
     <string name="search_region_page">Страница настройки региона поиска</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Стандартный режим энергосбережения</string>
+    <string name="basic_battery_saver_summary">Ограничить визуальные эффекты и фоновые процессы, включить тёмную тему</string>
+    <string name="extreme_battery_saver_title">Режим экстренного энергосбережения</string>
+    <string name="extreme_battery_saver_summary">Делает то же, что и стандартный режим, а также приостанавливает приложения, без которых можно обойтись, и их уведомления</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Расписание и напоминания</string>
+    <string name="battery_schedule_summary">Настроить, когда включается режим энергосбережения</string>
+    <string name="battery_saver_schedule_category">Расписание</string>
+    <string name="battery_saver_schedule_switch_title">Включать с учетом уровня заряда батареи</string>
+    <string name="battery_saver_schedule_switch_summary">Режим энергосбережения включается, когда заряд батареи уменьшается до установленного вами уровня</string>
+    <string name="battery_saver_reminder_category">Напоминания</string>
+    <string name="battery_saver_reminder_switch_title">Напоминания режима энергосбережения</string>
+    <string name="battery_saver_reminder_switch_summary">Получать напоминания о низком уровне заряда батареи</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Адаптивное энергопотребление</string>
+    <string name="smart_battery_summary_on">Включено</string>
+    <string name="smart_battery_summary_off">Отключено</string>
 </resources>

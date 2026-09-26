@@ -5,4 +5,25 @@
     <string name="language_picker_page">ভাষা বাছাইকারী পৃষ্ঠা</string>
     <string name="search_region">অঞ্চল সার্চ করুন</string>
     <string name="search_region_page">অঞ্চল সার্চ করার পৃষ্ঠা</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">স্ট্যান্ডার্ড ব্যাটারি সেভার</string>
+    <string name="basic_battery_saver_summary">ভিজ্যুয়াল এফেক্ট ও ব্যাকগ্রাউন্ড অ্যাক্টিভিটি সীমিত করে। ইতিমধ্যে চালু করা না থাকলে, ডার্ক থিম চালু করে।</string>
+    <string name="extreme_battery_saver_title">এক্সট্রিম ব্যাটারি সেভার</string>
+    <string name="extreme_battery_saver_summary">উপরের তালিকায় থাকা সবকটি পরিবর্তন অন্তর্ভুক্ত করে। এছাড়া জরুরি নয় এমন অ্যাপ ও তার বিজ্ঞপ্তি পজ করে।</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">শিডিউল ও রিমাইন্ডার</string>
+    <string name="battery_schedule_summary">ব্যাটারি সেভার চালু হওয়ার সময় ম্যানেজ করুন</string>
+    <string name="battery_saver_schedule_category">শিডিউল</string>
+    <string name="battery_saver_schedule_switch_title">ব্যাটারিতে কতটা চার্জ রয়েছে তার উপর নির্ভর করে চালু হয়</string>
+    <string name="battery_saver_schedule_switch_summary">আপনার সেট করা লেভেলে ব্যাটারির চার্জ নেমে আসলে \'ব্যাটারি সেভার\' ফিচার চালু হয়</string>
+    <string name="battery_saver_reminder_category">রিমাইন্ডার</string>
+    <string name="battery_saver_reminder_switch_title">\'ব্যাটারি সেভার\' সম্পর্কিত রিমাইন্ডার</string>
+    <string name="battery_saver_reminder_switch_summary">ব্যাটারির চার্জ কম থাকলে রিমাইন্ডার পান</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">অ্যাডাপ্টিভ ব্যাটারি ব্যবহার করুন</string>
+    <string name="smart_battery_summary_on">চালু আছে</string>
+    <string name="smart_battery_summary_off">বন্ধ আছে</string>
 </resources>

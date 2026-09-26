@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Tiết kiệm pin để kéo dài thời lượng pin của điện thoại giữa các lần sạc</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Tiết kiệm pin để kéo dài thời lượng pin của máy tính bảng giữa các lần sạc</string>
+</resources>

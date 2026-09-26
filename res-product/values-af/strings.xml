@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Aanpasbare Battery leer by jou foongebruik om deurlopend te optimeer hoe apps batterykrag gebruik. Dit kan werkverrigting verlaag en kennisgewings vertraag om batterylewe te verleng.</string>
+    <string name="smart_battery_summary" product="tablet">Aanpasbare Battery leer by jou tabletgebruik om deurlopend te optimeer hoe apps batterykrag gebruik. Dit kan werkverrigting verlaag en kennisgewings vertraag om batterylewe te verleng.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Skerm en raak</string>
 </resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">ಚಾರ್ಜ್ ಮಾಡಿದ ಬಳಿಕ ನಿಮ್ಮ ಫೋನ್‌ನ ಬ್ಯಾಟರಿ ಹೆಚ್ಚು ಕಾಲ ಉಳಿಯುವುದಕ್ಕೆ ಸಹಾಯ ಮಾಡಲು ಪವರ್ ಅನ್ನು ಉಳಿಸಿ</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">ಚಾರ್ಜ್ ಮಾಡಿದ ಬಳಿಕ ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್‌‌ನ ಬ್ಯಾಟರಿ ಹೆಚ್ಚು ಕಾಲ ಉಳಿಯುವುದಕ್ಕೆ ಸಹಾಯ ಮಾಡಲು ಪವರ್ ಅನ್ನು ಉಳಿಸಿ</string>
+</resources>

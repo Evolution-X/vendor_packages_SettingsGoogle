@@ -5,4 +5,25 @@
     <string name="language_picker_page">Trang bộ chọn ngôn ngữ</string>
     <string name="search_region">Tìm khu vực</string>
     <string name="search_region_page">Trang tìm kiếm theo khu vực</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Trình tiết kiệm pin tiêu chuẩn</string>
+    <string name="basic_battery_saver_summary">Giới hạn hiệu ứng hình ảnh và hoạt động trong nền. Bật giao diện tối nếu chưa bật.</string>
+    <string name="extreme_battery_saver_title">Trình siêu tiết kiệm pin</string>
+    <string name="extreme_battery_saver_summary">Chế độ này sẽ thực hiện mọi thay đổi nêu trên. Đồng thời tạm dừng các ứng dụng không thiết yếu và thông báo của những ứng dụng đó.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Lịch biểu và lời nhắc</string>
+    <string name="battery_schedule_summary">Quản lý thời điểm bật Trình tiết kiệm pin</string>
+    <string name="battery_saver_schedule_category">Lịch biểu</string>
+    <string name="battery_saver_schedule_switch_title">Bật dựa trên mức pin</string>
+    <string name="battery_saver_schedule_switch_summary">Tính năng Tiết kiệm pin sẽ bật khi pin giảm xuống mức bạn đã thiết lập</string>
+    <string name="battery_saver_reminder_category">Lời nhắc</string>
+    <string name="battery_saver_reminder_switch_title">Lời nhắc tiết kiệm pin</string>
+    <string name="battery_saver_reminder_switch_summary">Nhận lời nhắc khi pin ở mức thấp</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Sử dụng Pin thích ứng</string>
+    <string name="smart_battery_summary_on">Đang bật</string>
+    <string name="smart_battery_summary_off">Đang tắt</string>
 </resources>

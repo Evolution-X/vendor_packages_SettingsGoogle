@@ -5,4 +5,25 @@
     <string name="language_picker_page">Старонка з інструментам выбару мовы</string>
     <string name="search_region">Шукаць рэгіёны</string>
     <string name="search_region_page">Старонка пошуку рэгіёна</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Стандартны рэжым энергазберажэння</string>
+    <string name="basic_battery_saver_summary">Абмяжоўвае візуальныя эфекты і фонавыя працэсы, а таксама ўключае цёмную тэму.</string>
+    <string name="extreme_battery_saver_title">Рэжым экстрэмальнага энергазберажэння</string>
+    <string name="extreme_battery_saver_summary">Уключае ўсе змяненні, пералічаныя вышэй, і прыпыняе другарадныя праграмы і іх апавяшчэнні.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Расклад і напаміны</string>
+    <string name="battery_schedule_summary">Кіраваць уключэннем рэжыму энергазберажэння</string>
+    <string name="battery_saver_schedule_category">Расклад</string>
+    <string name="battery_saver_schedule_switch_title">Уключаць у залежнасці ад узроўню зараду</string>
+    <string name="battery_saver_schedule_switch_summary">Рэжым энергазберажэння ўключаецца, калі ўзровень зараду падае да зададзенага вамі значэння</string>
+    <string name="battery_saver_reminder_category">Напаміны</string>
+    <string name="battery_saver_reminder_switch_title">Напаміны рэжыму энергазберажэння</string>
+    <string name="battery_saver_reminder_switch_summary">Атрымлівайце напаміны пра нізкі зарад акумулятара</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Выкарыстоўваць Адаптацыю акумулятара</string>
+    <string name="smart_battery_summary_on">Уключана</string>
+    <string name="smart_battery_summary_off">Выключана</string>
 </resources>

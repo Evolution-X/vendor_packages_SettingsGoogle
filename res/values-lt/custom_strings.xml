@@ -5,4 +5,25 @@
     <string name="language_picker_page">Kalbos rinkiklio puslapis</string>
     <string name="search_region">Ieškokite regionų</string>
     <string name="search_region_page">Paieškos regiono puslapis</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Įprasta Akumuliatoriaus tausojimo priemonė</string>
+    <string name="basic_battery_saver_summary">Apribojami vaizdiniai efektai ir veikla fone. Įjungia tamsiąją temą, jei dar neįjungta.</string>
+    <string name="extreme_battery_saver_title">Akumuliatoriaus energijos taupymas didžiausiu režimu</string>
+    <string name="extreme_battery_saver_summary">Įtraukiami visi anksčiau pateikti pakeitimai. Taip pat pristabdo nebūtinąsias programas ir jų pranešimus.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Tvarkaraštis ir priminimai</string>
+    <string name="battery_schedule_summary">Tvarkyti, kai įjungiama Akumuliatoriaus tausojimo priemonė</string>
+    <string name="battery_saver_schedule_category">Tvarkaraštis</string>
+    <string name="battery_saver_schedule_switch_title">Įjungimas pagal akumuliatoriaus lygį</string>
+    <string name="battery_saver_schedule_switch_summary">Akumuliatoriaus tausojimo priemonė įjungiama akumuliatoriui pasiekus nustatytą lygį</string>
+    <string name="battery_saver_reminder_category">Priminimai</string>
+    <string name="battery_saver_reminder_switch_title">Akumuliatoriaus tausojimo priemonės priminimai</string>
+    <string name="battery_saver_reminder_switch_summary">Gauti priminimų, kai akumuliatorius išsikraus</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Naudoti prisitaikantį akumuliatorių</string>
+    <string name="smart_battery_summary_on">Įjungta</string>
+    <string name="smart_battery_summary_off">Išjungta</string>
 </resources>

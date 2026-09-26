@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Adaptīvais akumulators nepārtraukti optimizē lietotņu patērēto akumulatora enerģiju, ņemot vērā to, kā jūs lietojat savu tālruni. Lai palielinātu akumulatora darbības ilgumu, var tikt ierobežota veiktspēja un aizkavēta paziņojumu piegāde.</string>
+    <string name="smart_battery_summary" product="tablet">Adaptīvais akumulators nepārtraukti optimizē lietotņu patērēto akumulatora enerģiju, ņemot vērā to, kā jūs lietojat savu planšetdatoru. Lai palielinātu akumulatora darbības ilgumu, var tikt ierobežota veiktspēja un aizkavēta paziņojumu piegāde.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Attēlojums un skārienievade</string>
 </resources>

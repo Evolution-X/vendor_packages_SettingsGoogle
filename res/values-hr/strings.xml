@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Preferencije za adaptivne značajke</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Adaptivna baterija</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Da bi se produljilo trajanje baterije, adaptivna baterija može smanjiti izvedbu i aktivnost u pozadini. Neke će se obavijesti možda odgoditi.</string>
 

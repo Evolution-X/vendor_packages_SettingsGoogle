@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Adaptivna baterija prati upotrebu vašeg telefona i stalno optimizira način na koji aplikacije upotrebljavaju bateriju. Da bi se produljilo trajanje baterije, adaptivna baterija može smanjiti izvedbu i odgoditi obavijesti.</string>
+    <string name="smart_battery_summary" product="tablet">Adaptivna baterija prati upotrebu vašeg tableta i stalno optimizira način na koji aplikacije upotrebljavaju bateriju. Da bi se produljilo trajanje baterije, adaptivna baterija može smanjiti izvedbu i odgoditi obavijesti.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Prikaz i dodir</string>
 </resources>

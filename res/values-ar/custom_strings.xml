@@ -5,4 +5,25 @@
     <string name="language_picker_page">صفحة أداة اختيار اللغة</string>
     <string name="search_region">البحث عن المناطق</string>
     <string name="search_region_page">صفحة البحث عن المنطقة</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">توفير البطارية العادي</string>
+    <string name="basic_battery_saver_summary">يحدّ هذا الخيار من المؤثرات البصرية والأنشطة في الخلفية ويُفعِّل \"المظهر الداكن\" في حال لم يكُن مفعَّلاً.</string>
+    <string name="extreme_battery_saver_title">توفير شحن البطارية العالي</string>
+    <string name="extreme_battery_saver_summary">يشمل جميع التغييرات المذكورة أعلاه. ويتم أيضًا إيقاف التطبيقات غير الأساسية وإشعاراتها مؤقتًا.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">الجدول الزمني والتذكيرات</string>
+    <string name="battery_schedule_summary">يمكنك إدارة الحالات التي يتم فيها تفعيل ميزة \"توفير شحن البطارية\"</string>
+    <string name="battery_saver_schedule_category">الجدولة</string>
+    <string name="battery_saver_schedule_switch_title">التفعيل بناءً على مستوى البطارية</string>
+    <string name="battery_saver_schedule_switch_summary">يتم تفعيل وضع \"توفير شحن البطارية\" عندما ينخفض شحن البطارية إلى المستوى الذي تحدّده</string>
+    <string name="battery_saver_reminder_category">التذكيرات</string>
+    <string name="battery_saver_reminder_switch_title">تذكيرات ميزة \"توفير شحن البطارية\"</string>
+    <string name="battery_saver_reminder_switch_summary">يمكنك تلقّي تذكيرات عند انخفاض شحن البطارية</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">استخدام ميزة \"البطارية التكيُّفية\"</string>
+    <string name="smart_battery_summary_on">مفعّلة</string>
+    <string name="smart_battery_summary_off">غير مفعَّلة</string>
 </resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Yonga amandla ukuze usize ibhethri yefoni yakho ihlale isikhathi eside phakathi nokushajwa</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Yonga amandla ukuze usize ibhethri yethebulethi yakho ihlale isikhathi eside phakathi nokushajwa</string>
+</resources>

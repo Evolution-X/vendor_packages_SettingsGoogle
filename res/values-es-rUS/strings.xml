@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Preferencias adaptativas</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Batería adaptable</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Para extender la duración de la batería, la función Batería adaptable puede reducir el rendimiento y la actividad en segundo plano. Es posible que algunas notificaciones funcionen con retraso.</string>
 

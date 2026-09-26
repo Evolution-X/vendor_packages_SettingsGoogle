@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Alternativer for selvjustering</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Tilpasset batteri</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Tilpasset batteri kan redusere ytelse og bakgrunnsaktivitet for å forlenge batterilevetiden. Noen varsler kan bli utsatt.</string>
 

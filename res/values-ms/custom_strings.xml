@@ -5,4 +5,25 @@
     <string name="language_picker_page">Halaman pemilih bahasa</string>
     <string name="search_region">Cari rantau</string>
     <string name="search_region_page">Halaman rantau carian</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Penjimat Bateri Standard</string>
+    <string name="basic_battery_saver_summary">Mengehadkan kesan visual dan aktiviti latar. Menghidupkan tema gelap jika belum dihidupkan.</string>
+    <string name="extreme_battery_saver_title">Penjimat Bateri Ekstrem</string>
+    <string name="extreme_battery_saver_summary">Termasuk semua perubahan yang disenaraikan di atas. Juga menjeda apl tidak penting dan pemberitahuan apl tersebut.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Jadual dan peringatan</string>
+    <string name="battery_schedule_summary">Urus masa Penjimat Bateri dihidupkan</string>
+    <string name="battery_saver_schedule_category">Jadual</string>
+    <string name="battery_saver_schedule_switch_title">Hidupkan berdasarkan aras kuasa bateri</string>
+    <string name="battery_saver_schedule_switch_summary">Penjimat Bateri dihidupkan apabila kuasa bateri mencapai aras yang anda tetapkan</string>
+    <string name="battery_saver_reminder_category">Peringatan</string>
+    <string name="battery_saver_reminder_switch_title">Peringatan Penjimat Bateri</string>
+    <string name="battery_saver_reminder_switch_summary">Dapatkan peringatan apabila kuasa bateri rendah</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Gunakan Bateri Boleh Suai</string>
+    <string name="smart_battery_summary_on">Hidup</string>
+    <string name="smart_battery_summary_off">Mati</string>
 </resources>

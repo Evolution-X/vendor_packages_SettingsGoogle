@@ -5,4 +5,25 @@
     <string name="language_picker_page">דף הכלי לבחירת שפה</string>
     <string name="search_region">חיפוש אזורים</string>
     <string name="search_region_page">הדף של חיפוש אזורים</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">חיסכון סטנדרטי בסוללה</string>
+    <string name="basic_battery_saver_summary">האפקטים הויזואליים והפעילות ברקע יוגבלו. העיצוב הכהה יופעל.</string>
+    <string name="extreme_battery_saver_title">חיסכון משמעותי בסוללה</string>
+    <string name="extreme_battery_saver_summary">כל השינויים שרשומים למעלה, וגם השהיית אפליקציות לא חיוניות וההתראות שלהן.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">לוח זמנים ותזכורות</string>
+    <string name="battery_schedule_summary">מתי יופעל מצב \"חיסכון בסוללה\"</string>
+    <string name="battery_saver_schedule_category">לוח זמנים</string>
+    <string name="battery_saver_schedule_switch_title">הפעלה על סמך רמת הטעינה</string>
+    <string name="battery_saver_schedule_switch_summary">מצב \"חיסכון בסוללה\" יופעל כשהסוללה תגיע לרמה שהגדרת</string>
+    <string name="battery_saver_reminder_category">תזכורות</string>
+    <string name="battery_saver_reminder_switch_title">תזכורות על סוללה חלשה</string>
+    <string name="battery_saver_reminder_switch_summary">קבלת תזכורות כשרמת הטעינה נמוכה</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">שימוש באופטימיזציה של ניצול הסוללה</string>
+    <string name="smart_battery_summary_on">מופעל</string>
+    <string name="smart_battery_summary_off">מושבת</string>
 </resources>

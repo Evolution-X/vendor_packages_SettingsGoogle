@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">අනුවර්තී මනාප</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">අනුවර්තනීය බැටරිය</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">බැටරි ආයු කාලය දිගු කිරීමට, අනුවර්තනීය බැටරිය කාර්ය සාධනය සහ පසුබිම් ක්‍රියාකාරිත්වය අඩු කළ හැකිය. සමහර දැනුම්දීම් ප්‍රමාද විය හැකිය.</string>
 

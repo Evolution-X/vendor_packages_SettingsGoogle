@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">ተለማማጅ ባትሪ መተግበሪያዎች ባትሪውን እንዴት እንደሚጠቀሙ በተከታታይ ለማመቻቸት ከስልክዎ አጠቃቀም ይማራል። የባትሪ ዕድሜን ለማራዘም፣ አፈጻጸሙን ሊቀንስ እና ማሳወቂያዎችን ሊያዘገይ ይችላል።</string>
+    <string name="smart_battery_summary" product="tablet">ተለማማጅ ባትሪ መተግበሪያዎች ባትሪውን እንዴት እንደሚጠቀሙ በተከታታይ ለማመቻቸት ከጡባዊዎ አጠቃቀም ይማራል። የባትሪ ዕድሜን ለማራዘም፣ አፈጻጸሙን ሊቀንስ እና ማሳወቂያዎችን ሊያዘገይ ይችላል።</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">ማሳያ እና ንክኪ</string>
 </resources>

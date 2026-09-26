@@ -5,4 +5,25 @@
     <string name="language_picker_page">Ukurasa wa kiteua lugha</string>
     <string name="search_region">Tafuta maeneo</string>
     <string name="search_region_page">Ukurasa wa kutafuta eneo</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Kiokoa Betri cha Wastani</string>
+    <string name="basic_battery_saver_summary">Hupunguza madoido yanayoonekana, na shughuli za chinichini. Huwasha mandhari meusi, iwapo bado hayajawashwa.</string>
+    <string name="extreme_battery_saver_title">Kiokoa Betri kwa Kina</string>
+    <string name="extreme_battery_saver_summary">Inajumuisha mabadiliko yote yaliyoorodheshwa hapo juu. Pia husitisha programu zisizo muhimu na arifa zake.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Ratiba na vikumbusho</string>
+    <string name="battery_schedule_summary">Dhibiti Kiokoa Betri kinapowaka</string>
+    <string name="battery_saver_schedule_category">Ratiba</string>
+    <string name="battery_saver_schedule_switch_title">Washa kulingana na chaji ya betri</string>
+    <string name="battery_saver_schedule_switch_summary">Kiokoa Betri huwaka chaji ya betri inapofikia kiwango ulichoweka</string>
+    <string name="battery_saver_reminder_category">Vikumbusho</string>
+    <string name="battery_saver_reminder_switch_title">Vikumbusho vya Kiokoa Betri</string>
+    <string name="battery_saver_reminder_switch_summary">Pata vikumbusho wakati chaji ya betri imepungua</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Tumia Betri Inayojirekebisha</string>
+    <string name="smart_battery_summary_on">Imewashwa</string>
+    <string name="smart_battery_summary_off">Imezimwa</string>
 </resources>

@@ -5,4 +5,25 @@
     <string name="language_picker_page">Kielivalitsimen sivu</string>
     <string name="search_region">Hae alueita</string>
     <string name="search_region_page">Hakualueen sivu</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Akun vakiosäästö</string>
+    <string name="basic_battery_saver_summary">Rajoittaa visuaalisia tehosteita ja taustatoimintaa. Laittaa tumman teeman päälle, jos se ei vielä ole.</string>
+    <string name="extreme_battery_saver_title">Akun tehosäästö</string>
+    <string name="extreme_battery_saver_summary">Sisältää yllä mainitut muutokset. Keskeyttää myös toissijaiset sovellukset ja niiden ilmoitukset.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Aikataulu ja muistutukset</string>
+    <string name="battery_schedule_summary">Valitse, milloin virransäästö menee päälle</string>
+    <string name="battery_saver_schedule_category">Aikataulu</string>
+    <string name="battery_saver_schedule_switch_title">Laita päälle akun varaustason mukaan</string>
+    <string name="battery_saver_schedule_switch_summary">Virransäästö käynnistyy, kun akun virta laskee asettamasi tason alle</string>
+    <string name="battery_saver_reminder_category">Muistutukset</string>
+    <string name="battery_saver_reminder_switch_title">Virransäästömuistutukset</string>
+    <string name="battery_saver_reminder_switch_summary">Tilaa ilmoitukset akun alhaisesta varaustasosta</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Käytä mukautuvaa virtaa</string>
+    <string name="smart_battery_summary_on">Päällä</string>
+    <string name="smart_battery_summary_off">Pois päältä</string>
 </resources>

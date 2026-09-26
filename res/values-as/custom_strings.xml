@@ -5,4 +5,25 @@
     <string name="language_picker_page">ভাষা বাছনিকৰ্তাৰ পৃষ্ঠা</string>
     <string name="search_region">অঞ্চল সন্ধান কৰক</string>
     <string name="search_region_page">অঞ্চল সন্ধান কৰাৰ পৃষ্ঠা</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">মানক বেটাৰী সঞ্চয়কাৰী</string>
+    <string name="basic_battery_saver_summary">ভিজুৱেল ইফেক্ট আৰু পৃষ্ঠভূমিৰ কাৰ্যকলাপ সীমিত কৰে। ইতিমধ্যে অন কৰি থোৱা নাথাকিলে গাঢ় ৰঙৰ থীম অন কৰে।</string>
+    <string name="extreme_battery_saver_title">চৰম বেটাৰী সঞ্চয়কাৰী</string>
+    <string name="extreme_battery_saver_summary">ওপৰত সূচীবদ্ধ কৰা আটাইবোৰ সালসলনি অন্তৰ্ভুক্ত কৰে। অত্যাৱশ্যকীয় নোহোৱা এপ্‌ আৰু সেইবোৰৰ জাননীও পজ কৰে।</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">সময়সূচী আৰু ৰিমাইণ্ডাৰ</string>
+    <string name="battery_schedule_summary">বেটাৰী সঞ্চয়কাৰী কেতিয়া অন হ’ব লাগে সেয়া পৰিচালনা কৰক</string>
+    <string name="battery_saver_schedule_category">সময়সূচী</string>
+    <string name="battery_saver_schedule_switch_title">বেটাৰীৰ চাৰ্জৰ ওপৰত ভিত্তি কৰি অন হয়</string>
+    <string name="battery_saver_schedule_switch_summary">বেটাৰীৰ চাৰ্জ কমি আপুনি ছেট কৰা সীমা চুলে বেটাৰী সঞ্চয়কাৰী অন হয়</string>
+    <string name="battery_saver_reminder_category">ৰিমাইণ্ডাৰ</string>
+    <string name="battery_saver_reminder_switch_title">বেটাৰী সঞ্চয়কাৰীৰ ৰিমাইণ্ডাৰ</string>
+    <string name="battery_saver_reminder_switch_summary">বেটাৰীৰ চাৰ্জ কমিলে ৰিমাইণ্ডাৰ পাওক</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">অভিযোজিত বেটাৰী ব্যৱহাৰ কৰক</string>
+    <string name="smart_battery_summary_on">অন আছে</string>
+    <string name="smart_battery_summary_off">অফ আছে</string>
 </resources>

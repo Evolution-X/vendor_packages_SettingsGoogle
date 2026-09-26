@@ -5,4 +5,25 @@
     <string name="language_picker_page">Pagina met taalkiezer</string>
     <string name="search_region">Regio\'s zoeken</string>
     <string name="search_region_page">Pagina voor zoekregio</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Standaard batterijbesparing</string>
+    <string name="basic_battery_saver_summary">Beperkt visuele effecten en activiteit op de achtergrond. Zet het donkere thema aan als dit nog niet actief is.</string>
+    <string name="extreme_battery_saver_title">Extreme batterijbesparing</string>
+    <string name="extreme_battery_saver_summary">Bevat alle hierboven vermelde wijzigingen. Onderbreekt ook niet-essentiële apps en de meldingen daarvan.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Planning en herinneringen</string>
+    <string name="battery_schedule_summary">Beheer wanneer Batterijbesparing aangaat</string>
+    <string name="battery_saver_schedule_category">Planning</string>
+    <string name="battery_saver_schedule_switch_title">Aanzetten op basis van batterijniveau</string>
+    <string name="battery_saver_schedule_switch_summary">Batterijbesparing gaat aan als de batterij onder het niveau komt dat je instelt</string>
+    <string name="battery_saver_reminder_category">Herinneringen</string>
+    <string name="battery_saver_reminder_switch_title">Herinneringen voor Batterijbesparing</string>
+    <string name="battery_saver_reminder_switch_summary">Krijg herinneringen als de batterij bijna leeg is</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Aangepast batterijgebruik gebruiken</string>
+    <string name="smart_battery_summary_on">Aan</string>
+    <string name="smart_battery_summary_off">Uit</string>
 </resources>

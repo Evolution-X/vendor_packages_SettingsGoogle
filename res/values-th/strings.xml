@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">ค่ากำหนดแบบปรับอัตโนมัติ</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">แบตเตอรี่แบบปรับอัตโนมัติ</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">แบตเตอรี่แบบปรับอัตโนมัติอาจลดประสิทธิภาพหรือกิจกรรมในเบื้องหลังเพื่อยืดอายุการใช้งานแบตเตอรี่ การแจ้งเตือนบางอย่างอาจล่าช้า</string>
 

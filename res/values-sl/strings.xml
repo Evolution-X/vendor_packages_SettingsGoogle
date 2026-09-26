@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Nastavitve prilagodljivega polnjenja</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Prilagodljivo varčevanje z energijo baterije</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Prilagodljivo varčevanje z energijo baterije lahko zmanjša zmogljivost in dejavnost v ozadju, da podaljša čas delovanja baterije. Nekatera obvestila bodo morda zakasnjena.</string>
 

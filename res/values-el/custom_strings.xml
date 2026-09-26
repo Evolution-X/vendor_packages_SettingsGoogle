@@ -5,4 +5,25 @@
     <string name="language_picker_page">Σελίδα εργαλείου επιλογής γλώσσας</string>
     <string name="search_region">Αναζήτηση περιοχών</string>
     <string name="search_region_page">Αναζήτηση σελίδας περιοχής</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Βασική εξοικονόμηση μπαταρίας</string>
+    <string name="basic_battery_saver_summary">Περιορίζει τα οπτικά εφέ και τη δραστηριότητα στο παρασκήνιο. Ενεργοποιεί το Σκούρο θέμα, αν δεν είναι ήδη ενεργοποιημένο.</string>
+    <string name="extreme_battery_saver_title">Μέγιστη εξοικονόμηση μπαταρίας</string>
+    <string name="extreme_battery_saver_summary">Περιλαμβάνει όλες τις αλλαγές που αναφέρονται παραπάνω. Επίσης, θέτει σε παύση τις μη βασικές εφαρμογές και τις ειδοποιήσεις τους.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Πρόγραμμα και υπενθυμίσεις</string>
+    <string name="battery_schedule_summary">Διαχειριστείτε πότε θέλετε να ενεργοποιείται η Εξοικονόμηση μπαταρίας</string>
+    <string name="battery_saver_schedule_category">Πρόγραμμα</string>
+    <string name="battery_saver_schedule_switch_title">Ενεργοποίηση βάσει επιπέδου μπαταρίας</string>
+    <string name="battery_saver_schedule_switch_summary">Η Εξοικονόμηση μπαταρίας ενεργοποιείται όταν η στάθμη της μπαταρίας πέσει σε ένα επίπεδο που ορίζετε</string>
+    <string name="battery_saver_reminder_category">Υπενθυμίσεις</string>
+    <string name="battery_saver_reminder_switch_title">Υπενθυμίσεις Εξοικονόμησης μπαταρίας</string>
+    <string name="battery_saver_reminder_switch_summary">Λήψη υπενθυμίσεων όταν το επίπεδο της μπαταρίας είναι χαμηλό</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Χρήση της λειτουργίας Προσαρμοστική μπαταρία</string>
+    <string name="smart_battery_summary_on">Ενεργό</string>
+    <string name="smart_battery_summary_off">Ανενεργό</string>
 </resources>

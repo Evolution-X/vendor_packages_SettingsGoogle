@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Verstelbare voorkeure</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Aanpasbare Battery</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Om batterylewe te verleng, kan Aanpasbare Battery werkverrigting en agtergrondaktiwiteit beperk. Sommige kennisgewings kan vertraag word.</string>
 

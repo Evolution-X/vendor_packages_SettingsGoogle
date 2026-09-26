@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Sparaðu rafhlöðuna til að rafhleðsla símans endist lengur á milli hleðslna</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Sparaðu rafhlöðuna til að rafhleðsla spjaldtölvunnar endist lengur á milli hleðslna</string>
+</resources>

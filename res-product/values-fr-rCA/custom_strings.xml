@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Économisez de l\'énergie pour prolonger l\'autonomie de la pile de votre téléphone entre deux recharges</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Économisez de l\'énergie pour prolonger l\'autonomie de la pile de votre tablette entre deux recharges</string>
+</resources>

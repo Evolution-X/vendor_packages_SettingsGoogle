@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">La función Batería adaptable registra el uso que haces del teléfono para optimizar de manera continua la forma en que las apps usan la batería. Podría reducir el rendimiento y retrasar las notificaciones para extender la duración de la batería.</string>
+    <string name="smart_battery_summary" product="tablet">La función Batería adaptable aprende del uso que haces de la tablet para optimizar de manera continua la forma en que las apps usan la batería. Podría reducir el rendimiento y retrasar las notificaciones para extender la duración de la batería.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Pantalla y tacto</string>
 </resources>

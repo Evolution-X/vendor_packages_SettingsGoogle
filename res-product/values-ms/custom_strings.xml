@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Jimatkan kuasa untuk membantu bateri telefon anda tahan lebih lama antara pengecasan</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Jimatkan kuasa untuk membantu bateri tablet anda tahan lebih lama antara pengecasan</string>
+</resources>

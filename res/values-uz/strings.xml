@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Moslashuvchan sozlamalar</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Moslashuvchan batareya</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Batareya quvvatini uzaytirish uchun Adaptive Battery rejimida unumdorlik va fondagi amallar cheklanishi mumkin. Ayrim bildirishnomalar kechikishi mumkin.</string>
 

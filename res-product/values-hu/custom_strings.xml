@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Takarékoskodhat az energiával, hogy a telefon akkumulátora tovább bírja két töltés között.</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Takarékoskodhat az energiával, hogy a táblagép akkumulátora tovább bírja két töltés között.</string>
+</resources>

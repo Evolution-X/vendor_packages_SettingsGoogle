@@ -5,4 +5,25 @@
     <string name="language_picker_page">Síða tungumálavals</string>
     <string name="search_region">Leita að svæðum</string>
     <string name="search_region_page">Síða leitarsvæðis</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Venjulegur rafhlöðusparnaður</string>
+    <string name="basic_battery_saver_summary">Takmarkar myndáhrif og bakgrunnsvirkni. Kveikir á dökku þema, ef ekki er þegar kveikt á því.</string>
+    <string name="extreme_battery_saver_title">Ofurrafhlöðu­sparnaður</string>
+    <string name="extreme_battery_saver_summary">Inniheldur allar breytingar sem getið er hér að ofan. Gerir einnig hlé á ónauðsynlegum forritum og tilkynningum frá þeim.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Áætlun og áminningar</string>
+    <string name="battery_schedule_summary">Stjórna því hvenær kviknar á rafhlöðusparnaði</string>
+    <string name="battery_saver_schedule_category">Áætlun</string>
+    <string name="battery_saver_schedule_switch_title">Kveikja í samræmi við rafhlöðustöðu</string>
+    <string name="battery_saver_schedule_switch_summary">Rafhlöðusparnaður fer í gang þegar rafhlaðan nær mörkunum sem þú stillir</string>
+    <string name="battery_saver_reminder_category">Áminningar</string>
+    <string name="battery_saver_reminder_switch_title">Áminningar um rafhlöðusparnað</string>
+    <string name="battery_saver_reminder_switch_summary">Fá áminningar þegar rafhleðslan er lítil</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Nota breytilega rafhlöðustjórnun</string>
+    <string name="smart_battery_summary_on">Kveikt</string>
+    <string name="smart_battery_summary_off">Slökkt</string>
 </resources>

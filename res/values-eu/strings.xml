@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Hobespen egokituak</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Bateria egokitua</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Bateriaren iraupena luzatzeko, baliteke Bateria egokitua eginbideak errendimendua eta atzeko planoko jarduerak mugatzea. Beharbada, jakinarazpen batzuk atzeratu egingo dira.</string>
 

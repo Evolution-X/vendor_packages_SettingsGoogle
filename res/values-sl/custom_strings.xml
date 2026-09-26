@@ -5,4 +5,25 @@
     <string name="language_picker_page">Stran izbirnika jezika</string>
     <string name="search_region">Iskanje regij</string>
     <string name="search_region_page">Stran za iskanje regije</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Standardno varčevanje z energijo baterije</string>
+    <string name="basic_battery_saver_summary">Omeji vizualne učinke in dejavnost v ozadju. Vklopi temno temo, če še ni vklopljena.</string>
+    <string name="extreme_battery_saver_title">Strogo varčevanje z energijo baterije</string>
+    <string name="extreme_battery_saver_summary">Vključuje vse zgoraj navedene spremembe. Prav tako začasno zaustavi nenujne aplikacije in njihova obvestila.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Razpored in opomniki</string>
+    <string name="battery_schedule_summary">Upravljanje, kdaj naj se vklopi varčevanje z energijo baterije</string>
+    <string name="battery_saver_schedule_category">Razpored</string>
+    <string name="battery_saver_schedule_switch_title">Vklopi na podlagi ravni napolnjenosti baterije</string>
+    <string name="battery_saver_schedule_switch_summary">Varčevanje z energijo baterije se vklopi, ko napolnjenost baterije pade na nastavljeno raven.</string>
+    <string name="battery_saver_reminder_category">Opomniki</string>
+    <string name="battery_saver_reminder_switch_title">Opomniki o varčevanju z energijo baterije</string>
+    <string name="battery_saver_reminder_switch_summary">Prejmite opomnike, ko je baterija skoraj prazna.</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Uporabi prilagodljivo varčevanje z energijo baterije</string>
+    <string name="smart_battery_summary_on">Vklopljeno</string>
+    <string name="smart_battery_summary_off">Izklopljeno</string>
 </resources>

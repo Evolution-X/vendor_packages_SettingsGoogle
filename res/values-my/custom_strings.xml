@@ -5,4 +5,25 @@
     <string name="language_picker_page">ဘာသာစကား ရွေးချယ်စနစ် စာမျက်နှာ</string>
     <string name="search_region">ဒေသများ ရှာရန်</string>
     <string name="search_region_page">ဒေသရှာဖွေသည့် စာမျက်နှာ</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">ပုံမှန် ဘက်ထရီအားထိန်း</string>
+    <string name="basic_battery_saver_summary">ပြသမှုဆိုင်ရာ အထူးပြုလုပ်ချက်၊ နောက်ခံလုပ်ဆောင်ချက်တို့ကို ကန့်သတ်သည်။ အမှောင်အပြင်အဆင် မဖွင့်ရသေးပါက ဖွင့်ပေးသည်။</string>
+    <string name="extreme_battery_saver_title">လွန်ကဲ ဘက်ထရီအားထိန်း</string>
+    <string name="extreme_battery_saver_summary">အထက်ဖော်ပြပါ အပြောင်းအလဲအားလုံး ပါဝင်သည်။ မရှိမဖြစ်မဟုတ်သည့် အက်ပ်များနှင့် ၎င်းတို့၏ အကြောင်းကြားချက်များကိုလည်း ခဏရပ်ပေးသည်။</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">အချိန်ဇယားနှင့် သတိပေးချက်များ</string>
+    <string name="battery_schedule_summary">‘ဘက်ထရီအားထိန်း’ ဖွင့်ချိန်ကို စီမံပါ</string>
+    <string name="battery_saver_schedule_category">အချိန်ဇယား</string>
+    <string name="battery_saver_schedule_switch_title">ဘက်ထရီပမာဏပေါ် အခြေခံ၍ ဖွင့်ရန်</string>
+    <string name="battery_saver_schedule_switch_summary">ဘက်ထရီသည် သင်သတ်မှတ်ထားသည့် ပမာဏသို့ ကျရောက်သွားသောအခါ ‘ဘက်ထရီ အားထိန်း’ ကို ဖွင့်သည်</string>
+    <string name="battery_saver_reminder_category">သတိပေးချက်များ</string>
+    <string name="battery_saver_reminder_switch_title">ဘက်ထရီအားထိန်း သတိပေးချက်</string>
+    <string name="battery_saver_reminder_switch_summary">ဘက်ထရီအားနည်းသောအခါ သတိပေးချက်ရယူရန်</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">‘အလိုက်အထိုက် ဘက်ထရီအားထိန်း’ သုံးရန်</string>
+    <string name="smart_battery_summary_on">ဖွင့်</string>
+    <string name="smart_battery_summary_off">ပိတ်</string>
 </resources>

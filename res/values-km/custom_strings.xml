@@ -5,4 +5,25 @@
     <string name="language_picker_page">ទំព័រ​កម្មវិធី​ជ្រើសរើស​ភាសា</string>
     <string name="search_region">ស្វែងរកតំបន់</string>
     <string name="search_region_page">ទំព័រស្វែងរកតំបន់</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">មុខងារ​សន្សំ​ថ្មស្តង់ដា</string>
+    <string name="basic_battery_saver_summary">ដាក់កំហិតលើ​បែបផែនរូបភាព និងសកម្មភាពនៅផ្ទៃខាងក្រោយ។ បើកទម្រង់រចនាងងឹត ប្រសិនបើមិនទាន់បើក។</string>
+    <string name="extreme_battery_saver_title">មុខងារសន្សំថ្មខ្លាំង</string>
+    <string name="extreme_battery_saver_summary">រួមបញ្ចូលការផ្លាស់ប្ដូរទាំងអស់ដែលបង្ហាញខាងលើ។ ផ្អាក​កម្មវិធីមិនចាំបាច់ និងការជូនដំណឹង​របស់កម្មវិធីទាំងនោះ​ផងដែរ។</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">កាលវិភាគ និងការរំលឹក</string>
+    <string name="battery_schedule_summary">គ្រប់គ្រង ពេលដែលត្រូវបើកមុខងារសន្សំថ្ម</string>
+    <string name="battery_saver_schedule_category">កាលវិភាគ</string>
+    <string name="battery_saver_schedule_switch_title">បើកដោយផ្អែកលើកម្រិតថ្ម</string>
+    <string name="battery_saver_schedule_switch_summary">មុខងារ​សន្សំ​ថ្មបើក នៅពេលថ្មធ្លាក់ដល់កម្រិតដែលអ្នកបានកំណត់</string>
+    <string name="battery_saver_reminder_category">ការរំលឹក</string>
+    <string name="battery_saver_reminder_switch_title">ការរំលឹកពី​មុខងារសន្សំថ្ម</string>
+    <string name="battery_saver_reminder_switch_summary">ទទួលការរំលឹក នៅពេលថ្មនៅសល់តិច</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">ប្រើមុខងារ​ថ្ម​មាន​ភាព​បត់បែន</string>
+    <string name="smart_battery_summary_on">បើក</string>
+    <string name="smart_battery_summary_off">បិទ</string>
 </resources>

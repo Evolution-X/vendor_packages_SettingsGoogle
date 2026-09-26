@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Magtipid ng baterya para tulungan ang baterya ng iyong telepono na mas tumagal sa pagitan ng mga pag-charge</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Magtipid ng baterya para matulungan ang baterya ng iyong tablet na mas tumagal sa pagitan ng mga pag-charge.</string>
+</resources>

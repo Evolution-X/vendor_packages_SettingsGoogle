@@ -5,4 +5,25 @@
     <string name="language_picker_page">भाषा निवडण्यासाठीचे पेज</string>
     <string name="search_region">प्रदेश शोधा</string>
     <string name="search_region_page">प्रदेश निवडण्यासाठीचे पेज</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">साधारण बॅटरी सेव्हर</string>
+    <string name="basic_battery_saver_summary">व्हिजुअल इफेक्ट आणि बॅकग्राउंड अ‍ॅक्टिव्हिटी मर्यादित करते. आधीपासून सुरू नसल्यास, गडद थीम सुरू करते.</string>
+    <string name="extreme_battery_saver_title">एक्स्ट्रीम बॅटरी सेव्हर</string>
+    <string name="extreme_battery_saver_summary">वर सूचीबद्ध केलेल्या सर्व बदलांचा समावेश करते. अत्यावश्यक नसलेली अ‍ॅप्स आणि त्यांची नोटिफिकेशनदेखील थांबवते.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">शेड्यूल आणि रिमाइंडर</string>
+    <string name="battery_schedule_summary">बॅटरी सेव्हर सुरू झाल्यावर व्यवस्थापित करा</string>
+    <string name="battery_saver_schedule_category">शेड्यूल करणे</string>
+    <string name="battery_saver_schedule_switch_title">बॅटरीच्या पातळीवर आधारित सुरू करा</string>
+    <string name="battery_saver_schedule_switch_summary">तुम्ही सेट केलेल्या पातळीवर बॅटरी येते, तेव्हा बॅटरी सेव्हर सुरू होते</string>
+    <string name="battery_saver_reminder_category">रिमाइंडर</string>
+    <string name="battery_saver_reminder_switch_title">बॅटरी सेव्हर रिमाइंडर</string>
+    <string name="battery_saver_reminder_switch_summary">बॅटरी कमी असताना रिमाइंडर मिळवा</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">अ‍डॅप्टिव्ह बॅटरी वापरा</string>
+    <string name="smart_battery_summary_on">सुरू आहे</string>
+    <string name="smart_battery_summary_off">बंद आहे</string>
 </resources>

@@ -5,4 +5,25 @@
     <string name="language_picker_page">Hizkuntza-hautatzailearen orria</string>
     <string name="search_region">Bilatu lurraldeak</string>
     <string name="search_region_page">Bilaketaren lurraldea zehazteko orria</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Bateria-aurreztaile estandarra</string>
+    <string name="basic_battery_saver_summary">Ikusizko efektuak eta atzeko planoko jarduerak mugatzen ditu. Halaber, gai iluna aktibatzen du, dagoeneko aktibatuta ez badago.</string>
+    <string name="extreme_battery_saver_title">Muturreko bateria-aurreztailea</string>
+    <string name="extreme_battery_saver_summary">Goiko aukeran aipatutakoa aplikatzen zaio. Gainera, ezinbestekoak ez diren aplikazioak eta haien jakinarazpenak pausatzen ditu.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Programazioa eta gogorarazpenak</string>
+    <string name="battery_schedule_summary">Kudeatu noiz aktibatzen den Bateria-aurreztailea</string>
+    <string name="battery_saver_schedule_category">Programazioa</string>
+    <string name="battery_saver_schedule_switch_title">Aktibatu bateria-mailan oinarrituta</string>
+    <string name="battery_saver_schedule_switch_summary">Bateria zuk ezarritako maila batera iristean, Bateria-aurreztailea aktibatu egiten da</string>
+    <string name="battery_saver_reminder_category">Gogorarazpenak</string>
+    <string name="battery_saver_reminder_switch_title">Bateria-aurreztailearen gogorarazpenak</string>
+    <string name="battery_saver_reminder_switch_summary">Jaso gogorarazpenak bateria gutxi gelditzen zaizunean</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Erabili Bateria egokitua</string>
+    <string name="smart_battery_summary_on">Aktibatuta</string>
+    <string name="smart_battery_summary_off">Desaktibatuta</string>
 </resources>

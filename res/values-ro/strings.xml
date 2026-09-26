@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Preferințe adaptabile</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Baterie adaptabilă</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Pentru a prelungi autonomia bateriei, Bateria adaptabilă poate să scadă performanța și activitatea din fundal. Unele notificări pot avea întârzieri.</string>
 

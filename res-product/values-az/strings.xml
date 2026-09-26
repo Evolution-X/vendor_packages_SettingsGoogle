@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Adaptiv Batareya tətbiqlərin batareya istifadəsini davamlı optimallaşdırmaq üçün telefon istifadəsinə əsaslanır. Batareya ömrünü uzatmaq üçün performansı azalda və bildirişləri ləngidə bilər.</string>
+    <string name="smart_battery_summary" product="tablet">Adaptiv Batareya tətbiqlərin batareya istifadəsini davamlı optimallaşdırmaq üçün planşet istifadəsinə əsaslanır. Batareya ömrünü uzatmaq üçün performansı azalda və bildirişləri ləngidə bilər.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Displey və toxunuş</string>
 </resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">با صرفه‌جویی در انرژی کمک کنید باتری تلفنتان دوام بیشتری بین هر بار شارژ داشته باشد</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">با صرفه‌جویی در انرژی کمک می‌کند باتری رایانه لوحی‌تان دوام بیشتری بین هر بار شارژ داشته باشد</string>
+</resources>

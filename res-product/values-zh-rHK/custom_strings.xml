@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">節省電量，延長手機充電後的電池壽命</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">節省電量，延長平板電腦充電後的電池壽命</string>
+</resources>

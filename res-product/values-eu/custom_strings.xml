@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Aurreztu bateria; hala, ez duzu telefonoa horren maiz kargatu beharko</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Aurreztu bateria; hala, ez duzu tableta horren maiz kargatu beharko</string>
+</resources>

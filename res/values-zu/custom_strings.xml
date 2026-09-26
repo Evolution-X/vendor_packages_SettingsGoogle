@@ -5,4 +5,25 @@
     <string name="language_picker_page">Ikhasi lokukhetha ulimi</string>
     <string name="search_region">Sesha izifunda</string>
     <string name="search_region_page">Ikhasi lokusesha isifunda</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Isilondolozi Sebhethri Esijwayelekile</string>
+    <string name="basic_battery_saver_summary">Khawulela imithelela yokubukwayo nomsebenzi wangemuva. Ivula itimu emnyama, uma ingakavulwa.</string>
+    <string name="extreme_battery_saver_title">Isilondolozi Sebhethri Esikhulu</string>
+    <string name="extreme_battery_saver_summary">Kufaka phakathi zonke izinguquko ezibalwe ngenhla. Iphinde imise ama-app angabalulekile kanye nezaziso zawo.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Shejula izikhumbuzi</string>
+    <string name="battery_schedule_summary">Phatha lapho Isilondolozi Sebhethri sivuleka</string>
+    <string name="battery_saver_schedule_category">Ishejuli</string>
+    <string name="battery_saver_schedule_switch_title">Vula ngokusekelwe kuleveli yebhethri</string>
+    <string name="battery_saver_schedule_switch_summary">Isilondolozi Sebhethri siyavula uma ibhethri liwela ezingeni olisethile</string>
+    <string name="battery_saver_reminder_category">Izikhumbuzi</string>
+    <string name="battery_saver_reminder_switch_title">Izikhumbuzi Zesilondolozi Sebhethri</string>
+    <string name="battery_saver_reminder_switch_summary">Thola izikhumbuzi uma ibhethri liphansi</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Sebenzisa i-Adaptive Battery</string>
+    <string name="smart_battery_summary_on">Vuliwe</string>
+    <string name="smart_battery_summary_off">Valiwe</string>
 </resources>

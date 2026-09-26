@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">तपाईंले आफ्नो फोनको ब्याट्री चार्ज गरेपछि सो ब्याट्री अझ लामो समयसम्म टिकोस् भन्नाका लागि पावर बचत गर्नुहोस्</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">तपाईंले आफ्नो ट्याब्लेटको ब्याट्री चार्ज गरेपछि सो ब्याट्री अझ लामो समयसम्म टिकोस् भन्नाका लागि पावर बचत गर्नुहोस्</string>
+</resources>

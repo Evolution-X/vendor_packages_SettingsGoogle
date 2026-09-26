@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">\'অ্যাডাপটিভ ব্যাটারি\' ফিচার আপনার ফোনের ব্যবহার সম্পর্কিত ডেটার সাহায্যে অ্যাপের ব্যাটারি ব্যবহারের পদ্ধতিকে ক্রমাগত অপ্টিমাইজ করতে থাকে। ব্যাটারির আয়ু বাড়াতে, এটি অ্যাপের পারফর্ম্যান্স কমাতে এবং সেই সম্পর্কিত বিজ্ঞপ্তি পাঠাতে দেরি করতে পারে।</string>
+    <string name="smart_battery_summary" product="tablet">\'অ্যাডাপটিভ ব্যাটারি\' ফিচার আপনার ট্যাবলেটের ব্যবহার সম্পর্কিত ডেটার সাহায্যে অ্যাপের ব্যাটারি ব্যবহারের পদ্ধতিকে ক্রমাগত অপ্টিমাইজ করতে থাকে। ব্যাটারির আয়ু বাড়াতে, এটি অ্যাপের পারফর্ম্যান্স কমাতে এবং সেই সম্পর্কিত বিজ্ঞপ্তি পাঠাতে দেরি করতে পারে।</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">ডিসপ্লে ও টাচ</string>
 </resources>

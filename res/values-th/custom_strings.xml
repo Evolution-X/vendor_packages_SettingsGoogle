@@ -5,4 +5,25 @@
     <string name="language_picker_page">หน้าเครื่องมือเลือกภาษา</string>
     <string name="search_region">ค้นหาภูมิภาค</string>
     <string name="search_region_page">หน้าค้นหาภูมิภาค</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">โหมดประหยัดแบตเตอรี่แบบมาตรฐาน</string>
+    <string name="basic_battery_saver_summary">จำกัดเอฟเฟกต์ภาพและกิจกรรมในเบื้องหลัง เปิดธีมมืดหากยังไม่ได้เปิด</string>
+    <string name="extreme_battery_saver_title">โหมดประหยัดแบตเตอรี่สูงสุด</string>
+    <string name="extreme_battery_saver_summary">ประกอบด้วยการเปลี่ยนแปลงทั้งหมดที่ระบุไว้ด้านบน รวมถึงการหยุดแอปที่ไม่จำเป็นและการแจ้งเตือนของแอปไว้ชั่วคราว</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">กำหนดเวลาและการช่วยเตือน</string>
+    <string name="battery_schedule_summary">กำหนดเวลาที่จะเปิดโหมดประหยัดแบตเตอรี่</string>
+    <string name="battery_saver_schedule_category">กำหนดเวลา</string>
+    <string name="battery_saver_schedule_switch_title">เปิดตามระดับแบตเตอรี่</string>
+    <string name="battery_saver_schedule_switch_summary">โหมดประหยัดแบตเตอรี่จะเปิดเมื่อแบตเตอรี่ลดลงจนถึงระดับที่คุณตั้งไว้</string>
+    <string name="battery_saver_reminder_category">การช่วยเตือน</string>
+    <string name="battery_saver_reminder_switch_title">การช่วยเตือนโหมดประหยัดแบตเตอรี่</string>
+    <string name="battery_saver_reminder_switch_summary">รับการช่วยเตือนเมื่อแบตเตอรี่เหลือน้อย</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">ใช้แบตเตอรี่แบบปรับอัตโนมัติ</string>
+    <string name="smart_battery_summary_on">เปิด</string>
+    <string name="smart_battery_summary_off">ปิด</string>
 </resources>

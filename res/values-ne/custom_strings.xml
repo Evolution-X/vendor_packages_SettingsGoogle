@@ -5,4 +5,25 @@
     <string name="language_picker_page">\"ल्याङ्वेज पिकर\" पेज</string>
     <string name="search_region">क्षेत्रहरू खोज्नुहोस्</string>
     <string name="search_region_page">\"क्षेत्र खोज्नुहोस्\" पेज</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">डिफल्ट ब्याट्री सेभर</string>
+    <string name="basic_battery_saver_summary">ब्याकग्राउन्डमा हुने गतिविधि र भिजुअल इफेक्टहरू सीमित गर्छ। अँध्यारो थिम अन गरिएको छैन भने उक्त थिम अन गर्छ।</string>
+    <string name="extreme_battery_saver_title">एक्स्ट्रिम ब्याट्री सेभर</string>
+    <string name="extreme_battery_saver_summary">माथि सूचीकृत सबै परिवर्तनहरू समावेश गर्छ। साथै, अत्यावश्यक नरहेका एप र तिनका नोटिफिकेसनहरू पज गर्छ।</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">रुटिन र रिमाइन्डरहरू</string>
+    <string name="battery_schedule_summary">कस्तो अवस्थामा ब्याट्री सेभर अन गर्ने भन्ने कुरा व्यवस्थापन गर्नुहोस्</string>
+    <string name="battery_saver_schedule_category">समयतालिका</string>
+    <string name="battery_saver_schedule_switch_title">ब्याट्रीको स्तरका आधारमा ब्याट्री सेभर अन गर्नुहोस्</string>
+    <string name="battery_saver_schedule_switch_summary">ब्याट्री घटेर तपाईंले तय गर्नुभएको स्तरमा पुगेपछि ब्याट्री सेभर स्वतः अन हुन्छ</string>
+    <string name="battery_saver_reminder_category">रिमाइन्डरहरू</string>
+    <string name="battery_saver_reminder_switch_title">ब्याट्री सेभरसम्बन्धी रिमाइन्डरहरू</string>
+    <string name="battery_saver_reminder_switch_summary">ब्याट्री कम हुँदा रिमाइन्डरहरू प्राप्त गर्नुहोस्</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">एड्याप्टिभ ब्याट्री प्रयोग गर्नुहोस्</string>
+    <string name="smart_battery_summary_on">अन छ</string>
+    <string name="smart_battery_summary_off">अफ छ</string>
 </resources>

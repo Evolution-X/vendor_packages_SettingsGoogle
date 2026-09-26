@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Հարմարվող մարտկոցի կարգավորումներ</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Հարմարվող մարտկոց</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Մարտկոցի աշխատաժամանակը երկարացնելու համար «Հարմարվող մարտկոց» գործառույթը կարող է նվազեցնել արդյունավետությունը և ֆոնային գործողությունները։ Որոշ ծանուցումներ կարող են հետաձգվել։</string>
 

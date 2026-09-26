@@ -5,4 +5,25 @@
     <string name="language_picker_page">语言选择器页面</string>
     <string name="search_region">搜索地区</string>
     <string name="search_region_page">搜索区域页面</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">标准省电模式</string>
+    <string name="basic_battery_saver_summary">限制视觉效果和后台活动，并开启深色主题（如果尚未开启）。</string>
+    <string name="extreme_battery_saver_title">超级省电模式</string>
+    <string name="extreme_battery_saver_summary">包含上方所列的所有更改。还会暂停非必需应用及其通知。</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">时间表和提醒</string>
+    <string name="battery_schedule_summary">管理省电模式的开启时间</string>
+    <string name="battery_saver_schedule_category">时间表</string>
+    <string name="battery_saver_schedule_switch_title">视电池电量开启</string>
+    <string name="battery_saver_schedule_switch_summary">电量降至设置的水平时，开启省电模式</string>
+    <string name="battery_saver_reminder_category">提醒</string>
+    <string name="battery_saver_reminder_switch_title">省电模式提醒</string>
+    <string name="battery_saver_reminder_switch_summary">电量低时，收到提醒</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">启用自动调节电池用量功能</string>
+    <string name="smart_battery_summary_on">已开启</string>
+    <string name="smart_battery_summary_off">已关闭</string>
 </resources>

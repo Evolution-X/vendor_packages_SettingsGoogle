@@ -5,4 +5,25 @@
     <string name="language_picker_page">صفحه انتخاب‌گر زبان</string>
     <string name="search_region">جستجوی منطقه‌ها</string>
     <string name="search_region_page">صفحه جستجوی منطقه</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">بهینه‌سازی باتری استاندارد</string>
+    <string name="basic_battery_saver_summary">جلوه‌های دیداری و فعالیت‌های پس‌زمینه را محدود می‌کند. «زمینه تیره» را روشن می‌کند (اگر روشن نباشد).</string>
+    <string name="extreme_battery_saver_title">نهایت بهینه‌سازی باتری</string>
+    <string name="extreme_battery_saver_summary">شامل همه تغییرات فهرست‌شده در بالا می‌شود. همچنین برنامه‌های غیرضروری و اعلان‌هایشان را موقتاً متوقف می‌کند.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">زمان‌بندی و یادآورها</string>
+    <string name="battery_schedule_summary">مدیریت زمانی‌که «بهینه‌سازی باتری» روشن است</string>
+    <string name="battery_saver_schedule_category">زمان‌بندی</string>
+    <string name="battery_saver_schedule_switch_title">روشن شدن براساس سطح باتری</string>
+    <string name="battery_saver_schedule_switch_summary">وقتی سطح باتری به سطحی کاهش یابد که تعیین کرده‌اید، «بهینه‌سازی باتری» روشن می‌شود</string>
+    <string name="battery_saver_reminder_category">یادآوری‌ها</string>
+    <string name="battery_saver_reminder_switch_title">یادآورهای «بهینه‌سازی باتری»</string>
+    <string name="battery_saver_reminder_switch_summary">دریافت یادآوری وقتی شارژ باتری کم است</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">استفاده از «باتری تطبیق‌پذیر»</string>
+    <string name="smart_battery_summary_on">روشن</string>
+    <string name="smart_battery_summary_off">خاموش</string>
 </resources>

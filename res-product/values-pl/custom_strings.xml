@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Oszczędzaj energię, aby rzadziej ładować telefon</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Oszczędzaj energię, aby rzadziej ładować tablet</string>
+</resources>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Natututo ang Adaptive Battery sa paggamit mo ng telepono para patuloy na i-optimize kung paano ginagamit ng mga app ang baterya. Para mapatagal ang baterya, posibleng bawasan nito ang performance at i-delay nito ang mga notification.</string>
+    <string name="smart_battery_summary" product="tablet">Natututo ang Adaptive Battery sa paggamit mo ng tablet para patuloy na i-optimize kung paano ginagamit ng mga app ang baterya. Para mapatagal ang baterya, posibleng bawasan nito ang performance at i-delay nito ang mga notification.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Display at touch</string>
 </resources>

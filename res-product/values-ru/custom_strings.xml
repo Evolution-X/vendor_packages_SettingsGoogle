@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Настройте режим энергосбережения, чтобы телефон дольше работал без подзарядки.</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Настройте режим энергосбережения, чтобы планшет дольше работал без подзарядки.</string>
+</resources>

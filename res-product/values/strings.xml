@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Adaptive Battery learns from your phone usage to continuously optimize how apps use battery. To extend battery life, it may reduce performance and delay notifications.</string>
+    <string name="smart_battery_summary" product="tablet">Adaptive Battery learns from your tablet usage to continuously optimize how apps use battery. To extend battery life, it may reduce performance and delay notifications.</string>
+
+    <!-- Help URI, battery saver page [DO NOT TRANSLATE] -->
+    <string name="help_url_battery_saver_settings" product="default" translatable="false">https://support.google.com/pixelphone/?p=battery_saver_settings</string>
+    <string name="help_url_battery_saver_settings" product="tablet" translatable="false">https://support.google.com/googlepixeltablet/?p=battery_saver</string>
+
     <!-- Help URI, app usage page [DO NOT TRANSLATE] -->
     <string name="help_url_app_usage_settings" product="default" translatable="false">https://support.google.com/pixelphone?p=battery_usage</string>
     <string name="help_url_app_usage_settings" product="tablet" translatable="false">https://support.google.com/googlepixeltablet/?p=battery_drain</string>

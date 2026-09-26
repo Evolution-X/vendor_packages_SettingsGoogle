@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Preferensi adaptif</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Baterai Adaptif</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Untuk memperpanjang masa pakai baterai, Baterai Adaptif dapat mengurangi performa dan aktivitas latar belakang. Beberapa notifikasi mungkin tertunda.</string>
 

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Säästke toidet, et telefoni aku kestaks laadimiste vahel kauem.</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Säästke toidet, et tahvelarvuti aku kestaks laadimiste vahel kauem</string>
+</resources>

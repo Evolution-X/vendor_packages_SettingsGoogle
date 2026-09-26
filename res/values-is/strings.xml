@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Aðlögunarstillingar</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Breytileg rafhlöðustjórnun</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Til að auka endingu rafhlöðunnar kann breytileg rafhlöðustjórnun að draga úr afköstum og bakgrunnsvirkni. Einhverjum tilkynningum kann að vera seinkað.</string>
 

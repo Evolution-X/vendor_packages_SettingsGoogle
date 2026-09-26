@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">ਅਡੈਪਟਿਵ ਬੈਟਰੀ ਵਿਸ਼ੇਸ਼ਤਾ ਤੁਹਾਡੀ ਫ਼ੋਨ ਵਰਤੋਂ ਤੋਂ ਐਪਾਂ ਵੱਲੋਂ ਬੈਟਰੀ ਵਰਤੇ ਜਾਣ ਦੇ ਤਰੀਕੇ ਨੂੰ ਲਗਾਤਾਰ ਸੁਯੋਗ ਬਣਾਉਣਾ ਸਿੱਖਦੀ ਹੈ। ਬੈਟਰੀ ਲਾਈਫ਼ ਵਧਾਉਣ ਲਈ, ਇਹ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਘੱਟ ਕਰ ਸਕਦੀ ਹੈ ਅਤੇ ਸੂਚਨਾਵਾਂ ਵਿੱਚ ਦੇਰੀ ਕਰ ਸਕਦੀ ਹੈ।</string>
+    <string name="smart_battery_summary" product="tablet">ਅਡੈਪਟਿਵ ਬੈਟਰੀ ਤੁਹਾਡੀ ਟੈਬਲੈੱਟ ਵਰਤੋਂ ਤੋਂ ਐਪਾਂ ਵੱਲੋਂ ਬੈਟਰੀ ਵਰਤੇ ਜਾਣ ਦੇ ਤਰੀਕੇ ਨੂੰ ਲਗਾਤਾਰ ਸੁਯੋਗ ਬਣਾਉਣਾ ਸਿੱਖਦੀ ਹੈ। ਬੈਟਰੀ ਲਾਈਫ਼ ਵਧਾਉਣ ਲਈ, ਇਹ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਘੱਟ ਕਰ ਸਕਦੀ ਅਤੇ ਸੂਚਨਾਵਾਂ ਵਿੱਚ ਦੇਰੀ ਕਰ ਸਕਦੀ ਹੈ।</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">ਡਿਸਪਲੇ ਅਤੇ ਟੱਚ</string>
 </resources>

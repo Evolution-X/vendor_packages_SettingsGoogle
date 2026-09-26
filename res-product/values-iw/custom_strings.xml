@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">שימוש חסכוני בסוללת הטלפון יכול להאריך את פרק הזמן בין טעינות</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">כדאי לחסוך בשימוש בסוללת הטאבלט כדי להאריך את חיי הסוללה בין טעינות</string>
+</resources>

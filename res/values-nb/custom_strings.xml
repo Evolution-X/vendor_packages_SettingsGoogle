@@ -5,4 +5,25 @@
     <string name="language_picker_page">Språkvelgerside</string>
     <string name="search_region">Søk etter regioner</string>
     <string name="search_region_page">Søkeregionside</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Standard batterisparing</string>
+    <string name="basic_battery_saver_summary">Reduserer visuelle effekter og bakgrunnsaktivitet. Slår på mørkt tema hvis det ikke er på allerede.</string>
+    <string name="extreme_battery_saver_title">Ekstrem batterisparing</string>
+    <string name="extreme_battery_saver_summary">Inkluderer alle endringene ovenfor. Setter også apper som ikke er nødvendige, og tilhørende varsler, på pause.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Tidsplan og påminnelser</string>
+    <string name="battery_schedule_summary">Administrer når batterisparing slås på</string>
+    <string name="battery_saver_schedule_category">Tidsplan</string>
+    <string name="battery_saver_schedule_switch_title">Slå på basert på batterinivået</string>
+    <string name="battery_saver_schedule_switch_summary">Batterisparing slås på når batteriet faller til et nivå du har valgt</string>
+    <string name="battery_saver_reminder_category">Påminnelser</string>
+    <string name="battery_saver_reminder_switch_title">Påminnelser for batterisparing</string>
+    <string name="battery_saver_reminder_switch_summary">Få påminnelser når enheten har lite batteri</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Bruk tilpasset batteri</string>
+    <string name="smart_battery_summary_on">På</string>
+    <string name="smart_battery_summary_off">Av</string>
 </resources>

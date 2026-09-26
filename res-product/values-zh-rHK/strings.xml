@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">「自動調節電池用量」功能可根據手機使用情況，持續調整各應用程式的用電量。為延長電池壽命，系統可能會降低效能及延遲通知。</string>
+    <string name="smart_battery_summary" product="tablet">「自動調節電池用量」功能可根據平板電腦使用情況，持續調整各應用程式的用電量。為延長電池壽命，系統可能會降低效能及延遲通知。</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">顯示及觸控</string>
 </resources>

@@ -5,4 +5,25 @@
     <string name="language_picker_page">Stránka pro výběr jazyka</string>
     <string name="search_region">Vyhledejte oblasti</string>
     <string name="search_region_page">Stránka vyhledávání oblastí</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Standardní spořič baterie</string>
+    <string name="basic_battery_saver_summary">Omezuje vizuální efekty a aktivitu na pozadí. Zapne tmavý motiv, pokud už není zapnutý.</string>
+    <string name="extreme_battery_saver_title">Super spořič baterie</string>
+    <string name="extreme_battery_saver_summary">Zahrnuje všechny výše uvedené změny. Pozastaví také méně důležité aplikace a jejich oznámení.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Plán a připomenutí</string>
+    <string name="battery_schedule_summary">Spravovat po zapnutí spořiče baterie</string>
+    <string name="battery_saver_schedule_category">Plán</string>
+    <string name="battery_saver_schedule_switch_title">Zapínat podle stavu baterie</string>
+    <string name="battery_saver_schedule_switch_summary">Spořič baterie se zapne, když nabití baterie klesne na stanovenou úroveň</string>
+    <string name="battery_saver_reminder_category">Připomenutí</string>
+    <string name="battery_saver_reminder_switch_title">Připomenutí spořiče baterie</string>
+    <string name="battery_saver_reminder_switch_summary">Dostávat připomenutí, když je baterie téměř vybitá</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Používat adaptivní baterii</string>
+    <string name="smart_battery_summary_on">Zapnuto</string>
+    <string name="smart_battery_summary_off">Vypnuto</string>
 </resources>

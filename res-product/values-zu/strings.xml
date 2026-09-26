@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">I-Adaptive Battery ifunda ekusetshenzisweni kwefoni yakho ukuthuthukisa ngokuqhubekayo ukuthi ama-app ayisebenzisa kanjani ibhethri. Ukuze kunwetshwe impilo yebhethri, kungehlisa ukusebenza futhi kulibaziseke izaziso</string>
+    <string name="smart_battery_summary" product="tablet">I-Adaptive Battery ifunda ekusetshenzisweni kwethebhulethi yakho ukuthuthukisa ngokuqhubekayo ukuthi ama-app ayisebenzisa kanjani ibhethri. Ukuze kunwetshwe impilo yebhethri, kungehlisa ukusebenza futhi kulibaziseke izaziso</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Bonisa futhi uthinte</string>
 </resources>

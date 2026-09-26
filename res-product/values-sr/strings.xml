@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Прилагодљива батерија учи из вашег коришћења телефона да би стално оптимизовала начин на који апликације користе батерију. Да би продужила трајање батерије, можда ће смањити перформансе и одложити обавештења.</string>
+    <string name="smart_battery_summary" product="tablet">Прилагодљива батерија учи из вашег коришћења таблета да би стално оптимизовала начин на који апликације користе батерију. Да би продужила трајање батерије, можда ће смањити перформансе и одложити обавештења.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Екран и додир</string>
 </resources>

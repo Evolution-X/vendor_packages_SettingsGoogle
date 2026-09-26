@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">A función Batería intelixente aprende do uso que fas do teléfono para optimizar continuamente o consumo da batería por parte das aplicacións. Para prolongar a duración da batería, pode reducir o rendemento e atrasar as notificacións.</string>
+    <string name="smart_battery_summary" product="tablet">A función Batería intelixente aprende do uso que fas da tableta para optimizar continuamente o consumo da batería por parte das aplicacións. Para prolongar a duración da batería, pode reducir o rendemento e atrasar as notificacións.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Mostrar e tocar</string>
 </resources>

@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">الإعدادات المفضّلة للميزات التكيُّفية</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">البطارية التكيُّفية</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">لإطالة عمر البطارية، قد تعمل ميزة \"البطارية التكيُّفية\" على تقليل مستوى الأداء والنشاط في الخلفية، وبالتالي قد يتأخّر ظهور بعض الإشعارات.</string>
 

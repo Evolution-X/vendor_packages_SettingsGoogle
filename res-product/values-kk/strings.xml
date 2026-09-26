@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Батарея шығынын бейімдеу функциясы телефонды пайдалану деректерін зерттеп, қолданбалардың батареяны пайдалануын оңтайландырады. Батареяның жұмыс уақытын ұзарту үшін телефонның жұмыс өнімділігі төмендеп, хабарландырулар кідіртілуі мүмкін.</string>
+    <string name="smart_battery_summary" product="tablet">Батарея шығынын бейімдеу функциясы планшетті пайдалану деректерін зерттеп, қолданбалардың батареяны пайдалануын оңтайландырады. Батареяның жұмысын ұзарту үшін жұмыс өнімділігі төмендеп, хабарландырулар кешігіп келуі мүмкін.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Дисплей және сенсор</string>
 </resources>

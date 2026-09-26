@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Ietaupiet enerģiju, lai tālruni varētu ilgāk izmantot no vienas akumulatora uzlādes reizes līdz otrai.</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Ietaupiet enerģiju, lai planšetdatoru varētu ilgāk izmantot no vienas akumulatora uzlādes reizes līdz otrai.</string>
+</resources>

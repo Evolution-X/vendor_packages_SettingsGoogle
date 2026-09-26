@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">আপনার ফোনের ব্যাটারি যাতে আরও বেশিদিন ভাল থাকে তার জন্য সাহায্য করতে চার্জ হওয়ার সময়ে ব্যাটারির খরচ বাঁচান</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">আপনার ট্যাবলেটের ব্যাটারি যাতে আরও বেশিদিন ভাল থাকে তার জন্য সাহায্য করতে চার্জ হওয়ার সময়ে ব্যাটারির খরচ বাঁচান</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Қуат үнемдесеңіз, телефон батареясы қайта зарядтаусыз ұзағырақ қызмет етеді.</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Қуат үнемдеп, планшет батареясының зарядтау процестері арасында ұзағырақ қолданылуына көмектесіңіз.</string>
+</resources>

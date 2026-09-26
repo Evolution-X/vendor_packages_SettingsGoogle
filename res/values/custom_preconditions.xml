@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver API Screen -->
+    <string name="battery_saver_type_preconditions" translatable="false">The device must support different battery saver mode in settings.</string>
+    <string name="battery_saver_type_feature_disabled" translatable="false">Extreme battery saver mode is not supported on this device.</string>
+</resources>

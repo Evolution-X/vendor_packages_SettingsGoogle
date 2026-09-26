@@ -5,4 +5,25 @@
     <string name="language_picker_page">Tilni tanlash sahifasi</string>
     <string name="search_region">Hududlarni qidirish</string>
     <string name="search_region_page">Qidiruv hududi sahifasi</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Standart quvvat tejash</string>
+    <string name="basic_battery_saver_summary">Vizual effektlar va fondagi faollikni cheklaydi. Agar allaqachon yoqilmagan boʻlsa, tungi mavzuni yoqadi.</string>
+    <string name="extreme_battery_saver_title">Batareyani qattiq tejash</string>
+    <string name="extreme_battery_saver_summary">Yuqorida roʻyxatga kiritilgan barcha oʻzgartirishlarni oʻz ichiga oladi. Shuningdek, muhim boʻlmagan ilovalar va ularning bildirishnomalarini pauza qiladi.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Jadval va eslatmalar</string>
+    <string name="battery_schedule_summary">Quvvat tejash yoqilganda boshqarish</string>
+    <string name="battery_saver_schedule_category">Jadval</string>
+    <string name="battery_saver_schedule_switch_title">Batareya quvvati asosida yoqish</string>
+    <string name="battery_saver_schedule_switch_summary">Quvvat tejash funksiyasi batareya quvvati siz belgilagan foizga tushganda yoqiladi</string>
+    <string name="battery_saver_reminder_category">Eslatmalar</string>
+    <string name="battery_saver_reminder_switch_title">Quvvat tejash eslatmalari</string>
+    <string name="battery_saver_reminder_switch_summary">Batareya quvvati kamayganda eslatmalar oling</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Adaptive Battery ishlatish</string>
+    <string name="smart_battery_summary_on">Yoniq</string>
+    <string name="smart_battery_summary_off">Yoqilmagan</string>
 </resources>

@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Prisitaikančio akumuliatoriaus ir prisitaikančio įkrovimo nuostatos</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Prisitaikantis akum.</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Kad akumuliatorius veiktų ilgiau, prisitaikančio akumuliatoriaus funkcija gali sumažinti našumą ir apriboti veiklą fone. Kai kurie pranešimai gali vėluoti.</string>
 

@@ -5,4 +5,25 @@
     <string name="language_picker_page">Keele valimise leht</string>
     <string name="search_region">Otsige piirkondi</string>
     <string name="search_region_page">Otsingu piirkonna leht</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Standardne akusäästja</string>
+    <string name="basic_battery_saver_summary">Piirab visuaalseid efekte ja taustategevusi. Lülitab sisse tumeda teema, kui see ei ole juba sisse lülitatud.</string>
+    <string name="extreme_battery_saver_title">Ekstreemne akusäästja</string>
+    <string name="extreme_battery_saver_summary">Hõlmab kõiki ülaltoodud muudatusi. Peatatakse ka ebaolulised rakendused ja nende märguanded.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Ajakava ja meeldetuletused</string>
+    <string name="battery_schedule_summary">Hallake, millal akusäästja sisse lülitatakse</string>
+    <string name="battery_saver_schedule_category">Ajakava</string>
+    <string name="battery_saver_schedule_switch_title">Lülita sisse akutaseme alusel</string>
+    <string name="battery_saver_schedule_switch_summary">Akusäästja lülitub sisse, kui akutase langeb teie määratud tasemele</string>
+    <string name="battery_saver_reminder_category">Meeldetuletused</string>
+    <string name="battery_saver_reminder_switch_title">Akusäästja meeldetuletused</string>
+    <string name="battery_saver_reminder_switch_summary">Hankige meeldetuletusi, kui akutase on madal</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Kasuta kohanduvat akuhaldurit</string>
+    <string name="smart_battery_summary_on">Sees</string>
+    <string name="smart_battery_summary_off">Väljas</string>
 </resources>

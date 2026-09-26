@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">એક વખત ચાર્જ કર્યા પછી બીજી વખત ચાર્જ કરો તે દરમિયાન, તમારા ફોનની બૅટરી લાંબા સમય સુધી ચાલે તે માટે પાવર બચાવો</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">એક વખત ચાર્જ કર્યા પછી બીજી વખત ચાર્જ કરો તે દરમિયાન, તમારા ટૅબ્લેટની બૅટરી લાંબા સમય સુધી ચાલે તે માટે પાવર બચાવો</string>
+</resources>

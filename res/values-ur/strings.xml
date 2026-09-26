@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">اڈاپٹیو ترجیحات</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">تغیر پذیر بیٹری</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">بیٹری لائف کو بڑھانے کے لیے تغیر پذیر بیٹری کارکردگی اور پس منظر کی سرگرمی کو کم کر سکتی ہے۔ ممکن ہے کچھ اطلاعات میں تاخیر ہو جائے۔</string>
 

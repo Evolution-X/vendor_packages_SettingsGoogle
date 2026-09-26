@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Intelligenter Akku und adaptives Laden</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Intelligenter Akku</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Zur Verlängerung der Akkulaufzeit kann die Funktion „Intelligenter Akku“ die Leistung und Hintergrundaktivitäten reduzieren. Einige Benachrichtigungen können sich verzögern.</string>
 

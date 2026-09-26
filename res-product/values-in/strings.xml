@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Baterai Adaptif mempelajari penggunaan ponsel untuk terus mengoptimalkan penggunaan baterai oleh aplikasi. Untuk memperpanjang masa pakai baterai, Baterai Adaptif mungkin menurunkan performa dan menjeda notifikasi.</string>
+    <string name="smart_battery_summary" product="tablet">Baterai Adaptif mempelajari penggunaan tablet untuk terus mengoptimalkan cara aplikasi menggunakan baterai. Untuk memperpanjang masa pakai baterai, Baterai Adaptif dapat menurunkan performa dan menjeda notifikasi.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Layar &amp; sentuhan</string>
 </resources>

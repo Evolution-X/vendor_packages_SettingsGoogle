@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">అనుకూల ప్రాధాన్యతలు</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">అనుకూల బ్యాటరీ</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">బ్యాటరీ జీవితకాలాన్ని పొడిగించడానికి, అనుకూల బ్యాటరీ అనేది బ్యాక్‌గ్రౌండ్ యాక్టివిటీతో పాటు పనితీరును తగ్గించవచ్చు. కొన్ని నోటిఫికేషన్‌లు రావడం ఆలస్యం కావచ్చు.</string>
 

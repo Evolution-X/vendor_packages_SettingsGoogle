@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Ved at kigge på din telefonbrug lærer Adaptivt batteri, hvordan dine apps brug af batteriet løbende kan optimeres. Funktionen kan reducere ydeevnen og forsinke notifikationer for at forlænge batteritiden.</string>
+    <string name="smart_battery_summary" product="tablet">Ved at kigge på din tabletbrug lærer Adaptivt batteri, hvordan dine apps brug af batteriet løbende kan optimeres. Funktionen kan reducere ydeevnen og forsinke notifikationer for at forlænge batteritiden.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Skærm og styring ved berøring</string>
 </resources>

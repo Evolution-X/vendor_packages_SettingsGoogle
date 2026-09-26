@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Адаптацыя акумулятара бесперапынна аптымізуе спажыванне зараду праграмамі на падставе даных пра выкарыстанне тэлефона. Каб прадоўжыць час працы ад акумулятара, гэта функцыя можа зніжаць прадукцыйнасць і адкладваць апавяшчэнні.</string>
+    <string name="smart_battery_summary" product="tablet">Адаптацыя акумулятара бесперапынна аптымізуе спажыванне зараду праграмамі на падставе даных пра выкарыстанне планшэта. Каб прадоўжыць час працы ад акумулятара, гэта функцыя можа зніжаць прадукцыйнасць і адкладваць апавяшчэнні.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Дысплэй і сэнсарны ўвод</string>
 </resources>

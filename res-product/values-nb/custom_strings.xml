@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Reduser strømforbruket for å få telefonbatteriet til å vare lenger mellom ladinger</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Reduser strømforbruket for å få batteriet til nettbrettet til å vare lenger mellom ladinger</string>
+</resources>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Breytileg rafhlöðustjórnun lærir af notkun símans og fínstillir þannig stöðugt hvernig forrit nota rafhlöðuna. Til að lengja rafhlöðuendingu kann hún að draga úr afköstum og seinka tilkynningum.</string>
+    <string name="smart_battery_summary" product="tablet">Breytileg rafhlöðustjórnun lærir af notkun spjaldtölvunnar og fínstillir þannig stöðugt hvernig forrit nota rafhlöðuna. Til að lengja rafhlöðuendingu kann hún að draga úr afköstum og seinka tilkynningum.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Birting og snerting</string>
 </resources>

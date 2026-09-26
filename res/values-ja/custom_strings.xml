@@ -5,4 +5,25 @@
     <string name="language_picker_page">言語選択ツールのページ</string>
     <string name="search_region">地域を検索できます</string>
     <string name="search_region_page">地域の検索のページ</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">標準バッテリー セーバー</string>
+    <string name="basic_battery_saver_summary">視覚効果を抑え、バックグラウンド アクティビティを制限します。ダークモードが ON になっていない場合は ON になります。</string>
+    <string name="extreme_battery_saver_title">スーパー バッテリー セーバー</string>
+    <string name="extreme_battery_saver_summary">上記の変更がすべて反映されるほか、必須ではないアプリやその通知が一時停止されます。</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">スケジュールとリマインダー</string>
+    <string name="battery_schedule_summary">バッテリー セーバーを有効にするタイミングを管理します</string>
+    <string name="battery_saver_schedule_category">スケジュール</string>
+    <string name="battery_saver_schedule_switch_title">バッテリー残量に応じて ON にする</string>
+    <string name="battery_saver_schedule_switch_summary">指定したバッテリー残量でバッテリー セーバーを ON にします</string>
+    <string name="battery_saver_reminder_category">リマインダー</string>
+    <string name="battery_saver_reminder_switch_title">バッテリー セーバーのリマインダー</string>
+    <string name="battery_saver_reminder_switch_summary">バッテリー残量が少なくなったらリマインダーを表示します</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">自動調整バッテリーを使用</string>
+    <string name="smart_battery_summary_on">ON</string>
+    <string name="smart_battery_summary_off">OFF</string>
 </resources>

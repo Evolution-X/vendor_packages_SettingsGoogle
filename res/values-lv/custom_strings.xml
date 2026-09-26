@@ -5,4 +5,25 @@
     <string name="language_picker_page">Valodas atlasītāja lapa</string>
     <string name="search_region">Meklēt reģionus</string>
     <string name="search_region_page">Meklēšanas reģiona lapa</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Akumulatora enerģijas standarta taupīšanas režīms</string>
+    <string name="basic_battery_saver_summary">Tiek ierobežoti vizuālie efekti un fonā izpildāmas darbības. Ja vēl nav ieslēgts tumšais motīvs, tas tiek ieslēgts.</string>
+    <string name="extreme_battery_saver_title">Akumulatora enerģijas maksimālas taupīšanas režīms</string>
+    <string name="extreme_battery_saver_summary">Ietver visas iepriekš norādītās izmaiņas. Tiek arī pārtraukta nesvarīgu lietotņu darbība un to paziņojumi.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Grafiks un atgādinājumi</string>
+    <string name="battery_schedule_summary">Varat pārvaldīt, kad jāieslēdz akumulatora enerģijas taupīšanas režīms</string>
+    <string name="battery_saver_schedule_category">Grafiks</string>
+    <string name="battery_saver_schedule_switch_title">Ieslēgt, pamatojoties uz akumulatora uzlādes līmeni</string>
+    <string name="battery_saver_schedule_switch_summary">Akumulatora enerģijas taupīšanas režīms tiek ieslēgts, kad akumulatora uzlādes līmenis sasniedz jūsu iestatīto līmeni.</string>
+    <string name="battery_saver_reminder_category">Atgādinājumi</string>
+    <string name="battery_saver_reminder_switch_title">Akumulatora enerģijas taupīšanas režīma atgādinājumi</string>
+    <string name="battery_saver_reminder_switch_summary">Saņemsiet atgādinājumus, ja akumulatora uzlādes līmenis būs zems.</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Izmantot funkciju Adaptīvais akumulators</string>
+    <string name="smart_battery_summary_on">Ieslēgts</string>
+    <string name="smart_battery_summary_off">Izslēgts</string>
 </resources>

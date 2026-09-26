@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">অ্যাডাপ্টিভ পছন্দসই ফিচার</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">অ্যাডাপটিভ ব্যাটারি</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">ব্যাটারির আয়ু বাড়ানোর জন্য, পারফর্ম্যান্স এবং ব্যাকগ্রাউন্ডের অ্যাক্টিভিটি কমাতে পারে অ্যাডাপটিভ ব্যাটারি কয়েকটি বিজ্ঞপ্তি পেতে দেরি হতে পারে।</string>
 

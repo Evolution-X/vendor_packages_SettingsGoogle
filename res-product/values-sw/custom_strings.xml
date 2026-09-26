@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Okoa nishati ili uongeze muda wa matumizi ya betri kwenye simu yako baada ya kuchaji</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Okoa nishati ili uongeze muda wa matumizi ya betri kwenye kishikwambi chako baada ya kuchaji</string>
+</resources>

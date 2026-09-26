@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">اولویت‌های تطبیقی</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">باتری تطبیق‌پذیر</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">برای افزایش عمر باتری، «باتری تطبیق‌پذیر» می‌تواند عملکرد و فعالیت پس‌زمینه را کاهش دهد. ممکن است بعضی‌از اعلان‌ها تأخیر داشته باشد.</string>
 

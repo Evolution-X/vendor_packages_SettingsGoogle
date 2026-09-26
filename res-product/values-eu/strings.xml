@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Bateria egokitua eginbideak telefonoaren erabileratik ikasten du aplikazioek bateria erabiltzeko duten modua etengabe optimizatzeko. Bateriaren iraupena luzatzeko, baliteke errendimendua okertzea eta jakinarazpenak atzeratzea.</string>
+    <string name="smart_battery_summary" product="tablet">Bateria egokitua eginbideak tabletaren erabileratik ikasten du aplikazioek bateria erabiltzeko duten modua etengabe optimizatzeko. Bateriaren iraupena luzatzeko, baliteke errendimendua okertzea eta jakinarazpenak atzeratzea.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Pantaila eta ukipena</string>
 </resources>

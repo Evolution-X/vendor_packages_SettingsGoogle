@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">다음 충전까지 휴대전화 배터리를 더 오래 사용할 수 있도록 전력을 절약합니다.</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">다음 충전까지 태블릿 배터리를 더 오래 사용할 수 있도록 전력을 절약합니다.</string>
+</resources>

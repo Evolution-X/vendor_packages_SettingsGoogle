@@ -5,4 +5,25 @@
     <string name="language_picker_page">Լեզվի ընտրիչի էջ</string>
     <string name="search_region">Որոնեք տարածաշրջաններ</string>
     <string name="search_region_page">Տարածաշրջանի որոնման էջ</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Մարտկոցի տնտեսման ստանդարտ ռեժիմ</string>
+    <string name="basic_battery_saver_summary">Սահմանափակում է վիզուալ էֆեկտները և աշխատանքը ֆոնային ռեժիմում։ Միացնում է մուգ թեման, եթե այն դեռ միացված չէ։</string>
+    <string name="extreme_battery_saver_title">Մարտկոցի առավելագույն տնտեսում</string>
+    <string name="extreme_battery_saver_summary">Ներառում է վերը թվարկված բոլոր փոփոխությունները։ Ինչպես նաև դադարեցնում է երկրորդական հավելվածների աշխատանքը և անջատում դրանց ծանուցումները։</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Ժամանակացույց և հիշեցումներ</string>
+    <string name="battery_schedule_summary">Կարգավորել, թե երբ պետք է մարտկոցի տնտեսումը միանա</string>
+    <string name="battery_saver_schedule_category">Ժամանակացույց</string>
+    <string name="battery_saver_schedule_switch_title">Միացնել մարտկոցի լիցքի հիման վրա</string>
+    <string name="battery_saver_schedule_switch_summary">Մարտկոցի տնտեսումը միանում է, երբ մարտկոցի լիցքը իջնում է մինչև ձեր սահմանած մակարդակը</string>
+    <string name="battery_saver_reminder_category">Հիշեցումներ</string>
+    <string name="battery_saver_reminder_switch_title">Մարտկոցի տնտեսման հիշեցումներ</string>
+    <string name="battery_saver_reminder_switch_summary">Ստանալ հիշեցումներ, երբ մարտկոցի լիցքը քիչ է</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Միացնել «Հարմարվող մարտկոց» գործառույթը</string>
+    <string name="smart_battery_summary_on">Միացված է</string>
+    <string name="smart_battery_summary_off">Անջատված է</string>
 </resources>

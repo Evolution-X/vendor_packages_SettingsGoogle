@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Betri Inayojirekebisha hujifunza kutokana na matumizi ya simu yako ili kuboresha kwa njia endelevu jinsi programu zinavyotumia betri. Ili kuongeza muda wa matumizi ya betri, inaweza kupunguza utendaji na kuchelewesha arifa.</string>
+    <string name="smart_battery_summary" product="tablet">Betri Inayojirekebisha hujifunza kutokana na matumizi ya kishikwambi chako ili kuboresha kwa njia endelevu jinsi programu zinavyotumia betri. Ili kuongeza muda wa matumizi ya betri, inaweza kupunguza arifa za utendaji na kucheleweshwa.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Skrini na mguso</string>
 </resources>

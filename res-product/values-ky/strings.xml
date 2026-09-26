@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Adaptive Battery телефонуңуздун колдонулушун талдап, колдонмолордун батареяны керектешин оптималдаштырып турат. Функция батареяны көбүрөөк убакытка жеткиргени менен, түзмөк начарыраак иштеп, билдирмелер кечигип келиши мүмкүн.</string>
+    <string name="smart_battery_summary" product="tablet">Adaptive Battery планшетиңиздин колдонулушун талдап, колдонмолордун батареяны сарпташын оптималдаштырып турат. Бул функция батареянын кубатынын мөөнөтүн узартуу үчүн майнаптуулукту азайтып, билдирмелерди кечиктириши мүмкүн.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Экран жана тийүү</string>
 </resources>

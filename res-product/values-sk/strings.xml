@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Adaptácia batérie sa učí z toho, ako telefón používate, a neustále optimalizuje, ako aplikácie využívajú batériu. Na predĺženie výdrže batérie môže znížiť výkonnosť a odložiť upozornenia.</string>
+    <string name="smart_battery_summary" product="tablet">Adaptácia batérie sa učí z toho, ako tablet používate, a neustále optimalizuje, ako aplikácie využívajú batériu. Na predĺženie výdrže batérie môže znížiť výkonnosť a odložiť upozornenia.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Obrazovka a dotyk</string>
 </resources>

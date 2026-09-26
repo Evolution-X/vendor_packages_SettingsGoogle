@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">«باتری تطبیق‌پذیر» از میزان مصرف تلفنتان یاد می‌گیرد تا به‌طور مداوم نحوه استفاده برنامه‌ها از باتری را بهینه‌سازی کند. این ویژگی برای افزایش عمر باتری ممکن است عملکرد را کاهش دهد و اعلان‌ها را به‌تأخیر بیندازد.</string>
+    <string name="smart_battery_summary" product="tablet">«باتری تطبیقی» از میزان مصرف رایانه لوحی‌تان یاد می‌گیرد تا به‌طور مداوم نحوه استفاده برنامه‌ها از باتری را بهینه‌سازی کند. این ویژگی برای افزایش عمر باتری ممکن است عملکرد را کاهش دهد و اعلان‌ها را به‌تأخیر بیندازد.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">نمایشگر و لمس</string>
 </resources>

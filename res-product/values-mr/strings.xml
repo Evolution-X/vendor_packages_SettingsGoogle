@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">अ‍ॅप्स बॅटरी कशी वापरतात ते सतत ऑप्टिमाइझ करण्यासाठी अ‍डॅप्टिव्ह बॅटरी तुमच्या फोनच्या वापरावरून शिकते. बॅटरी लाइफ वाढवण्यासाठी, ते परफॉर्मन्स कमी करू शकते आणि नोटिफिकेशन विलंबित करू शकते.</string>
+    <string name="smart_battery_summary" product="tablet">अ‍ॅप्स बॅटरी कशी वापरतात ते सतत ऑप्टिमाइझ करण्यासाठी अ‍डॅप्टिव्ह बॅटरी तुमच्या टॅबलेटच्या वापरावरून शिकते. बॅटरी लाइफ वाढवण्यासाठी, ते परफॉर्मन्स कमी करू शकते आणि सूचना विलंबित करू शकते.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">डिस्प्ले आणि स्पर्श</string>
 </resources>

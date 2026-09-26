@@ -5,4 +5,25 @@
     <string name="language_picker_page">Seite mit Sprachauswahl</string>
     <string name="search_region">Regionen suchen</string>
     <string name="search_region_page">Seite für Suchregion</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Standard-Energiesparmodus</string>
+    <string name="basic_battery_saver_summary">Visuelle Effekte und Hintergrundaktivitäten werden eingeschränkt. Falls das dunkle Design deaktiviert ist, wird es aktiviert.</string>
+    <string name="extreme_battery_saver_title">Extrem-Energiesparmodus</string>
+    <string name="extreme_battery_saver_summary">Übernimmt alle oben aufgeführten Änderungen. Außerdem werden weniger wichtige Apps und deren Benachrichtigungen pausiert.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Zeitplan und Erinnerungen</string>
+    <string name="battery_schedule_summary">Festlegen, wann der Energiesparmodus aktiviert wird</string>
+    <string name="battery_saver_schedule_category">Zeitplan</string>
+    <string name="battery_saver_schedule_switch_title">Aktivieren nach Akkustand</string>
+    <string name="battery_saver_schedule_switch_summary">Der Energiesparmodus wird aktiviert, sobald der Akkustand auf den festgelegten Wert fällt</string>
+    <string name="battery_saver_reminder_category">Erinnerungen</string>
+    <string name="battery_saver_reminder_switch_title">Erinnerungen zum Energiesparmodus</string>
+    <string name="battery_saver_reminder_switch_summary">Bei niedrigem Akkustand erhältst du Erinnerungen</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Funktion „Intelligenter Akku“ verwenden</string>
+    <string name="smart_battery_summary_on">An</string>
+    <string name="smart_battery_summary_off">Aus</string>
 </resources>

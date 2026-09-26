@@ -5,4 +5,25 @@
     <string name="language_picker_page">Хэл сонгох хуудас</string>
     <string name="search_region">Бүс нутгуудаас хайх</string>
     <string name="search_region_page">Хайх бүсийн хуудас</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Стандарт батарей хэмнэгч</string>
+    <string name="basic_battery_saver_summary">Визуал эффект, дэвсгэрийн үйл ажиллагааг хязгаарладаг. Бараан загварыг асаалттай биш бол асаана.</string>
+    <string name="extreme_battery_saver_title">Дээд зэргээр батарей хэмнэгч</string>
+    <string name="extreme_battery_saver_summary">Дээр жагсаасан бүх өөрчлөлт багтсан. Мөн чухал бус аппууд болон тэдгээрийн мэдэгдлүүдийг түр зогсооно.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Хуваарь болон сануулагчид</string>
+    <string name="battery_schedule_summary">Батарей хэмнэгч асах үед удирдах</string>
+    <string name="battery_saver_schedule_category">Хуваарь</string>
+    <string name="battery_saver_schedule_switch_title">Цэнэгийн түвшинд тулгуурлан асаах</string>
+    <string name="battery_saver_schedule_switch_summary">Цэнэг таны тохируулсан түвшнээс доош унах үед Батарей хэмнэгч асна</string>
+    <string name="battery_saver_reminder_category">Сануулагчид</string>
+    <string name="battery_saver_reminder_switch_title">Батарей хэмнэгчийн сануулагч</string>
+    <string name="battery_saver_reminder_switch_summary">Цэнэг бага байх үед сануулагч аваарай</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Дасан зохицох батарейг ашиглах</string>
+    <string name="smart_battery_summary_on">Асаалттай</string>
+    <string name="smart_battery_summary_off">Унтраалттай</string>
 </resources>

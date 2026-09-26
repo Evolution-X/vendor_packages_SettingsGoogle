@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Προσαρμοστικές προτιμήσεις</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Προσαρμοστική μπαταρία</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Για να επεκτείνετε τη διάρκεια ζωής της μπαταρίας, η Προσαρμοστική μπαταρία ενδέχεται να μειώσει την απόδοση και τη δραστηριότητα στο παρασκήνιο. Ορισμένες ειδοποιήσεις ενδέχεται να εμφανίζονται με καθυστέρηση.</string>
 

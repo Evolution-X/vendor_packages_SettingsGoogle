@@ -5,4 +5,25 @@
     <string name="language_picker_page">ໜ້າຕົວເລືອກພາສາ</string>
     <string name="search_region">ຊອກຫາພາກພື້ນ</string>
     <string name="search_region_page">ໜ້າຊອກຫາພາກພື້ນ</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">ຕົວປະຢັດແບັດເຕີຣີມາດຕະຖານ</string>
+    <string name="basic_battery_saver_summary">ຈຳກັດເອັບເຟັກພາບ ແລະ ການເຄື່ອນໄຫວໃນພື້ນຫຼັງ. ເປີດໃຊ້ຮູບແບບສີສັນມືດ, ຫາກຍັງບໍ່ໄດ້ເປີດ.</string>
+    <string name="extreme_battery_saver_title">ຕົວປະຢັດແບັດເຕີຣີຂັ້ນສຸດຂີດ</string>
+    <string name="extreme_battery_saver_summary">ຮວມທັງການປ່ຽນແປງທັງໝົດຕາມລາຍຊື່ດ້ານເທິງ. ນອກຈາກນັ້ນຍັງຢຸດແອັບທີ່ບໍ່ສຳຄັນ ແລະ ການແຈ້ງເຕືອນຂອງພວກມັນໄວ້ຊົ່ວຄາວນຳອີກ.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">ກຳນົດເວລາ ແລະ ການແຈ້ງເຕືອນ</string>
+    <string name="battery_schedule_summary">ຈັດການເມື່ອເປີດຕົວປະຢັດແບັດເຕີຣີ</string>
+    <string name="battery_saver_schedule_category">ກຳນົດເວລາ</string>
+    <string name="battery_saver_schedule_switch_title">ເປີດໂດຍອີງໃສ່ລະດັບແບັດເຕີຣີ</string>
+    <string name="battery_saver_schedule_switch_summary">ຕົວປະຢັດແບັດເຕີຣີຈະເປີດເມື່ອແບັດເຕີຣີຕົກຮອດລະດັບທີ່ທ່ານຕັ້ງໄວ້</string>
+    <string name="battery_saver_reminder_category">ການແຈ້ງເຕືອນ</string>
+    <string name="battery_saver_reminder_switch_title">ການແຈ້ງເຕືອນຕົວປະຢັດແບັດເຕີຣີ</string>
+    <string name="battery_saver_reminder_switch_summary">ຮັບການແຈ້ງເຕືອນເມື່ອແບັດເຕີຣີຕ່ຳ</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">ໃຊ້ແບັດເຕີຣີແບບປັບຕົວໄດ້</string>
+    <string name="smart_battery_summary_on">ເປີດ</string>
+    <string name="smart_battery_summary_off">ປິດ</string>
 </resources>

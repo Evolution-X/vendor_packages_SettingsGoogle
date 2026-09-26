@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">ଆଡେପ୍ଟିଭ ପସନ୍ଦଗୁଡ଼ିକ</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">ଆଡେପ୍ଟିଭ ବେଟେରୀ</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">ବ୍ୟାଟେରୀ ଲାଇଫ୍ ବଢ଼ାଇବାକୁ, ପରଫରମାନ୍ସ ଏବଂ ପୃଷ୍ଠପଟର କାର୍ଯ୍ୟକଳାପକୁ ଆଡେପ୍ଟିଭ୍ ବ୍ୟାଟେରୀ କମ୍ କରିପାରେ। କିଛି ବିଜ୍ଞପ୍ତି ପାଇଁ ବିଳମ୍ବ ହୋଇପାରେ।</string>
 

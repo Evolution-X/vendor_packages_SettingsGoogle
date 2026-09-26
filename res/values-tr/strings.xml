@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Uyarlanabilir tercihler</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Uyarlanabilir Pil</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Uyarlanabilir Pil özelliği, pil ömrünü uzatmak için performansı düşürebilir ve arka plan etkinliğini azaltabilir. Bazı bildirimler gecikebilir.</string>
 

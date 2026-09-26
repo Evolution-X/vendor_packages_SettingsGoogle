@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Quvvatni tejang, telefoningiz batareyasi quvvatlashlar orasida uzoqroq turishiga yordam beradi</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Quvvatni tejang, planshetingiz batareyasi quvvatlashlar orasida uzoqroq turishiga yordam beradi.</string>
+</resources>

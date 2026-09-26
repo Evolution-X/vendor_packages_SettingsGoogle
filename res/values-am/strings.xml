@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">ተስማሚ ምርጫዎች</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">ተለማማጅ ባትሪ</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">የባትሪ ዕድሜን ለማራዘም የተስማሚ ባትሪ የአፈፃፀምን እና የጀርባ እንቅስቃሴን ሊቀንስ ይችላል። አንዳንድ ማሳወቂያዎች ሊዘገዩ ይችላሉ</string>
 

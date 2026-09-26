@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">ಅಡಾಪ್ಟಿವ್ ಆದ್ಯತೆಗಳು</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">ಅಡಾಪ್ಟಿವ್‌ ಬ್ಯಾಟರಿ</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">ಬ್ಯಾಟರಿ ಅವಧಿಯನ್ನು ವಿಸ್ತರಿಸಲು, ಅಡಾಪ್ಟಿವ್ ಬ್ಯಾಟರಿಯು ಪರ್ಫಾರ್ಮೆನ್ಸ್ ಮತ್ತು ಹಿನ್ನೆಲೆ ಚಟುವಟಿಕೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಬಹುದು. ಕೆಲವು ಅಧಿಸೂಚನೆಗಳು ತಡವಾಗಬಹುದು.</string>
 

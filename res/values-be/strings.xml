@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Адаптыўныя налады</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Адаптацыя акумулятара</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Каб падоўжыць час працы ад акумулятара, функцыя яго адаптацыі можа панізіць прадукцыйнасць праграм і абмежаваць фонавыя працэсы. Некаторыя апавяшчэнні могуць прыходзіць з затрымкай.</string>
 

@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Adaptiv tərcihlər</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Enerjinin adaptiv istifadəsi</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Enerjiyə qənaət etmək üçün enerjinin adaptiv istifadəsi performansı azalda və fondakı tətbiqlərin fəaliyyətini zəiflədə bilər. Bəzi bildirişlər gecikə bilər.</string>
 

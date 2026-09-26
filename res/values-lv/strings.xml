@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Adaptīvās preferences</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Adaptīvais akumulators</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Lai paildzinātu akumulatora darbību, adaptīvā akumulatora funkcija var ierobežot veiktspēju un fonā veiktās darbības. Daži paziņojumi var darboties ar aizkavi.</string>
 

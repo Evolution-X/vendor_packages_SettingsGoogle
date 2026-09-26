@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Az Alkalmazkodó akkumulátor tanul a telefon használata során, hogy folyamatosan optimalizálhassa az alkalmazások akkumulátorhasználatát. Az akkumulátoros üzemidő meghosszabbítása érdekében csökkentheti a teljesítményt és késleltetheti az értesítéseket.</string>
+    <string name="smart_battery_summary" product="tablet">Az Alkalmazkodó akkumulátor tanul a táblagép használata során, hogy folyamatosan optimalizálhassa az alkalmazások akkumulátorhasználatát. Az akkumulátoros üzemidő meghosszabbítása érdekében csökkentheti a teljesítményt és késleltetheti az értesítéseket.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Megjelenítés és érintés</string>
 </resources>

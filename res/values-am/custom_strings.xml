@@ -5,4 +5,25 @@
     <string name="language_picker_page">የቋንቋ መራጭ ገፅ</string>
     <string name="search_region">ክልሎችን ይፈልጉ</string>
     <string name="search_region_page">የፍለጋ ክልል ገፅ</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">መደበኛ የባትሪ ኃይል ቆጣቢ</string>
+    <string name="basic_battery_saver_summary">የሚታዩ ነገሮች ተጽዕኖዎች እና የዳራ እንቅስቃሴን ይገድባል። ጠቆር ያለ ገጽታ ቀድሞውኑ ካልበራ ያበራዋል።</string>
+    <string name="extreme_battery_saver_title">ከፍተኛ ባትሪ ቆጣቢ</string>
+    <string name="extreme_battery_saver_summary">ከላይ የተዘረዘሩትን ሁሉንም ለውጦች ያካትታል። እንዲሁም መሠረታዊ ያልሆኑ መተግበሪያዎችን እና ማሳወቂያዎቻቸውን ባሉበት ያቆማል።</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">መርሐግብር እና አስታዋሾች</string>
+    <string name="battery_schedule_summary">የባትሪ ኃይል ቆጣቢ ሲበራ ያስተዳድሩ</string>
+    <string name="battery_saver_schedule_category">መርሐግብር</string>
+    <string name="battery_saver_schedule_switch_title">በባትሪ ደረጃ ላይ በመመስረት አብራ</string>
+    <string name="battery_saver_schedule_switch_summary">ባትሪው ወደ እርስዎ ያዋቀሩት ደረጃ ላይ ሲወርድ የባትሪ ኃይል ቆጣቢ ይበራል</string>
+    <string name="battery_saver_reminder_category">አስታዋሾች</string>
+    <string name="battery_saver_reminder_switch_title">የባትሪ ኃይል ቆጣቢ አስታዋሾች</string>
+    <string name="battery_saver_reminder_switch_summary">ባትሪ አነስተኛ ሲሆን አስታዋሾችን ያግኙ</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">ተለማማጅ ባትሪን ይጠቀሙ</string>
+    <string name="smart_battery_summary_on">በርቷል</string>
+    <string name="smart_battery_summary_off">ጠፍቷል</string>
 </resources>

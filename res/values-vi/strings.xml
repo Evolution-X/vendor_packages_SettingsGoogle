@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Lựa chọn ưu tiên về tính năng thích ứng</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Pin thích ứng</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Để kéo dài thời lượng pin, tính năng Pin thích ứng có thể làm giảm hiệu suất thiết bị và hoạt động ở chế độ nền. Một số thông báo có thể đến chậm.</string>
 

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Det smarta batteriet optimerar kontinuerligt apparnas batterianvändning baserat på din användning av telefonen. Prestandan kan begränsas och aviseringar försenas i syfte att förlänga batteritiden.</string>
+    <string name="smart_battery_summary" product="tablet">Det smarta batteriet optimerar kontinuerligt apparnas batterianvändning baserat på din användning av surfplattan. Prestandan kan begränsas och aviseringar försenas i syfte att förlänga batteritiden.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Visning och pekskärm</string>
 </resources>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Prisitaikantis akumuliatorius mokosi iš jūsų telefono naudojimo, kad nuolat optimizuotų programų akumuliatoriaus energijos vartojimą. Kad akumuliatorius veiktų ilgiau, gali būti sumažintas našumas ir atidėti pranešimai.</string>
+    <string name="smart_battery_summary" product="tablet">Prisitaikantis akumuliatorius mokosi iš jūsų planšetinio kompiuterio naudojimo, kad nuolat optimizuotų programų akumuliatoriaus energijos vartojimą. Kad akumuliatorius veiktų ilgiau, gali būti sumažintas našumas ir atidėti pranešimai.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Ekranas ir palietimo funkcija</string>
 </resources>

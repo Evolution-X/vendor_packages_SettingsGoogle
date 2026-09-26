@@ -5,4 +5,25 @@
     <string name="language_picker_page">Página do seletor de idiomas</string>
     <string name="search_region">Pesquise regiões</string>
     <string name="search_region_page">Página de pesquisa da região</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Poupança de bateria padrão</string>
+    <string name="basic_battery_saver_summary">Limita os efeitos visuais e a atividade em segundo plano. Se o tema escuro estiver desativado, ativa-o.</string>
+    <string name="extreme_battery_saver_title">Poupança de bateria extrema</string>
+    <string name="extreme_battery_saver_summary">Inclui todas as alterações indicadas acima. Também pausa apps não essenciais e as respetivas notificações.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Horário e lembretes</string>
+    <string name="battery_schedule_summary">Faça a gestão da ativação da Poupança de bateria</string>
+    <string name="battery_saver_schedule_category">Horário</string>
+    <string name="battery_saver_schedule_switch_title">Ativar com base no nível da bateria</string>
+    <string name="battery_saver_schedule_switch_summary">A Poupança de bateria é ativada quando a bateria alcança um nível definido</string>
+    <string name="battery_saver_reminder_category">Lembretes</string>
+    <string name="battery_saver_reminder_switch_title">Lembretes da Poupança de bateria</string>
+    <string name="battery_saver_reminder_switch_summary">Receba lembretes quando a bateria estiver fraca</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Usar bateria adaptável</string>
+    <string name="smart_battery_summary_on">Ativado</string>
+    <string name="smart_battery_summary_off">Desativado</string>
 </resources>

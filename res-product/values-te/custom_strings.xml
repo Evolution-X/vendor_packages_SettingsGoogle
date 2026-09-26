@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">ఛార్జింగ్‌కు, ఛార్జింగ్‌కు మధ్య బ్యాట‌రీ ఎక్కువ‌ సేపు ఉండేలా పవర్‌ను ఆదా చేయండి</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">మీరు మీ టాబ్లెట్ బ్యాటరీని ఛార్జ్ చేసిన తర్వాత, అది ఎక్కువసేపు ఉండేలా పవర్‌ను ఆదా చేసుకోండి</string>
+</resources>

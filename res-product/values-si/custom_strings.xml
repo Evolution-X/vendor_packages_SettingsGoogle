@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">ඔබේ දුරකථනයේ බැටරිය ආරෝපණ අතර දිගු කාලයක් පැවතීමට උදවු කිරීමට බලය සුරකින්න</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">ඔබේ ටැබ්ලටයේ බැටරිය ආරෝපණ අතර දිගු කාලයක් පැවතීමට උදවු කිරීමට බලය සුරකින්න</string>
+</resources>

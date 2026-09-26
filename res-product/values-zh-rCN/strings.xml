@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">自动调节电池用量功能会根据手机使用情况，不断优化应用的用电方式。为延长电池续航时间，该功能可能会降低性能并延迟发送通知。</string>
+    <string name="smart_battery_summary" product="tablet">“自适应电池”功能会根据平板电脑使用情况不断优化应用对电池的使用方式。为了延长电池续航时间，该功能可能会降低性能并延迟发送通知。</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">显示和触控</string>
 </resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Energie sparen, damit der Akku deines Smartphones bis zum nächsten Laden länger hält</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Energie sparen, damit der Akku deines Tablets bis zum nächsten Laden länger hält</string>
+</resources>

@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Smarta batterifunktioner</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Smart batteri</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Med funktionen Smart batteri kan prestandan och bakgrundsaktiviteten begränsas i syfte att förlänga batteritiden. Vissa aviseringar kan fördröjas.</string>
 

@@ -5,4 +5,25 @@
     <string name="language_picker_page">ଭାଷା ପିକର ପୃଷ୍ଠା</string>
     <string name="search_region">ଅଞ୍ଚଳ ସର୍ଚ୍ଚ କରନ୍ତୁ</string>
     <string name="search_region_page">ଅଞ୍ଚଳ ସର୍ଚ୍ଚ କରିବା ପୃଷ୍ଠା</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">ଷ୍ଟାଣ୍ଡାର୍ଡ ବେଟେରୀ ସେଭର</string>
+    <string name="basic_battery_saver_summary">ଭିଜୁଆଲ ଇଫେକ୍ଟ ଏବଂ ବେକଗ୍ରାଉଣ୍ଡର କାର୍ଯ୍ୟକଳାପକୁ ସୀମିତ କରେ। ଯଦି ଡାର୍କ ଥିମ ପୂର୍ବରୁ ଚାଲୁ ହୋଇନଥାଏ, ତେବେ ଏହାକୁ ଚାଲୁ କରେ।</string>
+    <string name="extreme_battery_saver_title">ଏକ୍ସଟ୍ରିମ ବେଟେରୀ ସେଭର</string>
+    <string name="extreme_battery_saver_summary">ଉପରେ ତାଲିକାଭୁକ୍ତ ସମସ୍ତ ପରିବର୍ତ୍ତନକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରେ। ଏହା ସହିତ ଅତ୍ୟାବଶ୍ୟକ-ହୋଇନଥିବା ଆପ୍ସ ଏବଂ ସେଗୁଡ଼ିକର ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକୁ ବିରତ କରେ।</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">ସିଡୁଲ ଏବଂ ରିମାଇଣ୍ଡର</string>
+    <string name="battery_schedule_summary">ବେଟେରୀ ସେଭର ଚାଲୁ ହେଲେ ପରିଚାଳନା କରନ୍ତୁ</string>
+    <string name="battery_saver_schedule_category">ସିଡୁଲ</string>
+    <string name="battery_saver_schedule_switch_title">ବେଟେରୀ ଲେଭେଲ ଆଧାରରେ ଚାଲୁ କରନ୍ତୁ</string>
+    <string name="battery_saver_schedule_switch_summary">ବେଟେରୀ ଆପଣ ସେଟ କରିଥିବା ଏକ ଲେଭେଲରୁ କମ ହେବା ସମୟରେ ବେଟେରୀ ସେଭର ଚାଲୁ ହୁଏ</string>
+    <string name="battery_saver_reminder_category">ରିମାଇଣ୍ଡରଗୁଡ଼ିକ</string>
+    <string name="battery_saver_reminder_switch_title">ବେଟେରୀ ସେଭର ରିମାଇଣ୍ଡରଗୁଡ଼ିକ</string>
+    <string name="battery_saver_reminder_switch_summary">ବେଟେରୀର ଚାର୍ଜ କମ ଥିବା ସମୟରେ ରିମାଇଣ୍ଡର ପାଆନ୍ତୁ</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">ଆଡେପ୍ଟିଭ ବେଟେରୀ ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="smart_battery_summary_on">ଚାଲୁ ଅଛି</string>
+    <string name="smart_battery_summary_off">ବନ୍ଦ ଅଛି</string>
 </resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Штедете енергија за да може батеријата на телефонот да трае подолго меѓу полнењата</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Штедете енергија за да може батеријата на таблетот да трае подолго меѓу полнења</string>
+</resources>

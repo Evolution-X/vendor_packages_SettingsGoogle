@@ -5,4 +5,25 @@
     <string name="language_picker_page">Taalkieserbladsy</string>
     <string name="search_region">Deursoek streke</string>
     <string name="search_region_page">Deursoek streekbladsy</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">Standaardbatterybespaarder</string>
+    <string name="basic_battery_saver_summary">Beperk visuele effekte en agtergrondaktiwiteit. Skakel donkertema aan as dit nie klaar aan is nie.</string>
+    <string name="extreme_battery_saver_title">Superbatterybespaarder</string>
+    <string name="extreme_battery_saver_summary">Sluit alle veranderinge wat hier bo gelys word, in. Onderbreek ook nienoodsaaklike apps en hul kennisgewings.</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">Skedule en onthounotas</string>
+    <string name="battery_schedule_summary">Bestuur wanneer Batterybespaarder aanskakel</string>
+    <string name="battery_saver_schedule_category">Skedule</string>
+    <string name="battery_saver_schedule_switch_title">Skakel aan op grond van batteryvlak</string>
+    <string name="battery_saver_schedule_switch_summary">Batterybespaarder skakel aan wanneer battery die vlak wat jy gestel het, bereik</string>
+    <string name="battery_saver_reminder_category">Onthounotas</string>
+    <string name="battery_saver_reminder_switch_title">Batterybespaarderonthounotas</string>
+    <string name="battery_saver_reminder_switch_summary">Kry onthounotas wanneer battery laag is</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">Gebruik Aanpasbare Battery</string>
+    <string name="smart_battery_summary_on">Aan</string>
+    <string name="smart_battery_summary_off">Af</string>
 </resources>

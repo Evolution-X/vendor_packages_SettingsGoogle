@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">အလိုက်သင့် သတ်မှတ်ချက်များ</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">အလိုက်အထိုက် ဘက်ထရီအားထိန်း</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">ဘက်ထရီသက်တမ်း ပိုရှည်စေရန် ‘အလိုက်အထိုက် ဘက်ထရီအားထိန်း’ က စွမ်းဆောင်ရည်နှင့် နောက်ခံလုပ်ဆောင်ချက်ကို လျှော့ချနိုင်သည်။ အချို့အကြောင်းကြားချက်များ ကြန့်ကြာနိုင်ပါသည်။</string>
 

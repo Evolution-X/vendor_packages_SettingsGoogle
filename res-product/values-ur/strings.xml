@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">تغیر پذیر بیٹری آپ کے فون کے استعمال کی بنیاد پر ایپس بیٹری کو کس طرح استعمال کرتی ہے اسے مسلسل بہتر بنانا سیکھتی ہے۔ بیٹری لائف کو بڑھانے کے لیے، یہ کارکردگی کم کر سکتی اور اطلاعات میں تاخیر کر سکتی ہے۔</string>
+    <string name="smart_battery_summary" product="tablet">تغیر پذیر بیٹری آپ کے ٹیبلیٹ کے استعمال کی بنیاد پر ایپس بیٹری کو کس طرح استعمال کرتی ہے اسے مسلسل بہتر بنانا سیکھتی ہے۔ بیٹری لائف کو بڑھانے کے لیے، یہ کارکردگی کم کر سکتی اور اطلاعات میں تاخیر کر سکتی ہے۔</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">ڈسپلے اور ٹچ</string>
 </resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Économisez l\'énergie pour aider à prolonger l\'autonomie de la batterie entre les recharges</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Économisez l\'énergie pour aider à prolonger l\'autonomie de la batterie entre les recharges.</string>
+</resources>

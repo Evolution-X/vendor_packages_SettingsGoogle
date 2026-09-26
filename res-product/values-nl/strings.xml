@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">Aangepast batterijgebruik leert van je telefoongebruik om voortdurend te optimaliseren hoe apps de batterij gebruiken. De functie kan de prestaties beperken en meldingen vertragen om de levensduur van de batterij te verlengen.</string>
+    <string name="smart_battery_summary" product="tablet">Aangepast batterijgebruik leert van je tabletgebruik om voortdurend te optimaliseren hoe apps de batterij gebruiken. De functie kan de prestaties beperken en meldingen vertragen om de levensduur van de batterij te verlengen.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Scherm en aanraken</string>
 </resources>

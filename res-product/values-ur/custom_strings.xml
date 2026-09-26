@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">چارجز کے درمیان اپنے فون کی بیٹری کو زیادہ دیر تک چلنے میں مدد کرنے کے لیے پاور کی بچت کریں</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">چارجز کے درمیان اپنے ٹیبلیٹ کی بیٹری کو زیادہ دیر تک چلنے میں مدد کرنے کے لیے پاور کی بچت کریں</string>
+</resources>

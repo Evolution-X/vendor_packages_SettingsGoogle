@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">배터리 자동 조절 기능은 사용자의 휴대전화 사용 방식을 학습하여 지속적으로 앱의 배터리 사용을 최적화합니다. 배터리 수명을 늘리기 위해 성능이 저하되고 알림이 지연될 수 있습니다.</string>
+    <string name="smart_battery_summary" product="tablet">배터리 자동 조절 기능은 사용자의 태블릿 사용 방식을 학습하여 지속적으로 앱의 배터리 사용을 최적화합니다. 배터리 수명을 늘리기 위해 성능이 낮아지고 알림이 지연될 수 있습니다.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">디스플레이 및 터치</string>
 </resources>

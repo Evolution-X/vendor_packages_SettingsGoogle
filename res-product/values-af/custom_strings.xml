@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Bespaar krag om te help dat jou foon se battery langer tussen laaiprosesse hou</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Bespaar krag om te help dat jou tablet se battery langer tussen laaiprosesse hou</string>
+</resources>

@@ -5,4 +5,25 @@
     <string name="language_picker_page">語言選擇頁面</string>
     <string name="search_region">搜尋地區</string>
     <string name="search_region_page">搜尋區域頁面</string>
+
+    <!-- Battery Saver -->
+    <string name="basic_battery_saver_title">標準慳電模式</string>
+    <string name="basic_battery_saver_summary">限制視覺效果和背景活動。系統會開啟深色主題 (如未開啟)。</string>
+    <string name="extreme_battery_saver_title">超慳電模式</string>
+    <string name="extreme_battery_saver_summary">包括上述所有變更。系統亦會暫停非必要的應用程式及其通知。</string>
+
+    <!-- Battery Saver Schedule and Reminders -->
+    <string name="battery_schedule_title">時間表和提醒</string>
+    <string name="battery_schedule_summary">管理慳電模式何時開啟</string>
+    <string name="battery_saver_schedule_category">時間表</string>
+    <string name="battery_saver_schedule_switch_title">根據電量開啟</string>
+    <string name="battery_saver_schedule_switch_summary">在電量低於你指定的水平時開啟「慳電模式」</string>
+    <string name="battery_saver_reminder_category">提醒</string>
+    <string name="battery_saver_reminder_switch_title">「慳電模式」提醒</string>
+    <string name="battery_saver_reminder_switch_summary">在電量不足時接收提醒</string>
+
+    <!-- Adaptive Battery -->
+    <string name="adaptive_battery_switch_title">使用「自動調節電池用量」功能</string>
+    <string name="smart_battery_summary_on">開啟</string>
+    <string name="smart_battery_summary_off">關閉</string>
 </resources>

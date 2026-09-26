@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">Орчинтой тохируулах сонголт</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">Дасан зохицох батарей</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">Батарейн ажиллах хугацааг уртасгахын тулд Дасан зохицох батарей нь гүйцэтгэл болон дэвсгэрийн үйл ажиллагааг багасгаж болно. Зарим мэдэгдэл саатаж болзошгүй.</string>
 

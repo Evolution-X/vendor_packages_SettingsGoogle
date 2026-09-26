@@ -64,6 +64,9 @@
     <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
     <string name="smart_battery_manager_title">ਅਡੈਪਟਿਵ ਤਰਜੀਹਾਂ</string>
 
+    <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_title">ਅਡੈਪਟਿਵ ਬੈਟਰੀ</string>
+
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">ਬੈਟਰੀ ਲਾਈਫ਼ ਨੂੰ ਵਧਾਉਣ ਲਈ, ਅਡੈਪਟਿਵ ਬੈਟਰੀ ਸ਼ਾਇਦ ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਬੈਕਗ੍ਰਾਊਂਡ ਸਰਗਰਮੀ ਨੂੰ ਘੱਟ ਕਰ ਦੇਵੇ। ਕੁਝ ਸੂਚਨਾਵਾਂ ਸ਼ਾਇਦ ਦੇਰ ਨਾਲ ਮਿਲਣ।</string>
 

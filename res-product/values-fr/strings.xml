@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_summary" product="default">La batterie adaptative exploite les données d\'utilisation de votre téléphone pour optimiser en permanence l\'utilisation de la batterie par les applis. Pour prolonger l\'autonomie de la batterie, il se peut que les performances soient réduites et que les notifications soient retardées.</string>
+    <string name="smart_battery_summary" product="tablet">La batterie adaptative exploite les données d\'utilisation de votre tablette pour optimiser en permanence l\'utilisation de la batterie par les applis. Pour prolonger l\'autonomie de la batterie, il se peut que les performances soient réduites et que les notifications soient retardées.</string>
+
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Écran et commandes tactiles</string>
 </resources>
