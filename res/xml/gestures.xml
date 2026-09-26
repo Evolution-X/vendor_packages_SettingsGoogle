@@ -42,12 +42,26 @@
         settings:searchable="false"
         settings:controller="com.android.settings.gestures.DoubleTwistPreferenceController" />
 
-    <Preference
-        android:key="gesture_tap_screen_input_summary"
+    <com.android.settingslib.PrimarySwitchPreference
+        android:key="gesture_tap"
         android:title="@string/ambient_display_tap_screen_title"
         android:fragment="com.android.settings.gestures.TapScreenGestureSettings"
         settings:searchable="false"
         settings:controller="com.android.settings.gestures.TapScreenGesturePreferenceController" />
+
+    <Preference
+        android:title="@string/double_tap_screen_to_sleep_title"
+        android:key="gesture_double_tap_screen_to_sleep_summary"
+        android:fragment="com.android.settings.gestures.DoubleTapScreenToSleepSettings"
+        settings:controller="com.android.settings.gestures.DoubleTapScreenToSleepPreferenceController"
+        settings:searchable="false" />
+
+    <Preference
+        android:key="double_tap"
+        android:title="@string/doze_double_tap_title"
+        android:fragment="com.android.settings.gestures.DoubleTapAmbientSettings"
+        settings:controller="com.android.settings.gestures.DoubleTapAmbientSettingsPreferenceController"
+        settings:userRestriction="no_ambient_display" />
 
     <Preference
         android:key="gesture_double_tap_screen_input_summary"
@@ -56,7 +70,7 @@
         settings:searchable="false"
         settings:controller="com.android.settings.gestures.DoubleTapScreenPreferenceController" />
 
-    <Preference
+    <com.android.settingslib.PrimarySwitchPreference
         android:key="gesture_pick_up_input_summary"
         android:title="@string/ambient_display_pickup_title"
         android:fragment="com.android.settings.gestures.PickupGestureSettings"
