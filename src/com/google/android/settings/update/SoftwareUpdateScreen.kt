@@ -3,6 +3,8 @@ package com.google.android.settings.update
 import android.app.settings.SettingsEnums
 import android.content.Context
 import android.content.Intent
+import android.os.Build
+import android.os.SystemProperties
 import androidx.fragment.app.Fragment
 import com.android.settings.R as AR
 import com.android.settings.core.PreferenceScreenMixin
@@ -60,7 +62,8 @@ class SoftwareUpdateScreen :
         if (SystemUpdatePreferenceController.isSystemUpdatable(context)) {
             context.getString(R.string.software_update_can_be_updated_header)
         } else {
-            context.getString(R.string.software_update_up_to_date_header)
+            val deviceName = SystemProperties.get(KEY_MARKET_NAME_PROP, Build.MODEL)
+            context.getString(R.string.software_update_up_to_date_header, deviceName)
         }
 
     override fun getPreferenceHierarchy(
@@ -114,5 +117,6 @@ class SoftwareUpdateScreen :
     companion object {
         const val KEY = "software_update_settings_v2"
         const val KEY_PREFERENCE = "software_update_settings_v2_preference"
+        private const val KEY_MARKET_NAME_PROP = "ro.product.marketname"
     }
 }
