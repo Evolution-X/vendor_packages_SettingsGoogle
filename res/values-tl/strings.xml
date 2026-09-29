@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Hal., Pixel ni Joe.</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">Mag-sign in sa isang Google Account para gamitin sa iyong pribadong space</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">Tingnan o baguhin ang subscription sa OpenRoaming</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">Gumagamit ng itim na background ang Madilim na tema para mas magtagal ang iyong baterya. Naghihintay ang mga iskedyul ng madilim na tema na ma-off ang iyong screen bago ma-on ang mga ito.</string>
+    <string name="dark_ui_text_force_invert">Gumamit ng madilim na background para mabawasan ang paggamit ng baterya at gawing mas kumportableng tingnan ang iyong screen. Magbabago ang iyong tema kung mayroon kang iskedyul, kapag naka-off ang screen.</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">Mga kulay, mga may temang icon, grid ng app</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">Hub mode</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">Mga opsyon sa dock at lock screen</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">Ilunsad ang Gemini</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">Makipag-ugnayan sa Support Team ng Google para sa May Kapansanan</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">Posibleng pataasin ang volume ng audio para mapahusay ang compatibility sa mga telecoil at mabawasan ang hindi gustong ingay</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">paningin, pandinig, bulag, bingi, paggalaw, kagalingan sa paggalaw, nakakatulong, pagtulong, dali ng paggamit, dali ng pag-access, kamay, tulong</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">Screen reader, Voice Over, VoiceOver, Voice Assistance, Bulag, Malabo ang Paningin, TTS, text to speech, pasalitang feedback</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">Mga caption, mga closed caption, CC, Instant Caption, may problema sa pandinig, walang pandinig, CART, speech to text, subtitle</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">Mga notification, may problema sa pandinig, walang pandinig, mag-abiso</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">PSAP, i-amplify, pag-amplify ng tunog, may problema sa pandinig, walang pandinig, pag-amplify</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">Pakinggan ang text, basahin nang malakas, bigkasin ang nasa screen, screen reader, dyslexia, select to speak</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">paggalaw, mabilisang menu, pantulong na menu, pagpindot, kagalingan sa paggalaw, arthritis, rsi, stroke, tremor, multiple sclerosis, cerebral palsy, button, hardware, pindutin, paulit-ulit na pinsala sa kalamnan, kamay, pananakit, naa-access, tulong</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">motor, switch, kamay, AT, pantulong na teknolohiya, pagkaparalisa, ALS, pag-scan, paisa-isang pag-scan</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">boses, pagkontrol gamit ang boses, motor, kamay, mic, mikropono, dictation, pagsasalita, kontrol</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">I-on ang Adaptive Battery</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">Mga kagustuhan sa Adaptive</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">Para patagalin ang baterya, posibleng bawasan ng Adaptive Battery ang performance at aktibidad sa background. Baka maantala ang ilang notification.</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">Patagalin ang baterya at i-optimize ang pag-charge</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">Patagalin ang baterya</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">Matuto pa</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">Gusto mo bang ihinto ang pagba-back up ng data ng device (gaya ng mga password ng Wi-Fi at history ng tawag) at data ng app (gaya ng mga setting at file na naimbak ng mga app), at burahin ang lahat ng kopya sa Google Drive?</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">Awtomatikong mag-back up ng data ng device (gaya ng mga password ng Wi-Fi at history ng tawag) at data ng app (gaya ng mga setting at file na naimbak ng mga app) sa Google Drive.\n\nKapag na-on mo ang awtomatikong pag-backup, pana-panahong ise-save ang data ng device at app sa isang pribadong folder sa Google Drive. Ang data ng app ay maaaring anumang data na na-save ng app (batay sa mga setting ng developer), kasama na ang potensyal na sensitibong data gaya ng mga contact, mensahe at larawan.\n\nAng data sa pag-backup ay hindi ibibilang sa iyong quota sa storage ng Drive. Hindi iba-back up ang malalaking file o mga file na pinili ng mga developer na hindi isama sa serbisyo.</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">Assistant, mga kamakailang app, mga default na app</string>
+    <string name="keywords_gesture">galaw, mga paggalaw</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">Volume at haptics</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">Spatial audio</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">Paglilipat ng file / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">Madilim na tema, laki ng font, touch</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">Smart Storage</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">Kapag halos puno na ang storage, alisin ang mga naka-back up na larawan at video. Makikita mo pa rin ang mga ito sa Google Photos.</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">Alisin ang mga naka-back up na larawan at video</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">Smart Storage</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">Gumamit ng Smart Storage</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">Para pumunta at lumabas sa selfie mode sa iyong Pixel Camera, mag-double twist kapag nasa app ka.</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">Kapag nakakonekta ka, maa-access mo pa rin ang mga larawan at video sa kalidad na pinili mo para sa pag-backup</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">I-off ang Smart Storage? \n\nHindi magbabakante ang Smart Storage ng espasyo kapag malapit nang mapuno ang iyong storage.</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Google Account</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">Mag-personalize gamit ang data ng app</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">Real-time na text (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">Hindi nakikita</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">Nakikita kapag may tawag</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">Palaging nakikita</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">Pribadong tumatakbo ang pag-scan sa iyong device, na sumusuri sa aktibidad sa app para mag-detect ng phishing o iba pang mapanlinlang na gawi. Kung ma-detect ito, ipapadala ang ilang impormasyon ng app sa Google Play Protect para kumpirmahin ang banta at bigyan ng babala ang mga user ng app.</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">Isa itong protektadong panseguridad na feature. Walang device o personal na impormasyong ibinabahagi sa Google. \n\nAng phishing ay isang pagtatangkang magnakaw ng mga kredensyal sa pag-sign in o iba pang personal na impormasyon.</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">Payagan ang mga app na magpakita ng pointer habang naka-hover</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">Pag-check sa Identity at Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">Gamit ang nakakonektang Pixel Watch, magdaragdag pa ang Pag-check sa Identity ng mga paraan ng pag-verify na ikaw talaga iyan para maiwasan ang hindi ginustong access sa mga app</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">Pag-check sa Identity at Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">Mga update: &lt;ul&gt;&lt;li&gt;Sa pagkonekta ng Pixel Watch 3 o mas bago, puwede mong gamitin ang biometrics o ang iyong PIN para ma-access ang mga app kapag wala ka sa pinagkakatiwalaang lugar. &lt;/li&gt;&lt;li&gt;Sa paglipas ng panahon, posibleng magdagdag ang Pag-check sa Identity ng higit pang paraan para i-verify na ikaw talaga iyan at i-secure ang mga app sa iyong device. &lt;a href=https://support.google.com/android?p=identity_check&gt;Matuto pa tungkol sa kung kailan at saan ka pinoprotektahan&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">Pag-check sa Identity at ang iyong Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">Gamit ang nakakonektang Pixel Watch, magdaragdag pa ang Pag-check sa Identity ng mga paraan ng pag-verify na ikaw talaga iyan para maiwasan ang hindi ginustong access sa mga app</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">Naka-on ang pag-scan ng Play Protect</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">Regular na sinusuri ng Play Protect ang iyong mga app at device para maghanap ng mapaminsalang gawi. Aabisuhan ka kung may makitang anumang panganib sa seguridad.</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">Seguridad ng app, Play Protect, Google Play Protect, Kaligtasan ng app</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">Pinoprotektahan ang Google Account</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Security checkup ng Google, Seguridad ng Google, Security checkup, Seguridad ng account, Seguridad ng Google account, Google account</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">Find Hub, Paghahanap ng mga device, Hanapin ang aking device, Nawawalang device</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">Mga Update, Update, Update sa system, Mga update sa system, Update sa system ng Google Play, Update sa system ng Play</string>
+</resources>

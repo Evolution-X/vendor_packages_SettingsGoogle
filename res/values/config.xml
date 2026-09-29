@@ -1,2 +1,354 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <!-- User avatar dialog result broadcast explicit package -->
+    <string name="config_avatar_picker_package" translatable="false">com.google.android.avatarpicker</string>
+
+    <!-- Package name and fully-qualified class name for the wallpaper picker activity. -->
+    <string name="config_wallpaper_picker_package" translatable="false">com.google.android.apps.wallpaper</string>
+    <string name="config_wallpaper_picker_class" translatable="false">com.google.android.apps.wallpaper.picker.CategoryPickerActivity</string>
+
+    <!-- Fully-qualified class name for the styles & wallpaper picker activity. -->
+    <string name="config_styles_and_wallpaper_picker_class" translatable="false">com.android.customization.picker.CustomizationPickerActivity</string>
+
+    <!-- Action name for the wallpaper picker activity. -->
+    <string name="config_wallpaper_picker_action" translatable="false">android.intent.action.MAIN</string>
+
+    <!-- Action name for the styles & wallpaper picker activity. -->
+    <string name="config_styles_and_wallpaper_picker_action" translatable="false">android.intent.action.SET_WALLPAPER</string>
+
+    <!-- Double twist sensor type and vendor used by gesture setting -->
+    <string name="gesture_double_twist_sensor_type" translatable="false">com.google.sensor.double_twist</string>
+    <string name="gesture_double_twist_sensor_vendor" translatable="false">Google</string>
+
+    <!-- If the Storage Manager settings are enabled. -->
+    <bool name="config_storage_manager_settings_enabled">true</bool>
+
+    <!-- List containing the component names of pre-installed screen reader services. -->
+    <string-array name="config_preinstalled_screen_reader_services" translatable="false">
+        <item>com.google.android.marvin.talkback/com.google.android.marvin.talkback.TalkBackService</item>
+    </string-array>
+
+    <!-- List containing the component names of pre-installed captioning services. -->
+    <string-array name="config_preinstalled_captions_services" translatable="false">
+        <item>com.google.audio.hearing.visualization.accessibility.scribe/com.google.audio.hearing.visualization.accessibility.scribe.MainActivity</item>
+        <item>com.google.audio.hearing.visualization.accessibility.scribe/com.google.audio.hearing.visualization.accessibility.scribe.SpeechToTextAccessibilityService</item>
+    </string-array>
+
+    <!-- List containing the component names of pre-installed audio and captioning services. -->
+    <string-array name="config_preinstalled_audio_services" translatable="false">
+        <item>com.google.android.accessibility.soundamplifier/com.google.android.accessibility.soundamplifier.ui.SoundAmplifierSettingActivity</item>
+        <item>com.google.android.accessibility.soundamplifier/com.google.android.accessibility.soundamplifier.SoundAmplifierService</item>
+        <item>com.google.audio.hearing.visualization.accessibility.scribe/com.google.audio.hearing.visualization.accessibility.dolphin.ui.visualizer.TimelineActivity</item>
+    </string-array>
+
+    <!-- List containing the component names of pre-installed display services. -->
+    <string-array name="config_preinstalled_display_services" translatable="false">
+        <item>com.google.android.marvin.talkback/com.google.android.accessibility.selecttospeak.SelectToSpeakService</item>
+    </string-array>
+
+    <!-- List containing the component names of pre-installed speech services. -->
+    <string-array name="config_preinstalled_speech_services" translatable="false">
+        <item>com.google.research.projectrelate/com.google.speech.projectrelate.InitialActivity</item>
+    </string-array>
+
+    <!-- List containing the component names of pre-installed interaction control services. -->
+    <string-array name="config_preinstalled_interaction_control_services" translatable="false">
+        <item>com.google.android.marvin.talkback/com.google.android.accessibility.accessibilitymenu.AccessibilityMenuService</item>
+        <item>com.google.android.apps.accessibility.voiceaccess/com.google.android.apps.accessibility.voiceaccess.JustSpeakService</item>
+        <item>com.google.android.marvin.talkback/com.android.switchaccess.SwitchAccessService</item>
+        <item>com.google.android.accessibility.switchaccess/com.android.switchaccess.SwitchAccessService</item>
+        <item>com.google.android.inputmethod.latin/com.google.android.libraries.inputmethod.pksimulator.settings.PkSimulatorToggleActivity</item>
+    </string-array>
+
+    <string-array name="config_order_captions_services" translatable="false">
+        <item>live_caption</item>
+        <item>com.google.audio.hearing.visualization.accessibility.scribe/com.google.audio.hearing.visualization.accessibility.scribe.MainActivity</item>
+        <item>com.google.audio.hearing.visualization.accessibility.scribe/com.google.audio.hearing.visualization.accessibility.scribe.SpeechToTextAccessibilityService</item>
+        <item>captioning_preference_screen</item>
+        <item>rtt_setting</item>
+    </string-array>
+
+    <!-- List containing the order of services in audio and caption category by preference key or
+         {@link ComponentName}. All preference keys in a category need to be specified to guarantee
+         correct behavior.-->
+    <string-array name="config_order_audio_services" translatable="false">
+        <item>toggle_audio_description</item>
+        <item>com.google.android.accessibility.soundamplifier/com.google.android.accessibility.soundamplifier.ui.SoundAmplifierSettingActivity</item>
+        <item>com.google.android.accessibility.soundamplifier/com.google.android.accessibility.soundamplifier.SoundAmplifierService</item>
+        <item>com.google.audio.hearing.visualization.accessibility.scribe/com.google.audio.hearing.visualization.accessibility.dolphin.ui.visualizer.TimelineActivity</item>
+        <item>flash_notifications_preference</item>
+        <item>hearing_aid_preference</item>
+        <item>audio_adjustment_preference_screen</item>
+    </string-array>
+
+    <!-- List containing the order of services in display category by preference key or
+         {@link ComponentName}. All preference keys in a category need to be specified to guarantee
+         correct behavior.-->
+    <string-array name="config_order_display_services" translatable="false">
+        <item>text_reading_options</item>
+        <item>color_and_motion</item>
+        <item>reduce_bright_colors_preference</item>
+        <item>magnification_preference_screen</item>
+        <item>magnifier_preference</item>
+        <item>com.google.android.marvin.talkback/com.google.android.accessibility.selecttospeak.SelectToSpeakService</item>
+    </string-array>
+
+    <!-- List containing the order of services in speech category by preference key or
+         {@link ComponentName}. All preference keys in a category need to be specified to guarantee
+         correct behavior.-->
+    <string-array name="config_order_speech_services" translatable="false">
+        <item>com.google.research.projectrelate/com.google.speech.projectrelate.InitialActivity</item>
+    </string-array>
+
+    <!-- List containing the order of services in interaction control category by preference key or
+         {@link ComponentName}. All preference keys in a category need to be specified to guarantee
+         correct behavior.-->
+    <string-array name="config_order_interaction_control_services" translatable="false">
+        <item>com.google.android.marvin.talkback/com.google.android.accessibility.accessibilitymenu.AccessibilityMenuService</item>
+        <item>com.google.android.apps.accessibility.voiceaccess/com.google.android.apps.accessibility.voiceaccess.JustSpeakService</item>
+        <item>com.google.android.marvin.talkback/com.android.switchaccess.SwitchAccessService</item>
+        <item>com.google.android.accessibility.switchaccess/com.android.switchaccess.SwitchAccessService</item>
+        <item>tap_assistance_preference_screen</item>
+        <item>system_controls_preference_screen</item>
+        <item>vibration_preference_screen</item>
+        <item>physical_keyboard_a11y</item>
+        <item>com.google.android.inputmethod.latin/com.google.android.libraries.inputmethod.pksimulator.settings.PkSimulatorToggleActivity</item>
+        <item>pointer_and_touchpad</item>
+    </string-array>
+
+    <!-- Whether or not to show the night light suggestion. -->
+    <bool name="config_night_light_suggestion_enabled">false</bool>
+
+    <!--
+        Whether or not the homepage should be powered by legacy suggestion (versus contextual cards)
+        Default to true as not all devices support contextual cards.
+    -->
+    <bool name="config_use_legacy_suggestion">false</bool>
+
+    <!-- Whether or not homepage should display user's account avatar -->
+    <bool name="config_show_avatar_in_homepage">true</bool>
+
+    <!-- Whether or not device header widget tile should display in device info page -->
+    <bool name="config_show_device_header_in_device_info">false</bool>
+
+    <!-- Settings intelligence package name -->
+    <string name="config_settingsintelligence_package_name" translatable="false">com.google.android.settings.intelligence</string>
+
+    <!-- Whether Settings intelligence supports presenting Slices. -->
+    <bool name="config_settingsintelligence_slice_supported">true</bool>
+
+    <!-- Package Installer package name -->
+    <string name="config_package_installer_package_name" translatable="false">com.google.android.packageinstaller</string>
+
+    <!-- Sound picker package name -->
+    <string name="config_sound_picker_package_name" translatable="false">com.google.android.soundpicker</string>
+
+    <!-- Contacts package name -->
+    <string name="config_contacts_package_name" translatable="false">com.google.android.contacts</string>
+
+    <!-- Emergency app package name -->
+    <string name="config_emergency_package_name" translatable="false">com.google.android.apps.safetyhub</string>
+
+    <!-- Emergency app intent action -->
+    <string name="config_emergency_intent_action" translatable="false">com.google.android.safetyhub.SAFETY_HUB</string>
+
+    <!-- Email address for the homepage contextual cards feedback -->
+    <string name="config_contextual_card_feedback_email" translatable="false">contextual-settings-homepage-feedback@google.com</string>
+
+    <!-- App intent -->
+    <string name="config_account_intent_uri" translatable="false">intent:#Intent;action=com.android.settings.action.VIEW_ACCOUNT;category=android.intent.category.DEFAULT;launchFlags=0x8000;S.extra.callingPackageName=com.android.settings;end</string>
+
+    <!-- BT Slice intent action. To support Settings 2 panel, BT slice can't use PendingIntent.send(). Therefore, here defines the Slice intent action. -->
+    <string name="config_bt_slice_intent_action" translatable="false">com.google.android.gms.nearby.discovery.ACTION_LOG_SLICE_AND_LAUNCH_INTENT</string>
+
+    <!-- BT Slice pending intent action. To support Settings 2 panel, BT slice can't use PendingIntent.send(). Therefore, here defines the Slice pending intent action. -->
+    <string name="config_bt_slice_pending_intent_action" translatable="false">com.google.android.gms.nearby.discovery.ACTION_LOG_SLICE_AND_SEND_PENDING_INTENT</string>
+
+    <!-- BT Slice EXTRA_INTENT. To support Settings 2 panel, BT slice can't use PendingIntent.send(). Therefore, here defines the Slice EXTRA_INTENT. -->
+    <string name="config_bt_slice_extra_intent" translatable="false">com.google.android.gms.nearby.discovery.EXTRA_INTENT</string>
+
+    <!-- BT Slice EXTRA_PENDING_INTENT. To support Settings 2 panel, BT slice can't use PendingIntent.send(). Therefore, here defines the Slice EXTRA_PENDING_INTENT. -->
+    <string name="config_bt_slice_extra_pending_intent" translatable="false">com.google.android.gms.nearby.discovery.EXTRA_PENDING_INTENT</string>
+
+    <!-- Grayscale settings intent -->
+    <string name="config_grayscale_settings_intent" translatable="false">intent:#Intent;action=com.google.android.apps.wellbeing.action.WIND_DOWN;package=com.google.android.apps.wellbeing;launchFlags=0x10000000;end</string>
+
+    <!-- List containing the injected tile keys which are suppressed. -->
+    <string-array name="config_suppress_injected_tile_keys" translatable="false">
+        <item>backup_or_restore_settings_keyhint</item>
+    </string-array>
+
+    <!-- List containing the apps keep in battery mode = "Optimized" -->
+    <string-array name="config_force_battery_optimize_mode_apps" translatable="false">
+        <item>com.google.android.deskclock</item>
+        <item>com.google.android.apps.turbo</item>
+        <item>com.google.android.pixelsystemservice</item>
+    </string-array>
+
+    <!-- List containing the apps keep in battery mode = "Unrestricted" -->
+    <string-array name="config_force_battery_unrestrict_mode_apps" translatable="false">
+        <item>com.google.android.retaildemo</item>
+    </string-array>
+
+    <!-- Uri to query non-public Slice Uris. -->
+    <string name="config_non_public_slice_query_uri" translatable="false">content://com.android.settings.slices/settings_internal_slices</string>
+
+    <!-- RTT setting intent action -->
+    <string name="config_rtt_setting_intent_action" translatable="false">com.android.dialer.rtt.settings.impl.gateway.ACTION_OPEN_RTT_SETTINGS</string>
+
+    <!-- Package name of dialer supports RTT setting-->
+    <string name="config_rtt_setting_package_name" translatable="false">com.google.android.dialer</string>
+
+    <!-- Whether nfc detection point preview image is available or not. -->
+    <bool name="config_nfc_detection_point">true</bool>
+
+    <!-- Optional package name if another 1p app wants to take over the emergency gesture settings UI -->
+    <string name="emergency_gesture_settings_package">com.google.android.apps.safetyhub</string>
+
+    <!-- Authority of advanced device battery prediction -->
+    <string name="config_battery_prediction_authority" translatable="false">com.google.android.apps.turbo.bluetooth.estimated_time_remaining</string>
+
+    <!-- Whether to handle slot change events -->
+    <bool name="config_handle_sim_slot_change">true</bool>
+
+    <!-- Whether to show Smart Storage toggle -->
+    <bool name="config_show_smart_storage_toggle">false</bool>
+
+    <!-- Display settings screen, Color mode options. Must be the same length and order as
+         config_color_mode_options_values below. Only the values that also appear in
+         frameworks/base/core/res/res/values/config.xml's config_availableColorModes are shown. -->
+    <string-array name="config_color_mode_options_strings" translatable="false">
+        <item>@string/color_mode_option_natural</item>
+        <item>@string/color_mode_option_boosted</item>
+        <item>@string/color_mode_option_saturated</item>
+        <item>@string/color_mode_option_automatic</item>
+        <item>@string/color_mode_option_boosted</item>
+    </string-array>
+
+    <!-- Display settings screen, Color mode options. Must be the same length and order as
+         config_color_mode_options_strings above. Only the values that also appear in
+         frameworks/base/core/res/res/values/config.xml's config_availableColorModes are shown. -->
+    <integer-array name="config_color_mode_options_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>256</item>
+    </integer-array>
+
+    <!-- An array of packages for which Applications whose per-app locale cannot be changed. -->
+    <string-array name="config_disallowed_app_localeChange_packages" translatable="false">
+        <item>com.google.android.apps.internal.betterbug</item>
+        <item>com.google.android.apps.tips</item>
+        <item>com.google.android.cellbroadcastreceiver</item>
+        <item>com.google.android.documentsui</item>
+        <item>com.google.android.gms</item>
+        <item>com.google.android.inputmethod.latin</item>
+        <item>com.google.mds</item>
+        <item>com.google.TrafficMeasurementHub</item>
+        <item>com.google.android.apps.wellbeing</item>
+    </string-array>
+
+    <!-- The extra value for battery tip -->
+    <integer name="config_battery_extra_tip_value">90</integer>
+
+    <!-- Whether to enable the app battery usage list page feature. -->
+    <bool name="config_app_battery_usage_list_enabled">true</bool>
+
+    <!-- Certificates of apps which are allowed to use activity embedding with Settings.-->
+    <string-array name="config_known_host_certs" translatable="false">
+        <item>1975B2F17177BC89A5DFF31F9E64A6CAE281A53DC1D1D59B1D147FE1C82AFA00</item>
+        <item>F0FD6C5B410F25CB25C3B53346C8972FAE30F8EE7411DF910480AD6B2D60DB83</item>
+    </string-array>
+
+    <!-- App locale change intent action-->
+    <string name="config_app_locale_intent_action" translatable="false">com.google.android.apps.pixel.globalintl.localenotification.action.APP_NOTIFICATION</string>
+
+    <!-- Allowed packages to show the confirmation dialog for a system locale suggestion  -->
+    <string-array name="allowed_packages_for_locale_confirmation_diallog" translatable="false">
+        <item>com.google.android.apps.pixel.globalintl</item>
+    </string-array>
+
+    <!-- The Activity intent to trigger to launch time-related feedback. -->
+    <string name="config_time_feedback_intent_uri" translatable="false">intent:#Intent;action=com.google.android.gms.time.platformfeedback.LAUNCH_USER_FEEDBACK;package=com.google.android.gms;end</string>
+
+    <!-- Array of carrier id that use to check current region be in satellite GEO fence or not. -->
+    <integer-array name="config_carrier_id_list_for_satellite_geo_fence_check" translatable="false">
+        <item>1839</item>
+    </integer-array>
+
+    <!-- Whether strings are provided to show Identity Check Watch promo card. This implies that
+         the following strings have overlays:
+         R.string.identity_check_watch_issue_card_title
+         R.string.identity_check_watch_issue_card_summary
+         R.string.identity_check_watch_promo_card_title
+         R.string.identity_check_promo_card_watch_summary
+         R.string.identity_check_watch_notification_title
+         R.string.identity_check_watch_notification_summary -->
+    <bool name="config_show_identity_check_watch_promo">true</bool>
+
+    <!-- Safety Center safety source ID of an app security source. -->
+    <string name="config_safety_center_app_security_source_id" translatable="false">GooglePlayProtect</string>
+
+    <!-- Safety Center safety source ID of an app protection service source. -->
+    <string name="config_safety_center_app_protection_service_source_id" translatable="false">GoogleAppProtectionService</string>
+
+    <!-- Safety Center safety source ID of an auto lock source. -->
+    <string name="config_safety_center_auto_lock_source_id" translatable="false">GoogleAutoLock</string>
+
+    <!-- Safety Center safety source ID of an account security source. -->
+    <string name="config_safety_center_account_security_source_id" translatable="false">GoogleSecurityCheckup</string>
+
+    <!-- Safety Center safety source ID of a password security source. -->
+    <string name="config_safety_center_password_security_source_id" translatable="false">GooglePasswordCheckup</string>
+
+    <!-- Safety Center safety source ID of a device finder source. -->
+    <string name="config_safety_center_device_finder_source_id" translatable="false">GoogleFindMyDevice</string>
+
+    <!-- Safety Center safety source ID of an unwanted tracker alert source. -->
+    <string name="config_safety_center_unwanted_tracker_alert_source_id" translatable="false">GoogleRogueTag</string>
+
+    <!-- Safety Center safety source ID of a security update source. -->
+    <string name="config_safety_center_security_update_source_id" translatable="false">GoogleSecurityUpdates</string>
+
+    <!-- Safety Center safety source ID of a system component update source. -->
+    <string name="config_safety_center_system_component_update_source_id" translatable="false">GooglePlaySystemUpdate</string>
+
+    <!-- Safety Center safety source ID of a backup source. -->
+    <string name="config_safety_center_backup_source_id" translatable="false">GoogleBackupAndRestore</string>
+
+    <!-- Safety Center safety source ID of an advanced protection source. -->
+    <string name="config_safety_center_advanced_protection_source_id" translatable="false">AdvancedProtection</string>
+
+    <!-- Comma separated list of Safety Center safety source IDs to show in the same task as Safety Center -->
+    <string name="config_same_task_safety_source_ids" translatable="false">AdvancedProtection,AndroidAccessibility,AndroidAppFunctionAccess,AndroidBackgroundLocation,AndroidBiometrics,AndroidFaceUnlock,AndroidFingerprintUnlock,AndroidHealthConnect,AndroidLockScreen,AndroidPrivateSpace,AndroidNotificationListener,AndroidPermissionAutoRevoke,AndroidPrivacyAppDataSharingUpdates,AndroidWearUnlock,AndroidWorkPolicyInfo,GoogleActivityControls,GoogleAdsIdentity,GoogleAppProtectionService,GoogleAutoLock,GoogleBackupAndRestore,GoogleFindMyDevice,GoogleRogueTag</string>
+
+    <!-- Safety Center subpage ID for the app security subpage. -->
+    <string name="config_safety_center_app_security_subpage_id" translatable="false">GoogleAppSecuritySources</string>
+
+    <!-- Safety Center subpage ID for the accounts subpage. -->
+    <string name="config_safety_center_accounts_subpage_id" translatable="false">GoogleAccountsSources</string>
+
+    <!-- Safety Center subpage ID for the device finders subpage. -->
+    <string name="config_safety_center_device_finders_subpage_id" translatable="false">GoogleDeviceFinderSources</string>
+
+    <!-- Safety Center subpage ID for the updates subpage. -->
+    <string name="config_safety_center_updates_subpage_id" translatable="false">GoogleUpdateSources</string>
+
+    <!-- An array of package names of satellite apps for the NB-NTN landing page. -->
+    <string-array name="config_satellite_apps_for_nbntn_landing_page" translatable="false">
+        <item>com.google.android.apps.messaging</item>
+    </string-array>
+
+    <!-- An array of package names of satellite apps for the LTE landing page. -->
+    <string-array name="config_satellite_apps_for_lte_landing_page" translatable="false">
+        <item>com.google.android.apps.messaging</item>
+        <item>com.google.android.apps.weather</item>
+        <item>com.google.android.apps.safetyhub</item>
+        <item>com.google.android.apps.maps</item>
+        <item>com.whatsapp</item>
+        <item>com.accuweather.android</item>
+        <item>com.twitter.android</item>
+        <item>com.snapchat.android</item>
+    </string-array>
+</resources>

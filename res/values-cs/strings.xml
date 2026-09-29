@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Např. Terčin Pixel</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">Pokud chcete funkci používat se soukromým prostorem, přihlaste se k účtu Google</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">Zobrazení nebo změna odběru OpenRoaming</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">Tmavý motiv používá černé pozadí, a pomáhá tak prodloužit výdrž baterie. Plány tmavého motivu se zapnou až po vypnutí obrazovky.</string>
+    <string name="dark_ui_text_force_invert">Při používání tmavého pozadí se snižuje využití baterie. Tmavé pozadí je taky příjemnější na oči. Pokud máte zapnutý plán, motiv se změní, když je obrazovka vypnutá.</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">Barvy, tematické ikony, mřížka aplikací</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">Režim centra</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">Možnosti obrazovky uzamčení a chování v doku</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">Spustit Gemini</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">Kontaktovat podporu Google pro osoby s postižením</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">Může zvýšit hlasitost zvuku ke zlepšení kompatibility s indukčními cívkami a snížení nežádoucího šumu</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">zrak, sluch, nevidomý, neslyšící, pohyb, obratnost, asistenční, asistence, snadné používání, snadný přístup, ruka, pomoc</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">Čtečka obrazovky, hlasový komentář, Hlasová asistence, nevidomí, slabozrakost, TTS, převod textu na řeč, hlasová odezva</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">Titulky pro neslyšící, skryté titulky, okamžité titulky, nedoslýchavost, ztráta sluchu, převod řeči na text, titulky</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">Oznámení, nedoslýchavost, ztráta sluchu, oznámení</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">Zesílit, zesílení zvuku, nedoslýchavost, ztráta sluchu, zesílení</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">Poslech textu, čtení nahlas, čtení obsahu obrazovky nahlas, čtečka obrazovky, dyslexie, poslech vybraného textu</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">pohyb, rychlá nabídka, nabídka pomocných funkcí, dotyk, obratnost, artritida, syndrom rsi, mozková mrtvice, třes, roztroušená skleróza, mozková obrna, tlačítko, hardware, stisknutí, poškození z opakovaného namáhání, ruka, bolest, přístupný, pomoc</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">motorika, přepínač, ruka, asistenční technologie, asistivní technologie, paralýza, ALS, skenování, postupné prohledávání</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">hlas, hlasové ovládání, motorika, ruka, mikrofon, diktování, řeč, ovládání</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">Zapněte adaptivní baterii</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">Adaptivní předvolby</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">Adaptivní baterie může za účelem prodloužení výdrže baterie omezit výkon a aktivitu na pozadí. Některá oznámení se mohou zpožďovat.</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">Prodlužuje výdrž baterie a optimalizuje nabíjení</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">Prodloužení výdrže baterie</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">Další informace</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">Zastavit zálohování dat zařízení (jako jsou hesla sítí Wi-Fi a historie volání) a dat aplikací (jako jsou nastavení a soubory uložené aplikacemi) a vymazat všechny kopie na Disku Google?</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">Automaticky zálohujte data zařízení (jako jsou hesla sítí Wi-Fi a historie volání) a data aplikací (jako jsou nastavení a soubory uložené aplikacemi) na Disk Google.\n\nKdyž zapnete automatické zálohování, data zařízení a aplikací budou pravidelně ukládána do soukromé složky na Disku Google. Data aplikací mohou zahrnovat data, která uložila aplikace (v závislosti na nastavení vývojáře), včetně potenciálně citlivých dat, jako jsou kontakty, zprávy a fotky.\n\nZálohovaná data se do kvóty úložiště na Disku nezapočítávají. Velké soubory nebo soubory, které se vývojáři rozhodli ze služby vyloučit, zálohovány nebudou.</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">Asistent, nedávné aplikace, výchozí aplikace</string>
+    <string name="keywords_gesture">gesta, pohyby</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">Hlasitost a hmatová odezva</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">Prostorový zvuk</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">Přenos souborů / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">Tmavý motiv, velikost písma, dotykové ovládání</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">Chytré úložiště</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">Když se úložiště začne zaplňovat, funkce odstraní zálohované fotky a videa. Obsah bude nadále dostupný ve Fotkách Google.</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">Odstraňovat zálohované fotky a videa</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">Chytré úložiště</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">Používat Chytré úložiště</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">Režim selfie ve Fotoaparátu Pixel aktivujete či deaktivujete tak, že dvakrát rychle za sebou krátce pootočíte zápěstím, když máte fotoaparát otevřený.</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">Když budete připojeni, budete mít nadále přístup k fotkám a videím v kvalitě vybrané pro zálohu.</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">Vypnout funkci Chytré úložiště? \n\nFunkce Chytré úložiště neuvolní místo, až budete mít úložiště téměř plné.</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Účet Google</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">Přizpůsobit pomocí dat z aplikací</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">Okamžitý text (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">Nezobrazovat</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">Zobrazovat během hovoru</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">Vždy zobrazovat</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">Kontrola probíhá soukromě přímo v zařízení. Kontroluje se případná phishingová nebo jiná podvodná aktivita v aplikacích. Pokud na něco takového narazíme, určité informace o aplikaci se odešlou do funkce Google Play Protect, abychom hrozbu potvrdili a varovali uživatele.</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">Toto je chráněná bezpečnostní funkce. S Googlem se nesdílejí žádné informace o zařízení ani osobní údaje. \n\nPhishingem se rozumí pokus o odcizení přihlašovacích nebo jiných osobních údajů.</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">Povolit aplikacím zobrazovat ukazatel při umístění kurzoru</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">Ověření totožnosti a hodinky Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">S připojenými hodinkami Pixel Watch nabízí funkce Ověření totožnosti další způsoby ověření totožnosti, aby nedocházelo k nežádoucímu přístupu k aplikacím.</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">Ověření totožnosti a hodinky Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">Aktualizace: &lt;ul&gt;&lt;li&gt;Když připojíte hodinky Pixel Watch 3 nebo novější, budete moct mimo důvěryhodná místa získat přístup k aplikacím pomocí biometrického ověření nebo kódu PIN. &lt;/li&gt;&lt;li&gt;Do Ověření totožnosti mohou být postupně přidávány další způsoby ověření identity a zabezpečení aplikací v zařízení. &lt;a href=https://support.google.com/android?p=identity_check&gt;Další informace o tom, kdy a kde jste chráněni&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">Ověření totožnosti a hodinky Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">S připojenými hodinkami Pixel Watch nabízí funkce Ověření totožnosti další způsoby ověření totožnosti, aby nedocházelo k nežádoucímu přístupu k aplikacím.</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">Kontrola Play Protect je zapnutá</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">Play Protect pravidelně kontroluje vaše aplikace a zařízení a vyhledává škodlivé chování. O případných bezpečnostních rizicích vás bude informovat.</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">Zabezpečení aplikací, Play Protect, Google Play Protect, Bezpečnost aplikací</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">Účet Google je chráněn</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Kontrola zabezpečení Google, Zabezpečení Google, Kontrola zabezpečení, Zabezpečení účtu, Zabezpečení účtu Google, Účet Google</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">Pátrací centrum, Hledání zařízení, Najdi moje zařízení, Ztracené zařízení</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">Aktualizace, Aktualizace systému, Systémové aktualizace, Aktualizace systému Google Play, Aktualizace systému Play</string>
+</resources>

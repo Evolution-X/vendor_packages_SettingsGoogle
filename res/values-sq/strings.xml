@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">P.sh. pajisja Pixel e Admirit</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">Identifikohu në një \"Llogari të Google\" për ta përdorur me hapësirën tënde private</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">Shiko ose ndrysho abonimin e OpenRoaming</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">\"Tema e errët\" përdor një sfond të zi për të ndihmuar në mbajtjen e baterisë të karikuar për një kohë më të gjatë në disa ekrane. Oraret e \"Temës së errët\" nuk aktivizohen përpara se ekrani të jetë fikur.</string>
+    <string name="dark_ui_text_force_invert">Përdor një sfond të errët për të reduktuar përdorimin e baterisë dhe për ta bërë ekranin më të lehtë për t\'u parë. Nëse ke një orar, tema jote do të ndryshojë kur ekrani të jetë i fikur.</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">Ngjyrat, ikonat tematike, rrjeta e aplikacioneve</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">Modaliteti i qendrës</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">Opsionet e stacionit dhe të ekranit të kyçjes</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">Hap Gemini</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">Kontakto me ekipin e mbështetjes të Google për personat me aftësi të kufizuara</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">Mund të rrisë volumin e audios për të përmirësuar përputhshmërinë me telebobinat dhe mund të reduktojë zhurmën e padëshiruar</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">shikimi, dëgjimi, i verbër, i shurdhër, motorik, shkathtësi, ndihmëse, ndihmë, lehtësi përdorimi, lehtësi qasjeje, dorë, ndihmë</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">Lexuesi i ekranit, regjistrimi i zërit, VoiceOver, Ndihma zanore, i verbër, shikim i dobët, TTS, teksti-në-ligjërim, komentet me zë</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">Titrat, CC, Titrat në çast, vështirësi në dëgjim, humbje e dëgjimit, CART, ligjërimi në tekst, nëntitull</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">Njoftimet, vështirësi në dëgjim, humbje e dëgjimit, njofto</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">PSAP, amplifiko, amplifikimi i tingujve, vështirësi në dëgjim, humbje e dëgjimit, amplifikim</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">Dëgjo tekst, lexo me zë të lartë, lexo ekranin, lexuesi i ekranit, disleksi, zgjidh që të thuhet</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">motorik, meny e shpejtë, meny ndihmëse, prekje, shkathtësi, artrit, rsi, goditje në tru, dridhje, sklerozë multiple, paralizë cerebrale, buton, harduer, shtyp, lëndim nga sforcim i përsëritur, dorë, dhimbje, e qasshme, ndihmë</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">aftësitë motorike, çelësi, dora, AT, teknologjia ndihmëse, paralizë, ALS, skanim, skanim me hapa</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">zëri, kontrolli zanor, aftësitë motorike, dora, mikrofoni, mikrofon, diktim, flas, kontrolloj</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">Aktivizo \"Baterinë me përshtatje\"</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">Preferencat me përshtatje</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">Për të rritur kohëzgjatjen e baterisë, \"Bateria me përshtatje\" mund të reduktojë cilësinë e funksionimit dhe aktivitetin në sfond. Disa njoftime mund të vonohen.</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">Rrit kohëzgjatjen e baterisë dhe optimizo karikimin</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">Zgjat kohëzgjatjen e baterisë</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">Mëso më shumë</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">Ndalo rezervimin e të dhënave të pajisjes (si p.sh. fjalëkalimet e Wi-Fi dhe historikun e telefonatave) dhe të dhënat e aplikacioneve (si p.sh. cilësimet dhe skedarët e ruajtur nga aplikacionet) dhe spastro të gjitha kopjet në Diskun e Google?</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">Rezervo automatikisht te \"Disku i Google\" të dhënat e pajisjes (si p.sh. fjalëkalimet e Wi-Fi dhe historikun e telefonatave) dhe të dhënat e aplikacioneve (si p.sh. cilësimet dhe skedarët e ruajtur nga aplikacionet).\n\nKur aktivizon rezervimin automatik, të dhënat e pajisjes dhe të aplikacioneve ruhen periodikisht te një dosje private në \"Diskun e Google\". Të dhënat e aplikacioneve mund të jenë çdo e dhënë që ka ruajtur një aplikacion (bazuar në cilësimet e zhvilluesit), duke përfshirë të dhëna ndoshta delikate, si p.sh. kontaktet, mesazhet dhe fotografitë.\n\nTë dhënat e rezervimit nuk do të ndikojnë në kuotat e hapësirës ruajtëse të \"Diskut të Google\". Skedarët e mëdhenj ose skedarët që zhvilluesit kanë zgjedhur t\'i përjashtojnë nga shërbimi nuk do të rezervohen.</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">Asistenti, aplikacionet e fundit, aplikacionet e parazgjedhura</string>
+    <string name="keywords_gesture">gjest, lëvizje</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">Volumi dhe prekja</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">Audio hapësinore</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">Transferimi i skedarëve / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">Tema e errët, madhësia e fontit, prekja</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">Hapësira ruajtëse inteligjente</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">Kur hapësira ruajtëse të jetë thuajse plot, hiq fotografitë dhe videot e rezervuara. Mund t\'i gjesh ato përsëri te \"Fotografitë e Google\".</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">Fotografitë dhe videot e rezervuara</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">Hapësira ruajtëse inteligjente</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">Përdor \"Hapësirën ruajtëse inteligjente\"</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">Për të hyrë dhe për të dalë nga modaliteti për selfi në \"Kamerën e Pixel\", përdridhe dy herë kur je në aplikacion.</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">Kur të jesh i lidhur, mund të kesh përsëri qasje te fotografitë dhe videot me cilësinë që ke zgjedhur për rezervimin</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">Të çaktivizohet \"Hapësira ruajtëse inteligjente\"? \n\n\"Hapësira ruajtëse inteligjente\" nuk do të lirojë hapësirë kur hapësira jote ruajtëse është pothuajse plot.</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Llogaria e Google</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">Personalizo duke përdorur të dhënat e aplikacioneve</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">Teksti në kohë reale (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">Jo i dukshëm</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">I dukshëm gjatë telefonatës</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">Gjithmonë i dukshëm</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">Skanimi ekzekutohet në mënyrë private pikërisht në pajisjen tënde, duke kontrolluar aktivitetin e aplikacioneve për mashtrime ose sjellje të tjera mashtruese. Nëse zbulohen, disa informacione të aplikacionit dërgohen te Google Play Protect për të konfirmuar kërcënimin dhe për të paralajmëruar përdoruesit e tjerë të aplikacionit.</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">Kjo është një veçori e mbrojtur sigurie. Nuk ndahen informacionet e pajisjes apo informacione personale me Google. \n\nMashtrimi është një përpjekje për të vjedhur kredencialet e identifikimit ose informacione të tjera personale.</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">Lejo që aplikacionet të shfaqin treguesin teksa qëndron pezull</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">\"Kontrolli i identitetit\" dhe Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">Me një orë Pixel Watch të lidhur, \"Kontrolli i identitetit\" shton mënyra të tjera për të verifikuar që je ti për të parandaluar qasjen e padëshiruar në aplikacione</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">\"Kontrolli i identitetit\" dhe Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">Përditësime: &lt;ul&gt;&lt;li&gt;Duke lidhur një orë Pixel Watch 3 ose version më të ri, mund të përdorësh të dhënat biometrike ose kodin PIN për t\'u qasur në aplikacione kur nuk ndodhesh në një vend të besuar. &lt;/li&gt;&lt;li&gt;Me kalimin e kohës, \"Kontrolli i identitetit\" mund të shtojë mënyra të tjera për të verifikuar që je ti dhe për të siguruar aplikacionet në pajisjen tënde &lt;a href=https://support.google.com/android?p=identity_check&gt;Mëso më shumë se kur dhe ku je i mbrojtur&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">\"Kontrolli i identitetit\" dhe Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">Me një orë Pixel Watch të lidhur, \"Kontrolli i identitetit\" shton mënyra të tjera për të verifikuar që je ti për të parandaluar qasjen e padëshiruar në aplikacione</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">Skanimi i Play Protect është aktiv</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">Play Protect i kontrollon rregullisht aplikacionet dhe pajisjen tënde për sjellje të dëmshme. Do të njoftohesh për çdo rrezik sigurie që gjendet.</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">Siguria e aplikacioneve, Play Protect, Google Play Protect, Siguria e aplikacioneve</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">\"Llogaria e Google\" është e mbrojtur</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Kontrolli i sigurisë së Google, Siguria e Google, Kontrolli i sigurisë, Siguria e llogarisë, Siguria e \"Llogarisë së Google\", \"Llogaria e Google\"</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">\"Qendra e gjetjes\", Gjetja e pajisjeve, Gjej pajisjen time, Pajisje e humbur</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">Përditësime, Përditësim, Përditësim i sistemit, Përditësime të sistemit, Përditësimi i sistemit të Google Play, Përditësimi i sistemit të Play</string>
+</resources>

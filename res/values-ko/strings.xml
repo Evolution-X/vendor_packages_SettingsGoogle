@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">예: 수지의 Pixel</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">비공개 스페이스에서 사용할 Google 계정에 로그인</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">OpenRoaming 구독 확인 또는 변경</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">어두운 테마는 검은색 배경을 사용하므로 배터리 사용 시간이 늘어납니다. 어두운 테마 일정은 화면이 꺼진 후 적용됩니다.</string>
+    <string name="dark_ui_text_force_invert">어두운 배경을 사용하면 배터리 사용량을 줄이고 화면을 더 편하게 볼 수 있습니다. 일정을 설정해 둔 경우 화면이 꺼져 있을 때 테마가 변경됩니다.</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">색상, 테마 아이콘, 앱 그리드</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">허브 모드</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">도크 및 잠금 화면 옵션</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">Gemini 실행</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">Google 장애인 전담 지원팀에 문의하기</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">텔레코일과의 호환성을 개선하고 원치 않는 소음을 줄이기 위해 오디오 볼륨이 높아질 수 있습니다.</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">시각, 청각, 시각장애, 청각장애, 거동, 민첩성, 보조, 도움, 사용 편의성, 접근 편의성, 손, 지원</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">스크린 리더, 보이스오버, VoiceOver, 음성 보조, 시각장애, 저시력, TTS, 텍스트 음성 변환, 음성 피드백</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">캡션, 폐쇄 자막, CC, 실시간 자막, 난청, 청력 손실, CART, 음성 텍스트 변환, 자막</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">알림, 난청, 청력 손실, 알림</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">PSAP, 증폭, 청각 보조 기능, 난청, 청력 손실, 증폭</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">텍스트 듣기, 소리 내어 읽어주기, 화면 읽기, 스크린 리더, 난독증, 텍스트 읽어주기</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">거동, 빠른 메뉴, 보조 메뉴, 터치, 민첩성, 관절염, RSI, 뇌졸중, 떨림, 다발성 경화증, 뇌성마비, 버튼, 하드웨어, 누르기, 반복성 긴장 장애, 손, 통증, 접근성, 지원</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">거동, 스위치, 손, AT, 보조 기술, 마비, ALS, 스캔, 단계 스캔</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">음성, 음성 제어, 거동, 손, 마이크, 받아쓰기, 말하기, 제어</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">배터리 자동 조절을 사용 설정하세요</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">환경설정 자동 조절</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">배터리 자동 조절 기능은 배터리 수명을 늘리기 위해 성능 및 백그라운드 활동을 제한할 수 있습니다. 일부 알림이 지연될 수 있습니다.</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">배터리 수명 연장 및 충전 최적화</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">배터리 수명 연장</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">자세히 알아보기</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">기기 데이터(예: Wi-Fi 비밀번호, 통화 기록)와 앱 데이터(예: 앱에서 저장한 설정 및 파일) 백업을 중단하고 Google Drive에 있는 모든 사본을 삭제하시겠습니까?</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">기기 데이터(예: Wi-Fi 비밀번호, 통화 기록)와 앱 데이터(예: 앱에 저장된 설정 및 파일)를 Google Drive에 자동으로 백업하세요.\n\n자동 백업을 사용하면 기기 데이터와 앱 데이터가 Google Drive의 비공개 폴더에 정기적으로 저장됩니다. 앱 데이터는 개발자 설정에 따라 앱에서 저장하며 민감할 수 있는 모든 데이터(예: 주소록, 메시지, 사진)를 가리킵니다.\n\n백업 데이터는 드라이브 저장용량 계산에 포함되지 않습니다. 대용량 파일이나 개발자가 자동 백업 서비스에서 제외하도록 선택한 파일은 백업되지 않습니다.</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">어시스턴트, 최근 앱, 기본 앱</string>
+    <string name="keywords_gesture">동작, 빠른 동작</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">볼륨 및 햅틱</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">공간 음향</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">파일 전송/Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">어두운 테마, 글꼴 크기, 터치</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">스마트 저장용량</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">저장용량이 얼마 남지 않았다면 백업된 사진과 동영상을 삭제하세요. 사진과 동영상을 삭제해도 Google 포토에서 계속 확인할 수 있습니다.</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">백업된 사진과 동영상 삭제</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">스마트 저장용량</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">스마트 저장용량 사용</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">Pixel 카메라에서 셀피 모드를 시작하거나 종료하려면 앱을 실행한 상태에서 휴대전화를 두 번 돌리세요.</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">연결되면 백업 시 선택한 품질로 사진 및 동영상에 계속 액세스할 수 있습니다.</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">스마트 저장용량을 사용 중지하시겠습니까? \n\n저장용량이 거의 가득 차 있는 경우에는 스마트 저장용량을 사용해도 여유 공간이 확보되지 않습니다.</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Google 계정</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">앱 데이터를 사용하여 맞춤설정</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">실시간 문자 메시지(RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">표시 안함</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">통화 중 표시</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">항상 표시</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">검사는 기기에서 비공개로 실행되며, 앱 활동 내의 또는 기타 사기 행위를 확인합니다. 피싱 또는 기타 사기 행위가 감지되는 경우, 위협을 확인하고 앱 사용자에게 경고를 표시할 수 있도록 일부 앱 정보가 Google Play 프로텍트로 전송됩니다.</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">보호되는 보안 기능으로, 기기 또는 개인 정보가 Google과 공유되지 않습니다. \n\n피싱은 로그인 사용자 인증 정보 또는 기타 개인 정보를 도용하려는 시도입니다.</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">앱에서 마우스 오버 시 포인터를 표시하도록 허용</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">본인 확인 및 Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">Pixel Watch가 연결되어 있으면 본인 확인 기능에서 더 많은 본인 인증 방식을 사용하여 앱에 대한 무단 액세스를 방지할 수 있습니다.</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">본인 확인 및 Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">업데이트: &lt;ul&gt;&lt;li&gt;Pixel Watch 3 이상을 연결하면 신뢰할 수 있는 장소가 아닌 곳에 있을 때에도 생체 인식 데이터나 PIN을 사용하여 앱에 액세스할 수 있습니다. &lt;/li&gt;&lt;li&gt;시간이 지남에 따라 본인 확인 기능에 본인임을 인증하고 기기의 앱을 보호하는 방법이 추가될 수도 있습니다. &lt;a href=https://support.google.com/android?p=identity_check&gt;언제 어디서 보호받을 수 있는지 자세히 알아보기&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">본인 확인 및 Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">Pixel Watch가 연결되어 있으면 본인 확인 기능에서 더 많은 본인 인증 방식을 사용하여 앱에 대한 무단 액세스를 방지할 수 있습니다.</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">Play 프로텍트 검사 사용 중</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">Play 프로텍트는 앱과 기기에 유해한 동작이 있는지 정기적으로 점검합니다. 보안 위험이 발견되면 알림이 전송됩니다.</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">앱 보안, Play 프로텍트, Google Play 프로텍트, 앱 안전</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">Google 계정이 보호됨</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Google 보안 진단, Google 보안, 보안 진단, 계정 보안, Google 계정 보안, Google 계정</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">내 기기 허브, 기기 찾기, 내 기기 찾기, 기기 분실</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">업데이트, 시스템 업데이트, Google Play 시스템 업데이트, Google Play 시스템 업데이트</string>
+</resources>

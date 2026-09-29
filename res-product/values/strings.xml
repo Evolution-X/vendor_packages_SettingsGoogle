@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Help URI, app usage page [DO NOT TRANSLATE] -->
+    <string name="help_url_app_usage_settings" product="default" translatable="false">https://support.google.com/pixelphone?p=battery_usage</string>
+    <string name="help_url_app_usage_settings" product="tablet" translatable="false">https://support.google.com/googlepixeltablet/?p=battery_drain</string>
+
+    <!-- Title for Display settings [CHAR LIMIT=30] -->
+    <string name="display_settings" product="default">Display &amp; touch</string>
+</resources>

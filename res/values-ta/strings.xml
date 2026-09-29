@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">எ.கா., வித்யாவின் Pixel.</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">ரகசிய இடத்தைப் பயன்படுத்த Google கணக்கில் உள்நுழையுங்கள்</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">OpenRoaming சந்தாவைப் பார்க்கலாம் அல்லது மாற்றலாம்</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">உங்கள் பேட்டரி நீண்ட நேரம் நீடித்திருக்க, கருப்பு நிறப் பின்னணியை டார்க் தீம் பயன்படுத்துகிறது. உங்கள் திரை ஆஃப் ஆகும் வரை டார்க் தீம் ஆனில் இருக்குமாறு அமைக்கப்பட்டிருக்கும்.</string>
+    <string name="dark_ui_text_force_invert">உங்கள் திரையை மேலும் சௌகரியமாகப் பார்க்கவும் பேட்டரி உபயோகத்தைக் குறைக்கவும் டார்க் பின்புலத்தைப் பயன்படுத்துங்கள். நீங்கள் திட்ட அட்டவணையை அமைத்திருந்தால், திரை ஆஃப் ஆகியிருக்கும்போது உங்கள் தீம் மாறும்.</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">வண்ணங்கள், தீம் ஐகான்கள், ஆப்ஸ் கட்டக் காட்சி</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">ஹப் பயன்முறை</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">டாக் மற்றும் பூட்டுத் திரை விருப்பங்கள்</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">Geminiயைத் தொடங்கு</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">மாற்றுத்திறனாளிகளுக்கான Google உதவிக் குழுவைத் தொடர்புகொள்க</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">டெலிகாயில்களுடனான இணக்கத்தன்மையை மேம்படுத்தி தேவையற்ற இரைச்சலைக் குறைக்க ஆடியோ ஒலியளவை அதிகரிக்கலாம்</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">பார்வை, கேட்கும் திறன், பார்வையற்றவர்கள், காது கேளாதோர், உடலியக்கம், கைத்திறன், உதவிகரமானது, உதவி, எளிதாகப் பயன்படுத்தக்கூடியது, எளிதாக அணுகக்கூடியது, கை, உதவி</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">ஸ்கிரீன் ரீடர், பின்னணிக் குரல், பின்னணிக்குரல், குரல் உதவி, பார்வையின்மை, குறைந்த பார்வைத் திறன், TTS, உரையிலிருந்து பேச்சுக்கு மாற்றுதல், பேச்சுவடிவ விளக்கம்</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">வசனங்கள், விவரிப்பு சப்டைட்டில்கள், CC, கேட்பதில் சிரமம், கேட்கும் திறன் இன்மை, CART, பேச்சிலிருந்து உரை, சப்டைட்டில்</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">அறிவிப்புகள், கேட்பதில் சிரமம், கேட்கும் திறன் இன்மை, தெரிவித்தல்</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">PSAP, அதிகரி, ஒலியைப் பெருக்குதல், கேட்பதில் சிரமம், கேட்கும் திறன் இன்மை, அதிகரித்தல்</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">வார்த்தைகளைப் படித்தல், உரக்கப் படித்தல், திரையில் இருப்பதைப் படித்தல், ஸ்கிரீன் ரீடர், டிஸ்லெக்சியா, பேசும் திரை</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">உடலியக்கம், விரைவு மெனு, அசிஸ்ட்டிவ் மெனு, தொடுதல், கைத்திறன், கீல்வாதம், rsi, பக்கவாதம், நடுக்கம், மல்ட்டிபில் ஸ்க்லரோசிஸ், செரிப்ரல் பால்சி, பட்டன், வன்பொருள், அழுத்துதல், திரும்பத் திரும்ப ஏற்படும் காயம், கை, வலி, அணுகக்கூடியது, உதவி</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">உடல் இயக்கத் திறன், ஸ்விட்ச், கை, AT, உதவிகரமான தொழில்நுட்பம், பக்கவாதம், ALS, ஸ்கேனிங், படிப்படியாக ஸ்கேன் செய்தல்</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">குரல், குரல் கட்டுப்பாடு, உடல் இயக்கத் திறன், கை, மைக், மைக்ரோஃபோன், சொல்வதை எழுதும் வசதி, பேசு, கட்டுப்பாடு</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">அடாப்டிவ் பேட்டரியை ஆன் செய்க</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">சூழலுக்கேற்ற விருப்பத்தேர்வுகள்</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">பேட்டரி ஆயுளை நீட்டிக்க, செயல்திறனையும் பின்னணிச் செயல்பாட்டையும் சூழலுக்கேற்ற பேட்டரி குறைக்கக்கூடும். சில அறிவிப்புகள் தாமதமாகலாம்.</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">பேட்டரி ஆயுளை நீட்டித்து சார்ஜ் செய்தலை மேம்படுத்தும்</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">பேட்டரி ஆயுளை நீட்டிக்கும்</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">மேலும் அறிக</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">சாதனத் தரவையும் (வைஃபை கடவுச்சொற்கள், அழைப்புப் பதிவு போன்றவை) ஆப்ஸ் டேட்டாவையும் (பயன்பாடுகளில் சேமிக்கப்பட்டிருக்கும் அமைப்புகள், ஃபைல்கள்  போன்றவை) காப்புப் பிரதி எடுப்பதை நிறுத்தி, Google இயக்ககத்தில் உள்ள எல்லா நகல்களையும் அழிக்கவா?</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">Google இயக்ககத்தில் சாதனத் தரவையும் (வைஃபை கடவுச்சொற்கள், அழைப்பு விவரங்கள் போன்றவை) ஆப்ஸ் டேட்டாவையும் (ஆப்ஸ்களில் சேமிக்கப்பட்டிருக்கும் அமைப்புகள், ஃபைல்கள்  போன்றவை) சேமிக்கும்.\n\nதானியங்கு காப்புப் பிரதியை இயக்கும் போது, சாதனம் மற்றும் ஆப்ஸ் டேட்டாவானது குறிப்பிட்ட கால இடைவெளியில் Google இயக்ககத்தில் உள்ள தனிப்பட்ட ஃபோல்டரில் சேமிக்கப்படும். ஆப்ஸ் டேட்டா என்பது தொடர்புகள், செய்திகள், படங்கள் போன்ற மிக பாதுகாக்கப்பட வேண்டிய தனிப்பட்ட தரவு உட்பட, ஆப்ஸ் சேமித்த (டெவெலப்பர் அமைப்புகளைப் பொருத்து) எந்தத் தரவாகவும் இருக்கலாம்.\n\nகாப்புப் பிரதித் தரவானது, உங்கள் இயக்ககச் சேமிப்பக அளவில் எந்தப் பாதிப்பையும் ஏற்படுத்தாது. பெரிய ஃபைல்கள்  அல்லது சேவையிலிருந்து டெவெலப்பர்கள் விலக்கிய ஃபைல்கள்  காப்புப் பிரதி எடுக்கப்படாது.</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">Assistant, சமீபத்திய ஆப்ஸ், இயல்பான ஆப்ஸ்</string>
+    <string name="keywords_gesture">சைகை, அசைவுகள்</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">ஒலியளவு மற்றும் ஹாப்டிக்ஸ்</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">சுற்றிலும் கேட்கும் ஆடியோ</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">ஃபைல் இடமாற்றம் / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">டார்க் தீம், எழுத்து அளவு, தொடுதல்</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">ஸ்மார்ட் சேமிப்பகம்</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">சேமிப்பகத்தில் குறைந்த இடம் இருக்கும் போது, காப்புப் பிரதி எடுத்த படங்களையும் வீடியோக்களையும் அகற்றவும். நீங்கள் அவற்றைத் தொடர்ந்து Google Photosஸில் பார்க்கலாம்.</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">காப்புப் பிரதி எடுத்தவைகளை அகற்று</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">ஸ்மார்ட் சேமிப்பகம்</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">ஸ்மார்ட் ஸ்டோரேஜைப் பயன்படுத்து</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">Pixel கேமராவின் செல்ஃபி மோடை ஆன்/ஆஃப் செய்ய, ஆப்ஸில் இருக்கும்போது மொபைலை இருமுறை திருப்பவும்.</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">இணைய இணைப்பு கிடைத்ததும், காப்புப் பிரதி எடுப்பதற்குத் தேர்ந்தெடுத்த தரத்திலேயே படங்களையும் வீடியோக்களையும் தொடர்ந்து அணுகலாம்</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">ஸ்மார்ட் சேமிப்பகத்தை முடக்கவா? \n\nசேமிப்பகம் கிட்டத்தட்ட நிரம்பும் போது, ஸ்மார்ட் சேமிப்பகம் இடத்தைக் காலியாக்காது.</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Google கணக்கு</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">ஆப்ஸ் தரவைப் பயன்படுத்திப் பிரத்தியேகமாக்குதல்</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">நிகழ்நேர உரை (Real-time text - RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">மறை</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">அழைப்பின் போது காட்டு</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">எப்போதும் காட்டு</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">ஸ்கேனிங் தனிப்பட்ட முறையில் உங்கள் சாதனத்திலேயே மேற்கொள்ளப்படும். ஃபிஷிங் அல்லது பிற ஏமாற்றுச் செயலுக்காக ஆப்ஸ் உபயோகம் சரிபார்க்கப்படும். அப்படிக் கண்டறியப்பட்டால், அபாயத்தை உறுதிசெய்யவும் ஆப்ஸை உபயோகிக்கும் பயனர்களை எச்சரிக்கவும் ஆப்ஸின் சில தகவல்கள் Google Play Protectடிற்கு அனுப்பப்படும்.</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">இது ஒரு பாதுகாப்பு அம்சமாகும். எந்தவொரு சாதனமோ தனிப்பட்ட தகவலோ Googleளுடன் பகிரப்படாது. \n\nஃபிஷிங் என்பது உள்நுழைவு அனுமதிச் சான்றுகளையோ பிற தனிப்பட்ட தகவல்களையோ திருடுவதற்கான ஒரு முயற்சியாகும்.</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">மேலே கொண்டுசெல்லும்போது பாயிண்டரைக் காட்ட ஆப்ஸை அனுமதித்தல்</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">அடையாளச் சரிபார்ப்பு மற்றும் Pixel வாட்ச்</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">இணைக்கப்பட்ட Pixel வாட்ச் மூலம், ஆப்ஸுக்கான தேவையற்ற அணுகலைத் தடுப்பதற்காக, இது நீங்கள்தானா என்பதை உறுதிசெய்ய கூடுதல் வழிகளை அடையாளச் சரிபார்ப்பு சேர்க்கிறது</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">அடையாளச் சரிபார்ப்பு மற்றும் Pixel வாட்ச்</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">புதுப்பிப்புகள்: &lt;ul&gt;&lt;li&gt;Pixel Watch 3 அல்லது அதற்குப் பிந்தைய சாதனங்களை இணைப்பதன் மூலம், நீங்கள் நம்பகமான இடத்தில் இல்லாதபோது ஆப்ஸை அணுக பயோமெட்ரிக்ஸையோ உங்கள் பின்னையோ பயன்படுத்தலாம். &lt;/li&gt;&lt;li&gt;இது நீங்கள்தான் என்பதை உறுதிசெய்வதற்கும் உங்கள் சாதனத்திலுள்ள ஆப்ஸைப் பாதுகாப்பதற்குமான கூடுதல் வழிகள் அடையாளச் சரிபார்ப்பு அம்சத்தில் காலப்போக்கில் சேர்க்கப்படலாம். &lt;a href=https://support.google.com/android?p=identity_check&gt;நீங்கள் எப்போது, எங்கே பாதுகாக்கப்படுகிறீர்கள் என்பது பற்றி மேலும் அறிக&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">அடையாளச் சரிபார்ப்பு மற்றும் உங்கள் Pixel வாட்ச்</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">இணைக்கப்பட்ட Pixel வாட்ச் மூலம், ஆப்ஸுக்கான தேவையற்ற அணுகலைத் தடுப்பதற்காக, இது நீங்கள்தானா என்பதை உறுதிசெய்ய கூடுதல் வழிகளை அடையாளச் சரிபார்ப்பு சேர்க்கிறது</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">Play Protect ஸ்கேனிங் ஆன் செய்யப்பட்டுள்ளது</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">தீங்கிழைக்கும் செயல்பாடுகள் உள்ளனவா எனப் பார்க்க உங்கள் ஆப்ஸையும் சாதனத்தையும் Play Protect அடிக்கடி சரிபார்க்கிறது. பாதுகாப்பு அபாயங்கள் ஏதேனும் இருந்தால் உங்களுக்குத் தெரிவிக்கப்படும்.</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">ஆப்ஸ் பாதுகாப்பு, Play Protect, Google Play Protect, ஆப்ஸ் பாதுகாப்பு</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">Google கணக்கு பாதுகாக்கப்பட்டுள்ளது</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Google பாதுகாப்புச் சரிபார்ப்பு, Google பாதுகாப்பு, பாதுகாப்புச் சரிபார்ப்பு, கணக்குப் பாதுகாப்பு, Google கணக்குப் பாதுகாப்பு, Google கணக்கு</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">Find Hub, சாதனங்களைக் கண்டறிதல், Find My Device, தொலைந்த சாதனம்</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">புதுப்பிப்புகள், புதுப்பிப்பு, சிஸ்டம் புதுப்பிப்பு, சிஸ்டம் புதுப்பிப்புகள், Google Play சிஸ்டம் புதுப்பிப்பு, Play சிஸ்டம் புதுப்பிப்பு</string>
+</resources>

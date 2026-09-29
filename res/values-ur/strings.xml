@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">‏جیسے، شمائلہ کا Pixel۔</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">‏اپنی پرائیویٹ اسپیس کے ساتھ استعمال کرنے کے لیے Google اکاؤنٹ میں سائن ان کریں</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">‏OpenRoaming سبسکرپشن دیکھیں یا تبدیل کریں</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">گہری تھیم آپ کی بیٹری کو زیادہ دیر تک فعال رکھنے میں مدد کے ليے سیاہ پس منظر کا استعمال کرتی ہے۔ گہری تھیم کے شیڈولز آپ کی اسکرین کے آف ہونے پر آن ہونے کا انتظار کرتے ہیں۔</string>
+    <string name="dark_ui_text_force_invert">بیٹری کا استعمال کم کرنے اور اپنی اسکرین کو دیکھنا زیادہ سہولت بخش بنانے کیلئے، ایک تاریک پس منظر استعمال کریں۔ اگر آپ کے پاس کوئی شیڈول ہے تو اسکرین آف ہونے پر آپ کی تھیم تبدیل ہو جائے گی۔</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">رنگ، تھیم کردہ آئیکنز، ایپ گرڈ</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">ہب موڈ</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">ڈاک اور لاک اسکرین کے اختیارات</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">‏‫Gemini لانچ کریں</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">‏‫Google Disability سپورٹ سے رابطہ کریں</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">ٹیلی کوائلز کے ساتھ موافقت کو بہتر بنانے اور غیر ضروری شور کو کم کرنے کے لیے آڈیو کا والیوم بڑھا سکتا ہے</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">بصارت، سماعت، اندھا، بہرا، موٹر، مہارت، معاون، مدد، استعمال میں آسانی، رسائی میں آسانی، ہاتھ، مدد</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">‏اسکرین قاری، وائس اوور، VoiceOver، صوتی معاون، نابینا، کم بصارت، TTS، ٹیکسٹ ٹو اسپیچ، صوتی تاثرات</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">کیپشنز، سب ٹائٹلز، سب ٹائٹلز، لائیو کیپشن، اونچا سننے والا، سننے میں دشواری، کارٹ، اسپیچ ٹو ٹیکسٹ، ذیلی عنوان</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">اطلاعات، اونچا سننے والا، سننے میں دشواری، مطلع کرنا</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">‏PSAP، ایمپلی فائے، ساؤنڈ ایمپلیفائر، اونچا سننے والا، سننے میں دشواری، ایمپلیفیکیشن</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">ٹیکسٹ سنیں، بلند آواز سے پڑھیں، اسکرین پر بولیں، سکرین قاری، ڈسلیکسیا، سننے کیلئے منتخب کریں</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">موٹر، فوری مینو، مددگار مینیو، ٹچ، مہارت، گٹھیا، آر ایس آئی، اسٹروک، رَعشہ، مضاعفِ تصلب، دماغی فالج، بٹن، ہارڈویئر، پریس، بار بار عصاب کی کھچھاؤ، ہاتھ، درد، قابل رسائی، مدد</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">‏اعصاب کی حرکی سرگرمی سے متعلق مہارتیں، سوئچ، ہاتھ، AT، معاون ٹیکنالوجی، فالج، ALS، اسکیننگ، اسٹیپ اسکیننگ</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">آواز، صوتی کنٹرول، اعصاب کی حرکی سرگرمی سے متعلق مہارتیں، ہاتھ، مائیک، مائیکروفون، ڈکٹیشن، بات کرنا، کنٹرول</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">تغیر پذیر بیٹری آن کریں</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">اڈاپٹیو ترجیحات</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">بیٹری لائف کو بڑھانے کے لیے تغیر پذیر بیٹری کارکردگی اور پس منظر کی سرگرمی کو کم کر سکتی ہے۔ ممکن ہے کچھ اطلاعات میں تاخیر ہو جائے۔</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">بیٹری لائف کو بڑھائیں اور چارجنگ کو بہترین بنائیں</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">بیٹری لائف میں توسیع کریں</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">مزید جانیں</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">‏آلہ کے ڈیٹا (جیسے کہ Wi-Fi پاسورڈز اور کال کی سرگزشت) اور ایپ ڈیٹا (جیسے کہ ایپس کی جانب سے اسٹور کردہ ترتیبات اور فائلز) کا بیک اپ لینا بند کریں، نیز Google Drive پر موجود سبھی کاپیاں مٹا دیں؟</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">‏Google Drive میں خود کار طریقے سے آلہ کے ڈیٹا (جیسے کہ Wi-Fi پاس ورڈز اور کال کی سرگزشت) اور ایپ ڈیٹا (جیسے کہ ایپس کی جانب سے اسٹور کردہ ترتیبات اور فائلز) کا بیک اپ لیں۔\n\nجب آپ خود کار بیک اپ آن کرتے ہیں تو آلہ اور ایپ کا ڈیٹا مخصوص وقفوں کے بعد آپ کے Google Drive کے ایک نجی فولڈر میں محفوظ ہو جاتا ہے۔ ایپ ڈیٹا کوئی بھی ایسا ڈیٹا ہو سکتا ہے جسے کسی ایپ نے (ڈویلپر ترتیبات کی بنیاد پر) محفوظ کیا ہو بشمول ممکنہ طور پر حساس ڈیٹا مثلاً رابطے، پیغامات اور تصاویر۔\n\nبیک اپ ڈیٹا کا شمار آپ کے Drive storage کوٹہ میں نہیں ہوگا۔ بڑی فائلیں، یا ایسی فائلیں جنہیں ڈویلپرز نے سروس میں شامل نہ کرنے کا انتخاب کیا ہے ان کا بیک اپ نہیں لیا جائے گا۔</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">اسسٹنٹ، حالیہ ایپس، ڈیفالٹ ایپس</string>
+    <string name="keywords_gesture">اشارہ، اشاراتی حرکتیں</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">والیوم اور ہیپٹکس</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">اسپیشیئل آڈیو</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">‏فائل کی منتقلی / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">گہری تھیم، فونٹ سائز، ٹچ</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">اسمارٹ اسٹوریج</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">‏جب اسٹوریج تقریباً بھر جائے تو بیک اپ کردہ تصاویر اور ویڈیوز ہٹا دیں۔ آپ انہیں پھر بھی Google تصاویر میں تلاش کر سکتے ہیں۔</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">بیک اپ کردہ تصاویر اور ویڈیوز ہٹائیں</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">اسمارٹ سٹوریج</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">اسمارٹ اسٹوریج استعمال کریں</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">‏جب آپ ایپ میں ہوں تو دو بار مروڑ کر Pixel کیمرا میں سیلفی موڈ پر سوئچ کریں اور اس سے باہر نکلیں۔</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">جب آپ منسلک ہوں تو آپ پھر بھی تصاویر اور ویڈیوز تک اس معیار پر رسائی کر سکتے ہیں جسے آپ نے بیک اپ کیلئے منتخب کیا تھا</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">اسمارٹ اسٹوریج آف کر دیں؟ \n\nآپ کا اسٹوریج تقریباً بھر جانے پر اسمارٹ اسٹوریج جگہ خالی نہیں کرے گا۔</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">‏Google اکاؤنٹ</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">ایپ کے ڈیٹا کے ذریعے ذاتی نوعیت کا بنائيں</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">‏ریئل ٹائم ٹیکسٹ (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">مرئی نہیں</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">کال کے دوران مرئی</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">ہمیشہ مرئی</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">‏اسکیننگ آپ کے آلے پر نجی طور پر چلتی ہے، ایپ کی سرگرمی کو فریب دہی یا دیگر جعلسازی کے برتاؤ کے لیے چیک کرتی ہے۔ اس کا پتہ چلنے پر خطرے کی تصدیق اور ایپ کے صارفین کو متنبہ کرنے کے لیے ایپ کی کچھ معلومات Google Play Protect کو بھیجی جاتی ہیں۔</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">‏یہ سیکیورٹی کی ایک محفوظ خصوصیت ہے۔ Google کے ساتھ کسی بھی آلے یا ذاتی معلومات کا اشتراک نہیں کیا جاتا ہے۔ \n\nفریب دہی سائن ان کی اسناد یا دیگر ذاتی معلومات چرانے کی کوشش ہے۔</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">ہوور کرتے وقت ایپس کو پوائنٹر دکھانے کی اجازت دیں</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">‏شناخت کی تصدیق اور Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">‏منسلک Pixel Watch کے ساتھ، شناخت کی تصدیق ایپس تک ناپسندیدہ رسائی کو روکنے کے لیے اس بات کی توثیق کرنے کے مزید طریقے شامل کرتی ہے کہ یہ آپ ہی ہیں</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">‏شناخت کی تصدیق اور Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">‏اپ ڈیٹس: ‎&lt;ul&gt;&lt;li&gt;‎ایک Pixel Watch 3 یا اس کے بعد کے ورژن کو منسلک کر کے، آپ ایپس تک رسائی کے لیے یا تو بایو میٹرکس یا اپنا PIN استعمال کر سکتے ہیں جب آپ کسی قابل اعتماد جگہ پر نہ ہوں۔ ‎&lt;/li&gt;&lt;li&gt;‎گزرتے وقت کے ساتھ، شناخت کی تصدیق اس بات کی توثیق کرنے کے مزید طریقے شامل کر سکتی ہے کہ یہ آپ ہی ہیں اور آپ کے آلے پر ایپس کو محفوظ کر سکتی ہے۔ &lt;a href=https://support.google.com/android?p=identity_check&gt;اس بارے میں مزید جانیں کہ آپ کب اور کہاں محفوظ ہیں&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">‏شناخت کی تصدیق اور آپ کی Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">‏منسلک Pixel Watch کے ساتھ، شناخت کی تصدیق ایپس تک ناپسندیدہ رسائی کو روکنے کے لیے اس بات کی توثیق کرنے کے مزید طریقے شامل کرتی ہے کہ یہ آپ ہی ہیں</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">‏‫Play Protect اسکیننگ آن ہے</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">‏‫Play Protect آپ کی ایپس اور آلہ کو نقصان دہ برتاؤ کے لیے انہیں باقاعدگی سے چیک کرتا ہے۔ سیکیورٹی کے کسی بھی خطرے کے پائے جانے پر آپ کو مطلع کیا جائے گا۔</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">‏ایپ سیکیورٹی، Play Protect، ‏Google Play Protect، ایپ کا تحفظ</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">‏‫Google اکاؤنٹ محفوظ ہے</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">‏‫Google سیکیورٹی چیک اپ، Google سیکیورٹی، سیکیورٹی چیک اپ، اکاؤنٹ سیکیورٹی، Google اکاؤنٹ سیکیورٹی، Google اکاؤنٹ</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">‏‫Find Hub، آلات تلاش کرنا، میرا آلہ ڈھونڈیں، گمشدہ آلہ</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">‏اپ ڈیٹس، اپ ڈیٹ، سسٹم اپ ڈیٹ، سسٹم اپ ڈیٹس، Google Play سسٹم اپ ڈیٹ، Play سسٹم اپ ڈیٹ</string>
+</resources>

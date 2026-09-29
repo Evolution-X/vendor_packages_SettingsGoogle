@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Adibidez, Jonen Pixel gailua.</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">Eremu pribatua erabiltzeko, hasi saioa Google-ko kontu batekin</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">Ikusi edo aldatu OpenRoaming-eko harpidetza</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">Gai ilunak atzeko plano beltza erabiltzen du bateriak gehiago iraun dezan. Gai ilunaren programazioak ez dira aktibatzen pantaila itzaltzen den arte.</string>
+    <string name="dark_ui_text_force_invert">Erabili atzeko plano ilun bat bateria-erabilera murrizteko eta pantaila ikustea erosoagoa izateko. Gaia aldatu egingo da zerbait programatuta badaukazu, pantaila itzalita dagoenean.</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">Koloreak, ikono gaidunak, aplikazioen sareta</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">Kontrol-zentro modua</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">Oinarrian jarrita dagoenerako eta pantaila blokeatuta daukanerako aukerak</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">Exekutatu Gemini</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">Jarri Google-ren desgaitasuna duten pertsonentzako laguntza-taldearekin harremanetan</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">Litekeena da audioaren bolumena igotzea telebobinekiko bateragarritasuna hobetzeko eta nahi ez den zarata murrizteko</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">ikusmena, entzumena, itsua, gorra, mugimendua, trebetasuna, laguntzailea, laguntza, erabilerraztasuna, irisgarritasuna, eskua, lagundu</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">pantaila-irakurgailua, Voice Over, VoiceOver, itsua, ikusmen txarra, TTS, testua ahots bihurtzea, ahozko argibideak</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">azpitituluak, istanteko azpitituluak, entzumen txarra, entzumen-galera, CART, ordenagailuz lagundutako transkripzioa denbora errealean, ahotsa testu bihurtzea</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">jakinarazpenak, entzumen txarra, entzumen-galera, jakinarazi</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">PSAP, soinua anplifikatzeko produktu pertsonalak, anplifikatu, soinu-anplifikazioa, entzumen txarra, entzumen-galera, anplifikazioa</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">Testua entzun, ozen irakurri, pantailan dagoena esan, pantaila-irakurgailua, dislexia, hautatu ozen irakurtzeko</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">mugimendua, menu bizkorra, erabilerraztasun-menua, ukipena, trebetasuna, artritisa, tendinitisa, dardara, esklerosi anizkoitza, garun-paralisia, botoia, hardwarea, sakatu, eskua, mina, erabilerraza, laguntza</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">motorra, erabilerraztasun-etengailua, eskua, laguntza-teknologia, paralisia, AEA, alboko esklerosi amiotrofikoa, eskaneatzea, urratsez urrats eskaneatzea</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">ahotsa, ahots bidezko kontrola, motorra, eskua, mikrofonoa, diktaketa, hitz egin, kontrolatu</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">Aktibatu Bateria egokitua</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">Hobespen egokituak</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">Bateriaren iraupena luzatzeko, baliteke Bateria egokitua eginbideak errendimendua eta atzeko planoko jarduerak mugatzea. Beharbada, jakinarazpen batzuk atzeratu egingo dira.</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">Luzatu bateriaren iraupena eta optimizatu kargatze-prozesua</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">Luzatu bateriaren iraupena</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">Lortu informazio gehiago</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">Babeskopiak, bai gailuetako datuenak (esaterako, Wi-Fi pasahitzak eta deien historia), bai aplikazioetako datuenak (esaterako, ezarpenak eta aplikazioek gordetako fitxategiak), egiteari utzi eta Google Drive-ko kopia guztiak ezabatu nahi dituzu?</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">Egin babeskopiak automatikoki Google Drive-n, bai gailuetako datuenak (esaterako, Wi-Fi pasahitzak eta deien historia), bai aplikazioetako datuenak (esaterako, ezarpenak eta aplikazioek biltegiratutako fitxategiak).\n\nBabeskopiak automatikoki egiteko aukera aktibatzean, gailuko eta aplikazioetako datuak Google Drive-ko karpeta pribatu batean gordetzen dira aldizka. Aplikazioetako datuak aplikazioek gordetako edozein datu izan daitezke (garatzaileen ezarpenen arabera), eta kontuzkoak izan litezkeen datuak ere sar daitezke (adibidez, kontaktuak, mezuak eta argazkiak).\n\nBabeskopiek ez dute eraginik Drive-ko biltegiratze-kuotan. Fitxategiak handiak badira edo garatzaileek zerbitzutik kanpo nahita utzi badituzte, ez da haien babeskopiarik egingo.</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">Laguntzailea, azkenaldiko aplikazioak, aplikazio lehenetsiak</string>
+    <string name="keywords_gesture">keinuak, mugimenduak</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">Bolumena eta teknologia haptikoa</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">Audio espaziala</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">Fitxategi-transferentzia / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">Gai iluna, letra-tamaina, ukipena</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">Biltegi adimenduna</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">Biltegia betetzeko gutxi falta denean, kendu babeskopiak dituzten argazkiak eta bideoak. Google Argazkiak zerbitzuan izango dituzu gordeta halere.</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">Kendu babeskopia duten argazki eta bideoak</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">Biltegi adimenduna</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">Erabili Biltegi adimenduna</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">Pixel kameraren selfie modua aktibatzeko eta desaktibatzeko, biratu birritan eskumuturra aplikazioa erabiltzen ari zarenean.</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">Konektatuta zaudenean, babeskopiak egiteko hautatu duzun kalitatean ikusi ahal izango dituzu argazkiak eta bideoak</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">Biltegi adimenduna desaktibatu nahi duzu? \n\nBiltegi adimenduna eginbideak ez du tokirik egingo memoria agortzear dagoenean.</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Google-ko kontua</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">Pertsonalizatu aplikazioetako datuekin</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">Deietan testua bidaltzeko eginbidea (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">Ez dago ikusgai</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">Ikusgai deietan</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">Beti ikusgai</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">Gailuan bertan eta modu pribatuan aztertzen dira aplikazioetako jarduerak, phishinga edo bestelako azpikeriazko jarrerak bilatzeko. Zerbait hautematen bada, aplikazioari buruzko datu batzuk bidaliko zaizkio Google Play Protect-i, mehatxua berresteko eta aplikazioaren erabiltzaileei abisu bat bidaltzeko.</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">Segurtasun-eginbide babestu bat da hau. Ez da partekatzen gailuari buruzko informaziorik edo informazio pertsonalik Google-rekin. \n\nSaioa hasteko kredentzialak edo bestelako informazio pertsonala lapurtzeko helburua duen eraso bat da phishinga.</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">Eman kurtsorea elementuen gainetik pasatzean erakuslea bistaratzeko baimena aplikazioei</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">Identitate-egiaztapena eta Pixel Watch-a</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">Pixel Watch-a konektatuta badago, identitate-egiaztapenak zeu zarela egiaztatzeko eta aplikazioetan baimenik gabe sartzea ekiditeko modu gehiago eskaintzen ditu</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">Identitate-egiaztapena eta Pixel Watch-a</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">Berritasunak: &lt;ul&gt;&lt;li&gt;Pixel Watch 3 edo bertsio berriago bat konektatuz gero, datu biometrikoak nahiz PINa erabil ditzakezu aplikazioak atzitzeko, toki fidagarri batean ez zaudenean. &lt;/li&gt;&lt;li&gt;Denborarekin, baliteke identitate-egiaztapenak zeu zarela egiaztatzeko eta gailuko aplikazioak babesteko modu gehiago eskaintzea. &lt;a href=https://support.google.com/android?p=identity_check&gt;Lortu informazio gehiago jakiteko noiz eta non zauden babestuta&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">Identitate-egiaztapena eta Pixel Watch-a</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">Pixel Watch-a konektatuta badago, identitate-egiaztapenak zeu zarela egiaztatzeko eta aplikazioetan baimenik gabe sartzea ekiditeko modu gehiago eskaintzen ditu</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">Google Play Protect-en azterketa aktibatuta dago</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">Google Play Protect-ek erregularki egiaztatzen ditu aplikazioak eta gailua portaera kaltegarririk dagoen zehazteko. Segurtasun-arriskurik aurkituz gero, haren berri emango dizugu.</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">Aplikazioen segurtasuna, Play Protect, Google Play Protect, aplikazioen babesa</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">Google-ko kontua babestuta dago</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Google-ren Segurtasun-egiaztapena, Google-ren segurtasuna, Segurtasun-egiaztapena, kontuaren segurtasuna, Google-ko kontuaren segurtasuna, Google-ko kontua</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">Aurkitzailea, Gailuak aurkitzea, Bilatu nire gailua, Galdutako gailua</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">Eguneratzeak, eguneratzea, sistemaren eguneratzea, sistemaren eguneratzeak, Google Play-ren sistemaren eguneratzea, Google Play-ren sistemaren eguneratzea</string>
+</resources>

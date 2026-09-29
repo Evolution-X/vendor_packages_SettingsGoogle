@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">例: 佐藤の Pixel</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">プライベート スペースで使用するには Google アカウントにログインしてください</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">OpenRoaming の定期購入を確認、変更できます</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">ダークモードでは黒地の背景を使用するため、バッテリーが長持ちします。スケジュールを設定した場合、時刻を過ぎても画面が OFF になるまではダークモードに切り替わりません。</string>
+    <string name="dark_ui_text_force_invert">暗い背景を使用することで、バッテリーの使用量を減らして、目に優しい表示にすることができます。スケジュールを設定すると、画面が OFF のときにテーマが変更されます。</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">色、テーマアイコン、アプリグリッド</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">ハブモード</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">ホルダーセット時とロック画面のオプション</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">Gemini を起動</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">Google Disability Support への問い合わせ</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">テレコイルとの両立性を改善して音量を上げ、不要なノイズを軽減できる場合があります</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">視覚, 聴覚, 視覚障がい, 聴覚障がい, 運動, 運動機能, 補助, アシスト, 使いやすい, アクセスしやすい, 腕, ヘルプ</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">スクリーン リーダー, Voice Over, VoiceOver, 音声 アシスト, 目の見えない, ロー ビジョン, TTS, テキスト 読み上げ, 音声 フィードバック</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">キャプション, クローズド キャプション, CC, 自動 字幕起こし, 難聴, 聴覚 障がい, CART, 音声 入力, 字幕</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">通知, 難聴, 聴覚 障がい, 知らせる</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">PSAP, 増幅, 音声 増幅, 難聴, 聴覚 障がい, 増幅機能</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">聴く テキスト, 読み上げ, 読み上げ 画面, スクリーン リーダー, 失読症, 選択して読み上げ</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">運動, クイック メニュー, アシスト メニュー, タップ, 運動機能, 関節炎, RSI, 脳卒中, 振戦, 多発性硬化症, 脳性麻痺, ボタン, ハードウェア, 押す, 反復運動損傷, 腕, 痛み, バリアフリー, サポート</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">運動, スイッチ, 手, AT, 支援 技術, 麻痺, ALS, スキャン, 手順 スキャン</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">音声, 音声 操作, 運動, 手, マイク, マイクロフォン, 音声入力, 読み上げ, コントロール</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">自動調整バッテリーを ON にしてください</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">アダプティブの設定</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">自動調整バッテリーは、バッテリーを長持ちさせるために、パフォーマンスやバックグラウンド アクティビティを制限することがあります。一部の通知が遅れる場合もあります。</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">バッテリーを長持ちさせ、充電を最適化します</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">バッテリーを長持ちさせる</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">詳細</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">デバイスのデータ（Wi-Fi のパスワードや通話履歴など）とアプリのデータ（アプリで保存された設定やファイルなど）のバックアップを停止し、Google ドライブ上のすべてのコピーを消去しますか？</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">デバイスのデータ（Wi-Fi のパスワードや通話履歴など）とアプリのデータ（アプリで保存された設定やファイルなど）を自動的に Google ドライブにバックアップします。\n\n自動バックアップを ON にすると、デバイスのデータとアプリのデータは定期的に Google ドライブの非公開フォルダに保存されます。アプリのデータとしては、連絡先、メッセージ、写真など、機密と見なされるデータを含め、（デベロッパーの設定に基づいて）アプリで保存されたすべてのデータがバックアップされる可能性があります。\n\nバックアップデータは Google ドライブ ストレージの容量には合算されません。大容量のファイルや、デベロッパーがサービスから除外することを選択したファイルはバックアップされません。</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">アシスタント、最近使ったアプリ、デフォルトのアプリ</string>
+    <string name="keywords_gesture">操作 移動</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">音量とハプティクス</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">空間オーディオ</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">ファイル転送 / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">ダークモード、フォントサイズ、タップ</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">スマート ストレージ</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">ストレージの空き容量が少なくなったときに、バックアップ済みの写真や動画を削除します。削除後も引き続き Google フォトで表示できます。</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">バックアップ済みの写真と動画の削除</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">スマート ストレージ</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">スマート ストレージの使用</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">前面カメラと背面カメラを切り替えるには、Pixel カメラを起動した状態で 2 回ひねります。</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">写真や動画が削除された後も、選択したバックアップ画質にてオンライン環境でお楽しみいただけます</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">スマート ストレージを OFF にしますか？\n\nストレージの保存容量が上限に近付いても、スマート ストレージによる空き容量の調整が行われなくなります。</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Google アカウント</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">アプリデータに基づくパーソナライズ</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">リアルタイム テキスト（RTT）</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">非表示</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">通話中に表示</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">常に表示</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">デバイスをオフラインでスキャンして、フィッシングなどの不正な動作をするアプリがないか確認します。不正な動作が確認された場合は、一部のアプリ情報を Google Play プロテクトに送信し、危険度を判別して、警告を表示します。</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">これは保護されたセキュリティ機能です。デバイス情報や個人情報は Google と共有されません。\n\nフィッシングとは、ログイン認証情報などの個人情報を不正に入手しようとする試みのことです。</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">近付けたときにポインタを表示することをアプリに許可する</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">ID チェックと Google Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">Google Pixel Watch を接続すると、アプリへの不正アクセスを防ぐための、ID チェック機能による本人確認方法が増えます</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">ID チェックと Google Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">更新内容: &lt;ul&gt;&lt;li&gt;Google Pixel Watch 3 以降を接続すると、信頼できる場所以外の場所でアプリにアクセスする場合に生体認証または PIN のいずれかを使用できるようになりました。&lt;/li&gt;&lt;li&gt;今後、ID チェックでは、本人確認やデバイス上のアプリの保護を行うための方法が追加される可能性があります。&lt;a href=https://support.google.com/android?p=identity_check&gt;保護が適用されるタイミングと場所の詳細&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">ID チェックと Google Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">Google Pixel Watch を接続すると、アプリへの不正アクセスを防ぐための、ID チェック機能による本人確認方法が増えます</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">Play プロテクトによるスキャンは ON です</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">Play プロテクトは、お使いのアプリやデバイスに不正な動作がないかを定期的にチェックします。セキュリティ リスクが検出されると、通知が届きます。</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">アプリのセキュリティ, Play プロテクト, Google Play プロテクト, アプリの安全性</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">Google アカウントは保護されています</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Google セキュリティ診断, Google セキュリティ, セキュリティ診断, アカウントのセキュリティ, Google アカウントのセキュリティ, Google アカウント</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">Find Hub, デバイスの検出, デバイスを探す, 紛失したデバイス</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">更新, アップデート, システムの更新, システム アップデート, Google Play システム アップデート, Play システム アップデート</string>
+</resources>

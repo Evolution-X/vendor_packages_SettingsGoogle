@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Byvoorbeeld, Jan se Pixel.</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">Meld aan by ’n Google-rekening om saam met jou privaat ruimte te gebruik</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">Bekyk of verander OpenRoaming-intekening</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">Donkertema gebruik \'n swart agtergrond om te help om jou battery langer te laat hou. Donkertemaskedules wag totdat jou skerm af is om aan te skakel.</string>
+    <string name="dark_ui_text_force_invert">Gebruik ’n donker agtergrond om batterygebruik te verminder en dit gemakliker te maak om na jou skerm te kyk. As jy ’n skedule het, sal jou tema verander wanneer die skerm af is.</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">Kleure, ikone met temas, approoster</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">Sentrummodus</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">Opsies op dok- en sluitskerm</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">Begin Gemini</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">Kontak Google Gestremdheidsteundiens</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">Kan oudiovolume verhoog om versoenbaarheid met teleklosse te verbeter en ongewenste geraas te verminder</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">visie, gehoor, blind, doof, motories, handigheid, ondersteunend, bystand, gebruiksgemak, toegangsgemak, hand, hulp</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">Skermleser, stembeskrywing, stembystand, blind, swak sig, TTS, teks na spraak, gesproke terugvoer</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">Onderskrifte, onderskrifte, CC, intydse onderskrifte, hardhorend, gehoorverlies, CART, spraak-na-teks, onderskrifte</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">Kennisgewings, hardhorend, gehoorverlies, stel in kennis</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">PSAP, versterk, klankversterker, hardhorend, gehoorverlies, versterking</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">Hoor teks, lees hardop, praatskerm, skermleser, disleksie, kies om te praat</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">motories, kitskieslys, bystandskieslys, aanraking, handigheid, artritis, rsi, beroerte, bewing, verspreide sklerose, serebrale verlamming, knoppie, hardeware, druk, ooreisingbesering, hand, pyn, toeganklik, hulp</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">motories, skakelaar, hand, AT, bystandtegnologie, verlamming, ALS, skandering, stapskandering</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">stem, stembeheer, motories, hand, mikrofoon, dikteer, praat, beheer</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">Skakel Aanpasbare Battery aan</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">Verstelbare voorkeure</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">Om batterylewe te verleng, kan Aanpasbare Battery werkverrigting en agtergrondaktiwiteit beperk. Sommige kennisgewings kan vertraag word.</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">Verleng batterylewe en optimeer die laaiproses</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">Verleng batterylewe</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">Kom meer te wete</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">Staak die rugsteun van toesteldata (soos Wi-Fi-wagwoorde en oproepgeskiedenis) en programdata (soos instellings en lêers wat deur programme geberg is), en vee ook alle kopieë in Google Drive uit?</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">Rugsteun toesteldata (soos wi-fi-wagwoorde en oproepgeskiedenis) en appdata (soos instellings en lêers wat deur apps geberg is) outomaties in Google Drive.\n\nWanneer jy outomatiese rugsteun aanskakel, word toestel- en appdata van tyd tot tyd in \'n private vouer in Google Drive gestoor. Appdata kan enige data wees wat \'n app gestoor het (op grond van ontwikkelaarinstellings), insluitend potensieel sensitiewe data, soos kontakte, boodskappe en foto\'s.\n\nRugsteundata sal nie deel vorm van jou Drive-bergingkwota nie. Groot lêers, of lêers wat ontwikkelaars gekies het om van die diens uit te sluit, sal nie gerugsteun word nie.</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">Assistent, onlangse apps, verstekapps</string>
+    <string name="keywords_gesture">gebaar, bewegings</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">Volume en tasbare terugvoer</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">Ruimtelike oudio</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">Lêeroordrag/Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">Donkertema, lettertipegrootte, raak</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">Slimberging</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">Verwyder gerugsteunde foto\'s en video\'s wanneer die berging byna vol is. Jy kan hulle steeds in Google Foto\'s vind.</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">Verwyder gerugsteunde foto\'s en video\'s</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">Slimberging</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">Gebruik Slimberging</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">Om in Pixel Kamera in en uit selfiemodus te wissel, kan jy jou pols twee keer draai wanneer jy in die app is.</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">Wanneer jy gekoppel is, kan jy steeds toegang kry tot foto\'s en video\'s teen die gehalte wat jy vir rugsteun gekies het</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">Skakel Slimberging af? \n\nSlimberging sal nie spasie beskikbaar maak wanneer jou berging amper vol is nie.</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Google-rekening</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">Gebruik appdata om te personaliseer</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">Intydse Teks (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">Nie sigbaar nie</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">Sigbaar gedurende oproep</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">Altyd sigbaar</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">Skandering word privaat direk op jou toestel gedoen en gaan appaktiwiteit na vir uitvissing of ander misleidende optrede. As dit bespeur word, word sekere appinligting na Google Play Beskerming toe gestuur om die bedreiging te bevestig en appgebruikers te waarsku.</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">Dit is ’n beskermde sekuriteitskenmerk. Geen toestel of persoonlike inligting word met Google gedeel nie. \n\nUitvissing is ’n poging om aanmeldeiebewyse of ander persoonlike inligting te steel.</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">Laat apps toe om wyser te wys terwyl daar gehou word</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">Identiteitkontrole en Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">Met ’n gekoppelde Pixel Watch voeg Identiteitkontrole meer maniere by om te verifieer dat dit jy is om ongewenste toegang tot apps te voorkom</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">Identiteitkontrole en Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">Opdaterings: &lt;ul&gt;&lt;li&gt;As jy ’n Pixel Watch 3 of nuwer koppel, kan jy óf biometrie óf jou PIN gebruik om toegang tot apps te kry wanneer jy nie op ’n vertroude plek is nie. &lt;/li&gt;&lt;li&gt;Identiteitkontrole kan met verloop van tyd nog maniere byvoeg om te verifieer dat dit jy is en apps op jou toestel te beveilig. &lt;a href=https://support.google.com/android?p=identity_check&gt;Kry meer inligting oor wanneer en waar jy beskerm word&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">Identiteitkontrole en jou Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">Met ’n gekoppelde Pixel Watch voeg Identiteitkontrole meer maniere by om te verifieer dat dit jy is om ongewenste toegang tot apps te voorkom</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">Play Beskerming-skandering is aan</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">Play Beskerming gaan gereeld jou apps en toestel na vir skadelike optrede. Jy sal in kennis gestel word van enige sekuriteitrisiko’s wat gekry word.</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">Appsekuriteit, Play Beskerming, Google Play Beskerming, Appveiligheid</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">Google-rekening is beskerm</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Google Sekuriteitkontrole, Google Sekuriteit, Sekuriteitkontrole, Rekeningsekuriteit, Google-rekeningsekuriteit, Google-rekening</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">Vindpunt, Kry toestelle, Kry My Toestel, Verlore toestel</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">Opdaterings, Opdatering, Stelselopdatering, Stelselopdaterings, Google Play Stelselopdatering, Play Stelselopdatering</string>
+</resources>

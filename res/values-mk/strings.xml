@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">На пр. Pixel-от на Миле.</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">Најавете се на сметката на Google за да ја користите со вашиот „Приватен простор“</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">Прегледајте ја или изменете ја претплатата за OpenRoaming</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">Темната тема користи црна заднина за подолго траење на батеријата. Распоредите за темната тема не се вклучуваат додека не се исклучи екранот.</string>
+    <string name="dark_ui_text_force_invert">Користете темна заднина за да го намалите користењето на батеријата и да го направите екранот попријатен за гледање. Вашата тема ќе се промени ако имате распоред, кога екранот е исклучен.</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">Бои, тематски икони, мрежа со апликации</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">Режим Hub</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">Опции за приклучување на док и заклучен екран</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">Стартувај го Gemini</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">Контактирајте со службата за поддршка за лица со попреченост на Google</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">Може да ја зголемува јачината на звукот за да ја подобри компатибилноста со телекалемите и да го намалува несаканиот шум</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">вид, слух, слеп, глув, подвижност, умешност, помошен, помош, едноставно користење, лесен пристап, дланка, помош</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">Читач на екран, гласовна синхронизација, Гласовна помош, слепи, слаб вид, TTS, од текст во говор, говорни повратни информации</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">Титлови, затворени титлови, CC, Автоматски титлови, нарушување на слух, загуба на слух, CART, од говор во текст</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">Известувања, нарушување на слух, загуба на слух, извести</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">PSAP, засили, засилување звук, нарушување на слух, загуба на слух, засилување</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">Слушајте текст, читање на глас, изговор на екранот, читач на екран, дислексија, изберете за говор</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">подвижност, брзо мени, помошно мени, допир, попреченост, артритис, rsi, мозочен удар, тремор, мултиплекс склероза, церебрална парализа, копче, хардвер, притискање, повторлива повреда од истегнување, рака, болка, пристапно, помош</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">моторна, прекинувач, рака, AT, aпомошна технологија, парализа, ALS, скенирање, скенирање чекор</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">глас, гласовна контрола, моторна, рака, микрофон, диктирање, зборување, контрола</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">Вклучете „Адаптивна батерија“</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">Поставки за адаптивност</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">За да го продолжи траењето на батеријата, „Адаптивна батерија“ може да ги намали изведбата и активноста во заднина. Можно е некои известувања да бидат одложени.</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">Продолжете го траењето на батеријата и оптимизирајте го полнењето</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">Продолжете го траењето на батеријата</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">Дознајте повеќе</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">Дали да се престане со создавање резервна копија на податоците за уредот (како што се лозинки за Wi-Fi и историја на повици) и податоците за апликациите (како што се поставки и датотеки што ги складирале апликациите) и да се избришат сите копии на Google Drive?</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">Автоматски создајте бекап на податоците на уредот (како што се лозинки за Wi-Fi и историја на повици) и податоците за апликациите (како што се поставки и датотеки што ги складирале апликациите) на Google Drive.\n\nОткако ќе вклучите автоматско создавање бекап, податоците за уредот и апликациите повремено се зачувуваат во приватна папка во Google Drive. Податоците за апликацијата може да бидат секакви податоци што ги зачувала апликацијата (според поставките на програмерот), вклучувајќи потенцијално чувствителни податоци како што се контакти, пораки и фотографии.\n\nПодатоците од бекапот нема да се сметаат во квотата за складирање на Drive. Нема да се создава бекап на големите датотеки или датотеките што програмерите одлучиле да ги исклучат од услугата.</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">Помошник, неодамнешни апликации, стандардни апликации</string>
+    <string name="keywords_gesture">движење, потези</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">Јачина на звук и хаптика</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">Просторен звук</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">Пренос на датотеки / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">Темна тема, големина на фонт, допир</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">Паметен капацитет</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">Кога капацитетот е речиси полн, отстранете ги фотографиите и видеата што имаат бекап. Сѐ уште ќе може да ги најдете во „Фотографии на Google“.</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">Избриши слики и видеа со бекап</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">Паметен капацитет</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">Користи „Паметен капацитет“</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">За да влегувате и да излегувате од режимот на селфи во „Камера Pixel“, завртете двапати кога сте во апликацијата.</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">Кога сте поврзани, сѐ уште ќе може да пристапувате до фотографии и видеа со квалитетот што сте го избрале за бекапот</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">Да се исклучи „Паметен капацитет“? \n\n„Паметен капацитет“ нема да ослободи простор кога капацитетот е речиси полн.</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Сметка на Google</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">Персонализирај користеjќи податоци од апликациите</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">Текст во реално време (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">Не е видливо</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">Видливо во повик</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">Секогаш видливо</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">Скенирањето се извршува приватно и директно на вашиот уред, проверувајќи ја активноста во апликациите заради откривање фишинг или друго измамничко однесување. Ако се открие такво однесување, одредени податоци за апликацијата се испраќаат до Google Play Protect за да се потврди заканата и да се предупредат корисниците на апликацијата.</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">Ова е заштитена безбедносна функција. Со Google не се споделуваат податоци за уредот, ниту лични податоци. \n\nФишингот е обид да се украдат акредитивите за најавување или други лични податоци.</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">Дозволете апликациите да го прикажуваат покажувачот кога ќе се намести над нив</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">„Проверка на идентитетот“ и Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">Со поврзан Pixel Watch, „Проверка на идентитетот“ додава повеќе начини на проверка на вашиот идентитет, со цел да се спречи несакан пристап до апликациите</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">„Проверка на идентитетот“ и Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">Новости: &lt;ul&gt;&lt;li&gt;Со поврзување Pixel Watch 3 или понова верзија, може да го користите или вашиот PIN или биометрика за пристап до апликациите кога не сте на доверливо место. &lt;/li&gt;&lt;li&gt;Со текот на времето, „Проверка на идентитетот“ може да додава повеќе начини на проверка на вашиот идентитет и заштита на апликациите на вашиот уред. &lt;a href=https://support.google.com/android?p=identity_check&gt;Дознајте повеќе за тоа кога и каде сте заштитени&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">„Проверка на идентитетот“ и вашиот Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">Со поврзан Pixel Watch, „Проверка на идентитетот“ додава повеќе начини на проверка на вашиот идентитет, со цел да се спречи несакан пристап до апликациите</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">Скенирањето со Play Protect е вклучено</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">Play Protect редовно ги проверува апликациите и уредот за штетно однесување. Ќе ве извести за сите најдени безбедносни ризици.</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">Безбедност на апликации, Play Protect, Google Play Protect, заштита на апликации</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">Сметката на Google е заштитена</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Проверка на безбедноста на Google, безбедност на Google, проверка на безбедноста, безбедност на сметка, безбедност на сметка на Google, сметка на Google</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">„Локатор“, наоѓање уреди, „Најди го мојот уред“, изгубен уред</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">Ажурирања, ажурирање, системско ажурирање, системски ажурирања, системско ажурирање од Google Play, системско ажурирање од Play</string>
+</resources>

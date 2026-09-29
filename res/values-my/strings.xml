@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">ဥပမာ- Joe ၏ Pixel</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">သင့်သီးသန့်နေရာကို အသုံးပြုရန် Google Account သို့ လက်မှတ်ထိုးဝင်ပါ</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">OpenRoaming စာရင်းသွင်းမှုကို ကြည့်ရန် သို့မဟုတ် ပြောင်းရန်</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">သင့်ဘက်ထရီသက်တမ်း ပိုမိုကြာရှည်စွာ ခံနိုင်ရန် \'အမှောင်နောက်ခံ\' က အမည်းရောင်ကို နောက်ခံအဖြစ် သုံးသည်။ သင့်ဖန်သားပြင်ပိတ်သည်အထိ စောင့်ပြီးမှ အမှောင်နောက်ခံ စတင်သည်။</string>
+    <string name="dark_ui_text_force_invert">ဘက်ထရီအသုံးပြုမှု လျှော့ချရန်နှင့် သင့်စခရင်ကို ကြည့်ရှုရာတွင် ပိုမိုသက်သောင့်သက်သာဖြစ်စေရန် အမှောင်နောက်ခံ သုံးပါ။ စခရင် ပိတ်ထားချိန်တွင် အချိန်ဇယားရှိပါက သင့်အပြင်အဆင် ပြောင်းပါမည်။</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">အရောင်များ၊ အပြင်အဆင်သုံး သင်္ကေတများ၊ အက်ပ်ဇယား</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">ထိန်းချုပ်စင်တာမုဒ်</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">တပ်ဆင်မှုနှင့် လော့ခ်မျက်နှာပြင် ရွေးစရာများ</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">Gemini စတင်ရန်</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">Google မသန်စွမ်းသူဆိုင်ရာ အကူအညီပေးရေးအဖွဲ့ကို ဆက်သွယ်ရန်</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">သံလိုက်ဖမ်းတိုင်များ၏ တွဲဖက်သုံးနိုင်မှုကို ပိုကောင်းအောင်လုပ်နိုင်ရန်နှင့် မလိုလားသော ဆူညံသံ လျှော့ချပေးရန်အတွက် အသံချဲ့နိုင်သည်</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">အမြင်၊ အကြား၊ မျက်မမြင်၊ နားမကြား၊ မော်တာ၊ ကျွမ်းကျင်မှု၊ ထောက်ပံ့မှု၊ အကူအညီ၊ သုံးရလွယ်၊ ဝင်ရလွယ်၊ လက်၊ အကူအညီ</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">ဖန်သားပြင်ဖတ် အက်ပ်၊ အသံ ထွက်ပေးမှု၊ နောက်ခံစကားပြော၊ အသံ အကူအညီ၊ မျက်မမြင်၊ အမြင်အာရုံချို့တဲ့ခြင်း၊ TTS၊ စာမှ စကားသို့၊ အသံထွက် အကြံပြုချက်</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">စာတန်းများ၊ စာတန်းများ၊ CC၊ တိုက်ရိုက်စာတန်း၊ နားလေးခြင်း၊ အကြားအာရုံဆုံးရှုံးခြင်း၊ CART၊ စကားမှ စာသို့၊ စာတန်းထိုးများ</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">အကြောင်းကြားချက်များ၊ နားလေးခြင်း၊ အကြားအာရုံဆုံးရှုံးခြင်း၊ အကြောင်းကြားခြင်း</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">PSAP၊ အသံချဲ့ခြင်း၊ အသံချဲ့ခြင်း၊ နားလေးခြင်း၊ အကြားအာရုံဆုံးရှုံးခြင်း၊ အသံချဲ့ခြင်း</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">စာသား နားထောင်ရန်၊ အသံထွက်ဖတ်ရန်၊ ဖန်သားပြင် ဖတ်ပြရန်၊ ဖန်သားပြင်ဖတ်အက်ပ်၊ စာဖတ်ခက်သည့်ရောဂါ၊ စကားပြော ရွေးရန်</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">မော်တာ၊ အမြန်မီနူး၊ အကူအညီ မီနူး၊ ထိခြင်း၊ ကျွမ်းကျင်မှု၊ အဆစ်ရောင်နာ၊ rsi, လေဖြတ်၊ ရင်တုန်ခြင်း၊ မာလ်တီပယ် စကယ်လရိုးဆစ်၊ ဦးနှောက်အကြောသေရောဂါ၊ ခလုတ်၊ ဟာ့ဒ်ဝဲ၊ ဖိခြင်း၊ ကြွက်သားနာကျင်ရောင်ရမ်းခြင်း၊ လက်၊ နာကျင်မှု၊ သုံးရလွယ်၊ ကူညီမှု</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">မော်တာ၊ အသွင်တူ ခလုတ်၊ လက်၊ AT၊ ကူညီပေးသော နည်းပညာ၊ သွက်ချာပါဒဖြစ်ခြင်း၊ ALS၊ စကင်ဖတ်ခြင်း၊ အဆင့်လိုက် စကင်ဖတ်ခြင်း</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">အသံ၊ အသံဖြင့် ထိန်းချုပ်ရန်၊ မော်တာ၊ လက်၊ မိုက်၊ မိုက်ခရိုဖုန်း၊ နှုတ်တိုက်ချပေးခြင်း၊ စကားပြောခြင်း၊ ထိန်းချုပ်ခြင်း</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">\'အလိုက်သင့် ဘက်ထရီအားထိန်း\' ကို ဖွင့်ပါ</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">အလိုက်သင့် သတ်မှတ်ချက်များ</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">ဘက်ထရီသက်တမ်း ပိုရှည်စေရန် ‘အလိုက်အထိုက် ဘက်ထရီအားထိန်း’ က စွမ်းဆောင်ရည်နှင့် နောက်ခံလုပ်ဆောင်ချက်ကို လျှော့ချနိုင်သည်။ အချို့အကြောင်းကြားချက်များ ကြန့်ကြာနိုင်ပါသည်။</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">ဘက်ထရီသက်တမ်း ပိုရှည်စေပြီး အားသွင်းခြင်းကို ပိုကောင်းအောင်လုပ်သည်</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">ဘက်ထရီသက်တမ်းကို တိုးပေးသည်</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">ပိုလေ့လာရန်</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">စက်ပစ္စည်းဒေတာများ (Wi-Fi စကားဝှက်များနှင့် ခေါ်ဆိုမှုမှတ်တမ်း) နှင့် အက်ပ်ဒေတာများ (အက်ပ်များမှ သိမ်းဆည်းလိုက်သည့် ဆက်တင်များနှင့် ဖိုင်များ) ကိုအရန်ကူးယူထားခြင်းမှ ရပ်တန့်ပြီး Google Drive ပေါ်ရှိ မိတ္တူများအားလုံးကို ဖျက်မလား။</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">Google Drive သို့ စက်ပစ္စည်းဒေတာများ (Wi-Fi စကားဝှက်နှင့် ခေါ်ဆိုမှုမှတ်တမ်းကဲ့သို့) နှင့် အက်ပ်ဒေတာများ (အက်ပ်များမှ သိမ်းဆည်းထားသည့် ဆက်တင်များနှင့် ဖိုင်များ) ကိုအလိုအလျောက် အရန်ကူးယူပါ။\n\nအလိုအလျောက် အရန်ကူးယူခြင်းကို ဖွင့်ထားလျှင်၊ စက်ပစ္စည်းနှင့် အက်ပ်ဒေတာများကို အချိန်နှင့်အမျှ Google Drive ရှိ သီးသန့်ဖိုင်တွဲသို့ သိမ်းဆည်းသွားပါမည်။ အက်ပ်ဒေတာဟု ဆိုရာတွင် အဆက်အသွယ်များ၊ မက်ဆေ့ဂျ်များနှင့် ဓာတ်ပုံများကဲ့သို့ အရေးကြီးသည့် ဒေတာများအပါအဝင် အက်ပ်မှ သိမ်းဆည်းထားသည့် ဒေတာများ (ဆော့ဖ်ဝဲအင်ဂျင်နီယာ ဆက်တင်များအပေါ်မူတည်၍) အက်ပ်မှ သိမ်းဆည်းလိုက်သည့်ဒေတာများအားလုံး ပါဝင်ပါသည်။\n\nအရန်ကူးယူခြင်း ဒေတာများသည် သင့် Drive သိုလှောင်ခန်းနေရာကို အသုံးပြုခြင်းမရှိပါ။ အရွယ်အစားကြီးသည့် ဖိုင်များ သို့မဟုတ် ဆော့ဖ်ဝဲအင်ဂျင်နီယာမှ အရန်ကူးယူခြင်းမပြုရန် ထုတ်ပယ်ထားသည့် ဖိုင်များကို အရန်ကူးယူခြင်း ပြုလုပ်မည် မဟုတ်ပါ။</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">Assistant၊ မကြာသေးမီက အက်ပ်များ၊ မူရင်း အက်ပ်များ</string>
+    <string name="keywords_gesture">လက်ဟန်၊ လှုပ်ရှားချက်များ</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">အသံအတိုးအကျယ်၊ ထိတွေ့တုံ့ပြန်မှု</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">ထောင့်စုံအော်ဒီယို</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">ဖိုင်ရွှေ့ပြောင်းခြင်း / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">အမှောင်နောက်ခံ၊ ဖောင့်အရွယ်အစား၊ တို့ထိခြင်း</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">အဆင့်မြင့် သိုလှောင်ခန်း</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">သိုလှောင်ခန်းပြည့်ခါနီးအချိန်တွင် အရန်သိမ်းထားသည့် ဓာတ်ပုံနှင့် ဗီဒီယိုများကို ဖယ်ရှားပါ။ ၎င်းတို့ကို Google Photos တွင်တွေ့နိုင်ပါဦးမည်။</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">အရန်သိမ်းထားသော ဓာတ်ပုံနှင့် ဗီဒီယိုများကို ဖယ်ရှားပါ</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">စမတ်သိုလှောင်ခန်း</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">အဆင့်မြင့် သိုလှောင်ခန်းကို သုံးရန်</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">သင်၏ ‘Pixel ကင်မရာ’ အတွင်း ဆယ်လ်ဖီမုဒ်ကို အဖွင့်၊ အပိတ်ပြုလုပ်ရန် အက်ပ်အတွင်းရောက်နေစဉ် နှစ်ချက်လှည့်ပါ။</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">ချိတ်ဆက်ထားလျှင် မိတ္တူပွားခြင်းအတွက် သင်ရွေးချယ်ထားသော အရည်အသွေးဖြင့် ဓာတ်ပုံများနှင့် ဗီဒီယိုများကို ကြည့်ရှုနိုင်ပါသေးသည်</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">Smart Storage ကို ပိတ်လိုပါသလား။\n\nသင်၏ သိုလှောင်ခန်းပြည့်လုနီးပါက Smart Storage သည် နေရာလွတ်ရရှိရန် ရှင်းလင်းပေးမည်မဟုတ်ပါ။</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Google Account</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">အက်ပ်ဒေတာအသုံးပြုမှုကို ပုဂ္ဂိုလ်ရေးသီးသန့် ပြုလုပ်ရန်</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">အချိန်နှင့်တစ်ပြေးညီ စာသား (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">မမြင်နိုင်ပါ</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">ခေါ်ဆိုနေစဉ် မြင်နိုင်သည်</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">အမြဲမြင်နိုင်သည်</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">သင်၏စက်ပစ္စည်းတွင် သီးသန့်စကင်ဖတ် ရှာဖွေပြီး အက်ပ်များက အယောင်ဆောင် ဖြားယောင်းခြင်း (သို့) အခြားလှည့်ဖြားမှုများ ပြုလုပ်နေခြင်း ရှိ၊ မရှိကို စစ်ဆေးသည်။ တွေ့ရှိပါက ခြိမ်းခြောက်မှုကို အတည်ပြုရန်နှင့် အက်ပ်အသုံးပြုသူများအား သတိပေးရန် Google Play Protect သို့ အက်ပ်အချက်အလက်အချို့ကို ပို့သည်။</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">၎င်းသည် အကာအကွယ်ပေးသည့် လုံခြုံရေးတူးလ် ဖြစ်သည်။ စက်ပစ္စည်း (သို့) ကိုယ်ရေးအချက်အလက်ကို Google နှင့် မမျှဝေပါ။ \n\nအယောင်ဆောင် ဖြားယောင်းခြင်းသည် လက်မှတ်ထိုးဝင်ရန် အထောက်အထား (သို့) အခြားကိုယ်ရေးအချက်အလက်တို့ကို ခိုးယူရန် ကြိုးပမ်းမှုတစ်ခု ဖြစ်သည်။</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">မြားတင်ထားချိန်တွင် အက်ပ်များကို ညွှန်တံပြခွင့်ပြုပါ</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">Identity Check နှင့် Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">Pixel Watch နှင့် ချိတ်ဆက်ထားပါက ခွင့်ပြုချက်မရှိဘဲ အက်ပ်များသို့ ဝင်ရောက်ခြင်းမရှိနိုင်ရန် Identity Check က နည်းလမ်းအသစ်များထည့်ပြီး သင်ဖြစ်ကြောင်း စစ်ဆေးပေးပါမည်</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">Identity Check နှင့် Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">အပ်ဒိတ်များ- &lt;ul&gt;&lt;li&gt;Pixel Watch 3 နှင့်အထက် ဗားရှင်းကို ချိတ်ဆက်ခြင်းဖြင့် သင်က ယုံကြည်ရသည့်နေရာတွင် မရှိသည့်အခါ အက်ပ်များဝင်သုံးရန်အတွက် ဇီဝမက်ထရစ်များ (သို့) ပင်နံပါတ်ကို သုံးနိုင်သည်။ &lt;/li&gt;&lt;li&gt;အချိန်နှင့်အမျှ Identity Check သည် သင်ဖြစ်ကြောင်း အတည်ပြုရန်နှင့် သင့်စက်ပေါ်ရှိ အက်ပ်များလုံခြုံစေရန် နောက်ထပ်နည်းလမ်းများကို အခါအားလျော်စွာ ထည့်နိုင်သည်။ &lt;a href=https://support.google.com/android?p=identity_check&gt;သင့်အားကာကွယ်ထားသော အချိန်နှင့် နေရာအကြောင်း ပိုလေ့လာရန်&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">Identity Check နှင့် သင့် Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">Pixel Watch နှင့် ချိတ်ဆက်ထားပါက ခွင့်ပြုချက်မရှိဘဲ အက်ပ်များသို့ ဝင်ရောက်ခြင်းမရှိနိုင်ရန် Identity Check က နည်းလမ်းအသစ်များထည့်ပြီး သင်ဖြစ်ကြောင်း စစ်ဆေးပေးပါမည်</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">Google Play Protect စကင်ဖတ်ခြင်းကို ဖွင့်ထားသည်</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">Google Play Protect သည် သင်၏အက်ပ်နှင့် စက်ပစ္စည်းများတွင် အန္တရာယ်ရှိသော ပြုမူမှုများ ရှိမရှိကို ပုံမှန်စစ်ဆေးပေးသည်။ လုံခြုံရေး ပြဿနာများတွေ့လျှင် သင့်အား အကြောင်းကြားမည်။</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">အက်ပ်လုံခြုံရေး၊ Google Play Protect၊ Google Play Protect၊ အက်ပ်လုံခြုံမှု</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">Google Account ကို ကာကွယ်ထားသည်</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Google လုံခြုံရေးစစ်ဆေးမှု၊ Google လုံခြုံရေး၊ လုံခြုံရေးစစ်ဆေးမှု၊ အကောင့်လုံခြုံရေး၊ Google အကောင့်လုံခြုံရေး၊ Google အကောင့်</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">Find Hub၊ စက်ပစ္စည်းများ ရှာခြင်း၊ Find My Device၊ စက်ပစ္စည်း ပျောက်ဆုံးခြင်း</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">အပ်ဒိတ်များ၊ အပ်ဒိတ်၊ စနစ်အပ်ဒိတ်၊ စနစ်အပ်ဒိတ်များ၊ Google Play စနစ် အပ်ဒိတ်လုပ်ခြင်း၊ Google Play စနစ် အပ်ဒိတ်လုပ်ခြင်း</string>
+</resources>

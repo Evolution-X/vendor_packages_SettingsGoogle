@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">ఉదా. జో యొక్క Pixel.</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">మీ ప్రైవేట్ స్పేస్‌తో ఉపయోగించడానికి Google ఖాతాకు సైన్ ఇన్ చేయండి</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">OpenRoaming చెల్లింపు సభ్యత్వాన్ని చూడండి లేదా మార్చండి</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">మీ బ్యాటరీ ఎక్కువ సేపు పని చేయగలిగేలా సహాయపడటానికి, డార్క్ థీమ్ నలుపు బ్యాక్‌గ్రౌండ్‌ను ఉపయోగిస్తుంది. డార్క్ థీమ్, మీ స్క్రీన్ ఆఫ్ అయ్యే వరకు ఎంత సేపు వేచి ఉండాలి అనే వ్యవధిని షెడ్యూల్ చేస్తుంది.</string>
+    <string name="dark_ui_text_force_invert">బ్యాటరీ వినియోగాన్ని తగ్గించడానికి, స్క్రీన్‌ను మరింత సౌకర్యవంతంగా చూడటానికి, డార్క్ బ్యాక్‌గ్రౌండ్‌ను ఉపయోగించండి. మీరు షెడ్యూల్‌ను సెట్ చేస్తే, స్క్రీన్ ఆఫ్‌లో ఉన్నప్పుడు మీ థీమ్ మారుతుంది.</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">కలర్స్, థీమ్‌కు తగిన చిహ్నాలు, యాప్ గ్రిడ్</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">హబ్ మోడ్</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">డాక్ &amp; లాక్ స్క్రీన్ ఆప్షన్‌లు</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">Geminiని ప్రారంభించండి</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">Google వైకల్య సపోర్ట్‌ను సంప్రదించండి</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">టెలికాయిల్‌లతో అనుకూలతను మెరుగుపరచడానికి, అవాంఛిత శబ్దాన్ని తగ్గించడానికి ఆడియో వాల్యూమ్‌ను పెంచవచ్చు</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">విజన్, వినికిడి, అంధత్వం, చెవుడు, మోటార్, నేర్పరితనం, సహాయకరం, అసిస్టెన్స్, ఉపయోగించడం సులభం, యాక్సెస్ చేయడం సులభం, చేయి, సహాయం</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">స్క్రీన్ రీడర్, వాయిస్ ఓవర్, వాయిస్ ఓవర్, వాయిస్ అసిస్టెంట్ సహాయం, అంధత్వం, తక్కువ విజన్, TTS, టెక్స్ట్ టూ స్పీచ్, మాటల ప్రతిస్పందన</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">క్యాప్షన్‌లు, సబ్‌టైటిల్స్, CC, లైవ్ క్యాప్షన్, వినడంలో సమస్య, వినికిడి ఎర్రర్, CART, స్పీచ్ టూ టెక్స్ట్, సబ్‌టైటిల్</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">నోటిఫికేషన్‌లు, వినడంలో సమస్య, వినికిడి ఎర్రర్, నోటిఫై</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">PSAP, యాంప్లిఫై చేయి, సౌండ్ యాంప్లిఫికేషన్, వినడంలో సమస్య, వినికిడి ఎర్రర్, యాంప్లిఫికేషన్</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">టెక్స్ట్ వినండి, బిగ్గరగా చదవండి, స్క్రీన్‌లో మాట్లాడండి, స్క్రీన్ రీడర్, డిస్లెక్సియా, మాట్లాడటానికి ఎంచుకోండి</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">మోటార్, క్విక్ మెనూ, సహాయక మెనూ, స్పర్శ, నేర్పరితనం, ఆర్థరైటిస్, rsi, స్ట్రోక్, వణుకు, మల్టిపుల్ స్క్లేరోసిస్, సెరిబ్రల్ పాల్సీ, బటన్, హార్డ్‌వేర్, ప్రెస్, రిపీటీటివ్ స్ట్రెయిన్ గాయం, చేయి, నొప్పి, యాక్సెస్ చేయగినది, సహాయం</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">మోటార్, స్విచ్, చేయి, AT, సహాయకర టెక్నాలజీ, పారాలసిస్, ALS, స్కానింగ్, స్టెప్ స్కానింగ్</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">వాయిస్, వాయిస్ కంట్రోల్, మోటార్, చేయి, మైక్, మైక్రోఫోన్, డిక్టేషన్, టాక్, కంట్రోల్</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">అనుకూల బ్యాటరీని ఆన్ చేయండి</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">అనుకూల ప్రాధాన్యతలు</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">బ్యాటరీ జీవితకాలాన్ని పొడిగించడానికి, అనుకూల బ్యాటరీ అనేది బ్యాక్‌గ్రౌండ్ యాక్టివిటీతో పాటు పనితీరును తగ్గించవచ్చు. కొన్ని నోటిఫికేషన్‌లు రావడం ఆలస్యం కావచ్చు.</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">బ్యాటరీ జీవితకాలాన్ని పొడిగించండి, ఛార్జింగ్‌ను ఆప్టిమైజ్ చేయండి</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">బ్యాటరీ జీవితకాలాన్ని పెంచుతుంది</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">మరింత తెలుసుకోండి</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">పరికర డేటా (Wi-Fi పాస్‌వర్డ్‌లు, కాల్ హిస్టరీ వంటివి) అలాగే యాప్‌ డేటాను (సెట్టింగ్‌లు, యాప్‌ల ద్వారా స్టోర్ చేయబడిన ఫైళ్లు వంటివి) బ్యాకప్ చేయడం ఆపివేసి, Google Driveలోని అన్ని కాపీలను తీసివేయాలా?</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">డివైజ్ డేటాను (Wi-Fi పాస్‌వర్డ్‌లు, కాల్ హిస్టరీ వంటివి), యాప్ డేటాను (సెట్టింగ్‌లు, యాప్‌ల ద్వారా స్టోర్ చేయబడిన ఫైళ్ల వంటివి) Google Driveకు ఆటోమేటిక్‌గా బ్యాకప్ చేస్తుంది.\n\nమీరు ఆటోమేటిక్ బ్యాకప్‌ను ఆన్ చేసినప్పుడు, డివైజ్, యాప్ డేటా కాలానుగుణంగా Google Driveలో ప్రైవేట్ ఫోల్డర్‌కు సేవ్ చేయబడుతుంది. కాంటాక్ట్‌లు, మెసేజ్‌లు, ఫోటోల వంటి గోప్యమైనది కావడానికి అవకాశం ఉన్న డేటాతో సహా యాప్ సేవ్ చేసిన (డెవలపర్ సెట్టింగ్‌ల ఆధారంగా) ఎలాంటి డేటా అయినా యాప్ డేటాగా పరిగణించబడుతుంది.\n\nబ్యాకప్ డేటా మీ Drive స్టోరేజీ కోటాలో లెక్కించబడదు. పెద్ద ఫైళ్లు, లేదా డెవలపర్‌లు ఈ సర్వీస్ నుండి మినహాయించాలని ఎంచుకున్న ఫైళ్లు బ్యాకప్ చేయబడవు.</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">Assistant, ఇటీవలి యాప్‌లు, ఆటోమేటిక్‌ యాప్‌లు</string>
+    <string name="keywords_gesture">సంజ్ఞ, త్వరిత సంజ్ఞలు</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">వాల్యూమ్ &amp; స్పర్శ ప్రతిస్పందన టెక్నాలజీ (హ్యాప్టిక్స్)</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">స్పేషియల్ ఆడియో</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">ఫైల్ బదిలీ / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">డార్క్ థీమ్, ఫాంట్ సైజ్, టచ్</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">స్మార్ట్ స్టోరేజ్</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">స్టోరేజ్ దాదాపుగా నిండినప్పుడు, బ్యాకప్ చేసిన ఫోటోలు, వీడియోలను తీసివేస్తుంది. అయినప్పటికీ, మీరు వాటిని Google Photosలో పొందవచ్చు</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">బ్యాకప్ చేసిన ఫోటోలు &amp; వీడియోలను తీసివేయండి</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">స్మార్ట్ స్టోరేజ్</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">స్మార్ట్ స్టోరేజ్‌ను ఉపయోగించండి</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">Pixel కెమెరాలో సెల్ఫీ మోడ్‌లోకి మారడానికి, అలాగే దాని నుండి ఎగ్జిట్ అవ్వడానికి, మీరు యాప్‌లో ఉన్నప్పుడు డబుల్ ట్విస్ట్ చేయండి.</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">మీరు కనెక్ట్ అయ్యి ఉన్నప్పుడు, ఫోటోలు, వీడియోలను ఇప్పటికీ మీరు బ్యాకప్ చేయడానికి ఎంచుకున్న క్వాలిటీలో యాక్సెస్ చేయవచ్చు</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">స్మార్ట్ స్టోరేజ్‌ను ఆఫ్ చేయాలా? \n\nస్మార్ట్ స్టోరేజ్‌ మీ స్టోరేజ్‌ దాదాపుగా నిండిన సమయంలో స్థలాన్ని ఖాళీ చేయదు.</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Google ఖాతా</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">యాప్ డేటాను ఉపయోగించి వ్యక్తిగతీకరించండి</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">రియ‌ల్‌-టైమ్‌ టెక్స్ట్ (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">కనిపించదు</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">కాల్ సమయంలో కనిపిస్తుంది</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">ఎల్లప్పుడూ కనిపిస్తుంది</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">స్కానింగ్, మీ డివైజ్‌లో ప్రైవేట్‌గా జరుగుతుంది. ఫిషింగ్‌తో పాటు ఇతర మోసపూరిత వ్యవహారం ఏమైనా జరుగుతోందా అన్నది తెలుసుకునేందుకు ఈ స్కానింగ్, \"యాప్ యాక్టివిటీ\"ని చెక్ చేస్తుంది. ఫిషింగ్ జరుగుతున్నట్లు తేలితే, కొంత యాప్ సమాచారం Google Play Protectకు వెళుతుంది. తద్వారా ప్రమాదాన్ని నిర్ధారించుకుని, యాప్ యూజర్లను అప్రమత్తం చేయడానికి వీలవుతుంది.</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">ఇది మీ రక్షణ కోసం ఉద్దేశించిన ఒక సెక్యూరిటీ ఫీచర్. డివైజ్ సమాచారం, లేదా వ్యక్తిగత సమాచారం ఏదీ Googleకు పంపబడదు. \n\nసైన్-ఇన్ క్రెడెన్షియల్స్‌ను (ఆధారాలను), లేదా ఇతర వ్యక్తిగత సమాచారాన్ని దొంగిలించడానికి చేసే ఒక ప్రయత్నాన్ని ఫిషింగ్ అని అంటారు.</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">మౌస్ కర్సర్ ఉంచినప్పుడు పాయింటర్‌ను చూపడానికి యాప్‌లను అనుమతించండి</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">ఐడెంటిటీ చెక్ &amp; Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">కనెక్ట్ అయిన Pixel Watchతో, ఐడెంటిటీ చెక్ యాప్‌లకు అవాంఛిత యాక్సెస్ లేకుండా చేయడానికి, ఇది మీరేనని వెరిఫై చేయడం కోసం మరిన్ని మార్గాలను జోడిస్తుంది</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">ఐడెంటిటీ చెక్, Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">అప్‌డేట్‌లు: &lt;ul&gt;&lt;li&gt;Pixel Watch 3 లేదా ఆ తర్వాత వచ్చిన మోడల్‌ను కనెక్ట్ చేయడం ద్వారా, మీరు నమ్మదగిన ప్రదేశంలో లేనప్పుడు, యాప్‌లను యాక్సెస్ చేయడానికి బయోమెట్రిక్ డేటాను లేదా మీ PINను ఉపయోగించవచ్చు. &lt;/li&gt;&lt;li&gt;కాలక్రమేణా, ఐడెంటిటీ చెక్ ఫీచర్, ఇది మీరేనని వెరిఫై చేయడానికి, అలాగే మీ డివైజ్‌లోని యాప్‌లను సురక్షితంగా ఉంచడానికి మరిన్ని మార్గాలను జోడించవచ్చు. &lt;a href=https://support.google.com/android?p=identity_check&gt;మీరు ఎప్పుడు, ఎక్కడ సురక్షితంగా ఉంటారు అనే దాని గురించి మరింత తెలుసుకోండి&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">ఐడెంటిటీ చెక్, మీ Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">కనెక్ట్ అయిన Pixel Watchతో, ఐడెంటిటీ చెక్ యాప్‌లకు అవాంఛిత యాక్సెస్ లేకుండా చేయడానికి, ఇది మీరేనని వెరిఫై చేయడం కోసం మరిన్ని మార్గాలను జోడిస్తుంది</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">Play Protect స్కానింగ్ ఆన్‌లో ఉంది</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">Play Protect మీ యాప్‌లను, డివైజ్‌ను క్రమం తప్పకుండా చెక్ చేసి, హానికర ప్రవర్తనను గుర్తిస్తుంది. ఏవైైనా సెక్యూరిటీ సమస్యలను గుర్తిస్తే అవి మీకు తెలియజేయడం జరుగుతుంది.</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">యాప్ సెక్యూరిటీ, Play Protect, Google Play Protect, యాప్ భద్రత</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">Google ఖాతా సురక్షితంగా ఉంది</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Google సెక్యూరిటీ చెకప్, Google సెక్యూరిటీ, సెక్యూరిటీ చెకప్, ఖాతా సెక్యూరిటీ Google ఖాతా సెక్యూరిటీ, Google ఖాతా</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">Find hub, డివైజ్‌లను కనుగొనడం, Find my device, పోగొట్టుకున్న డివైజ్</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">అప్‌డేట్‌లు, అప్‌డేట్, సిస్టమ్ అప్‌డేట్, సిస్టమ్ అప్‌డేట్‌లు, Google Play సిస్టమ్ అప్‌డేట్, Play సిస్టమ్ అప్‌డేట్</string>
+</resources>

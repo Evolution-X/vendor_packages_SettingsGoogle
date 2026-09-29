@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="battery_good_color_light">#1e8e3e</color>
+    <color name="battery_bad_color_light">#d93025</color>
     <color name="icon_launcher_setting_color">@android:color/white</color>
 </resources>

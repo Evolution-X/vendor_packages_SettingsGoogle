@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">‏לדוגמה, ה-Pixel של יוסי.</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">‏צריך להיכנס לחשבון Google כדי להשתמש במרחב הפרטי</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">‏הצגה או שינוי של מינוי OpenRoaming</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">העיצוב הכהה משתמש ברקע שחור כדי להאריך את חיי הסוללה. הפעלת העיצוב הכהה תתחיל לאחר כיבוי המסך והפעלתו מחדש.</string>
+    <string name="dark_ui_text_force_invert">שימוש ברקע כהה מצמצם את צריכת הסוללה ומקל על הצפייה במסך. אם הגדרת לוח זמנים, העיצוב ישתנה אחרי שהמסך יכבה.</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">צבעים, סמלים בעיצוב עקבי, תצוגת האפליקציות</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">מצב רכזת</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">אפשרויות לעגינה ולמסך הנעילה</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">‏הפעלת Gemini</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">‏פנייה לתמיכה של Google באנשים עם מוגבלויות</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">‏יכול להיות שעוצמת הקול תוגבר כדי לשפר את התאימות עם צימוד אינדוקטיבי (telecoil) ולהפחית רעשים לא רצויים</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">ראייה, שמיעה, עיוור, לקוי ראייה, עיוורון, חירש, לקוי שמיעה, חירשות, מוטורי, לקות מוטורית, ניידות, מוטוריקה עדינה, מסייע, סיוע, קלות השימוש, נגישות, גישה קלה, יד, עזרה</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">‏קורא מסך, הקראה, VoiceOver, סיוע קולי, עיוור, לקוי ראייה, TTS, המרת טקסט לדיבור, קורא מסך קולי</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">‏כתוביות, כתוביות מיידיות, כבד שמיעה, אובדן שמיעה, CART, המרת דיבור לטקסט (STT), כתובית</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">התראות, כבד שמיעה, אובדן שמיעה, להודיע</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">‏PSAP, להגביר, הגברת קול, כבד שמיעה, אובדן שמיעה, הגברה</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">שמיעת טקסט, הקראה בקול, הקראת תוכן מסך, קורא מסך, דיסלקציה, הקראה</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">‏מוטורי, לקות מוטורית, ניידות, תפריט מהיר, תפריט מסייע, מגע, נגיעה, מוטוריקה עדינה, דלקת מפרקים, מדד העוצמה היחסית (RSI), שבץ מוחי, רעד, טרשת נפוצה, שיתוק מוחין, כפתור, כפתור, חומרה, לחיצה, פציעה בעקבות עומס חוזר ונשנה, יד, כאב, נגיש, נגישות, עזרה</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">‏מוטורי, מתג, יד, AT, טכנולוגיה מסייעת, שיתוק, ALS, סריקה, סריקה בשלבים</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">קול, שליטה באמצעות הקול, מוטורי, יד, מיקרופון, הכתבה, דיבור, שליטה</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">הפעלת אופטימיזציה של ניצול הסוללה</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">העדפות סוללה</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">כדי להאריך את חיי הסוללה, התכונה \'אופטימיזציה של ניצול הסוללה\' עשויה להפחית את רמת הביצועים ואת הפעילות ברקע. ייתכן שיהיה עיכוב בקבלת התראות מסוימות.</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">הארכת חיי הסוללה וביצוע אופטימיזציה של הטעינה</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">הארכת חיי הסוללה</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">מידע נוסף</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">‏האם להפסיק לגבות את נתוני המכשיר (כמו סיסמאות לרשתות Wi-Fi והיסטוריית שיחות) ונתוני אפליקציות (כמו הגדרות וקבצים המאוחסנים על ידי אפליקציות) ולמחוק את כל העותקים השמורים ב-Google Drive?</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">‏שימוש ב-Google Drive כדי לגבות אוטומטית את נתוני המכשיר (כמו ססמאות לרשתות Wi-Fi והיסטוריית שיחות) ונתוני אפליקציות (כמו הגדרות וקבצים המאוחסנים על ידי אפליקציות).\n\nכשהגיבוי האוטומטי פועל, נתוני המכשיר והאפליקציות נשמרים מדי פעם בתיקייה פרטית ב-Google Drive. נתוני אפליקציות יכולים להיות כל מה שהאפליקציה שמרה (בהתבסס על הגדרות המפתח), כולל נתונים שעשויים להיות רגישים, כמו אנשי קשר, הודעות ותמונות.\n\nנתונים בגיבוי לא ייחשבו כחלק ממכסת האחסון ב-Drive. לא יתבצע גיבוי של קבצים גדולים או של קבצים שהמפתחים בחרו שלא לכלול בשירות.</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">‏Assistant, אפליקציות אחרונות, אפליקציות ברירת מחדל</string>
+    <string name="keywords_gesture">‏תנועה, תנועות, gesture‏, moves</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">עוצמת הקול ומשוב פיזי</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">אודיו מרחבי</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">‏העברת קבצים / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">עיצוב כהה, גודל גופן, מגע</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">ניהול אחסון חכם</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">‏כשהאחסון כמעט מלא, כדאי להסיר תמונות וסרטונים שגובו. עדיין ניתן יהיה למצוא אותם ב-Google Photos.</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">הסרת תמונות וסרטונים שגובו</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">ניהול אחסון חכם</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">שימוש ב\'ניהול אחסון חכם\'</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">‏כדי להיכנס למצב סלפי של המצלמה או לצאת ממנו, פותחים את האפליקציה של מצלמת Pixel והופכים את המכשיר פעמיים מצד לצד (תנועת double-twist).</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">אם יש חיבור לאינטרנט, עדיין אפשר לגשת לתמונות ולסרטונים באיכות שבחרת לגיבוי</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">האם להשבית את התכונה \'ניהול אחסון חכם\'? \n\nהשבתת התכונה לא תפנה מקום כאשר שטח האחסון שלך יהיה כמעט מלא.</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">‏חשבון Google</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">התאמה אישית באמצעות נתונים מאפליקציות</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">‏טקסט בזמן אמת (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">לא מוצג</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">מוצג במהלך שיחה</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">מוצג תמיד</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">‏הסריקה פועלת באופן פרטי ישירות במכשיר ובודקת את הפעילות באפליקציות כדי לאתר פישינג או התנהגות מטעה אחרת. אם זוהתה התנהגות כזו, חלק מהמידע של האפליקציה נשלח אל Google Play Protect כדי לאשר שנמצא איום ולהזהיר את משתמשי האפליקציה.</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">‏זהו אמצעי אבטחה מוגן. פרטי המכשיר או הפרטים האישיים אף פעם לא משותפים עם Google. \n\nפישינג הוא ניסיון לגנוב פרטי כניסה או פרטים אישיים אחרים.</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">אפליקציות יכולות להציג את המצביע כשעוברים מעל עם הסטיילוס</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">‏בדיקת הזהות ו-Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">‏כש-Pixel Watch מחובר, התכונה \"בדיקת הזהות\" מוסיפה עוד דרכים לאימות הזהות שלך כדי למנוע גישה לא רצויה לאפליקציות</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">‏בדיקת הזהות ו-Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">‏עדכונים: &lt;ul&gt;&lt;li&gt;כשמחברים Pixel Watch 3 ואילך ונמצאים במקום לא בטוח, אפשר להשתמש בנתונים ביומטריים או בקוד סודי כדי לגשת לאפליקציות. &lt;/li&gt;&lt;li&gt;עם הזמן יתווספו לבדיקה עוד דרכים לאמת את הזהות שלך ולהגן על האפליקציות במכשיר. ‫&lt;a href=https://support.google.com/android?p=identity_check&gt;איפה ומתי יש לך הגנה&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">‏בדיקת הזהות ו-Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">‏כש-Pixel Watch מחובר, התכונה \"בדיקת הזהות\" מוסיפה עוד דרכים לאימות הזהות שלך כדי למנוע גישה לא רצויה לאפליקציות</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">‏הסריקה של Play Protect מופעלת</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">‏שירות Play Protect מחפש כל הזמן התנהגות חשודה באפליקציות ובמכשיר שלך ומעדכן אותך על סיכוני אבטחה שמתגלים.</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">‏אבטחת אפליקציות, Play Protect, ‏Google Play Protect, בטיחות אפליקציות</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">‏החשבון ב-Google מוגן</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">‏בדיקת האבטחה של Google, אבטחה ב-Google, בדיקת אבטחה, אבטחת החשבון, אבטחת חשבון Google, חשבון Google</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">מרכז המכשירים שלי, איך למצוא מכשירים, חיפוש מכשיר, איפה המכשיר שלי, מכשיר שאבד</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">‏עדכונים, עדכון, עדכון מערכת, עדכוני מערכת, עדכון מערכת של Google Play, עדכון מערכת של Play</string>
+</resources>

@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">E.g., Joe’s Pixel.</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">Sign in to a Google Account to use with your private space</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">View or change OpenRoaming subscription</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">Dark theme uses a black background to help keep your battery alive longer. Dark theme schedules wait to turn on until your screen is off.</string>
+    <string name="dark_ui_text_force_invert">Use a dark background to reduce battery usage and make your screen more comfortable to view. Your theme will change if you have a schedule, when the screen is off.</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">Colors, themed icons, app grid</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">Hub mode</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">Dock and lock screen options</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">Launch Gemini</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">Contact Google Disability Support</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">May increase audio volume to improve compatibility with telecoils and reduce unwanted noise</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">vision, hearing, blind, deaf, motor, dexterity, assistive, assistance, ease of use, ease of access, hand, help</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">Screen reader, Voice Over, VoiceOver, Voice Assistance, Blind, Low Vision, TTS, text to speech, spoken feedback</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">Captions, closed captions, CC, Live Caption, hard of hearing, hearing loss, CART, speech to text, subtitle</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">Notifications, hard of hearing, hearing loss, notify</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">PSAP, amplify, sound amplification, hard of hearing, hearing loss, amplification</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">Hear text, read aloud, speak screen, screen reader, dyslexia, select to speak</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">motor, quick menu, assistive menu, touch, dexterity, arthritis, rsi, stroke, tremor, multiple sclerosis, cerebral palsy, button, hardware, press, repetitive strain injury, hand, pain, accessible, help</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">motor, switch, hand, AT, assistive technology, paralysis, ALS, scanning, step scanning</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">voice, voice control, motor, hand, mic, microphone, dictation, talk, control</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">Turn on Adaptive Battery</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">Adaptive preferences</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">To extend battery life, Adaptive Battery may reduce performance and background activity. Some notifications may be delayed.</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">Extend battery life and optimize charging</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">Extend battery life</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">Learn more</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">Stop backing up device data (such as Wi-Fi passwords and call history) and app data (such as settings and files stored by apps), plus erase all copies on Google Drive?</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">Automatically back up device data (such as Wi-Fi passwords and call history) and app data (such as settings and files stored by apps) to Google Drive.\n\nWhen you turn on automatic backup, device and app data is periodically saved to a private folder in Google Drive. App data can be any data that an app has saved (based on developer settings), including potentially sensitive data such as contacts, messages, and photos.\n\nBackup data will not count towards your Drive storage quota. Large files, or files developers have chosen to exclude from the service will not be backed up.</string>
+
+    <!-- Help URI, Default [DO NOT TRANSLATE] -->
+    <string name="help_uri_default" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;end</string>
+
+    <!-- Help URI, Android beam [DO NOT TRANSLATE] -->
+    <string name="help_uri_beam" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_beam;end</string>
+
+    <!-- Help URI, Display [DO NOT TRANSLATE] -->
+    <string name="help_uri_display" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_display;end</string>
+
+    <!-- Help URI, Wallpaper [DO NOT TRANSLATE] -->
+    <string name="help_uri_wallpaper" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_wallpaper;end</string>
+
+    <!-- Help URI, Interruptions [DO NOT TRANSLATE] -->
+    <string name="help_uri_interruptions" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_zen;end</string>
+
+    <!-- Help URI, Other sounds [DO NOT TRANSLATE] -->
+    <string name="help_uri_other_sounds" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_touch;end</string>
+
+    <!-- Help URI, Notifications [DO NOT TRANSLATE] -->
+    <string name="help_uri_notifications" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_notification;end</string>
+
+    <!-- Help URI, Apps [DO NOT TRANSLATE] -->
+    <string name="help_uri_apps" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_apps;end</string>
+
+    <!-- Help URI, manage apps storage [DO NOT TRANSLATE] -->
+    <string name="help_uri_apps_storage" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_apps_storage;end</string>
+
+    <!-- Help URI, manage apps power [DO NOT TRANSLATE] -->
+    <string name="help_uri_apps_high_power" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_apps_high_power;end</string>
+
+    <!-- Help URI, manage apps overlay [DO NOT TRANSLATE] -->
+    <string name="help_uri_apps_overlay" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_apps_overlay;end</string>
+
+    <!-- Help URI, manage apps write settings [DO NOT TRANSLATE] -->
+    <string name="help_uri_apps_write_settings" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_apps_write_settings;end</string>
+
+    <!-- Help URI, manage apps manage sources [DO NOT TRANSLATE] -->
+    <string name="help_uri_apps_manage_sources" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_apps_manage_sources;end</string>
+
+    <!-- Help URI, manage apps games [DO NOT TRANSLATE] -->
+    <string name="help_uri_apps_games" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_apps_games;end</string>
+
+    <!-- Help URI, manage apps wifi access [DO NOT TRANSLATE] -->
+    <string name="help_uri_apps_wifi_access" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_apps_wifi_access;end</string>
+
+    <!-- Help URI, Storage [DO NOT TRANSLATE] -->
+    <string name="help_uri_storage" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_storage;end</string>
+
+    <!-- Help URI, Accessibility [DO NOT TRANSLATE] -->
+    <string name="help_uri_accessibility" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_accessibility;end</string>
+
+    <!-- Help URI, Vibration [DO NOT TRANSLATE] -->
+    <string name="help_uri_accessibility_vibration" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_accessibility_vibration;end</string>
+
+    <!-- Help URI, Printing [DO NOT TRANSLATE] -->
+    <string name="help_uri_printing" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_print;end</string>
+
+    <!-- Help URI, About phone [DO NOT TRANSLATE] -->
+    <string name="help_uri_about" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_about;end</string>
+
+    <!-- Help URL, WiFi [DO NOT TRANSLATE] -->
+    <string name="help_url_wifi" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_wi_fi;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_wifi;end</string>
+
+    <!-- Help URL, WiFi Direct [DO NOT TRANSLATE] -->
+    <string name="help_url_wifi_p2p" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_wi_fi_p2p;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_wifi_p2p;end</string>
+
+    <!-- Help URL, Bluetooth [DO NOT TRANSLATE] -->
+    <string name="help_url_bluetooth" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_bluetooth;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_bluetooth;end</string>
+
+    <!-- Help URL, Data usage [DO NOT TRANSLATE] -->
+    <string name="help_url_data_usage" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_data;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_data;end</string>
+
+    <!-- Help URL, Data Saver [DO NOT TRANSLATE] -->
+    <string name="help_url_data_saver" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_datasaver;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_datasaver;end</string>
+
+    <!-- Help URL, Unrestricted data access [DO NOT TRANSLATE] -->
+    <string name="help_url_unrestricted_data_access" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_unrestricted_data_access;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_unrestricted_data_access;end</string>
+
+    <!-- Help URL, More [DO NOT TRANSLATE] -->
+    <string name="help_url_more_networks" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_more;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_wireless;end</string>
+
+    <!-- Help URL, Vpn [DO NOT TRANSLATE] -->
+    <string name="help_url_vpn" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_vpn;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_vpn;end</string>
+
+    <!-- Help URL, Sound [DO NOT TRANSLATE] -->
+    <string name="help_url_sound" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_sound;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_sound;end</string>
+
+    <!-- Help URL, Battery [DO NOT TRANSLATE] -->
+    <string name="help_url_battery" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_battery;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_battery;end</string>
+
+    <!-- Help URL, Battery Defender [DO NOT TRANSLATE] -->
+    <string name="help_url_battery_defender" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_batterydefender;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fpixelphone%2Fanswer%2F3333708;end</string>
+
+    <!-- Help URL, Dock Defender [DO NOT TRANSLATE] -->
+    <string name="help_url_dock_defender" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_dockdefender;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fgooglepixeltablet%2F%3Fp%3Dextend_battery_life;end</string>
+
+    <!-- Help URL, Incompatible charging [DO NOT TRANSLATE] -->
+    <string name="help_url_incompatible_charging" translatable="false">https://support.google.com/pixelphone?p=pixel_power_issues</string>
+
+    <!-- Help URL, Wireless charging [DO NOT TRANSLATE] -->
+    <string name="help_url_wireless_charging" translatable="false">https://support.google.com/pixelphone?p=eu_ecodesign_charging</string>
+
+    <!-- Help URL, Accounts [DO NOT TRANSLATE] -->
+    <string name="help_url_accounts" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_account;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_accounts;end</string>
+
+    <!-- Help URL, Choose lockscreen [DO NOT TRANSLATE] -->
+    <string name="help_url_choose_lockscreen" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_lock;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_screenlock;end</string>
+
+    <!-- Help URL, Backup & reset [DO NOT TRANSLATE] -->
+    <string name="help_url_backup_reset" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_backup;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_backup;end</string>
+
+    <!-- Help URL, Tethering [DO NOT TRANSLATE] -->
+    <string name="help_url_tether" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_tether;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_tether;end</string>
+
+    <!-- Help URL, Dreams [DO NOT TRANSLATE] -->
+    <string name="help_url_dreams" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_daydream;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_dreams;end</string>
+
+    <!-- Help URL, User settings [DO NOT TRANSLATE] -->
+    <string name="help_url_users" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_users;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_users;end</string>
+
+    <!-- Help URL, Location access [DO NOT TRANSLATE] -->
+    <string name="help_url_location_access" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_location;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_location;end</string>
+
+    <!-- Help URL, Security settings [DO NOT TRANSLATE] -->
+    <string name="help_url_security" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_security;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_security;end</string>
+
+    <!-- Help URL, Encryption settings [DO NOT TRANSLATE] -->
+    <string name="help_url_encryption" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_encryption_credentials;end</string>
+
+    <!-- Help URL, Tap & pay [DO NOT TRANSLATE] -->
+    <string name="help_url_nfc_payment" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_tap_pay;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_nfcpayment;end</string>
+
+    <!-- Help URL, Remote display [DO NOT TRANSLATE] -->
+    <string name="help_url_remote_display" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_cast;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_remote_display;end</string>
+
+    <!-- Help URL, Gesture settings -->
+    <string name="help_url_gestures" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_gestures;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_gestures;end</string>
+
+    <!-- Help URL, Manage Storage [DO NOT TRANSLATE]-->
+    <string name="help_url_manage_storage" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_manage_storage;end</string>
+
+    <!-- Help URL, Android is upgrading [DO NOT TRANSLATE] -->
+    <string name="help_url_upgrading" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_upgrading;end</string>
+
+    <!-- Help URL, Auto brightness [DO NOT TRANSLATE] -->
+    <string name="help_url_auto_brightness" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_auto_brightness;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fmobile%2F%3Fp%3Dsettings_auto_brightness;end</string>
+
+    <!-- Help URL, Adaptive sleep [DO NOT TRANSLATE] -->
+    <string name="help_url_adaptive_sleep" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_adaptive_sleep;end</string>
+
+    <!-- Help URL, Previously connected bluetooth devices [DO NOT TRANSLATE] -->
+    <string name="help_url_previously_connected_devices" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_previously_connected_devices;end</string>
+    <string name="help_url_network_dashboard" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_network_dashboard;end</string>
+    <string name="help_url_connected_devices" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_connected_devices;end</string>
+    <string name="help_url_apps_and_notifications" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_apps_and_notifications;end</string>
+    <string name="help_url_night_display" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_night_display;end</string>
+    <string name="help_url_dark_theme" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_dark_theme;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fpixelphone%3Fp%3Dandroid_dark_theme;end</string>
+
+    <!-- Help URL, Expanded Dark Theme [DO NOT TRANSLATE] -->
+    <string name="help_url_dark_theme_link" translatable="false">https://support.google.com/accessibility/android/answer/6151800</string>
+    <string name="help_url_screen_saver" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_screen_saver;end</string>
+    <string name="help_url_pickup_gesture" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_pickup_gesture;end</string>
+    <string name="help_url_storage_dashboard" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_storage_dashboard;end</string>
+    <string name="help_url_lockscreen" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_lockscreen_dashboard;end</string>
+    <string name="help_url_trust_agent" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_trust_agent;end</string>
+    <string name="help_url_usage_access" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_usage_access;end</string>
+    <string name="help_url_screen_pinning" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_screen_pinning;end</string>
+    <string name="help_url_user_and_account_dashboard" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_user_and_account_dashboard;end</string>
+    <string name="help_url_accessibility_shortcut" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_accessibility_shortcut;end</string>
+    <string name="help_url_magnification" translatable="false">https://support.google.com/talkback/answer/6006949</string>
+    <string name="help_url_color_correction" translatable="false">https://support.google.com/talkback/answer/6151850</string>
+    <string name="help_url_autoclick" translatable="false">https://support.google.com/accessibility/android/answer/7071579</string>
+
+    <!-- Help URL, Accessibility caption preferences [DO NOT TRANSLATE] -->
+    <string name="help_url_caption" translatable="false">https://support.google.com/accessibility/android/answer/6006554</string>
+
+    <!-- Help URL, Accessibility Timeout [DO NOT TRANSLATE] -->
+    <string name="help_url_timeout" translatable="false">https://support.google.com/accessibility/android/answer/9426889</string>
+
+    <!-- Help URL, Accessibility Color Inversion [DO NOT TRANSLATE] -->
+    <string name="help_url_color_inversion" translatable="false">https://support.google.com/accessibility/android/answer/6151800</string>
+    <string name="help_url_system_dashboard" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_system_dashboard;end</string>
+    <string name="help_url_double_tap_screen" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_double_tap_screen;end</string>
+    <string name="help_url_account_detail" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_account_detail;end</string>
+    <string name="help_url_icc_lock" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_icc_lock;end</string>
+    <string name="help_uri_process_stats_summary" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_process_stats_summary;end</string>
+    <string name="help_uri_process_stats_apps" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_process_stats_apps;end</string>
+    <string name="help_uri_private_dns" translatable="false">https://support.google.com/pixelphone/answer/2819583</string>
+    <string name="help_uri_about_phone_v2" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_about_device;end</string>
+    <string name="help_uri_wifi_calling" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=wifi_calling_settings;end</string>
+
+    <!-- url for the wifi scanning required dialog help page -->
+    <string name="help_uri_wifi_scanning_required" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=wifi_scanning_required;end</string>
+
+    <!-- url for the SIM combination warning required dialog help page -->
+    <string name="help_uri_sim_combination_warning" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=android_sim_combination_warning;S.EXTRA_BACKUP_URI=https%3A%2F%2Fsupport.google.com%2Fpixelphone%2F%3Fp%3Dsim_combination_flag;end</string>
+
+    <!-- url for battery page if battery is not present -->
+    <string name="help_url_battery_missing" translatable="false">https://support.google.com/pixelphone/?p=p4xl_battery</string>
+
+    <!-- url for vpn page if connected vpn is not a secure type -->
+    <string name="help_url_insecure_vpn" translatable="false">https://support.google.com/android/answer/9089766</string>
+
+    <!-- url for learning more about IT admin policy disabling -->
+    <string name="help_url_action_disabled_by_it_admin" translatable="false">https://support.google.com/work/android?p=work_device_help</string>
+
+    <!-- Url for Accessibility Disability Support [DO NOT TRANSLATE] -->
+    <string name="help_url_accessibility_disability_support" translatable="false">https://support.google.com/accessibility?p=android-A11Y_setting</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">Assistant, recent apps, default apps</string>
+    <string name="keywords_gesture">gesture, moves</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">Volume and haptics</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">Spatial audio</string>
+
+    <!-- Full package name of OEM preferred device feedback reporter [DO NOT TRANSLATE] -->
+    <string name="oem_preferred_feedback_reporter" translatable="false">com.google.android.gms</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">File transfer / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">Dark theme, font size, touch</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">Smart Storage</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">When storage is almost full, remove backed up photos and videos. You can still find them in Google Photos.</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">Remove backed up photos &amp; videos</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">Smart Storage</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">Use Smart Storage</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">To switch in and out of selfie mode in Pixel Camera, double-twist when you’re in the app.</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">When you\'re connected, you can still access photos and videos at the quality you selected for backup</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">Turn off Smart Storage? \n\nSmart Storage won\'t free up space when your storage is almost full.</string>
+
+    <!-- Help URI, USB Audio [DO NOT TRANSLATE] -->
+    <string name="help_url_audio_accessory_not_supported" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=help_url_audio_accessory_not_supported;end</string>
+
+    <!-- Help URI, USB Contaminant [DO NOT TRANSLATE] -->
+    <string name="help_url_usb_contaminant_detected" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=usb_contaminant_detected;end</string>
+
+    <!-- Help URI, restricted apps page [DO NOT TRANSLATE] -->
+    <string name="help_uri_restricted_apps" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=restricted_apps;end</string>
+
+    <!-- Help URI, auto rotate page [DO NOT TRANSLATE] -->
+    <string name="help_url_auto_rotate_settings" translatable="false">https://support.google.com/accessibility/android/answer/6006961</string>
+
+    <!-- Help URI, smart battery page [DO NOT TRANSLATE] -->
+    <string name="help_uri_smart_battery_settings" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=smart_battery_settings;end</string>
+
+    <!-- Help URI, prevent ringing gesture [DO NOT TRANSLATE] -->
+    <string name="help_uri_prevent_ringing_gesture" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=prevent_ringing_gesture;end</string>
+
+    <!-- Help URI, action disabled by restricted settings [DO NOT TRANSLATE] -->
+    <string name="help_url_action_disabled_by_restricted_settings" translatable="false">https://support.google.com/android/?p=restricted_settings</string>
+
+    <!-- Account type associated with the backup account. Empty for AOSP. [DO NOT TRANSLATE] -->
+    <string name="account_type" translatable="false">com.google</string>
+
+    <!-- Package to target for Account credential confirmation. This will allow users to
+         remind/rediscover their backup account password prior to a reset. Empty for AOSP.
+         [DO NOT TRANSLATE] -->
+    <string name="account_confirmation_package" translatable="false">com.google.android.gms</string>
+
+    <!-- Class to target for Account credential confirmation. This will allow users to
+         remind/rediscover their backup account password prior to a reset. Empty for AOSP.
+         [DO NOT TRANSLATE] -->
+    <string name="account_confirmation_class" translatable="false">com.google.android.gms.auth.uiflows.factoryreset.PreFactoryResetActivity</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Google Account</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">Personalize using app data</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">Real-time text (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">Not visible</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">Visible during call</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">Always visible</string>
+
+    <!-- Help URI, 5G limitation in DSDS condition. [DO NOT TRANSLATE] -->
+    <string name="help_uri_5g_dsds" translatable="false">intent:#Intent;action=com.google.android.gms.googlehelp.LAUNCH;S.EXTRA_CONTEXT=pixel_5G_and_DSDS;end</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">Scanning runs privately right on your device, checking app activity for phishing or other deceptive behavior. If it’s detected, some app info is sent to Google Play Protect to confirm the threat and warn app users.</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">This is a protected security feature. No device or personal info is shared with Google. \n\nPhishing is an attempt to steal sign-in credentials or other personal info.</string>
+
+    <!-- Authority of the content provider that support methods restartPhoneProcess and restartRild. Will be overlaid by OEM.-->
+    <string name="reset_telephony_stack_content_provider_authority" translatable="false">com.google.android.telephony</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">Allow apps to show pointer while hovering</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">Identity Check and Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">With a connected Pixel Watch, Identity Check adds more ways to verify it’s you to prevent unwanted access to apps</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">Identity Check and Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">Updates: &lt;ul&gt;&lt;li&gt;By connecting a Pixel Watch 3 or later, you can use either biometrics or your PIN to access apps when you’re not in a trusted place. &lt;/li&gt;&lt;li&gt;Over time, Identity Check may add more ways to verify it\'s you and secure apps on your device. &lt;a href=https://support.google.com/android?p=identity_check&gt;Learn more about when and where you’re protected&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">Identity Check and your Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">With a connected Pixel Watch, Identity Check adds more ways to verify it’s you to prevent unwanted access to apps</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">Play Protect scanning is on</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">Play Protect regularly checks your apps and device for harmful behavior. You’ll be notified of any security risks found.</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">App security, Play Protect, Google Play Protect, App safety</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">Google Account is protected</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Google security checkup, Google Security , Security checkup, Account security, Google account security, Google account</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">Find hub, Finding devices, Find my device, Lost device</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">Updates, Update, System update, System updates, Google play system update, Play system update</string>
+</resources>

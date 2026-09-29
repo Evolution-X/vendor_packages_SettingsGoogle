@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Por exemplo, Pixel de Brais.</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">Inicia sesión nunha Conta de Google para usala co teu espazo privado</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">Consulta ou cambia a subscrición a OpenRoaming</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">O tema escuro utiliza un fondo negro para axudar a que a batería dure máis. As planificacións deste tema actívanse cando a pantalla está desactivada.</string>
+    <string name="dark_ui_text_force_invert">Utiliza un fondo de pantalla escuro para que a visualización sexa máis cómoda e que se reduza o uso da batería. Se tes un horario programado, o tema cambiará cando a pantalla estea apagada.</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">Cores, temas das iconas, grade de aplicacións</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">Modo Hub</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">Opcións da base e da pantalla de bloqueo</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">Activar Gemini</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">Contactar co servizo de asistencia de Google para persoas con discapacidade</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">Pode que aumente o volume do audio para mellorar a compatibilidade coas telebobinas e reducir o ruído non desexado</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">visión, audición, cegueira, xordeira, motricidade, destreza, asistencial, asistencia, facilidade de uso, facilidade de acceso, man, axuda</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">Lector de pantalla, voz en off, asistencia por voz, persoas cegas, visión reducida, texto a voz, comentarios de voz</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">Subtítulos, subtítulos descritivos, Subtítulos instantáneos, problemas auditivos, perda de audición, subtitulado en tempo real, CART, conversión de voz a texto, subtítulo</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">Notificacións, problemas auditivos, perda de audición, notificar</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">Amplificadores de son persoais, amplificar, amplificación do son, problemas auditivos, perda de audición, amplificación</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">Escoitar texto, lectura en voz alta, escoitar contido da pantalla, lector de pantalla, dislexia, escoitar selección</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">motricidade, menú rápido, menú asistencial, toque, destreza, artrite, LER, derramo, tremor, esclerose múltiple, parálise cerebral, botón, hardware, premer, lesión por esforzo repetitivo, man, dor, accesibilidade, axuda</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">motor, cambiar, modo manual, tecnoloxía asistencial, parálise, ELA, exploración, exploración por pasos</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">voz, control por voz, motor, modo manual, micrófono, ditado, fala, control</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">Activa a batería intelixente</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">Preferencias de funcións intelixentes</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">Para aumentar a duración da batería, a función Batería intelixente pode reducir o rendemento e a actividade en segundo plano. Pódense atrasar algunhas notificacións.</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">Amplía a duración da batería e optimiza a carga</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">Aumenta a duración da batería</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">Máis información</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">Queres deixar de crear copias de seguranza dos datos do dispositivo (como os contrasinais das redes wifi e o historial de chamadas) e dos datos das aplicacións (como a configuración e os ficheiros almacenados polas aplicacións), e borrar todas as copias presentes en Google Drive?</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">Realiza unha copia de seguranza automática dos datos do teu dispositivo (como os contrasinais das redes wifi e o historial de chamadas) e dos datos das aplicacións (como a configuración e os ficheiros almacenados polas aplicacións) en Google Drive.\n\nCando activas a copia de seguranza automática, os datos das aplicacións e do dispositivo gárdanse periodicamente nun cartafol privado en Google Drive. Os datos das aplicacións poden ser calquera tipo de datos que gardase unha aplicación, baseándose na configuración do programador, e incluíndo datos potencialmente sensibles, como os contactos, as mensaxes e as fotos.\n\nOs datos da copia de seguranza non contarán na cota de almacenamento de Drive. Non se realizará unha copia de seguranza dos ficheiros grandes nin dos que decidiron excluír do servizo os programadores.</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">Asistente, aplicacións recentes, aplicacións predeterminadas</string>
+    <string name="keywords_gesture">xestos, movementos</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">Volume e tecnoloxía háptica</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">Audio espacial</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">Android Auto/Transferencia de ficheiros</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">Tema escuro, tamaño de letra, toque</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">Almacenamento intelixente</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">Cando o almacenamento está case cheo, quítanse as fotos e vídeos con copia de seguranza. Estas seguen estando dispoñibles en Google Fotos.</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">Quitar fotos/vídeos con copia de seguranza</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">Almacenamento intelixente</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">Usar almacenamento intelixente</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">Para activar e desactivar o modo autofoto na cámara do Pixel, xira o dispositivo dúas veces cando esteas utilizando a aplicación.</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">Cando te conectes, seguirás podendo acceder ás fotos e aos vídeos coa calidade que seleccionaches para a copia de seguranza</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">Queres desactivar o almacenamento intelixente? \n\nEsta función non liberará espazo cando o almacenamento estea case cheo.</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Conta de Google</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">Personalizar utilizando datos das aplicacións</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">Texto en tempo real (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">Non visible</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">Visible durante a chamada</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">Sempre visible</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">As análises execútanse de modo privado no teu dispositivo e nelas compróbase a actividade das aplicacións para detectar se hai phishing ou outros comportamentos enganosos. No caso de que se detecten, enviarase algunha información da aplicación en cuestión a Google Play Protect para confirmar a ameaza e avisar os usuarios.</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">Este é un recurso de seguranza protexido. Non se comparte con Google ningunha información persoal nin do dispositivo. \n\nO phishing é unha práctica que consiste en tentar roubar credenciais de inicio de sesión ou outra información persoal.</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">Permitir que as aplicacións mostren o punteiro ao pasar por enriba</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">Comprobación de identidade e Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">Se tes un Pixel Watch conectado, a función de comprobación de identidade engadirá máis métodos para verificar a túa identidade co fin de evitar accesos non desexados ás aplicacións</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">Comprobación de identidade e Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">Novidades: &lt;ul&gt;&lt;li&gt;Se conectas un Pixel Watch 3 ou unha versión posterior, poderás usar tanto os datos biométricos como o PIN para acceder ás aplicacións cando non esteas nun lugar de confianza. &lt;/li&gt;&lt;li&gt;Co tempo, a función de comprobación de identidade poderá engadir máis formas de verificar a túa identidade e protexer as aplicacións do teu dispositivo. &lt;a href=https://support.google.com/android?p=identity_check&gt;Máis información sobre cando e onde tes protección&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">Comprobación de identidade e o teu Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">Se tes un Pixel Watch conectado, a función de comprobación de identidade engadirá máis métodos para verificar a túa identidade co fin de evitar accesos non desexados ás aplicacións</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">A análise de Play Protect está activada</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">Play Protect comproba de forma habitual as túas aplicacións e o dispositivo en busca de comportamentos daniños. Recibirás unha notificación en caso de que se atopen riscos para a seguranza.</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">Seguranza das aplicacións, Play Protect, Google Play Protect</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">A Conta de Google está protexida</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Revisión de seguranza de Google, seguranza de Google, Revisión de seguranza, seguranza da conta, seguranza da conta de Google, conta de Google</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">Atopador, atopar dispositivos, Localizar o meu dispositivo, dispositivo perdido</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">Actualizacións, actualización, actualización do sistema, actualizacións do sistema, actualización do sistema de Google Play, actualización do sistema de Play</string>
+</resources>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">ഉദാ, ജോയുടെ Pixel.</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">നിങ്ങളുടെ സ്വകാര്യ സ്പേസിൽ ഉപയോഗിക്കാൻ ഒരു Google Account-ലേക്ക് സൈൻ ഇൻ ചെയ്യുക</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">OpenRoaming സബ്‌സ്‌ക്രിപ്‌ഷൻ കാണുകയോ മാറ്റുകയോ ചെയ്യുക</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">നിങ്ങളുടെ ബാറ്ററി കൂടുതൽ സമയം നിൽക്കാനായി \'ഡാർക്ക് തീം\' കറുപ്പ് പശ്ചാത്തലം ഉപയോഗിക്കുന്നു. സ്ക്രീൻ ഓഫാകുന്നത് വരെ ഡാർക്ക് തീം ഷെഡ്യൂളുകൾ ഓണാകാൻ കാത്തിരിക്കുന്നു.</string>
+    <string name="dark_ui_text_force_invert">നിങ്ങളുടെ സ്ക്രീൻ കാണുന്നത് കൂടുതൽ സൗകര്യപ്രദമാക്കുന്നതിനും ബാറ്ററി ഉപയോഗം കുറയ്ക്കുന്നതിനും ഇരുണ്ട പശ്ചാത്തലം ഉപയോഗിക്കുക. നിങ്ങൾക്കൊരു ഷെഡ്യൂൾ ഉണ്ടെങ്കിൽ, സ്ക്രീൻ ഓഫാകുന്ന സമയത്ത് നിങ്ങളുടെ തീം മാറും.</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">നിറങ്ങൾ, തീമുള്ള ഐക്കണുകൾ, ആപ്പ് ഗ്രിഡ്</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">ഹബ് മോഡ്</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">ഡോക്ക്, ലോക്ക്‌ സ്ക്രീൻ ഓപ്‌ഷനുകൾ</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">Gemini ലോഞ്ച് ചെയ്യുക</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">Google ഭിന്നശേഷി പിന്തുണയെ ബന്ധപ്പെടൂ</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">ടെലികോയിലുകളുമായുള്ള അനുയോജ്യത മെച്ചപ്പെടുത്തുന്നതിനും അനാവശ്യ ശബ്‌ദം കുറയ്ക്കുന്നതിനും ഓഡിയോ വോളിയം വർദ്ധിപ്പിച്ചേക്കാം</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">കാഴ്‌ച, കേൾവി, കാഴ്‌ചാ വൈകല്യം, കേൾവിക്കുറവ്, ചലനശേഷി, കഴിവ്, സഹായകരമായത്, സഹായം, ഉപയോഗിക്കാനുള്ള എളുപ്പം, ആക്‌സസ് ചെയ്യാനുള്ള എളുപ്പം, കൈ, സഹായം</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">സ്ക്രീൻ റീഡർ, വോയ്‌സ് ഓവർ, വോയ്‌സ് ഓവർ, ശബ്ദ സഹായം, കാഴ്ചാ വൈകല്യം, കുറഞ്ഞ കാഴ്ച, TTS, ടെക്‌സ്റ്റ് ടു സ്‌പീച്ച്, സംഭാഷണ ഫീഡ്‌ബാക്ക്</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">അടിക്കുറിപ്പുകൾ, സബ്‌ടൈറ്റിലുകൾ, CC, തത്സമയ ക്യാപ്ഷൻ, കേൾവിക്ക് തകരാർ, കേൾവിക്കുറവ്, CART, സ്‌പീച്ച് ടു ടെക്‌സ്‌റ്റ്, സബ്‌ടൈറ്റിൽ</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">അറിയിപ്പുകൾ, കേൾവിക്ക് തകരാർ, കേൾവിക്കുറവ്, അറിയിക്കുക</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">PSAP, ആംപ്ലിഫൈ, സൗണ്ട് ആംപ്ലിഫിക്കേഷൻ, കേൾവിക്ക് തകരാർ, കേൾവിക്കുറവ്, ആംപ്ലിഫിക്കേഷൻ</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">ടെക്‌സ്റ്റ് കേൾക്കുക, ഉറക്കെ വായിക്കുക, സ്പീക്ക് സ്ക്രീൻ, സ്‌ക്രീൻ റീഡർ, ഡിസ്‌ലെക്‌സിയ, വായിച്ചുകേൾക്കാൻ തിരഞ്ഞെടുക്കുക</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">ചലനശേഷി, ദ്രുത മെനു, സഹായകരമായ മെനു, സ്‌പർശനം, കഴിവ്, സന്ധിവാതം, rsi, പക്ഷാഘാതം, വിറയൽ, മൾട്ടിപ്പിൾ സ്‌ക്ലീറോസിസ്, സെറിബ്രൽ പാൾസി, ബട്ടൺ, ഹാർഡ്‌വെയർ, പ്രസ്സ്, ആവർത്തിച്ചുള്ള സ്‌ട്രെയിൻ പരുക്ക്, കൈ, വേദന, ആക്‌സസ് ചെയ്യാവുന്നത്, സഹായം</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">ചലനക്ഷമത, മാറുക, കൈ, AT, സഹായകരമായ സാങ്കേതികവിദ്യ, പക്ഷാഘാതം, ALS, സ്‌കാനിംഗ്, സ്റ്റെപ്പ് സ്കാനിംഗ്</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">ശബ്ദം, ശബ്‌ദ നിയന്ത്രണം, ചലനക്ഷമത, കൈ, മൈക്ക്, മൈക്രോഫോൺ, കേട്ടെഴുത്ത്, സംസാരം, നിയന്ത്രണം</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">അഡാപ്റ്റീവ് ബാറ്ററി ഓണാക്കുക</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">അഡാപ്റ്റീവ് മുൻഗണനകൾ</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">ബാറ്ററി ലെെഫ് വർദ്ധിപ്പിക്കുന്നതിന് അഡാപ്റ്റീവ് ബാറ്ററി, പ്രകടനവും പശ്ചാത്തല ആക്‌റ്റിവിറ്റിയും കുറച്ചേക്കാം. ചില അറിയിപ്പുകൾ വെെകിയേക്കാം.</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">ബാറ്ററി ലൈഫ് വർധിപ്പിക്കുക, ചാർജിംഗ് ഒപ്റ്റിമൈസ് ചെയ്യുക</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">ബാറ്ററി ലൈഫ് നീട്ടുക</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">കൂടുതലറിയുക</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">ഉപകരണ വിവരവും (വൈഫൈ പാസ്‌വേഡുകളും കോൾ ചരിത്രവും) ആപ്പ് വിവരവും (ആപ്പുകൾ സംഭരിച്ച ക്രമീകരണവും പോലുള്ളവ) ബാക്കപ്പുചെയ്യുന്നത് നിർത്തുകയും Google ഡ്രൈവിലെ എല്ലാ പകർപ്പുകളും മായ്‌ക്കുകയും ചെയ്യണോ?</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">ഉപകരണ വിവരങ്ങളും (വൈഫൈ പാസ്‌വേഡുകളും കോൾ ചരിത്രവും പോലുള്ളവ) ആപ്പ് വിവരങ്ങളും (ക്രമീകരണവും ആപ്പുകൾ സംഭരിച്ച ഫയലുകളും പോലുള്ളവ) Google Drive-ൽ സ്വയമേവ ബാക്കപ്പെടുക്കുന്നു.\n\nനിങ്ങൾ സ്വയമേയുള്ള ബാക്കപ്പ് ഓണാക്കുമ്പോൾ, Google Drive-ലെ ഒരു സ്വകാര്യ ഫോൾഡറിൽ ഉപകരണവും ആപ്പ് വിവരങ്ങളും നിശ്ചിത ഇടവേളകളിൽ സംരക്ഷിക്കും. ആപ്പ് വിവരങ്ങൾ എന്നത് കോൺടാക്റ്റുകൾ, സന്ദേശങ്ങൾ, ഫോട്ടോകൾ എന്നിവ പോലുള്ള രഹസ്യസ്വഭാവമുള്ളവ ഉൾപ്പെടെ ആപ്പ് സംരക്ഷിച്ചിട്ടുള്ള ഏതൊരു വിവരങ്ങളും (ഡെവലപ്പർ ക്രമീകരണം അടിസ്ഥാനമാക്കി) ആകാം.\n\nബാക്കപ്പ് വിവരങ്ങൾക്ക് നിങ്ങളുടെ Drive സ്റ്റോറേജ് ക്വാട്ടയിലെ ഇടം ഉപയോഗിക്കുകയില്ല. ബാക്കപ്പ് വിവരങ്ങൾക്കുള്ള ഇടവും നിങ്ങളുടെ Drive സ്റ്റോറേജ് ക്വാട്ടയും വെവ്വേറെയായിരിക്കും. വലിയ ഫയലുകളോ സേവനത്തിൽ ഉൾപ്പെടുത്തേണ്ടെന്ന് ഡെവലപ്പർമാർ തീരുമാനിച്ചിട്ടുള്ള ഫയലുകളോ ബാക്കപ്പ് ചെയ്യുകയില്ല.</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">Assistant, സമീപകാലത്തുള്ള ആപ്പുകൾ, ഡിഫോൾട്ട് ആപ്പുകൾ</string>
+    <string name="keywords_gesture">ജെസ്‌റ്ററുകളും ‌ചലനങ്ങളും</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">ശബ്ദവും ഹാപ്‌റ്റിക്‌സും</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">സ്പേഷ്യൽ ഓഡിയോ</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">ഫയൽ കൈമാറൽ / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">ഡാർക്ക് തീം, ഫോണ്ട് വലുപ്പം, ടച്ച്</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">സ്മാർട്ട് സ്റ്റോറേജ്</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">സ്റ്റോറേജ് ഏതാണ്ട് നിറയുമ്പോൾ, ബാക്കപ്പ് ചെയ്ത ഫോട്ടോകളും വീഡിയോകളും നീക്കം ചെയ്യുക. നിങ്ങൾക്കവ തുടർന്നും Google Photos-ൽ കാണാവുന്നതാണ്.</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">ബാക്കപ്പ് ചെയ്ത ഫോട്ടോകളും വീഡിയോകളും നീക്കം ചെയ്യുക</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">സ്മാർട്ട് സ്റ്റോറേജ്</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">സ്‌മാർട്ട് സ്‌റ്റോറേജ് ഉപയോഗിക്കുക</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">നിങ്ങൾ ആപ്പ് തുറന്നിരിക്കുമ്പോൾ, Pixel ക്യാമറയിൽ സെൽഫി മോഡിലേക്കും തിരിച്ചും മാറാൻ, രണ്ടുതവണ തിരിക്കുക.</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">നിങ്ങൾ കണക്റ്റ് ചെയ്തിരിക്കുമ്പോൾ, ബാക്കപ്പിനായി നിങ്ങൾ തിരഞ്ഞെടുത്ത ഗുണനിലവാരത്തിൽ ഫോട്ടോകളും വീഡിയോകളും ആക്‌സസ് ചെയ്യാവുന്നതാണ്.</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">സ്മാർട്ട് സ്റ്റോറേജ് ഓഫാക്കണോ?  \n\nനിങ്ങളുടെ സ്റ്റോറേജ് ഏതാണ്ട് നിറഞ്ഞിരിക്കുമ്പോൾ സ്മാർട്ട് സ്റ്റോറേജ് ഇടമൊന്നും സൃഷ്ടിച്ച് തരില്ല.</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Google Account</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">ആപ്പ് ഡാറ്റ ഉപയോഗിച്ച് വ്യക്തിപരമാക്കുക</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">തത്സമയ ടെക്‌സ്‌റ്റ് (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">ദൃശ്യമല്ല</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">കോൾ ചെയ്യുമ്പോൾ ദൃശ്യം</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">എപ്പോഴും ദൃശ്യം</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">നിങ്ങളുടെ ഉപകരണത്തിൽ സ്വകാര്യമായാണ് സ്‌കാൻ ചെയ്യൽ നടക്കുന്നത്, ഫിഷിംഗ് ആണോയെന്ന് അറിയാനും വഞ്ചനാപരമായ മറ്റ് സ്വഭാവങ്ങൾ കണ്ടെത്താനുമായി ആപ്പ് ആക്റ്റിവിറ്റി പരിശോധിക്കുന്നു. അവ കണ്ടെത്തുകയാണെങ്കിൽ, ഭീഷണി സ്ഥിരീകരിക്കാനും ആപ്പ് ഉപയോക്താക്കൾക്ക് മുന്നറിയിപ്പ് നൽകാനുമായി ചില ആപ്പ് വിവരങ്ങൾ Google Play Protect-ലേക്ക് അയയ്ക്കുന്നു.</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">ഇത് ഒരു പരിരക്ഷിത സുരക്ഷാ ഫീച്ചറാണ്. ഒരു തരത്തിലുള്ള ഉപകരണ വിവരങ്ങളോ വ്യക്തിപരമായ വിവരങ്ങളോ Google-മായി പങ്കിടുന്നില്ല. \n\nസൈൻ ഇൻ ക്രെഡൻഷ്യലുകളോ മറ്റ് വ്യക്തിപരമായ വിവരങ്ങളോ മോഷ്ടിക്കാനുള്ള ശ്രമമാണ് ഫിഷിംഗ്.</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">ഹോവർ ചെയ്യുമ്പോൾ പോയിന്റർ കാണിക്കാൻ ആപ്പുകളെ അനുവദിക്കുക</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">ഐഡന്റിറ്റി പരിശോധനയും Pixel Watch-ഉം</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">കണക്റ്റ് ചെയ്‌ത Pixel Watch ഉപയോഗിച്ച്, ആപ്പുകളിലേക്കുള്ള അനാവശ്യ ആക്‌സസ് തടയുന്നതിനായി ഇത് നിങ്ങളാണെന്ന് പരിശോധിച്ചുറപ്പിക്കാൻ ഐഡന്റിറ്റി പരിശോധന കൂടുതൽ വഴികൾ ചേർക്കുന്നു</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">ഐഡന്റിറ്റി പരിശോധനയും Pixel Watch-ഉം</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">അപ്‌ഡേറ്റുകൾ: &lt;ul&gt;&lt;li&gt;Pixel Watch 3 അല്ലെങ്കിൽ അതിന് ശേഷമുള്ള മോഡൽ കണക്റ്റ് ചെയ്യുന്നതിലൂടെ, നിങ്ങൾ ട്രസ്റ്റഡ് പ്ലേസിൽ അല്ലാത്തപ്പോൾ ആപ്പുകൾ ആക്‌സസ് ചെയ്യുന്നതിന് ബയോമെട്രിക്‌സ് അല്ലെങ്കിൽ പിൻ ഉപയോഗിക്കാം. &lt;/li&gt;&lt;li&gt;കാലക്രമേണ, ഇത് നിങ്ങളാണെന്ന് പരിശോധിച്ചുറപ്പിക്കുന്നതിനും നിങ്ങളുടെ ഉപകരണത്തിലെ ആപ്പുകൾ സുരക്ഷിതമാക്കുന്നതിനും ഐഡന്റിറ്റി പരിശോധന കൂടുതൽ മാർഗ്ഗങ്ങൾ ചേർത്തേക്കാം. &lt;a href=https://support.google.com/android?p=identity_check&gt;നിങ്ങൾക്ക് എപ്പോഴൊക്കെ എവിടെയൊക്കെ പരിരക്ഷ ലഭിക്കുമെന്നതിനെ കുറിച്ച് കൂടുതലറിയുക&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">ഐഡന്റിറ്റി പരിശോധനയും നിങ്ങളുടെ Pixel Watch-ഉം</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">കണക്റ്റ് ചെയ്‌ത Pixel Watch ഉപയോഗിച്ച്, ആപ്പുകളിലേക്കുള്ള അനാവശ്യ ആക്‌സസ് തടയുന്നതിനായി ഇത് നിങ്ങളാണെന്ന് പരിശോധിച്ചുറപ്പിക്കാൻ ഐഡന്റിറ്റി പരിശോധന കൂടുതൽ വഴികൾ ചേർക്കുന്നു</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">Play Protect സ്‌കാൻ ചെയ്യൽ ഓണാണ്</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">നിങ്ങളുടെ ആപ്പുകളിലും ഉപകരണങ്ങളിലും ദോഷകരമായ പ്രവർത്തനങ്ങളുണ്ടോ എന്നറിയാൻ Play Protect നിരന്തരം പരിശോധന നടത്തുന്നു. എന്ത് സുരക്ഷാ ഭീഷണി കണ്ടെത്തിയാലും നിങ്ങളെ അറിയിക്കും.</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">ആപ്പ് സുരക്ഷ, Play Protect, Google Play Protect, ആപ്പിന്റെ സുരക്ഷ</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">Google Account പരിരക്ഷിതമാണ്</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Google സുരക്ഷാ പരിശോധന, Google സുരക്ഷ, സുരക്ഷാ പരിശോധന, അക്കൗണ്ട് സുരക്ഷ, Google Account സുരക്ഷ, Google Account</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">Find hub, ഉപകരണങ്ങൾ കണ്ടെത്തൽ, Find my device, നഷ്ടപ്പെട്ട ഉപകരണം</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">അപ്‌ഡേറ്റുകൾ, അപ്‌ഡേറ്റ്, സിസ്റ്റം അപ്‌ഡേറ്റ്, സിസ്റ്റം അപ്‌ഡേറ്റുകൾ, Google Play സിസ്‌റ്റം അപ്‌ഡേറ്റ്, Play സിസ്‌റ്റം അപ്‌ഡേറ്റ്</string>
+</resources>

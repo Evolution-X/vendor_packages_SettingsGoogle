@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Օրինակ՝ Վարդանի Pixel-ը</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">Մուտք գործեք Google հաշիվ, որում ուզում եք օգտագործել ձեր մասնավոր տարածքը</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">Դիտել և փոխել OpenRoaming-ի բաժանորդագրությունը</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">Մուգ թեման օգտագործում է սև ֆոնը՝ մարտկոցի աշխատանքի տևողությունը երկարացնելու համար։ Մուգ թեմայի ժամանակացույցները չեն միանա, մինչև էկրանը չանջատվի։</string>
+    <string name="dark_ui_text_force_invert">Օգտագործեք մուգ ֆոն՝ մարտկոցի սպառումը նվազեցնելու և էկրանն աչքերի համար ավելի հարմարավետ դարձնելու համար։ Եթե ժամանակացույց է դրված, թեման կփոխվի, երբ էկրանն անջատվի։</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">Գույներ, թեմատիկ պատկերակներ, հավելվածների ցանց</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">Հանգույցի ռեժիմ</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">Դոկ-կայանի և կողպէկրանի պարամետրեր</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">Գործարկել Gemini-ը</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">Կապվել Google-ի՝ հատուկ կարիքներով անձանց աջակցման թիմի հետ</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">Կարող է բարձրացնել ձայնի ուժգնությունը՝ բարելավելու համատեղելիությունը լսողական սարքերի հետ և նվազեցնելու անցանկալի աղմուկը</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">տեսողություն, լսողություն, կույր, խուլ, մոտորիկա, շարժողական ընդունակություններ, օժանդակ, աջակցում, օգտագործման պարզություն, հեշտ հասանելիություն, ձեռք, օգնություն</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">Էկրանի ընթերցիչ, ձայնային հուշումներ, ձայնային օգնական, կուրություն, թույլ տեսողություն, տեքստի հնչեցում, ձայնային արձագանք</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">Ենթագրեր, տառադարձում, կենդանի ենթագրեր, լսողության խանգարում, խլություն, տառադարձություն, խոսքի տառադարձում, ձայնային ներածում, խոսքի ճանաչում</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">Ծանուցումներ, լսողության խանգարում, խլություն, ծանուցել</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">Ձայնի ուժեղացում, ուժեղացում, ուժեղացնել ձայնը, ձայնի ուժեղացուցիչ, լսողության խանգարում, խլություն, բարձրացնել ձայնը</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">Տեքստի հնչեցում, կարդալ բարձրաձայն, կարդալ էկրանի տեքստը, էկրանի ընթերցիչ, դիսլեքսիա, ընտրել խոսելու համար</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">մոտորիկա, արագ ընտրացանկ, հատուկ գործառույթների ընտրացանկ, հպում, շարժողական ընդունակություններ, արթրիտ, կրկնվող լարվածության հետևանքով վնասվածք, կաթված, թրեմոր, ցրված սկլերոզ, մանկական ուղեղային կաթված, կոճակ, սարքակազմ, սեղմել, ձեռք, ցավ, հատուկ գործառույթներ, օգնություն</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">շարժման խանգարումներ, փոխանջատիչ, ձեռք, օժանդակ տեխնոլոգիաներ, լսողական սարքեր, կաթված, շարժիչային նեյրոնների հիվանդություն, սկանավորում</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">ձայն, ձայնային կառավարում, շարժման խանգարումներ, ձեռք, խոսափող, ձայնային ներածում, թելադրում, խոսել, կառավարում</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">Միացրեք «Հարմարվող մարտկոց» գործառույթը</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">Հարմարվող մարտկոցի կարգավորումներ</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">Մարտկոցի աշխատաժամանակը երկարացնելու համար «Հարմարվող մարտկոց» գործառույթը կարող է նվազեցնել արդյունավետությունը և ֆոնային գործողությունները։ Որոշ ծանուցումներ կարող են հետաձգվել։</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">Երկարացրեք մարտկոցի աշխատաժամանակը և օպտիմալացրեք լիցքավորումը</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">Մարտկոցի աշխատաժամանակի երկարացում</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">Իմանալ ավելին</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">Դադարեցնե՞լ սարքի տվյալների (օրինակ՝ Wi-Fi-ի գաղտնաբառեր և զանգերի պատմություն) և հավելվածների տվյալների (օրինակ՝ հավելվածների պահած կարգավորումներ և ֆայլեր) պահուստավորումը և ջնջել բոլոր պատճենները Google Drive-ից:</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">Ավտոմատ կերպով պահուստավորել սարքի տվյալները (օրինակ՝ Wi-Fi-ի գաղտնաբառերը և զանգերի պատմությունը) և հավելվածների տվյալները (օրինակ՝ կարգավորումները և հավելվածների պահած ֆայլերը) Google Drive-ում:\n\nԱվտոմատ պահուստավորումը միացնելու դեպքում սարքի ու հավելվածների տվյալները պարբերաբար պահվում են Google Drive-ի առանձին պանակի մեջ: Հավելվածների տվյալները հավելվածների կողմից պահված տվյալներն են (կախված մշակողի կարգավորումներից), ներառյալ հնարավոր գաղտնի տվյալները, օրինակ՝ կոնտակտները, հաղորդագրությունները և լուսանկարները:\n\nՊահուստավորված տվյալները Google Drive-ի պահեստում տեղ չեն զբաղեցնում: Չեն պահուստավորվի մեծ ֆայլերը կամ ֆայլերը, որոնք մշակողները որոշել են չընդգրկել այս ծառայության մեջ:</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">Օգնական, վերջին հավելվածները, կանխադրված հավելվածներ</string>
+    <string name="keywords_gesture">ժեստ, շարժումներ</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">Ձայնի ուժգնություն և հապտիկ արձագանք</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">Տարածական հնչողություն</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">Ֆայլերի փոխանցում / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">Մուգ թեմա, տառաչափ, հպում</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">Խելացի պահեստ</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">Եթե տարածքը սպառվում է, դուք կարող եք հեռացնել պահուստավորված լուսանկարներն ու տեսանյութերը։ Դրանք կպահպանվեն Google Լուսանկարներում:</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">Հեռացնել պահուստավորված նկարներն ու տեսանյութերը</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">Խելացի պահեստ</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">Օգտագործել խելացի պահոցը</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">Pixel տեսախցիկում սելֆիի ռեժիմին և հետ անցնելու համար բացեք հավելվածը և երկու անգամ պտտեք սարքը։</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">Համացանցին միացած լինելու դեպքում դուք կկարողանաք լուսանկարներն ու տեսանյութերը դիտել այն որակով, որն ընտրել եք պահուստավորման համար։</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">Անջատե՞լ Խելացի պահոցը: \n\nԳործառույթը չի կարողանա տեղ ազատել, եթե սարքի հիշողությունը գրեթե լիքը լինի։</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Google հաշիվ</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">Անհատականացում հավելվածների տվյալների միջոցով</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">Տեքստ իրական ժամանակում (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">Տեսանելի չէ</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">Տեսանելի է զանգի ժամանակ</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">Միշտ տեսանելի է</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">Սկանավորումը գաղտնի է և կատարվում է անմիջապես ձեր սարքում։ Հավելվածի օգտագործման պատմությունը ստուգվում է՝ ֆիշինգ կամ խաբեություն հայտնաբերելու նպատակով։ Հայտնաբերման դեպքում հավելվածի որոշ տեղեկություններ ուղարկվում են Google Play Protect-ին՝ հաստատելու վտանգը և զգուշացնելու հավելվածի օգտատերերին։</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">Սա անվտանգության պաշտպանված գործառույթ է։ Սարքի տվյալները և անձնական տեղեկությունները չեն փոխանցվում Google-ին։ \n\nՖիշինգը փորձ է՝ գողանալու մուտքի տվյալները կամ այլ անձնական տեղեկություններ։</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">Թույլատրել հավելվածներին ցույց տալ նշորդը՝ ստիլուսը տարրի վրա պահելիս</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">Ինքնության ստուգում և Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">Pixel Watch-ին միանալու դեպքում ինքնության ստուգումը կարող եք անցնել ավելի շատ եղանակներով՝ ձեզ հավելվածների անցանկալի մուտքից խուսափելու համար</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">Ինքնության ստուգում և Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">Թարմացումներ․ &lt;ul&gt;&lt;li&gt;Pixel Watch 3-ին կամ ավելի նոր սարքի միանալով՝ կարող եք օգտագործել ձեր կենսաչափական տվյալները կամ PIN կոդը՝ հավելվածներ բացելու համար, երբ վստահելի վայրում չեք գտնվում։ &lt;/li&gt;&lt;li&gt;Ժամանակի ընթացքում սարքում կարող են ավելացվել ինքնությունը ստուգելու և հավելվածները պաշտպանելու ավելի շատ եղանակներ։ &lt;a href=https://support.google.com/android?p=identity_check&gt;Երբ և որտեղ եք դուք պաշտպանված&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">Ինքնության ստուգում և ձեր Pixel Watch-ը</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">Pixel Watch-ին միանալու դեպքում ինքնության ստուգումը կարող եք անցնել ավելի շատ եղանակներով՝ ձեզ հավելվածների անցանկալի մուտքից խուսափելու համար</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">Play Protect-ի ստուգումը միացված է</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">Play Protect-ը պարբերաբար ստուգում է հնարավոր սպառնալիքների առկայությունը ձեր հավելվածներում և սարքերում։ Դուք կծանուցվեք անվտանգության հայտնաբերված բոլոր ռիսկերի մասին։</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">Հավելվածների անվտանգություն, Play Protect, Google Play Protect</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">Google հաշիվը պաշտպանված է</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Google Անվտանգության ստուգում, Google Անվտանգություն, Անվտանգության ստուգում, Հաշվի անվտանգություն, Google հաշվի անվտանգություն, Google հաշիվ</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">Find Hub, Սարքերի որոնում, Գտնել իմ սարքը, Կորցված սարք</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">Թարմացումներ, Թարմացում, Համակարգի թարմացում, Համակարգի թարմացումներ, Google Play համակարգային թարմացում, Play համակարգային թարմացում</string>
+</resources>

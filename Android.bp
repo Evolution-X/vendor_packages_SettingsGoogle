@@ -6,7 +6,10 @@ android_library {
         "src/**/*.aidl",
     ],
     use_resource_processor: true,
-    resource_dirs: ["res"],
+    resource_dirs: [
+        "res",
+        "res-product",
+    ],
     static_libs: ["Settings-core"],
     manifest: "AndroidManifest-res.xml",
 }

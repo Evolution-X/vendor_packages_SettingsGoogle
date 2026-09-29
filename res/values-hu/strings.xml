@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Pl. Péter Pixele.</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">Jelentkezzen be valamilyen Google-fiókba, hogy használni tudja a magánterületével</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">OpenRoaming-előfizetés megtekintése vagy módosítása</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">A Sötét téma fekete hátteret használ, ezáltal kíméli az akkumulátort. A Sötét téma csak a képernyő kikapcsolása után kapcsol be.</string>
+    <string name="dark_ui_text_force_invert">Sötét háttér használatával csökkentheti az akkumulátorhasználatot, és kényelmesebbé teheti a képernyő nézését. Ha van ütemezése, a téma akkor módosul, amikor a képernyő ki van kapcsolva.</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">Színek, tematikus ikonok, alkalmazásrács</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">Hub mód</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">Dokkolás és lezárási képernyő beállításai</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">A Gemini indítása</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">A Google fogyatékossággal élők számára létrehozott ügyfélszolgálatának felkeresése</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">Növelheti a hangerőt, hogy javítsa a telecoil rendszerű készülékekkel való kompatibilitást, és csökkentse a nem kívánt zajokat</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">látás, hallás, vak, siket, mozgás, kézügyesség, kisegítő, segítség, egyszerű használat, egyszerű hozzáférés, kéz, súgó</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">Képernyőolvasó, hangalámondás, VoiceOver, Hangsegéd, vak, gyengénlátó, szövegfelolvasó, hangos visszajelzés</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">Feliratok, feliratozás, élő feliratozás, nagyothalló, halláskárosodás, CART, beszéd szöveggé alakítása, felirat</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">Értesítések, nagyothalló, halláskárosodás, értesít</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">Segélyhívásokat fogadó központ, felerősít, hangerősítés, nagyothalló, halláskárosodás, erősítés</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">Szöveghallgatás, hangos felolvasás, beszélő képernyő, képernyőolvasó, diszlexia, felolvasás</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">mozgás, gyorsmenü, kisegítő menü, érintés, kézügyesség, ízületi gyulladás, rsi, stroke, remegés, szklerózis multiplex, agyi paralízis, gomb, hardver, nyomás, ismétlődő terhelések okozta sérülés, kéz, fájdalom, kisegítő, súgó</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">motorikus, kapcsoló, kéz, ST, segítő technológia, bénulás, ALS, keresés, lépcsős keresés</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">hang, hangvezérlés, motorikus, kéz, mikrofon, diktálás, beszéd, vezérlés</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">Az Alkalmazkodó akkumulátor bekapcsolása</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">Adaptív beállítások</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">Az akkumulátor üzemidejének növelése érdekében az Alkalmazkodó akkumulátor funkció csökkentheti a teljesítményt és a háttérbeli tevékenységet. Bizonyos értesítések késve érkezhetnek meg.</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">Az akkumulátor élettartamának növelése és a töltés optimalizálása</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">Az akkumulátor élettartamának növelése</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">További információ</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">Kikapcsolja az eszközadatok (például Wi-Fi-jelszavak és híváslista) és alkalmazásadatok (például az alkalmazások által tárolt beállítások és fájlok) automatikus biztonsági mentését, és törli azok összes példányát a Google Drive-ról?</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">Eszközadatok (például Wi-Fi-jelszavak és híváslista) és alkalmazásadatok (például az alkalmazások által tárolt beállítások és fájlok) automatikus biztonsági mentése a Google Drive-ra.\n\nHa engedélyezi az automatikus biztonsági mentést, a rendszer adott időközönként menti az eszköz- és alkalmazásadatokat egy személyes mappába a Google Drive-on. Alkalmazásadat bármilyen adat lehet, amelyet az alkalmazás mentett (a fejlesztői beállításoktól függően), beleértve az esetlegesen bizalmas adatokat is (például névjegyek, üzenetek és fotók).\n\nA biztonsági mentés adatmennyisége nem számít bele a Drive-tárhelykvótába. A rendszer nem készít biztonsági másolatot a nagy, illetve a fejlesztők által a szolgáltatásból kizárt fájlokról.</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">Segéd, legutóbbi alkalmazások, alapértelmezett alkalmazások</string>
+    <string name="keywords_gesture">kézmozdulatok, mozdulatok</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">Hangerő és rezgő visszajelzések</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">Térbeli hangzás</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">Fájlátvitel / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">Sötét téma, betűméret, érintés</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">Smart Storage</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">Ha a tárhely már majdnem betelt, távolítsa el azokat a fotókat és videókat, amelyekről már van biztonsági másolat. Továbbra is megtalálhatja majd őket a Google Fotók szolgáltatásban.</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">Biztonsági másolatként már meglévő fotók és videók eltávolítása</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">Smart Storage</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">Smart Storage használata</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">A szelfimód ki- és bekapcsolásához fordítsa oda-vissza a telefont a Pixel kamera használata közben.</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">Amikor csatlakozik, továbbra is hozzáférhet a fotókhoz és videókhoz a biztonsági mentéshez beállított minőségben</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">Kikapcsolja a Smart Storage funkciót? \n\nA Smart Storage így nem fog helyet felszabadítani, amikor már majdnem tele van a tárhely.</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Google-fiók</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">Személyre szabás alkalmazásadatok felhasználásával</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">Valós idejű szöveg (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">Nem látható</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">Hívás közben látható</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">Mindig látható</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">A közvetlenül az Ön eszközén, privát módon történő vizsgálat közben adathalász- vagy megtévesztő viselkedésre utaló alkalmazástevékenységeket keres a rendszer. Ha ilyen tevékenységet észlel, elküldi az alkalmazásadatokat a Google Play Protectnek a fenyegetés ellenőrzése és az alkalmazás felhasználóinak figyelmeztetése érdekében.</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">Ez egy védett biztonsági funkció. Az eszközök és személyes adatok nem lesznek megosztva a Google-lal. \n\nAz adathalászat a bejelentkezési vagy személyes adatok ellopására tett kísérlet.</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">Engedélyezi az appoknak a mutató megjelenítését rámutatás közben</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">Személyazonosság-ellenőrzés és Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">Csatlakoztatott Pixel Watch óra esetén a Személyazonosság-ellenőrzés további módszereket ad hozzá az Ön személyazonosságának igazolására, hogy megakadályozza az alkalmazásokhoz való nem kívánt hozzáférést.</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">Személyazonosság-ellenőrzés és Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">Frissítések: &lt;ul&gt;&lt;li&gt;Pixel Watch 3 vagy újabb óra csatlakoztatásával biometrikus adatokat vagy PIN-kódot használhat az alkalmazásokhoz való hozzáféréshez, amikor nem megbízható helyen tartózkodik. &lt;/li&gt;&lt;li&gt;A Személyazonosság-ellenőrzés idővel további módszereket adhat hozzá az Ön személyazonosságának igazolása és az eszközén lévő alkalmazások biztonságossá tétele céljából. &lt;a href=https://support.google.com/android?p=identity_check&gt;További információ arról, hogy mikor és hol van védve&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">A Személyazonosság-ellenőrzés és a Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">Csatlakoztatott Pixel Watch óra esetén a Személyazonosság-ellenőrzés további módszereket ad hozzá az Ön személyazonosságának igazolására, hogy megakadályozza az alkalmazásokhoz való nem kívánt hozzáférést.</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">A Play Protect-ellenőrzés be van kapcsolva</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">A Google Play Protect rendszeresen ellenőrzi, hogy az eszköz és az alkalmazások kártékony viselkedést tanúsítanak-e. Az esetleges biztonsági kockázatokról értesítést küld.</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">Alkalmazásbiztonság, Play Protect, Google Play Protect, Alkalmazásvédelem</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">A Google-fiók védett</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Google Biztonsági ellenőrzés, Google-biztonság, Biztonsági ellenőrzés, Fiókbiztonság, Google-fiókbiztonság, Google-fiók</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">Keresési központ, Eszközök megkeresése, Készülékkereső, Elveszett eszköz</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">Frissítések, Frissítés, Rendszerfrissítés, Rendszerfrissítések, Google Play-rendszerfrissítés, Play-rendszerfrissítés</string>
+</resources>

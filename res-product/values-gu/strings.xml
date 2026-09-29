@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Title for Display settings [CHAR LIMIT=30] -->
+    <string name="display_settings" product="default">ડિસ્પ્લે અને ટચ</string>
+</resources>

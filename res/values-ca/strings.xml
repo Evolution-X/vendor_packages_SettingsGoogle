@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">"P. ex.: El Pixel de l'Anna."</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">Inicia la sessió en un Compte de Google per utilitzar l\'espai privat</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">Consulta o canvia la subscripció a OpenRoaming</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">El tema fosc utilitza un fons negre perquè la bateria duri més. Les programacions del tema fosc no s\'activen fins que la pantalla està desactivada.</string>
+    <string name="dark_ui_text_force_invert">Utilitza un fons fosc per reduir l\'ús de la bateria i fer que la pantalla sigui més agradable a la vista. El tema canviarà si tens una programació, quan la pantalla estigui desactivada.</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">Colors, icones temàtiques, quadrícula d\'aplicacions</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">Mode Hub</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">Opcions de la base i de la pantalla de bloqueig</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">Inicia Gemini</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">Contacta amb l\'assistència de Google per a persones amb discapacitat</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">Pot augmentar el volum de l\'àudio per millorar la compatibilitat amb telebobines i reduir els sorolls no desitjats</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">visió, audició, invident, sord, motricitat, destresa, suport, assistència, facilitat d\'ús, facilitat d\'accés, mà, ajuda</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">lector de pantalla, veu superposada, Assistent de veu, invident, poca visió, text a parla, avisos de veu</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">subtítols, subtítols descriptius, subtítols instantanis, deficiències auditives, pèrdua auditiva, CART, parla a text, subtítol</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">notificacions, deficiències auditives, pèrdua de so, notificar</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">PSAP, amplificar, amplificació de so, deficiències auditives, pèrdua auditiva, amplificació</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">Escoltar text, llegir en veu alta, veu en pantalla, lector de pantalla, dislèxia, escoltar la selecció</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">"motricitat, menú ràpid, menú d'assistència, toc, destresa, artritis, rsi, accident cerebrovascular, tremolor, esclerosi múltiple, paràlisi cerebral, botó, maquinari, premsa, lesió per moviment repetitiu, mà, dolor, accessible, ajuda"</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">motor, interruptor, mà, TA, tecnologia assistencial, paràlisi, ELA, cerca, cerca per passos</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">veu, control per veu, motor, mà, micro, micròfon, dictat, parla, control</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">Activa la bateria adaptativa</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">Preferències adaptatives</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">Per allargar la durada de la bateria, la funció Bateria adaptativa pot reduir el rendiment i l\'activitat en segon pla. És possible que algunes notificacions arribin amb retard.</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">Allarga la durada de la bateria i optimitza la càrrega</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">Allarga la durada de la bateria</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">Més informació</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">Vols deixar de crear una còpia de seguretat de les dades del dispositiu (com ara les contrasenyes de les xarxes Wi-Fi i l\'historial de trucades) i de les aplicacions (com ara les configuracions i els fitxers que desen) i, a més, esborrar totes les còpies de Google Drive?</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">Crea una còpia de seguretat automàtica a Google Drive de les dades del dispositiu (com ara les contrasenyes de les xarxes Wi-Fi i l\'historial de trucades) i de les aplicacions (com ara les configuracions i els fitxers que desen).\n\nQuan s\'activa la còpia de seguretat automàtica, les dades del dispositiu i de les aplicacions es desen de manera periòdica en una carpeta privada de Google Drive. S\'entén per dades d\'una aplicació qualsevol dada que hagi desat una aplicació (segons la configuració del desenvolupador), incloses dades potencialment confidencials, com ara els contactes, els missatges i les fotos.\n\nLes dades de la còpia de seguretat no ocupen espai de la teva quota d\'emmagatzematge de Drive. No es farà còpia de seguretat dels fitxers grans ni dels que els desenvolupadors hagin exclòs del servei.</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">Assistent, aplicacions recents, aplicacions predeterminades</string>
+    <string name="keywords_gesture">gestos, moviments</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">Volum i tecnologia hàptica</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">Àudio espacial</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">Transferència de fitxers / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">Tema fosc, cos de font, configuració tàctil</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">Emmagatzematge intel·ligent</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">Quan l\'espai d\'emmagatzematge està quasi ple, suprimeix les fotos i els vídeos amb còpia de seguretat. Continuaran estant disponibles a Google Fotos.</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">Suprimeix fotos i vídeos amb còpia de seguretat</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">Emmagatzematge intel·ligent</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">Utilitza Emmagatzematge intel·ligent</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">Per activar i desactivar el mode de selfie de la Càmera Pixel, gira el dispositiu dues vegades quan siguis a l\'aplicació.</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">Quan tinguis connexió, podràs continuar accedint a les fotos i els vídeos amb la qualitat que hagis seleccionat per a la còpia de seguretat.</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">Vols desactivar l\'Emmagatzematge intel·ligent? \n\nSi ho fas, no s\'alliberarà espai quan l\'emmagatzematge estigui gairebé ple.</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Compte de Google</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">Personalitza amb dades d\'aplicacions</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">Text en temps real (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">No és visible</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">Visible durant la trucada</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">Sempre visible</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">L\'anàlisi s\'executa de manera privada directament al dispositiu per cercar pesca de credencials o altres comportaments enganyosos a l\'activitat de les aplicacions. Si se\'n detecten, s\'enviarà determinada informació de les aplicacions en qüestió a Google Play Protect per confirmar l\'amenaça i avisar els usuaris.</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">És una funció de seguretat protegida. No es comparteix cap informació personal ni del dispositiu amb Google. \n\nLa pesca de credencials és un intent de robar les credencials d\'inici de sessió o altres dades personals.</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">Permet que les aplicacions mostrin el punter en passar el cursor per sobre</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">Comprovació d\'identitat i Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">Amb un Pixel Watch connectat, Comprovació d\'identitat afegeix més maneres de verificar la teva identitat per evitar l\'accés no desitjat a les aplicacions</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">Comprovació d\'identitat i Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">Actualitzacions: &lt;ul&gt;&lt;li&gt;En connectar un Pixel Watch 3 o un model posterior, pots utilitzar dades biomètriques o el PIN per accedir a les aplicacions quan no et trobis en un lloc de confiança. &lt;/li&gt;&lt;li&gt;Amb el temps, és possible que Comprovació d\'identitat afegeixi més maneres de verificar la teva identitat i protegir les aplicacions del dispositiu. &lt;a href=https://support.google.com/android?p=identity_check&gt;Més informació sobre quan i on gaudeixes de protecció&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">Comprovació d\'identitat i el teu Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">Amb un Pixel Watch connectat, Comprovació d\'identitat afegeix més maneres de verificar la teva identitat per evitar l\'accés no desitjat a les aplicacions</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">L\'anàlisi de Play Protect està activada</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">Play Protect comprova regularment si hi ha cap comportament perillós a les aplicacions i al dispositiu. Rebràs una notificació si troba algun risc de seguretat.</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">Seguretat de les aplicacions, Play Protect, Google Play Protect</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">El Compte de Google està protegit</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Comprovació de seguretat de Google, seguretat de Google, Comprovació de seguretat, seguretat del compte, seguretat del Compte de Google, Compte de Google</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">Localitzador, localització de dispositius, Troba el meu dispositiu, dispositiu perdut</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">Actualitzacions, actualització, actualització del sistema, actualitzacions del sistema, actualització del sistema de Google Play, actualització del sistema de Play</string>
+</resources>

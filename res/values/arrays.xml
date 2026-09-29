@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- hide 3G option from preferred network type UI -->
+    <integer-array name="network_mode_3g_deprecated_carrier_id" translatable="false">
+        <item>3</item>
+        <item>4</item>
+        <item>15</item>
+        <item>19</item>
+        <item>718</item>
+        <item>850</item>
+        <item>1344</item>
+        <item>1345</item>
+        <item>1487</item>
+        <item>1505</item>
+        <item>1691</item>
+        <item>1709</item>
+        <item>1710</item>
+        <item>2018</item>
+        <item>2032</item>
+        <item>2092</item>
+    </integer-array>
+</resources>

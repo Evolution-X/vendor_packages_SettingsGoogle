@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Nt Karli Pixel.</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">Logige sisse oma privaatse ruumiga kasutamiseks mõeldud Google\'i kontole</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">Tellimuse OpenRoaming vaatamine või muutmine</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">Tume teema kasutab musta tausta, et teie aku kestaks kauem. Tumeda teema ajakava lülitatakse sisse siis, kui ekraan on väljas.</string>
+    <string name="dark_ui_text_force_invert">Kasutage akukasutuse vähendamiseks ja ekraani vaatamise mugavamaks muutmiseks tumedat tausta. Kui ekraan on välja lülitatud, muutub teie teema ajakava järgi.</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">Värvid, temaatilised ikoonid, rakenduste ruudustik</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">Dokirežiim</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">Doki ja lukustuskuva valikud</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">Käivita Gemini</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">Võtke ühendust Google’i puuetega inimeste tugitiimiga</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">Võib suurendada helitugevust, et parandada ühilduvust induktiivsidestitega (telecoils), ja vähendab soovimatut müra.</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">nägemine, kuulmine, pime, kurt, kurtus, motoorika, peenmotoorika, abi, abistav, kasutusmugavus, lihtne juurdepääs, käsi</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">Ekraanilugeja, Voice Over, VoiceOver, häälabi, pime, halb nähtavus, TTS, kõnesüntees, suuline tagasiside</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">Subtiitrid, reaalajas subtiitrid, kuulmislangus, kuulmiskadu, CART, kõnesüntees</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">Märguanded, kuulmislangus, kuulmiskadu, teavitama</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">PSAP, võimendus, heli võimendamine, kuulmislangus, kuulmiskadu, võimendamine</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">Teksti kuulamine, ettelugemine, ekraanikuvalt lugemine, ekraanilugeja, düsleksia, Vali ja kuula</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">motoorika, kiirmenüü, abimenüü, puudutus, peenmotoorika, artriit, ülekoormusvigastused, ülekoormushaigus, insult, rabandus, treemor, värin, värisemine, multiipelskleroos, hulgiskleroos, hulgikoldekõvastumus, ajuhalvatus, tserebraalparalüüs, nupp, riistvara, vajutamine, käsi, valu, juurdepääsetavus, abi</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">motoorika, lüliti, käsi, AT, abistav tehnoloogia, halvatus, ALS, skannimine, sammu skannimine</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">hääl, hääljuhtimine, motoorika, käsi, mikrofon, dikteerimine, kõnelemine, juhtimine</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">Kohanduva akuhalduri sisselülitamine</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">Kohanduvad eelistused</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">Aku tööea pikendamiseks võib kohanduv akuhaldur vähendada jõudlust ja taustategevusi. Mõni märguanne võib viibida.</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">Pikendage aku tööiga ja optimeerige laadimist</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">Aku tööea pikendamine</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">Lisateave</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">Kas soovite peatada seadme andmete (nt WiFi-paroolid ja kõneajalugu) ning rakenduse andmete (nt seaded ja rakenduste salvestatud failid) varundamise ning kustutada kõik Google Drive\'is olevad koopiad?</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">Varundage seadme andmed (nt WiFi-paroolid ja kõneajalugu) ning rakenduse andmed (nt seaded ja rakenduste salvestatud failid) automaatselt Google Drive\'i.\n\nKui lülitate automaatse varundamise sisse, salvestatakse seadme ja rakenduse andmed regulaarselt Google Drive\'is privaatsesse kausta. Rakenduse andmed võivad olla mis tahes andmed, mille rakendus on salvestanud (arendaja seadete põhjal), sh potentsiaalselt tundlikud andmed, nagu kontaktid, sõnumid ja fotod.\n\nVarundatud andmeid ei loeta teie Drive\'i salvestuskvoodi hulka. Suuri faile ja faile, mille arendajad on otsustanud teenusest välja jätta, ei varundata.</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">Assistent, hiljutised rakendused, vaikerakendused</string>
+    <string name="keywords_gesture">liigutus, liigutused</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">Helitugevus ja värintagasiside</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">Ruumiline heli</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">Failiedastus / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">Tume teema, fondi suurus, puudutus</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">Nutikas salvestusruum</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">Kui salvestusruum hakkab täis saama, eemaldage varundatud fotod ja videod. Leiate need edaspidi teenusest Google Photos.</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">Varundatud fotode ja videote eemaldamine</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">Nutikas salvestusruum</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">Kasuta nutikat salvestusruumi</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">Pixeli kaameras selfirežiimi sisse- ja väljalülitamiseks pöörake telefoni rakenduses olles kaks korda edasi-tagasi.</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">Kui olete ühendatud, pääsete fotodele ja videotele juurde siiski kvaliteediga, mille varundamiseks valisite</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">Kas soovite nutika salvestusruumi välja lülitada? \n\nNutikas salvestusruum ei vabasta ruumi, kui salvestusruum hakkab täis saama.</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Google\'i konto</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">Isikupärastamine rakenduste andmete abil</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">Reaalajas teksti saatmine (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">Ei ole nähtav</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">Kõne ajal nähtav</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">Alati nähtav</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">Skannimine toimub privaatselt teie seadmes ja see kontrollib rakenduse tegevusi andmepüügi või muu petturliku käitumise suhtes. Kui see tuvastatakse, saadetakse Google Play Protectile teatud teavet, et oht kinnitada ja rakenduse kasutajaid hoiatada.</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">Seda kaitseb turvafunktsioon. Google\'iga ei jagata seadme ega isiklikku teavet. \n\nAndmepüük on katse varastada sisselogimismandaate või muud isiklikku teavet.</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">Luba rakendustel kursori hõljutamise puhul kursorit näidata</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">Identiteedikontroll ja Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">Ühendatud Pixel Watchi abil lisab identiteedikontroll rohkem viise teie isiku tuvastamiseks, et vältida soovimatut juurdepääsu rakendustele.</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">Identiteedikontroll ja Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">Värskendused. &lt;ul&gt;&lt;li&gt;Kui te ei ole usaldusväärses kohas, saate Pixel Watch 3 või uuema versiooni ühendamisel rakendustele juurdepääsuks kasutada biomeetriat või oma PIN-koodi. &lt;/li&gt;&lt;li&gt;Aja jooksul võib identiteedikontroll lisada rohkem viise teie isiku tuvastamiseks ja teie seadmes olevate rakenduste turvalisuse tagamiseks. &lt;a href=https://support.google.com/android?p=identity_check&gt;Vaadake lisateavet selle kohta, millal ja kus olete kaitstud.&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">Identiteedikontroll ja teie Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">Ühendatud Pixel Watchi abil lisab identiteedikontroll rohkem viise teie isiku tuvastamiseks, et vältida soovimatut juurdepääsu rakendustele.</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">Play Protecti skannimine on sisse lülitatud</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">Play Protect kontrollib teie rakendusi ja seadet regulaarselt ohtliku käitumise suhtes. Teid teavitatakse kõigist leitud turvariskidest.</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">Rakenduste turvalisus, Play Protect, Google Play Protect, rakenduste ohutus</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">Google’i konto on kaitstud</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Google\'i turvalisuse kontroll, Google\'i turvalisus, turvalisuse kontroll, konto turvalisus, Google\'i konto turvalisus, Google\'i konto</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">Leidmiskeskus, seadmete leidmine, leia mu seade, kaotsiläinud seade</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">Värskendused, värskendus süsteemivärskendus, Google Play süsteemivärskendus, Play süsteemivärskendus</string>
+</resources>

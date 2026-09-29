@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Ví dụ: Pixel của Tuấn</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">Hãy đăng nhập vào một Tài khoản Google mà bạn sẽ sử dụng cho không gian riêng tư của mình</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">Xem hoặc thay đổi tùy chọn đăng ký OpenRoaming</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">Giao diện tối dùng nền màu đen để giúp tăng thời lượng pin trên một số màn hình. Các lịch biểu của giao diện tối sẽ chỉ bật sau khi màn hình của bạn tắt.</string>
+    <string name="dark_ui_text_force_invert">Dùng một nền tối để giảm mức sử dụng pin và giúp màn hình dễ nhìn hơn. Khi màn hình đang tắt, giao diện sẽ thay đổi nếu bạn có lịch biểu.</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">Màu sắc, biểu tượng theo chủ đề, lưới ứng dụng</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">Chế độ thiết bị trung tâm</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">Các lựa chọn khi gắn đế sạc và khoá màn hình</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">Khởi chạy Gemini</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">Liên hệ với Nhóm hỗ trợ người khuyết tật của Google</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">Có thể tăng âm lượng để cải thiện khả năng tương thích với các cuộn dây cảm ứng và giảm tiếng ồn không mong muốn</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">thị giác, thính giác, khiếm thị, khiếm thính, vận động, khéo léo, hỗ trợ, trợ giúp, dễ sử dụng, dễ tiếp cận, tay, giúp đỡ</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">Trình đọc màn hình, Thuyết minh, VoiceOver, Trợ lý thoại, Mù, Mất thị lực, Thị lực kém, TTS, chuyển văn bản sang lời nói, phản hồi bằng giọng nói</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">Phụ đề, phụ đề chi tiết, CC, Phụ đề trực tiếp, nặng tai, suy giảm thính lực, chép lời theo thời gian thực bằng máy tính (CART), chuyển lời nói thành văn bản</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">Tính năng thông báo, nặng tai, suy giảm thính lực, thông báo</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">sản phẩm khuếch đại âm thanh cá nhân (PSAP), khuếch đại, khuếch đại âm thanh, nặng tai, suy giảm thính lực, tăng âm</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">Nghe văn bản, đọc to, đọc nội dung trên màn hình, trình đọc màn hình, chứng khó đọc, chọn để nói</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">vận động, trình đơn nhanh, trình đơn hỗ trợ, cảm ứng chạm, linh hoạt, viêm khớp, RSI, đột quỵ, run rẩy, bệnh đa xơ cứng, bại não, nút, phần cứng, nhấn, chấn thương do căng cơ lặp đi lặp lại, tay, đau, hỗ trợ tiếp cận, trợ giúp</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">vận động, công tắc, tay, AT, công nghệ hỗ trợ, bại liệt, xơ cứng teo cơ một bên (ALS), quét, quét theo từng bước</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">giọng nói, điều khiển bằng giọng nói, vận động, tay, mic, micrô, nhập bằng giọng nói, nói chuyện, điều khiển</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">Bật tùy chọn Pin thích ứng</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">Lựa chọn ưu tiên về tính năng thích ứng</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">Để kéo dài thời lượng pin, tính năng Pin thích ứng có thể làm giảm hiệu suất thiết bị và hoạt động ở chế độ nền. Một số thông báo có thể đến chậm.</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">Kéo dài thời lượng pin và tăng tối đa hiệu quả khi sạc</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">Kéo dài thời lượng pin</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">Tìm hiểu thêm</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">Dừng sao lưu dữ liệu thiết bị (chẳng hạn như mật khẩu Wi-Fi và lịch sử cuộc gọi) và dữ liệu ứng dụng (chẳng hạn như cài đặt và tệp được ứng dụng lưu trữ), đồng thời xóa tất cả các bản sao trên Google Drive?</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">Tự động sao lưu dữ liệu thiết bị (chẳng hạn như mật khẩu Wi-Fi và lịch sử cuộc gọi) và dữ liệu ứng dụng (chẳng hạn như cài đặt và tệp được ứng dụng lưu trữ) vào Google Drive.\n\nKhi bạn bật sao lưu tự động, dữ liệu thiết bị và dữ liệu ứng dụng được lưu vào một thư mục riêng trong Google Drive theo định kỳ. Dữ liệu ứng dụng có thể là bất kỳ dữ liệu nào mà ứng dụng đã lưu (dựa trên cài đặt của nhà phát triển), bao gồm dữ liệu có thể nhạy cảm chẳng hạn như danh bạ, tin nhắn và ảnh.\n\nDữ liệu sao lưu sẽ không tính vào phần bộ nhớ trên Drive của bạn. Các tệp lớn hoặc các tệp mà nhà phát triển đã chọn để loại trừ khỏi dịch vụ sẽ không được sao lưu.</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">Trợ lý, ứng dụng gần đây, ứng dụng mặc định</string>
+    <string name="keywords_gesture">cử chỉ, di chuyển</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">Âm lượng và xúc giác</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">Âm thanh không gian</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">Truyền tệp/Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">Giao diện tối, cỡ chữ, thao tác chạm</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">Bộ nhớ thông minh</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">Khi bộ nhớ sắp hết, hệ thống sẽ xóa ảnh và video đã sao lưu. Bạn vẫn có thể tìm thấy những nội dung đó trong Google Photos.</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">Xóa ảnh và video đã sao lưu</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">Bộ nhớ thông minh</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">Sử dụng Bộ nhớ thông minh</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">Để bật hoặc tắt chế độ selfie, hãy xoay cổ tay hai lần khi bạn đang mở ứng dụng Camera Pixel.</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">Khi kết nối với Internet, bạn vẫn có thể truy cập vào ảnh và video ở chất lượng bạn đã chọn để sao lưu</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">Tắt Bộ nhớ thông minh? \n\nBộ nhớ thông minh sẽ không giải phóng dung lượng khi bộ nhớ của bạn gần đầy.</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Tài khoản Google</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">Cá nhân hóa bằng dữ liệu ứng dụng</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">Tin nhắn theo thời gian thực (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">Không hiển thị</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">Hiển thị trong cuộc gọi</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">Luôn hiển thị</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">Tính năng quét sẽ chạy ở chế độ riêng tư ngay trên thiết bị của bạn, kiểm tra hoạt động trong ứng dụng để phát hiện hành vi tấn công giả mạo hoặc hành vi lừa đảo khác. Nếu có hành vi như vậy bị phát hiện, một số thông tin ứng dụng sẽ được gửi đến Google Play Protect để xác nhận mối đe doạ và cảnh báo người dùng ứng dụng.</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">Đây là một tính năng bảo mật được bảo vệ. Không có thông tin cá nhân hoặc thông tin thiết bị nào được chia sẻ với Google. \n\nTấn công giả mạo là hành vi tìm cách đánh cắp thông tin đăng nhập hoặc thông tin cá nhân khác.</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">Cho phép ứng dụng hiện con trỏ trong quá trình di chuột</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">Tính năng Kiểm tra danh tính và Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">Khi Pixel Watch được kết nối, tính năng Kiểm tra danh tính sẽ thêm các cách khác để xác minh danh tính nhằm ngăn chặn hành vi truy cập không mong muốn vào ứng dụng</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">Tính năng Kiểm tra danh tính và Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">Thông tin cập nhật: &lt;ul&gt;&lt;li&gt;Khi kết nối với Pixel Watch 3 trở lên, bạn có thể dùng dữ liệu sinh trắc học hoặc mã PIN để truy cập vào ứng dụng khi bạn không ở một địa điểm đáng tin cậy. &lt;/li&gt;&lt;li&gt;Theo thời gian, tính năng Kiểm tra danh tính có thể thêm các cách khác để xác minh danh tính và bảo mật các ứng dụng trên thiết bị của bạn. &lt;a href=https://support.google.com/android?p=identity_check&gt;Tìm hiểu thêm về thời điểm và địa điểm bạn được bảo vệ&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">Tính năng Kiểm tra danh tính và Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">Khi Pixel Watch được kết nối, tính năng Kiểm tra danh tính sẽ thêm các cách khác để xác minh danh tính nhằm ngăn chặn hành vi truy cập không mong muốn vào ứng dụng</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">Tính năng quét của Play Protect đang bật</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">Play Protect sẽ thường xuyên kiểm tra các ứng dụng và thiết bị của bạn để phát hiện hành vi gây hại. Chúng tôi sẽ thông báo cho bạn nếu phát hiện thấy bất kỳ rủi ro nào về bảo mật.</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">Bảo mật ứng dụng, Play Protect, Google Play Protect, An toàn ứng dụng</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">Tài khoản Google được bảo vệ</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Kiểm tra bảo mật của Google, Bảo mật của Google, Kiểm tra bảo mật, Bảo mật tài khoản, Bảo mật tài khoản Google, Tài khoản Google</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">Trung tâm tìm thiết bị, Tìm thiết bị, Tìm thiết bị của tôi, Thiết bị thất lạc</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">Bản cập nhật, Cập nhật, Bản cập nhật hệ thống, Cập nhật hệ thống, Bản cập nhật hệ thống Google Play, Bản cập nhật hệ thống Play</string>
+</resources>

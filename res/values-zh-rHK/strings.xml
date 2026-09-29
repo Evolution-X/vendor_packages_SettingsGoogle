@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">例如：Joe 的 Pixel。</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">需要登入 Google 帳戶，才能使用私人空間</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">查看或變更 OpenRoaming 訂閱</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">「深色主題」使用黑色背景，有助延長電池壽命。「深色主題」時間表會等待啟動，直至螢幕關閉。</string>
+    <string name="dark_ui_text_force_invert">使用深色背景可減少電池用量，你觀看螢幕時也會更舒適。如果已設定時間表，主題會在螢幕關閉時變更。</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">顏色、主題圖示、應用程式網格</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">插座模式</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">插座及上鎖畫面選項</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">啟動 Gemini</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">聯絡 Google 殘疾支援團隊</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">可能會調高音量，以改善磁感線圈的兼容性及降低不必要的噪音</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">視力, 聽力, 失明, 失聰, 動作, 靈活度, 輔助, 容易使用, 容易操作, 手, 協助</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">螢幕閱讀器, 語音朗讀, 語音助手, 失明, 低視力, TTS, 文字轉語音, 朗讀功能</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">字幕, CC, 即時字幕, 聽障, 失聰, CART, 語音轉文字</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">通知, 聽障, 失聰</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">PSAP, 擴大, 聲音擴大器, 聽障, 失聰, 擴音</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">收聽文字, 朗讀, 朗讀畫面內容, 螢幕閱讀器, 讀寫障礙, 揀選朗讀內容</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">行動, 快速選單, 輔助選單, 輕觸, 靈活性, 關節炎, rsi, 中風, 顫抖, 多發性硬化症, 大腦麻痺, 按鈕, 硬件, 按, 重複性勞損, 手, 痛楚, 無障礙, 協助</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">行動, 按鈕裝置, AT, 輔助科技, 癱瘓, ALS, 掃瞄, 步驟掃瞄</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">語音, 語音控制, 行動, 手, 麥克風, 語音聽寫, 朗讀, 控制</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">開啟「自動調節電池用量」</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">自動調節偏好設定</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">為延長電池壽命，「自動調節電池用量」功能可能會降低效能及減少背景活動。部分通知可能會延遲。</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">延長電池壽命並優化充電</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">延長電池壽命</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">瞭解詳情</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">要停止備份裝置資料 (例如 Wi-Fi 密碼和通話記錄) 和應用程式資料 (例如由應用程式儲存的設定和檔案)，並清除「Google 雲端硬碟」內的所有副本嗎？</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">自動備份裝置資料 (例如 Wi-Fi 密碼和通話記錄) 和應用程式資料 (例如由應用程式儲存的設定和檔案) 至「Google 雲端硬碟」。\n\n啟用自動備份功能後，裝置和應用程式資料會定時儲存至「Google 雲端硬碟」的私人資料夾。應用程式資料可以是由應用程式儲存的任何資料 (視乎開發設定而定)，包括可能視為敏感的資料，如聯絡人、訊息及相片。\n\n備份資料不會佔用你的「雲端硬碟」儲存空間。大型檔案或檔案開發工具並不會進行備份。</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">Google 助理、最近使用的應用程式、預設應用程式</string>
+    <string name="keywords_gesture">手勢、動作</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">音量和觸感反應</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">空間音訊</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">檔案傳輸/Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">深色主題、字型大小、觸控</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">智能儲存空間</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">儲存空間即將用盡時，系統會移除已備份的相片和影片。你仍可以在「Google 相片」中查看這些相片和影片。</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">移除已備份的相片和影片</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">智能儲存空間</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">使用智能儲存空間</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">使用「Pixel 相機」時轉動手機兩次，即可開啟或關閉自拍模式。</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">連接後，你仍可按所選的備份品質存取相片和影片</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">要關閉「智能儲存空間」功能嗎？\n\n當你的儲存空間即將用盡時，「智能儲存空間」功能將不會騰出空間。</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Google 帳戶</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">使用應用程式資料提供個人化內容</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">即時文字短訊 (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">不顯示</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">通話時顯示</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">一律顯示</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">系統會私下在裝置上進行掃瞄，檢查應用程式活動是否有仿冒詐騙或其他欺詐行為。如果偵測到這類行為，系統會將部分應用程式資料傳送給 Google Play Protect，確認威脅並向應用程式使用者發出警告。</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">這是受保護的安全功能。系統不會與 Google 分享任何裝置或個人資料。\n\n仿冒詐騙會試圖竊取登入憑證或其他個人資料。</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">允許應用程式在觸控筆懸停時顯示游標</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">「身分檢查」與 Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">配搭已連接的 Pixel Watch 使用「身分檢查」為你提供更多驗證身分的方式，以防止他人未經授權存取應用程式</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">「身分檢查」與 Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">更新：&lt;ul&gt;&lt;li&gt;當你並非身處信任的地點時，連接 Pixel Watch 3 或較新型號手錶即可使用生物識別資料或 PIN 存取應用程式。&lt;/li&gt;&lt;li&gt;「身分檢查」日後可能會新增更多方式驗證你的身分和保護你裝置上的應用程式。&lt;a href=https://support.google.com/android?p=identity_check&gt;進一步瞭解獲得安全保障的時間和地點&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">「身分檢查」與 Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">配搭已連接的 Pixel Watch 使用「身分檢查」為你提供更多驗證身分的方式，以防止他人未經授權存取應用程式</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">Play Protect 掃瞄功能已啟用</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">Google Play Protect 會定期檢查你的應用程式和裝置是否出現有害行為。一旦發現有任何安全風險，我們就會通知你。</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">應用程式安全性, Play Protect, Google Play Protect, 應用程式安全</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">Google 帳戶已受保護</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Google 安全檢查, Google 安全, 安全檢查, 帳戶安全, Google 帳戶安全, Google 帳戶</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">尋找中心, 尋找裝置, 尋找我的裝置, 遺失裝置</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">更新, 系統更新, Google play 系統更新, Play 系統更新</string>
+</resources>

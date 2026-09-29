@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">যেনে, মনোজৰ Pixel ফ’ন</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">আপোনাৰ প্ৰাইভেট স্পেচৰ জৰিয়তে ব্যৱহাৰ কৰিবলৈ এটা Google একাউণ্টত ছাইন ইন কৰক</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">OpenRoaming ছাবস্ক্ৰিপশ্বন চাওক অথবা সলনি কৰক</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">আপোনাৰ বেটাৰীটোত চাৰ্জ অধিক সময়ৰ বাবে ৰখাত সহায় কৰিবলৈ গাঢ় ৰঙৰ থীমে এখন ক’লা ৰঙৰ পটভূমি ব্যৱহাৰ কৰে। গাঢ় ৰঙৰ থীমে আপোনাৰ স্ক্রীনখন অফ হোৱালৈ অপেক্ষা কৰিবলগীয়া সময়সূচী নিৰ্ধাৰণ কৰে।</string>
+    <string name="dark_ui_text_force_invert">বেটাৰীৰ ব্যৱহাৰ হ্ৰাস কৰিবলৈ আৰু আপোনাৰ স্ক্ৰীনখন চোৱাটো অধিক আৰামদায়ক কৰিবলৈ এটা গাঢ় ৰঙৰ পটভূমি ব্যৱহাৰ কৰক। যদি আপোনাৰ সময়সূচী আছে, স্ক্ৰীন অফ হ’লে আপোনাৰ থীম সলনি হ’ব।</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">ৰং, থীমযুক্ত চিহ্ন, এপৰ গ্ৰিড</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">হাব ম’ড</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">ডক আৰু লক স্ক্ৰীনৰ বিকল্প</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">Gemini লঞ্চ কৰক</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">বিশেষভাৱে সক্ষম লোকৰ বাবে Googleৰ সহায় দলৰ সৈতে যোগাযোগ কৰক</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">টেলিকইলৰ জৰিয়তে সুসংগতা উন্নত কৰিবলৈ অডিঅ’ৰ ভলিউম বঢ়াব পাৰে আৰু নিবিচৰা ধ্বনিসমূহ কম কৰিব পাৰে</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">দৃষ্টিশক্তি, শ্ৰৱণশক্তি, দৃষ্টিশক্তিহীন, শ্ৰৱণশক্তিহীন, মটৰ, দক্ষতা, সহায়তা, সহায়ক, ব্যৱহাৰ কৰাৰ বাবে সুবিধাজনক, এক্সেছ কৰাৰ বাবে সুবিধাজনক, হাত, সহায়</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">স্ক্ৰীন ৰীডাৰ, ভইচ অ’ভাৰ, ভইচঅ’ভাৰ, ধ্বনিৰ সহায়ত ডিভাইচৰ ব্যৱহাৰ, অন্ধ, কম দৃষ্টিশক্তি, TTS, পাঠৰ পৰা কথন, কথিত মতামত</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">কেপশ্বন, ক্ল’জ্‌ড কেপশ্বন, CC, লাইভ কেপশ্বন, কমকৈ শুনা, শ্ৰৱণশক্তিৰ ক্ষয়, CART, কথনৰ পৰা পাঠ, ছাবটাইটেল</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">জাননী কমকৈ শুনা, শ্ৰৱণশক্তিৰ ক্ষয়, জাননী দিয়ক</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">PSAP, পৰিৱৰ্ধন কৰক, ধ্বনি পৰিৱৰ্ধন, কমকৈ শুনা, শ্ৰৱণশক্তিৰ ক্ষয়, পৰিৱৰ্ধন</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">পাঠ শুনক, ডাঙৰকৈ পঢ়ক, স্ক্ৰীনখন পঢ়ক, স্ক্ৰীন ৰীডাৰ, ডিছলেক্সিয়া, কথা ক’বলৈ বাছনি কৰক</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">মটৰ, ক্ষিপ্ৰ মেনু, সহায়ক মেনু, স্পৰ্শ, দক্ষতা, অৰ্থ্ৰাইটিছ, আৰএছআই, ষ্ট্ৰ’ক, ট্ৰিম’ৰ, একাধিক স্ক্লেৰ’চিছ, চেৰেব্ৰেল পলছি, বুটাম, হাৰ্ডৱেৰ, প্ৰেছ কৰা, পুনৰাবৃত্তিমূলক ষ্ট্ৰেইন আঘাত, হাত, যন্ত্ৰণা, এক্সেছ কৰিব পৰা, সহায়</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">মটৰ, সলনি কৰক, হাত, AT, সহায়ক প্ৰযুক্তিবিদ্যা, পক্ষাঘাত, ALS, স্কেনিং, ষ্টেপ স্কেনিং</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">কণ্ঠধ্বনি, কণ্ঠধ্বনিৰ নিয়ন্ত্ৰণ, মটৰ, হাত, মাইক, মাইক্ৰ’ফ’ন, শ্ৰুতিলিখন, কথা কোৱা, নিয়ন্ত্ৰণ</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">অভিযোজিত বেটাৰী অন কৰক</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">অভিযোজিত অগ্ৰাধিকাৰ</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">বেটাৰীৰ জীৱনকাল বৃদ্ধি কৰিবলৈ অভিযোজিত বেটাৰীয়ে কাৰ্যদক্ষতা অথবা নেপথ্যৰ কাৰ্যকলাপ হ্ৰাস কৰিব পাৰে। কিছুমান জাননী লাভ কৰাত পলম হ’ব পাৰে।</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">বেটাৰীৰ জীৱনকাল বৃদ্ধি কৰক আৰু চাৰ্জিং অপ্টিমাইজ কৰক</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">বেটাৰীৰ জীৱনকাল বৃদ্ধি কৰক</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">অধিক জানক</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">ডিভাইচ ডেটা (যেনে ৱাই-ফাই পাছৱর্ডবোৰ আৰু কলৰ ইতিহাস) আৰু এপ্ ডেটা (যেনে এপ্বোৰে ষ্ট’ৰ কৰা ছেটিং আৰু ফাইলবোৰ)ৰ বেক আপ লোৱা বন্ধ কৰাৰ লগতে Google Driveৰ আটাইবোৰ প্ৰতিলিপি মচিবনে?</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">Google ড্ৰাইভত ডিভাইচৰ ডেটা (যেনে ৱাই-ফাই পাছৱৰ্ড আৰু কলৰ ইতিহাস) আৰু এপ্ ডেটাৰ (যেনে ছেটিং আৰু এপ্‌সমূহৰ দ্বাৰা ষ্ট\'ৰ কৰা ফাইলসমূহ) স্বয়ংক্ৰিয়ভাৱে বেক আপ লয়৷\n\nআপুনি স্বয়ংক্ৰিয় বেক আপ অন কৰাৰ সময়ত, ডিভাইচ আৰু এপ্ ডেটাক নিৰ্দিষ্ট সময়ৰ মূৰে-মূৰে Google Driveৰ এটা ব্যক্তিগত ফ\'ল্ডাৰত ছেভ কৰা হয়৷ সম্পৰ্কসমূহ, বাৰ্তাসমূহ আৰু ফট\'সমূহৰ দৰে সাম্ভাৱ্য সংবেদনশীল ডেটাক অন্তৰ্ভুক্ত কৰি, এপ্ ডেটা যিকোনো ডেটা হ\'ব পাৰে যিবোৰক কোনো এপে ছেভ কৰে (বিকাশকৰ্তাৰ ছেটিংসমূহৰ ওপৰত ভিত্তি কৰি)৷\n\nবেক আপ ডেটাক আপোনাৰ ষ্ট\'ৰেজ কোটাৰ লগত হিচাপ কৰা নহয়৷ ডাঙৰ ফাইলসমূহ বা ফাইল বিকাশকৰ্তাই সেৱাৰ পৰা বাদ দিবলৈ বাছনি কৰা ফাইলসমূহৰ বেক আপ লোৱা নহয়৷</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">Assistant, শেহতীয়া এপ্‌সমূহ, ডিফ’ল্ট এপ্‌সমূহ</string>
+    <string name="keywords_gesture">আঙুলিৰ স্পৰ্শৰে নিৰ্দেশ, গতিবিধি</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">ভলিউম আৰু হেপ্‌টিক্স</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">প্ৰকৃত অভিজ্ঞতা দিয়া অডিঅ’</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">ফাইল স্থানান্তৰণ / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">গাঢ় ৰঙৰ থীম, ফণ্টৰ আকাৰ, স্পৰ্শ</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">স্মাৰ্ট ষ্ট’ৰেজ</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">ষ্ট\'ৰেজ প্ৰায় পূর্ণ হ\'লে বেক আপ লৈ থোৱা ফট\' আৰু ভিডিঅ\'সমূহ আঁতৰাওক৷ আপুনি সেইবোৰ আঁতৰালেও Google  Photosত বিচাৰি পাব৷</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">বেক আপ লোৱা ফট\' আৰু ভিডিঅ\'সমূহ আঁতৰাওক</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">স্মাৰ্ট ষ্ট\'ৰেজ</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">স্মাৰ্ট ষ্ট’ৰেজ ব্যৱহাৰ কৰক</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">Pixel কেমেৰাত ছেল্ফী ম’ড খুলিবলৈ অথবা বন্ধ কৰিবলৈ আপুনি এপ্‌টো ব্যৱহাৰ কৰাৰ সময়ত ডিভাইচটো দুবাৰ ঘূৰাওক।</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">আপুনি যেতিয়া সংযুক্ত হয়, তেতিয়াও আপুনি বেকআপ লোৱাৰ সময়ত বাছনি কৰা মানতেই ফট\' আৰু ভিডিঅ\'সমূহ এক্সেছ কৰিব পাৰে</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">স্মাৰ্ট ষ্ট’ৰেজ অফ কৰিবনে? \n\nআপোনাৰ ষ্ট’ৰেজ প্ৰায় পূর্ণ হ\'লে স্মাৰ্ট ষ্ট’ৰেজে খালী ঠাই নুলিয়াব।</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Google একাউণ্ট</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">এপ্‌ ডেটা ব্যৱহাৰ কৰি ব্যক্তিগতকৰণ কৰক</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">প্ৰকৃত সময়ৰ বাৰ্তা (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">দৃশ্যমান নহয়</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">কল কৰি থকা সময়ত দৃশ্যমান</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">সদায় দৃশ্যমান</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">ফিশ্বিং বা অন্য প্ৰতাৰণামূলক আচৰণৰ বাবে এপৰ কাৰ্যকলাপ পৰীক্ষা কৰি থাকিবলৈ আপোনাৰ ডিভাইচত ব্যক্তিগতভাৱে স্কেনিং চলি থাকে। যদি এইটো ধৰা পৰে, ভাবুকিটো নিশ্চিত কৰিবলৈ আৰু এপৰ ব্যৱহাৰকাৰীসকলক সতৰ্ক কৰিবলৈ কিছুমান এপৰ তথ্য Google Play Protectলৈ প্ৰেৰণ কৰা হয়।</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">এইটো হৈছে এটা সুৰক্ষিত সুৰক্ষা সম্পৰ্কীয় সুবিধা। কোনো ডিভাইচ বা ব্যক্তিগত তথ্য Googleৰ সৈতে শ্বেয়াৰ কৰা নহয়। \n\nফিশ্বিং হৈছে ছাইন-ইন ক্ৰিডেনশ্বিয়েলসমূহ বা অন্য ব্যক্তিগত তথ্য চুৰি কৰাৰ এটা প্ৰয়াস।</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">মাউছৰ কাৰ্ছৰডাল লৰচৰ কৰি থাকিলে পইণ্টাৰ দেখুৱাবলৈ অনুমতি দিয়ক</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">পৰিচয় পৰীক্ষা কৰা সুবিধা আৰু Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">এটা সংযোগ কৰি ৰখা Pixel Watchৰ জৰিয়তে, পৰিচয় পৰীক্ষা কৰাৰ সুবিধাই এয়া আপুনি বুলি সত্যাপন কৰাৰ আৰু আপোনাৰ এপৰ অনাকাংক্ষিত এক্সেছ ৰোধ কৰে</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">পৰিচয় পৰীক্ষা কৰা সুবিধা আৰু Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">আপডে’ট: &lt;ul&gt;&lt;li&gt;এটা Pixel Watch 3 বা পৰৱৰ্তী সংস্কৰণৰ ঘড়ী সংযোগ কৰি, আপুনি কোনো বিশ্বাসযোগ্য স্থানত নথকা অৱস্থাত এপ্‌সমূহ এক্সেছ কৰিবলৈ আপুনি হয় বায়’মেট্ৰিক বা পিন ব্যৱহাৰ কৰিব পাৰে। &lt;/li&gt;&lt;li&gt;সময়ৰ লগে লগে, পৰিচয় পৰীক্ষা কৰাৰ সুবিধাই এয়া আপুনি বুলি সত্যাপন কৰাৰ আৰু আপোনাৰ ডিভাইচৰ এপ্‌সমূহ সুৰক্ষিত কৰাৰ অধিক উপায় যোগ দিব পাৰে। &lt;a href=https://support.google.com/android?p=identity_check&gt;আপুনি কেতিয়া আৰু ক’ত সুৰক্ষিত হয় সেই বিষয়ে অধিক জানক&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">পৰিচয় পৰীক্ষা কৰা সুবিধাটো আৰু আপোনাৰ Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">এটা সংযোগ কৰি ৰখা Pixel Watchৰ জৰিয়তে, পৰিচয় পৰীক্ষা কৰাৰ সুবিধাই এয়া আপুনি বুলি সত্যাপন কৰাৰ আৰু আপোনাৰ এপৰ অনাকাংক্ষিত এক্সেছ ৰোধ কৰে</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">Play Protect স্কেনিঙৰ সুবিধাটো অন আছে</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">Play Protectএ ক্ষতিকাৰক আচৰণৰ বিষয়ে জানিবলৈ আপোনাৰ এপ্‌ আৰু ডিভাইচ নিয়মীয়াকৈ পৰীক্ষা কৰে। কোনো সুৰক্ষাজনিত বিপদাশংকা দেখা পালে আপোনাক জনোৱা হ’ব।</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">এপৰ সুৰক্ষা, Play Protect, Google Play Protect, এপৰ সুৰক্ষা</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">Google একাউণ্টটো সুৰক্ষিত</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Google সুৰক্ষা সম্পৰ্কীয় পৰীক্ষা, Google সুৰক্ষা , সুৰক্ষা সম্পৰ্কীয় পৰীক্ষা, একাউণ্টৰ সুৰক্ষা, Google একাউণ্টৰ সুৰক্ষা, Google একাউণ্ট</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">Find hub, ডিভাইচ বিচাৰি থকা হৈছে, Find my device, হেৰুওৱা ডিভাইচ</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">আপডে’টসমূহ, আপডে’ট, ছিষ্টেম আপডে’ট, ছিষ্টেম আপডে’টসমূহ, Google Play ছিষ্টেম আপডে’ট, Play ছিষ্টেম আপডে’ট</string>
+</resources>

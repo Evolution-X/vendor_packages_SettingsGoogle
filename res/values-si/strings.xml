@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">උදාහරණයක් ලෙස, ජෝගේ Pixel.</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">ඔබේ පුද්ගලික ඉඩ සමග භාවිත කිරීමට Google ගිණුමකට පුරන්න</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">OpenRoaming දායකත්වය බලන්න නැතහොත් වෙනස් කරන්න</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">අඳුරු තේමාව ඔබේ බැටරිය දිගු කාලයක් සජීවිව තබා ගැනීම සඳහා සහාය වීමට කළු පසුබිමක් භාවිත කරයි. අඳුරු තේමා කාල සටහන් ක්‍රියාත්මක වීමට ඔබගේ තිරය ක්‍රියාවිරහිත වන තෙක් රැඳී සිටී.</string>
+    <string name="dark_ui_text_force_invert">බැටරි භාවිතය අඩු කිරීමට සහ ඔබේ තිරය බැලීමට වඩාත් සුවපහසු කිරීමට අඳුරු පසුබිමක් භාවිතා කරන්න. ඔබට කාලසටහනක් තිබේ නම්, තිරය ක්‍රියා විරහිත වූ විට ඔබේ තේමාව වෙනස් වනු ඇත.</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">වර්ණ, තේමා නිරූපක, යෙදුම් ජාලකය</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">මධ්‍යස්ථාන ප්‍රකාරය</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">ඩොක් සහ අගුළු තිර විකල්ප</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">Gemini දියත් කරන්න</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">Google ආබාධිත සහය සම්බන්ධ කර ගන්න</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">ටෙලිකොයිල් සමග ගැළපෙන බව වැඩි දියුණු කිරීමට සහ අනවශ්‍ය ශබ්දය අඩු කිරීමට ශ්‍රව්‍ය පරිමාව වැඩි කළ හැක</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">දර්ශනය, ශ්‍රවණය, අන්ධ, බිහිරි, චාලක, හුරුකම, සහායක, සහාය, භාවිතයේ පහසුව, ප්‍රවේශයේ පහසුව, අත, උදවු</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">තිර කියවනය, වොයිස් ඕවර්, වොයිස්ඕවර්, හඬ සහාය, අන්ධ, අඩු දෘශ්‍යතාව, TTS, පෙළ සිට කථනය, කථන ප්‍රතිපෝෂණය</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">සිරස්තල, සංවෘත සිරස්තල, CC, සජීවී සිරස්තල, ඇසීමට අපහසු, ශ්‍රවණය අහිමි, CART, කථනයෙන් පෙළට, උපසිරැසි</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">දැනුම්දීම්, ඇසීමට අපහසු, ශ්‍රවණය අහිමි, දැනුම් දෙන්න</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">PSAP, විස්තාරක, හඬ වර්ධකය, ඇසීමට අපහසු, ශ්‍රවණය අහිමි, විස්තාරකය</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">පෙළ අසන්න, ශබ්ද නඟා කියවන්න, කතා කරන්න තිරය, තිර කියවනය, ඩිස්ලෙක්සියා, කථා කිරීමට තෝරන්න</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">චාලක, ඉක්මන් මෙනුව, සහාය මෙනුව, ස්පර්ශය, හුරුකම, ආතරයිටිස්, rsi, ආඝාතය, වෙව්ලීම, බහු දෘඩවීම, මස්තිෂ්ක අංශභාගය, බොත්තම්, දෘඩාංග, ඔබන්න, පුනරාවර්තන වික්‍රියා තුවාල, අත, වේදනාව, ප්‍රවේශ විය හැකි, උදවු</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">මෝටරය, ස්විචය, අත, AT, උපකාරක තාක්ෂණය, අංශභාගය, ALS, ස්කෑන් කිරීම, පියවර ස්කෑන් කිරීම</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">හඬ, හඬ පාලනය, මෝටරය, අත, මයික්, මයික්‍රෆෝනය, අනුලේඛනය, කතාව, පාලනය</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">අනුවර්තනීය බැටරිය ක්‍රියාත්මක කරන්න</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">අනුවර්තී මනාප</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">බැටරි ආයු කාලය දිගු කිරීමට, අනුවර්තනීය බැටරිය කාර්ය සාධනය සහ පසුබිම් ක්‍රියාකාරිත්වය අඩු කළ හැකිය. සමහර දැනුම්දීම් ප්‍රමාද විය හැකිය.</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">බැටරි ආයු කාලය දිගු කරන්න සහ ආරෝපණය ප්‍රශස්ත කරන්න</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">බැටරි ආයු කාලය දිගු කරන්න</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">තව දැන ගන්න</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">උපාංග දත්ත (Wi-Fi මුරපද සහ ඇමතුම් ඉතිහාසය යනාදී) සහ යෙදුම් දත්ත (යෙදුම් මගින් ගබඩා කළ සැකසීම් සහ ගොනු යනාදී) උපස්ථ කිරීම සහ Google Drive වල සියලු පිටපත් මැකීම නවත්වන්නද?</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">Google Drive වෙත උපාංග දත්ත (Wi-Fi මුරපද සහ ඇමතුම් ඉතිහාසය යනාදී) සහ යෙදුම් දත්ත (සැකසීම් සහ යෙදුම් විසින් ගබඩා කළ ගොනු යනාදී) ස්වයංක්‍රියව උපස්ථ කරයි.\n\nඔබ ස්වයංක්‍රිය උපස්ථ කිරීම ක්‍රියාත්මක කළ විට, උපාංග සහ යෙදුම් දත්ත වරින් වර Google Drive හි පුද්ගලික ෆෝල්ඩරයක් වෙත සුරැකෙනු ඇත. යෙදුම් දත්ත යනු විභව්‍ය වශයෙන් සංවේදී සම්බන්ධතා, පණිවිඩ, සහ ඡායාරූප ඇතුළුව, යම් යෙදුමක් විසින් සුරැක ඇති (සංවර්ධක සැකසීම් මත පදනම්ව), කිනම් හෝ දත්ත විය හැකිය.\n\nඋපස්ථ දත්ත ඔබේ Drive ගබඩා පංගුව සඳහා ගණන් නොගැනෙනු ඇත. විශාල ගොනු, හෝ සංවර්ධකයන් විසින් සේවාව වෙතින් බැහැර කිරීමට තෝරා ඇති ගොනු උපස්ථ නොකරනු ඇත.</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">සහකරු, මෑත යෙදුම්, පෙරනිමි යෙදුම්</string>
+    <string name="keywords_gesture">ඉංගිත, චලන</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">හඬ පරිමාව සහ ස්පර්ශ</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">අවකාශීය ශ්‍රව්‍ය</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">ගොනු මාරුව / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">අඳුරු තේමාව, අකුරු තරම, ස්පර්ශය</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">ස්මාර්ට් ගබඞාව</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">ගබඩාව පිරුණු විට, උපස්ථ කළ ඡායාරූප සහ වීඩියෝ ඉවත් කරන්න. ඔබට ඒවා තවම Google ඡායාරූප තුළ සොයා ගත හැකිය.</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">උපස්ථ කළ ඡායාරූප සහ වීඩියෝ ඉවත් කරන්න</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">ස්මාර්ට් ගබඞාව</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">ස්මාර්ට් ගබඩාව භාවිත කරන්න</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">Pixel කැමරාව තුළ සෙල්ෆී ප්‍රකාරයට සහ එයින් ඉවතට මාරු වීමට, ඔබ යෙදුම තුළ සිටින විට දෙවරක් කරකවන්න.</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">ඔබ සම්බන්ධ වී ඇති විට, ඔබ උපස්ථය සඳහා තෝරා ඇති ගුණත්වයේදී ඔබට තවම ඡායාරූප සහ වීඩියෝ වෙත ප්‍රවේශ විය හැකිය</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">ස්මාර්ට් ගබඞාව ක්‍රියා විරහිත කරන්නද? \n\nඔබගේ ගබඩාව මුළුමනින්ම පාහේ පිරී තිබෙන විට ස්මාර්ට් ගබඞාව හට ඉඩ නිදහස් කිරීමට නොහැක.</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">Google ගිණුම</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">යෙදුම් දත්ත භාවිතයෙන් පෞද්ගලීකරණය</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">තථ්‍ය කාල පෙළ (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">දෘශ්‍යමාන නොවේ</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">ඇමතුම අතරතුර දෘශ්‍යමාන වේ</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">සැමවිට දෘශ්‍යමානයි</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">ස්කෑන් කිරීම තතුබෑම් හෝ වෙනත් රැවටිලිකාර හැසිරීම් සඳහා යෙදුම් ක්‍රියාකාරකම් පරීක්ෂා කරමින්, ඔබේ උපාංගයෙහි පෞද්ගලිකව ධාවනය වේ. එය අනාවරණය වුවහොත්, තර්ජනය තහවුරු කිරීමට සහ යෙදුම් පරිශීලකයින්ට අනතුරු ඇඟවීමට සමහර යෙදුම් තතු Google Play Protect වෙත යවනු ලැබේ.</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">මෙය ආරක්ෂිත ආරක්ෂක විශේෂාංගයකි. Google සමග උපාංගයක් හෝ පුද්ගලික තතු කිසිවක් බෙදා නොගනී. \n\nතතුබෑම යනු පුරනය වීමේ අක්තපත්‍ර හෝ වෙනත් පුද්ගලික තතු සොරකම් කිරීමේ උත්සාහයකි.</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">සැරිසරන අතරේ දර්ශක පෙන්වීමට යෙදුම් වලට ඉඩ දෙන්න</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">අනන්‍යතා පරීක්ෂාව සහ Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">සම්බන්ධිත Pixel Watch එකක් සමග, අනන්‍යතා පරීක්ෂාව යෙදුම් වෙත අනවශ්‍ය ප්‍රවේශය වැළැක්වීම සඳහා ඒ ඔබ බව සත්‍යාපනය කර ගැනීමට තවත් ක්‍රම එක් කරයි</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">අනන්‍යතා පරීක්ෂාව සහ Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">යාවත්කාලීන: &lt;ul&gt;&lt;li&gt;Pixel Watch 3 හෝ ඊට පසු එකක් සම්බන්ධ කිරීමෙන්, ඔබ විශ්වාසදායක ස්ථානයක නොමැති විට යෙදුම් වෙත ප්‍රවේශ වීමට ඔබට ජෛවමිතික හෝ ඔබේ PIN අංකය භාවිතා කළ හැක. &lt;/li&gt;&lt;li&gt;කාලයත් සමග, අනන්‍යතා පරීක්ෂාව ඒ ඔබ බව තහවුරු කර ගැනීමට සහ ඔබේ උපාංගයේ යෙදුම් සුරක්ෂිත කිරීමට තවත් ක්‍රම එක් කළ හැක. &lt;a href=https://support.google.com/android?p=identity_check&gt;ඔබ ආරක්ෂා කර ඇති විට සහ ස්ථානය ගැන තව දැන ගන්න&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">අනන්‍යතා පරීක්ෂාව සහ ඔබේ Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">සම්බන්ධිත Pixel Watch එකක් සමග, අනන්‍යතා පරීක්ෂාව යෙදුම් වෙත අනවශ්‍ය ප්‍රවේශය වැළැක්වීම සඳහා ඒ ඔබ බව සත්‍යාපනය කර ගැනීමට තවත් ක්‍රම එක් කරයි</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">Play ආරක්‍ෂාව ස්කෑන් කිරීම ක්‍රියාත්මකයි</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">Play ආරක්ෂාව නිතිපතා ඔබේ යෙදුම් සහ උපාංගය හානිකර හැසිරීම් සඳහා පරීක්ෂා කරයි. හමු වූ යම් ආරක්ෂක අවදානම් පිළිබඳව ඔබට දැනුම් දෙනු ඇත.</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">යෙදුම් සුරක්‍ෂිතතාව, Play ආරක්‍ෂාව, Google Play ආරක්‍ෂාව, යෙදුම් ආරක්‍ෂාව</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">Google ගිණුම ආරක්ෂිතයි</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">Google ආරක්‍ෂක පරීක්‍ෂාව, Google ආරක්‍ෂාව, ආරක්‍ෂක පරීක්‍ෂාව, ගිණුම් ආරක්‍ෂාව, Google ගිණුම් ආරක්‍ෂාව, Google ගිණුම</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">සෙවීම් මධ්‍යස්ථානය, උපාංග සොයා ගැනීම්, මගේ උපාංගය සෙවීම, නැති වූ උපාංගය</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">යාවත්කාලීන, යාවත්කාලීනය, පද්ධති යාවත්කාලීනය, පද්ධති යාවත්කාලීන, Google Play පද්ධති යාවත්කාලීනය, Play පද්ධති යාවත්කාලීනය</string>
+</resources>

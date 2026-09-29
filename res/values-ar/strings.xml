@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">‏جهاز Pixel الخاص بهاني مثلاً</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">‏سجِّل الدخول إلى حساب Google لاستخدام هذه الميزة مع مساحتك الخاصة.</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">‏عرض اشتراك OpenRoaming أو تغييره</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">يستخدِم \"المظهر الداكن\" خلفية سوداء لتوفير طاقة البطارية والحفاظ عليها لفترة أطول. لا يتم تفعيل الجداول الزمنية لعمل \"المظهر الداكن\" إلا بعد قفل الشاشة.</string>
+    <string name="dark_ui_text_force_invert">يمكنك استخدام خلفية داكنة لتقليل استهلاك البطارية وجعل الشاشة أكثر راحةً للعين. سيتغيّر المظهر عندما تنطفئ الشاشة إذا ضبطت جدولاً زمنيًا.</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">الألوان، والرموز المستوحاة من موضوع معيّن، وشبكة التطبيقات</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">وضع الإرساء</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">خيارات الإرساء وشاشة القفل</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">‏تشغيل Gemini</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">‏التواصل مع فريق الدعم في Google المخصّص لذوي الاحتياجات الخاصة</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">قد يزيد هذا الخيار من مستوى الصوت لتحسين التوافق مع الملفات المغناطيسية وتقليل الضوضاء غير المرغوب فيها</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">نظر، سمع، كفيف، أصم، مهارات حركية، مهارات، مساعِد، مساعدة، سهولة الاستخدام، سهولة الوصول، يد، مساعدة</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">قارئ الشاشة، تعليق صوتيّ، تعليقات صوتية، مساعدة صوتية، كفيف، ضعف في النظر، تحويل النص إلى كلام، الوصف الشفهي للشاشة</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">‏شرح، ترجمة وشرح، CC، النسخ النصي التلقائي، ضعيف السمع، فقدان السمع، الترجمة في الوقت الفعلي، تحويل الكلام إلى نص، ترجمة</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">الإشعارات، ضعيف السمع، فقدان السمع، إشعار</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">‏مركز اتصال لإحالة مكالمات السلامة العامة (PSAP)، تضخيم الصوت، مضخّم الصوت، ضعيف السمع، فقدان السمع، التكبير</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">سماع النص، القراءة بصوت عالٍ، قراءة المحتوى الظاهر على الشاشة، قارئ الشاشة، عسر القراءة، سماع الاختيار</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">مهارات حركية، قائمة سريعة، قائمة مساعدة، لمس، مهارات يدوية، التهاب المفاصل، إصابة الإجهاد المتكرر، سكتة دماغية، رّعاش، تصلّب متعدد، شلل دماغي، زر، أجهزة، ضغط، إصابة الإجهاد المتكرر، يد، ألم، سهلة الاستخدام، مساعدة</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">المهارات الحركية، مفتاح التبديل، اليد، التكنولوجيا المساندة، التكنولوجيا المساعدة، الشلل، داء اعتلال الأعصاب الحركية، المسح الضوئي، المسح المرحلي.</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">الصوت، التحكّم الصوتي، اليد، الميكروفون، المايك، الإملاء، التحدّث، التحكّم</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">تفعيل ميزة \"البطارية التكيّفية\"</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">الإعدادات المفضّلة للميزات التكيُّفية</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">لإطالة عمر البطارية، قد تعمل ميزة \"البطارية التكيُّفية\" على تقليل مستوى الأداء والنشاط في الخلفية، وبالتالي قد يتأخّر ظهور بعض الإشعارات.</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">إطالة عمر البطارية وتحسين عملية الشحن</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">إطالة عمر البطارية</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">مزيد من المعلومات</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">‏هل تريد إيقاف الاحتفاظ بنسخة احتياطية من بيانات الجهاز (مثل كلمات مرور Wi-Fi وسجل المكالمات) وبيانات التطبيقات (مثل الإعدادات والملفات التي تخزنها التطبيقات) بالإضافة إلى محو بيانات جميع النسخ الموجودة على Google Drive؟</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">‏بإمكانك الاحتفاظ تلقائيًا بنسخة احتياطية من بيانات الجهاز (مثل كلمات مرور Wi-Fi وسجل المكالمات) وبيانات التطبيقات (مثل الإعدادات والملفات التي تخزنها التطبيقات) في Google Drive.\n\nعند تفعيل الاحتفاظ التلقائي بنسخة احتياطية، يتم حفظ بيانات الجهاز وبيانات التطبيقات بشكل دوري في مجلد خاص في Google Drive. ويمكن أن تكون بيانات التطبيقات أي بيانات تم حفظها في التطبيق (استنادًا إلى إعدادات مطوّر البرامج) بما في ذلك البيانات المحتمل أن تكون حساسة مثل جهات الاتصال والرسائل والصور.\n\nلا يتم حساب بيانات النسخة الاحتياطية من حصتك في تخزين Drive كما لن يتم الاحتفاظ بنسخة احتياطية من الملفات الكبيرة أو الملفات التي اختار مطورو التطبيقات استبعادها من الخدمة.</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">‏\"مساعد Google\" والتطبيقات المُستخدمة مؤخرًا والتطبيقات التلقائية</string>
+    <string name="keywords_gesture">إيماءة، حركات</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">مستوى الصوت وتقنية اللمس</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">الصوت المكاني</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">‏نقل الملفات / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">المظهر الداكن وحجم الخط وإعدادات اللمس</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">التخزين الذكي</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">‏عندما توشك مساحة التخزين على الامتلاء، عليك إزالة الصور والفيديوهات التي تم الاحتفاظ بنسخة احتياطية منها؛ وسيظل بإمكانك العثور عليها في \"صور Google\".</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">إزالة الصور والفيديوهات التي لديك نسخة احتياطية منها</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">التخزين الذكي</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">استخدام ميزة \"التخزين الذكي\"</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">‏لتفعيل وضع \"صورة سيلفي\" أو إيقافه في \"كاميرا Pixel\"، عليك لفّ الهاتف مرتين أثناء استخدام التطبيق.</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">عند الاتصال، سيظل بإمكانك الوصول إلى الصور والفيديوهات بالجودة التي اخترتها للنسخ الاحتياطي.</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">هل تريد إيقاف التخزين الذكي؟ \n\nلن يؤدي التخزين الذكي إلى إخلاء بعض المساحة عند امتلاء مساحة التخزين تقريبًا.</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">‏حساب Google</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">التخصيص باستخدام بيانات التطبيقات</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">‏المراسلة النصية في الوقت الفعلي (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">غير مرئية</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">مرئية أثناء المكالمة</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">مرئية دائمًا</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">‏تجري عمليات الفحص بخصوصية تامة على جهازك مباشرةً للتحقُّق من النشاط على التطبيقات بحثًا عن محاولات التصيّد الاحتيالي أو السلوكيات المخادعة الأخرى. وفي حال رصد سلوكيات مريبة بتطبيق ما، تُرسَل بياناته إلى ميزة \"Google Play للحماية\" من أجل تأكيد التهديد وتحذير المستخدمين.</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">‏هذه ميزة أمان محمية. لا تتم مشاركة أي معلومات شخصية أو معلومات حول الجهاز مع Google. \n\nالتصيّد الاحتيالي هو محاولة للاستيلاء على بيانات اعتماد تسجيل الدخول أو غيرها من المعلومات الشخصية.</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">السماح للتطبيقات بعرض المؤشر أثناء التمرير بقلم الشاشة</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">‏ميزة \"التحقّق من الهوية\" وساعة Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">‏عندما تكون ساعة Pixel Watch متصلة بالجهاز، تضيف ميزة \"التحقّق من الهوية\" المزيد من الطرق لإثبات هويتك من أجل منع الوصول غير المرغوب فيه إلى التطبيقات</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">‏ميزة \"التحقّق من الهوية\" وساعة Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">‏التحديثات: &lt;ul&gt;&lt;li&gt;عند ربط ساعة Pixel Watch 3 أو إصدار أحدث، يمكنك استخدام المقاييس الحيوية أو رقم التعريف الشخصي للوصول إلى التطبيقات عند تواجدك خارج الأماكن الموثوق بها. &lt;/li&gt;&lt;li&gt;بمرور الوقت، قد تضيف ميزة \"التحقّق من الهوية\" المزيد من الطُرق لإثبات هويتك والحفاظ على أمان التطبيقات المثبَّتة على جهازك. &lt;a href=https://support.google.com/android?p=identity_check&gt;مزيد من المعلومات حول أوقات وأماكن توفير الحماية&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">‏ميزة \"التحقّق من الهوية\" وساعة Pixel Watch</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">‏عندما تكون ساعة Pixel Watch متصلة بالجهاز، تضيف ميزة \"التحقّق من الهوية\" المزيد من الطرق لإثبات هويتك من أجل منع الوصول غير المرغوب فيه إلى التطبيقات</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">‏ميزة الفحص بواسطة خدمات \"Play للحماية\" مفعّلة</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">‏تفحص خدمات \"Play للحماية\" تطبيقاتك وجهازك بشكل دوري بحثًا عن أيّ سلوك ضار. وسيصلك إشعار بأي مخاطر أمان يتم رصدها.</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">‏أمان التطبيقات، Play للحماية، Google Play للحماية، سلامة التطبيقات</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">‏حساب Google محمي</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">‏فحص الأمان من Google، أمان Google، فحص الأمان، أمان الحساب، أمان حساب Google، حساب Google</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">مركز العثور، العثور على الأجهزة، العثور على جهازي، جهاز مفقود</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">‏تحديثات، تحديث، تحديث النظام، تحديثات النظام، تحديث نظام Google Play، تحديث نظام Play</string>
+</resources>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">ឧ. ទូរសព្ទ Pixel របស់សុភាព។</string>
+
+    <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
+    <string name="private_space_retry_summary">ចូលគណនី Google ដើម្បីប្រើជាមួយលំហឯកជនរបស់អ្នក</string>
+
+    <!-- Summary text for the subscription preference. [CHAR LIMIT=NONE] -->
+    <string name="wifi_subscription_summary">មើល ឬប្ដូរ​ការជាវ OpenRoaming</string>
+
+    <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
+    <string name="dark_ui_text">ទម្រង់រចនាងងឹតប្រើផ្ទៃខាងក្រោយ​ពណ៌ខ្មៅ ដើម្បីជួយរក្សា​ថាមពលថ្ម​របស់អ្នក​ឱ្យនៅ​បានកាន់តែយូរ។ កាលវិភាគទម្រង់រចនាងងឹតរង់ចាំបើក រហូតទាល់តែ​អេក្រង់​របស់អ្នក​ត្រូវបានបិទ។</string>
+    <string name="dark_ui_text_force_invert">ប្រើផ្ទៃខាងក្រោយងងឹត ដើម្បីកាត់បន្ថយការប្រើប្រាស់ថ្ម និងធ្វើឱ្យអេក្រង់របស់អ្នកកាន់តែស្រួលក្នុងការមើល។ ទម្រង់រចនារបស់អ្នកនឹងផ្លាស់ប្ដូរ នៅពេលអេក្រង់បិទ ប្រសិនបើអ្នកមានកាលវិភាគ។</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">ពណ៌ រូបតំណាងប្ដូរតាមទម្រង់រចនា ក្រឡាកម្មវិធី</string>
+
+    <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
+    <string name="communal_settings_title">មុខងារមណ្ឌល</string>
+
+    <!-- Summary of the communal settings under Settings > Communal [CHAR LIMIT=50] -->
+    <string name="communal_settings_summary">ជម្រើសអេក្រង់ចាក់សោ និងភ្ជាប់</string>
+
+    <!-- Radio button text for 'launch assistant' action. This is one of multiple actions the user can select from the three finger tap customization radio group. The action if selected will launch the Assistant when a three-finger tap is performed on a touchpad. [CHAR LIMIT=35] -->
+    <string name="three_finger_tap_launch_gemini">បើកដំណើរការ Gemini</string>
+
+    <!-- Title for button preference to start disability support [CHAR LIMIT=NONE] -->
+    <string name="accessibility_disability_support_title">ទាក់ទងទៅផ្នែកជំនួយពិការភាព Google</string>
+
+    <!-- Message for the Hearing Aid Compatibility disclaimer dialog. The dialog will not show if this string is empty. [CHAR LIMIT=NONE] -->
+    <string name="hac_disclaimer_message">អាចដំឡើងកម្រិត​សំឡេង ដើម្បីកែលម្អភាពត្រូវគ្នាជាមួយខ្សែទទួលសញ្ញាសំឡេង និងកាត់បន្ថយសំឡេងរំខានដែលមិនចង់បាន</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility">ការមើល, ការស្ដាប់ឮ, ងងឹតភ្នែក, ថ្លង់, ចលនា, ភាពស្ទាត់ជំនាញ, ជំនួយ, ការជួយ, ងាយស្រួល​ប្រើប្រាស់, ងាយស្រួល​ចូលប្រើ, ដៃ</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “TalkBack”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_talkback">កម្មវិធីអានអេក្រង់, ការបញ្ចូលសំឡេង, VoiceOver, ជំនួយសំឡេង, ពិការភ្នែក, ខ្សោយភ្នែក, TTS, ការបំប្លែងអត្ថបទទៅជាការនិយាយ, ការអានអេក្រង់</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Live Transcribe”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_live_transcribe">អក្សររត់, CC, អក្សររត់ក្នុងពេលជាក់ស្ដែង, មានបញ្ហាស្ដាប់, ស្ដាប់មិនឮ, CART, ការបំប្លែងការនិយាយទៅជាអត្ថបទ</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Notifications”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_notifications">ការជូនដំណឹង មានបញ្ហាស្ដាប់ ស្ដាប់មិនឮ ជូនដំណឹង</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Sound Amplifier”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_sound_amplifier">PSAP, បំពង​សំឡង, ការបំពង​សំឡង, មានបញ្ហាស្ដាប់, ស្ដាប់មិនឮ</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_select_to_speak">ឮការអានអក្សរ, អានឮៗ, អានអេក្រង់, កម្មវិធី​អាន​អេក្រង់, ជំងឺវិកលទស្សន៍, ជ្រើសរើសដើម្បីអាន</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">ចលនា, ម៉ឺនុយរហ័ស, ម៉ឺនុយ​ជំនួយ, ចុច, ភាពស្ទាត់ជំនាញ, ជំងឺ​សន្លាក់ឆ្អឹង, rsi, ជំងឺដាច់សរសៃឈាម​ខួរក្បាល, ញ័រ, ជំងឺក្រិន​សរសៃឈាមច្រើន ពិការ​ខួរក្បាល, ប៊ូតុង, ហាតវែរ, សង្កត់, ការចុករោយ, ដៃ, ការឈឺចាប់, អាចចូល​ប្រើបាន, ជំនួយ</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_switch_access">ម៉ូទ័រ, ឧបករណ៍ចុចសម្រាប់ជនពិការ, ដៃ, AT, បច្ចេកវិទ្យាជំនួយ, ពិការ, ALS, ការស្កេន, ការស្កេនជំហាន</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Voice Access”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_voice_access">សំឡេង ការគ្រប់គ្រងដោយប្រើសំឡេង ម៉ូទ័រ ដៃ មីក្រូហ្វូន ការសរសេរតាមអាន និយាយ គ្រប់គ្រង</string>
+
+    <!-- Summary for the smart battery tip [CHAR LIMIT=NONE] -->
+    <string name="battery_tip_smart_battery_summary">បើក​កម្មវិធី​ថ្ម​មានភាពបត់បែន</string>
+
+    <!-- Title for the smart battery manager preference [CHAR LIMIT=NONE] -->
+    <string name="smart_battery_manager_title">ចំណូលចិត្តដែលមានភាពបត់បែន</string>
+
+    <!-- Footer for the aosp smart battery page -->
+    <string name="smart_battery_footer">ដើម្បីបង្កើនកម្រិតថាមពលថ្ម កម្មវិធីថ្ម​មាន​ភាព​បត់បែនអាចកាត់បន្ថយប្រតិបត្តិការ និងសកម្មភាពនៅផ្ទៃខាងក្រោយ។ ការជូនដំណឹងមួយចំនួនអាចត្រូវបានពន្យារពេល។</string>
+
+    <!-- Summary for battery manager when it is on -->
+    <string name="battery_manager_summary">បង្កើនកម្រិតថាមពលថ្ម និងបង្កើនប្រសិទ្ធភាពនៃការសាកថ្ម</string>
+
+    <!-- Summary for battery manager when it is on. [CHAR LIMIT=NONE] -->
+    <string name="battery_manager_summary_unsupported">បង្កើនកម្រិត​ថាមពល​ថ្ម</string>
+
+    <!-- Help text if battery is not present. [CHAR LIMIT=NONE] -->
+    <string name="battery_missing_link_message">ស្វែងយល់បន្ថែម</string>
+
+    <!-- Dialog title for confirmation to erase full backup data from server -->
+    <string name="fullbackup_erase_dialog_message">បញ្ឈប់ការបម្រុងទុកទិន្នន័យឧបករណ៍ (ដូចជាពាក្យសម្ងាត់ Wi-Fi និងប្រវត្តិហៅទូរស័ព្ទ) និងទិន្នន័យកម្មវិធី (ដូចជាការកំណត់ និងឯកសារដែលបានផ្ទុកដោយកម្មវិធី) ព្រមទាំងលុបច្បាប់ចម្លងទាំងអស់នៅលើ Google ថាសដែរឬទេ?</string>
+
+    <!-- Summary for explanation of what full app data backup means. Manufacturers may wish to overlay this resource with their own text  -->
+    <string name="fullbackup_data_summary">បម្រុងទុកទិន្នន័យដោយស្វ័យប្រវត្តិ (ដូចជាពាក្យសម្ងាត់ Wi-Fi និងប្រវត្តិហៅទូរស័ព្ទ) និងទិន្នន័យកម្មវិធី (ដូចជាការកំណត់ និងឯកសារដែលបានផ្ទុកដោយកម្មវិធី) ទៅក្នុង Google ថាស។\n\nនៅពេលអ្នកបើកការបម្រុងទុកដោយស្វ័យប្រវត្តិ នោះទិន្នន័យឧបករណ៍ និងកម្មវិធីត្រូវបានរក្សាទុកជាទៀងទាត់ទៅក្នុងថតឯកសារឯកជននៅក្នុង Google ថាស។ ទិន្នន័យកម្មវិធីអាចជាទិន្នន័យដែលកម្មវិធីបានរក្សាទុក (ផ្អែកលើការកំណត់អ្នកអភិវឌ្ឍន៍) ដោយរាប់បញ្ចូលទាំងទិន្នន័យរសើប ដូចជាទំនាក់ទំនង សារ និងរូបថត។\n\nទិន្នន័យបម្រុងទុកនឹងមិនរាប់បញ្ចូលទៅក្នុងកម្រិតកំណត់នៃទំហំផ្ទុកក្នុងថាសរបស់អ្នកទេ។ ឯកសារទំហំធំ ឬឯកសារដែលអ្នកអភិវឌ្ឍន៍បានជ្រើសមិនរាប់បញ្ចូលពីសេវាកម្មនេះនឹងមិនត្រូវបានបម្រុងទុកទេ។</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">ជំនួយការ កម្មវិធី​ថ្មីៗ កម្មវិធី​លំនាំដើម</string>
+    <string name="keywords_gesture">ចលនា ផ្លាស់ទី</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">កម្រិត​សំឡេង និង​ប្រតិកម្មប៉ះ</string>
+
+    <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
+    <string name="spatial_audio_title">សំឡេងលំហ</string>
+
+    <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
+         select what the USB connection for this device should be used for. This choice
+         is for transferring files via MTP. -->
+    <string name="usb_use_file_transfers">ការផ្ទេរឯកសារ / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">ទម្រង់រចនាងងឹត ទំហំ​ពុម្ពអក្សរ ការចុច</string>
+
+    <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_settings">ទំហំផ្ទុកឆ្លាតវៃ</string>
+
+    <!-- Used as wall of text to describe the feature. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_text">នៅពេលដែលទំហំផ្ទុកជិតពេញ សូមលុបរូបថត និងវីដេអូដែលបានបម្រុងទុក។ អ្នកនៅតែអាចរកពួកវាឃើញនៅក្នុង Google រូបថតបានដដែល។</string>
+
+    <!-- Dropdown preference title for dropdown describing how many days of data to retain.-->
+    <string name="automatic_storage_manager_days_title">លុបរូបថត និងវីដេអូដែលបានបម្រុងទុក</string>
+
+    <!-- Preference title for the automatic storage manager toggle. [CHAR LIMIT=60]-->
+    <string name="automatic_storage_manager_preference_title">ទំហំផ្ទុកឆ្លាតវៃ</string>
+
+    <!-- Used in the storage manager settings screen to control turning on/off the feature entirely [CHAR LIMIT=60] -->
+    <string name="automatic_storage_manager_primary_switch_title">ប្រើ​ទំហំផ្ទុក​ឆ្លាតវៃ</string>
+
+    <!-- Summary text for double twist for camera mode  [CHAR LIMIT=160]-->
+    <string name="double_twist_for_camera_mode_summary">ដើម្បីចូលទៅ និងចេញពី​មុខងារ​សែលហ្វី​នៅក្នុងកាមេរ៉ា Pixel សូម​បង្វិល​ពីរដង នៅពេល​ដែលអ្នក​ចូលក្នុង​កម្មវិធី​នោះ។</string>
+
+    <!-- Warning when activating the automatic storage manager on legacy devices. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_activation_warning">នៅពេលដែលអ្នកមានការតភ្ជាប់ អ្នកនៅតែអាចចូលមើលរូបថត និងវីដេអូតាមគុណភាពដែលអ្នកបានជ្រើសរើសសម្រាប់ការបម្រុងទុកបានដដែល</string>
+
+    <!-- Warning for when the automatic storage manager is turned off. [CHAR LIMIT=NONE] -->
+    <string name="automatic_storage_manager_deactivation_warning">បិទទំហំផ្ទុកឆ្លាតវៃ? \n\nទំហំផ្ទុកឆ្លាតវៃនឹងមិនបង្កើនទំហំផ្ទុក នៅពេលដែលទំហំផ្ទុករបស់អ្នកជិតអស់នោះទេ។</string>
+
+    <!-- Title for preference showing the primary account on the device [CHAR LIMIT=60]-->
+    <string name="my_device_info_account_preference_title">គណនី Google</string>
+
+    <!-- Title of the 'Content Capture' feature toggle in the Settings -> Privacy screen [CHAR LIMIT=none]-->
+    <string name="content_capture">កំណត់ផ្ទាល់ខ្លួន​ដោយប្រើ​ទិន្នន័យកម្មវិធី</string>
+
+    <!-- Title for RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_title">សារ​ជាអក្សរក្នុង​ពេល​ជាក់ស្តែង (RTT)</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_no_visible">មើល​មិន​ឃើញ</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_visible_during_call">មើលឃើញ​អំឡុងពេល​ហៅទូរសព្ទ</string>
+
+    <!-- Subtext for showing the option of RTT setting. [CHAR LIMIT=NONE] -->
+    <string name="rtt_settings_always_visible">មើលឃើញ​ជានិច្ច</string>
+
+    <!-- Default summary of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_summary">ការស្កេនដំណើរការជាឯកជនដោយផ្ទាល់នៅលើឧបករណ៍របស់អ្នក ដោយពិនិត្យសកម្មភាព​កម្មវិធីរកមើលការដាក់នុយ ឬអាកប្បកិរិយាបោកប្រាស់ផ្សេងទៀត។ ប្រសិនបើរកឃើញ ព័ត៌មានកម្មវិធីមួយចំនួនត្រូវបានផ្ញើទៅ Google Play Protect ដើម្បីបញ្ជាក់ការគំរាមកំហែង និងព្រមានអ្នកប្រើប្រាស់កម្មវិធី។</string>
+
+    <!-- Default information at the bottom of the subpage of content protection settings. Will be overlaid by OEM. -->
+    <string name="content_protection_preference_subpage_info">នេះជាមុខងារសុវត្ថិភាពដែលទទួលបានការការពារ។ គ្មានព័ត៌មានអំពីឧបករណ៍ ឬព័ត៌មានផ្ទាល់ខ្លួនណាត្រូវបានចែករំលែកជាមួយ Google ទេ។ \n\nការ​ដាក់នុយគឺជាការព្យាយាមលួចព័ត៌មានផ្ទៀងផ្ទាត់ការចូលគណនី ឬព័ត៌មានផ្ទាល់ខ្លួនផ្សេងទៀត។</string>
+
+    <!--Text for Stylus Pointer Icon preference -->
+    <string name="show_stylus_pointer_icon">អនុញ្ញាតឱ្យកម្មវិធីបង្ហាញទស្សន៍ទ្រនិច ពេលកំពុងដាក់ព្រួញ</string>
+
+    <!-- Title on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_title">ការពិនិត្យអត្តសញ្ញាណ និង Pixel Watch</string>
+
+    <!-- Summary on issue card for Identity Check in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_issue_card_summary">តាមរយៈ Pixel Watch ដែលបានភ្ជាប់ ការពិនិត្យអត្តសញ្ញាណបញ្ចូលវិធីច្រើនទៀតសម្រាប់ផ្ទៀងផ្ទាត់ថាជាអ្នក ដើម្បីទប់ស្កាត់ការចូលប្រើដែលមិនចង់បានទៅកាន់កម្មវិធីនានា</string>
+
+    <!-- Title for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_watch_promo_card_title">ការពិនិត្យអត្តសញ្ញាណ និង Pixel Watch</string>
+
+    <!-- Summary for Identity Check promo card in Safety Center (watch-specific) [CHAR LIMIT=NONE] -->
+    <string name="identity_check_promo_card_watch_summary">ព័ត៌មានថ្មីៗ៖ &lt;ul&gt;&lt;li&gt;តាមរយៈការភ្ជាប់ Pixel Watch 3 ឬកំណែក្រោយៗ អ្នកអាចប្រើជីវមាត្រ ឬកូដ PIN របស់អ្នក ដើម្បីចូលប្រើកម្មវិធី នៅពេលអ្នកមិនស្ថិតនៅកន្លែងដែលទុកចិត្ត។ &lt;/li&gt;&lt;li&gt;ស្របទៅតាមពេលវេលា ការពិនិត្យអត្តសញ្ញាណអាចបញ្ចូលវិធីច្រើនទៀតសម្រាប់ការផ្ទៀងផ្ទាត់ថាជាអ្នក និងរក្សាកម្មវិធីឱ្យមានសុវត្ថិភាពនៅលើឧបករណ៍របស់អ្នក។ &lt;a href=https://support.google.com/android?p=identity_check&gt;ស្វែងយល់បន្ថែមអំពីពេលវេលា និងទីកន្លែងដែលអ្នកទទួលបានការការពារ&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</string>
+
+    <!-- Title for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_title">ការពិនិត្យអត្តសញ្ញាណ និង Pixel Watch របស់អ្នក</string>
+
+    <!-- Summary for promo notification for Identity Check integration with watch ranging -->
+    <string name="identity_check_watch_notification_summary">តាមរយៈ Pixel Watch ដែលបានភ្ជាប់ ការពិនិត្យអត្តសញ្ញាណបញ្ចូលវិធីច្រើនទៀតសម្រាប់ផ្ទៀងផ្ទាត់ថាជាអ្នក ដើម្បីទប់ស្កាត់ការចូលប្រើដែលមិនចង់បានទៅកាន់កម្មវិធីនានា</string>
+
+    <!-- Safety Center app security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_summary">ការស្កេន Play Protect ត្រូវបានបើក</string>
+
+    <!-- Safety Center app security subpage footer text [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_footer">Play Protect ត្រួតពិនិត្យ​កម្មវិធី និង​ឧបករណ៍​របស់​អ្នក​ជា​ទៀងទាត់ ដើម្បី​រកមើល​សកម្មភាព​ដែល​បង្ក​គ្រោះថ្នាក់។ អ្នក​នឹងទទួល​បាន​ការជូន​ដំណឹងអំពី​ហានិភ័យ​ផ្នែកសុវត្ថិភាព​ទាំងឡាយ​ដែល​រកឃើញ។</string>
+
+    <!-- Safety Center app security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_app_security_search_terms">សន្តិសុខកម្មវិធី, Play Protect, Google Play Protect, សុវត្ថិភាពកម្មវិធី</string>
+
+    <!-- Safety Center account security subpage summary [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_summary">គណនី Google ត្រូវបានការពារ</string>
+
+    <!-- Safety Center account security source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_account_security_search_terms">ការពិនិត្យសុវត្ថិភាព Google, សុវត្ថិភាព Google, ការពិនិត្យសុវត្ថិភាព, សុវត្ថិភាពគណនី, សុវត្ថិភាពគណនី Google, គណនី Google</string>
+
+    <!-- Safety Center device finder source search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_device_finder_search_terms">Find Hub, កំពុងស្វែងរកឧបករណ៍, រកឧបករណ៍របស់ខ្ញុំ, បាត់ឧបករណ៍</string>
+
+    <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
+    <string name="safety_center_system_component_update_search_terms">បច្ចុប្បន្នភាព, បច្ចុប្បន្នភាពប្រព័ន្ធ, បច្ចុប្បន្នភាពប្រព័ន្ធ Google Play, បច្ចុប្បន្នភាពប្រព័ន្ធ Play</string>
+</resources>
