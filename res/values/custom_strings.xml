@@ -68,4 +68,23 @@
     <string name="simple_view_feature_disabled_dialog_title">Your device will return to previous settings</string>
     <string name="simple_view_feature_enabled_dialog_message">Your current font is larger than the Simple View settings. Using Simple View will reduce your font size.</string>
     <string name="simple_view_feature_enabled_dialog_title">Font size will reduce</string>
+
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_title">Adaptive Charging</string>
+    <string name="adaptive_charging_main_switch_title">Use Adaptive Charging</string>
+    <string name="adaptive_charging_footer">To help extend battery lifespan, your phone learns your charging routine and waits until you need it to fully charge.</string>
+    <string name="adaptive_charging_link_a11y">Learn more about Adaptive Charging</string>
+    <string name="adaptive_charging_time_estimate"><b>Adaptive Charging</b> • Full by %1$s</string>
+    <string name="help_url_adaptive_charging_settings" translatable="false">https://support.google.com/pixelphone/?p=adaptive_charging</string>
+    <string name="keywords_adaptive_charging">charge, charging, smart charging, adaptive charging, battery, battery health</string>
+
+    <!-- Charging Optimization -->
+    <string name="charging_optimization_charge_label">%1$s - Done charging by %2$s</string>
+    <string name="charging_optimization_reach_limit_charge_label">%1$s - Done charging</string>
+    <string name="charging_optimization_remaining_time_label">Done charging by %1$s</string>
+    <string name="charging_optimization_reach_limit_remaining_time_label">Done charging</string>
+    <string name="charging_optimization_wireless_remaining_time_label">Done wirelessly charging by %1$s •</string>
+    <string name="charging_optimization_wireless_reach_limit_remaining_time_label">Done wirelessly charging •</string>
+    <string name="charging_optimization_bypass_limit_remaining_time_label">Fully charging to ensure accurate battery levels</string>
+    <string name="wireless_charging_learn_more"><annotation id="url">\u00A0Learn more</annotation></string>
 </resources>

@@ -5,6 +5,11 @@
     coreApp="true"
     android:sharedUserId="android.uid.system">
 
+    <!-- Adaptive Charging -->
+    <permission
+        android:name="com.google.android.settings.fuelgauge.BATTERY_SETTING"
+        android:protectionLevel="signature|privileged" />
+
     <application
         android:name="com.google.android.settings.generalaccess.SettingsGoogleGeneralAccessApplication"
         android:icon="@mipmap/ic_launcher_settings"
@@ -125,5 +130,19 @@
                 <action android:name="com.google.android.setupwizard.SETUP_WIZARD_FINISHED"/>
             </intent-filter>
         </receiver>
+
+        <!-- Adaptive Charging -->
+        <activity
+            android:name="com.google.android.settings.fuelgauge.adaptivecharging.AdaptiveChargingSettingsActivity"
+            android:label="@string/adaptive_charging_title"
+            android:permission="com.google.android.settings.fuelgauge.BATTERY_SETTING"
+            android:exported="true" />
+
+        <provider
+            android:name="com.google.android.settings.fuelgauge.AdaptiveChargingContentProvider"
+            android:authorities="com.android.settings.fuelgauge.provider.adaptive_charging"
+            android:permission="com.google.android.settings.fuelgauge.BATTERY_SETTING"
+            android:exported="true"
+            android:multiprocess="false" />
     </application>
 </manifest>

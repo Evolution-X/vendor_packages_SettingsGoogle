@@ -16,6 +16,7 @@ android_library {
         "androidx.datastore_datastore-preferences-rxjava2",
         "androidx.datastore_datastore-preferences-core",
         "androidx.datastore_datastore-rxjava2",
+        "googlebattery-lib",
         "kotlinx_coroutines_reactive",
         "rxjava",
     ],
