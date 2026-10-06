@@ -37,4 +37,7 @@
     <color name="sfps_enroll_immobile_continue_btn_text_color">#ffffff</color>
     <color name="sfps_enroll_immobile_subtitle_text_color">#47483b</color>
     <color name="sfps_enroll_immobile_title_text_color">#1b1c14</color>
+
+    <!-- Quick Tap -->
+    <color name="columbus_highlight">#82b1ff</color>
 </resources>

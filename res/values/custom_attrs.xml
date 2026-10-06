@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Quick Tap -->
+    <declare-styleable name="ColumbusRadioButton">
+        <attr name="secureValue" format="string" />
+    </declare-styleable>
+</resources>
