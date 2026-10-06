@@ -31,4 +31,87 @@
         <item>en-US</item>
         <item>es-US</item>
     </string-array>
+
+    <!-- Biometrics -->
+    <string-array name="udfps_enroll_enrolling">
+        <item>.error:@sud_system_error_light</item>
+        <item>.primary:@sud_system_primary_light</item>
+        <item>.inverseOnSurface:@sud_system_on_surface_inverse_light</item>
+        <item>.outlineVariant:@sud_system_outline_variant_light</item>
+        <item>.onSecondary:@sud_system_on_secondary_light</item>
+    </string-array>
+
+    <string-array name="add_fingerprint_success">
+        <item>.surfaceContainer:@sud_system_surface_container_light</item>
+        <item>.primary:@sud_system_primary_light</item>
+        <item>.primaryContainer:@sud_system_primary_container_light</item>
+    </string-array>
+
+    <string-array name="config_sfps_enroll_stage_thresholds">
+        <item>0</item>
+        <item>0.04</item>
+        <item>0.48</item>
+        <item>0.52</item>
+    </string-array>
+
+    <array name="fingerprint_acquired_vendor" />
+
+    <string-array name="fingerprint_udfps_education_illustration">
+        <item>.onPrimary:@sud_system_on_primary_light</item>
+        <item>.primary:@sud_system_primary_light</item>
+        <item>.onSurfaceVariant:@sud_system_on_surface_variant_light</item>
+        <item>.surfaceContainer:@sud_system_surface_container_light</item>
+    </string-array>
+
+    <array name="face_enroll_primary_buckets" />
+
+    <string-array name="face_unlock_bypass">
+        <item>.surfaceContainer:@sud_system_surface_container_light</item>
+        <item>.primary:@sud_system_primary_light</item>
+        <item>.onSecondary:@sud_system_on_secondary_light</item>
+        <item>.outline:@sud_system_outline_light</item>
+    </string-array>
+
+    <array name="sp_config_001_first_party_hals" />
+
+    <array name="sp_config_001_ui_model_names" />
+
+    <string-array name="customized_guided_enroll_points" />
+
+    <string-array name="sfps_education_illustration">
+        <item>.surfaceContainer:@sud_system_surface_container_light</item>
+        <item>.primary:@sud_system_primary_light</item>
+        <item>.onPrimary:@sud_system_on_primary_light</item>
+        <item>.outline:@sud_system_outline_light</item>
+        <item>.outlineVariant:@sud_system_outline_variant_light</item>
+        <item>.primaryContainer:@sud_system_primary_container_light</item>
+    </string-array>
+
+    <string-array name="sfps_enroll_illustration">
+        <item>.surfaceContainer:@sud_system_surface_container_light</item>
+        <item>.outline:@sud_system_outline_light</item>
+        <item>.outlineVariant:@sud_system_outline_variant_light</item>
+        <item>.onSurface:@sud_system_on_surface_light</item>
+    </string-array>
+
+    <string-array name="touch_sensor_education">
+        <item>.surfaceContainer:@sud_system_surface_container_light</item>
+        <item>.outline:@sud_system_outline_light</item>
+        <item>.outlineVariant:@sud_system_outline_variant_light</item>
+        <item>.surfaceContainerHighest:@sud_system_surface_container_highest_light</item>
+        <item>.onPrimary:@sud_system_on_primary_light</item>
+        <item>.primary:@sud_system_primary_light</item>
+    </string-array>
+
+    <string-array name="touch_sensor_education_2024">
+        <item>.669DF6:#1A73E8</item>
+        <item>.000000:#FFFFFF</item>
+    </string-array>
+
+    <string-array name="touch_sensor_screen_protector">
+        <item>.primary:@sud_system_primary_light</item>
+        <item>.onPrimary:@sud_system_on_primary_light</item>
+        <item>.outline:@sud_system_outline_light</item>
+        <item>.surfaceContainer:@sud_system_surface_container_light</item>
+    </string-array>
 </resources>

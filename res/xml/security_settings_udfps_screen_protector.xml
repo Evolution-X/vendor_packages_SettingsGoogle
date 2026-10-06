@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:settings="http://schemas.android.com/apk/res-auto" android:title="@string/security_settings_fingerprint_preference_title">
+    <com.google.android.settings.biometrics.usudfps.preference.ScreenProtectorPreference
+        android:persistent="true"
+        android:title="@string/security_settings_udfps_screen_protector_title"
+        android:key="@string/security_settings_udfps_screen_protector_key"
+        android:summary="@string/security_settings_udfps_screen_protector_description_none"
+        settings:isPreferenceVisible="true"
+        settings:keywords="@string/security_settings_udfps_screen_protector_keywords"/>
+</PreferenceScreen>

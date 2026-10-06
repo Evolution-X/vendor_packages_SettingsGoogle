@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" app:startDestination="@+id/intro">
+    <fragment
+        android:label="Intro"
+        android:name="com.google.android.settings.biometrics.fingerprint.ui.view.IntroFragment"
+        android:id="@+id/intro"/>
+</navigation>

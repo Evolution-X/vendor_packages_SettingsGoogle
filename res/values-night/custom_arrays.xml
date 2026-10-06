@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Biometrics -->
+    <string-array name="udfps_enroll_enrolling">
+        <item>.error:@sud_system_error_dark</item>
+        <item>.primary:@sud_system_primary_dark</item>
+        <item>.inverseOnSurface:@sud_system_on_surface_inverse_dark</item>
+        <item>.outlineVariant:@sud_system_outline_variant_dark</item>
+        <item>.onSecondary:@sud_system_on_secondary_dark</item>
+    </string-array>
+
+    <string-array name="add_fingerprint_success">
+        <item>.surfaceContainer:@sud_system_surface_container_dark</item>
+        <item>.primary:@sud_system_primary_dark</item>
+        <item>.primaryContainer:@sud_system_primary_container_dark</item>
+    </string-array>
+
+    <string-array name="fingerprint_udfps_education_illustration">
+        <item>.onPrimary:@sud_system_on_primary_dark</item>
+        <item>.primary:@sud_system_primary_dark</item>
+        <item>.onSurfaceVariant:@sud_system_on_surface_variant_dark</item>
+        <item>.surfaceContainer:@sud_system_surface_container_dark</item>
+    </string-array>
+
+    <string-array name="face_unlock_bypass">
+        <item>.surfaceContainer:@sud_system_surface_container_dark</item>
+        <item>.primary:@sud_system_primary_dark</item>
+        <item>.onSecondary:@sud_system_on_secondary_dark</item>
+        <item>.outline:@sud_system_outline_dark</item>
+    </string-array>
+
+    <string-array name="sfps_education_illustration">
+        <item>.surfaceContainer:@sud_system_surface_container_dark</item>
+        <item>.primary:@sud_system_primary_dark</item>
+        <item>.onPrimary:@sud_system_on_primary_dark</item>
+        <item>.outline:@sud_system_outline_dark</item>
+        <item>.outlineVariant:@sud_system_outline_variant_dark</item>
+        <item>.primaryContainer:@sud_system_primary_container_dark</item>
+    </string-array>
+
+    <string-array name="sfps_enroll_illustration">
+        <item>.surfaceContainer:@sud_system_surface_container_dark</item>
+        <item>.outline:@sud_system_outline_dark</item>
+        <item>.outlineVariant:@sud_system_outline_variant_dark</item>
+        <item>.onSurface:@sud_system_on_surface_dark</item>
+    </string-array>
+
+    <string-array name="touch_sensor_education">
+        <item>.surfaceContainer:@sud_system_surface_container_dark</item>
+        <item>.outline:@sud_system_outline_dark</item>
+        <item>.outlineVariant:@sud_system_outline_variant_dark</item>
+        <item>.surfaceContainerHighest:@sud_system_surface_container_highest_dark</item>
+        <item>.onPrimary:@sud_system_on_primary_dark</item>
+        <item>.primary:@sud_system_primary_dark</item>
+    </string-array>
+
+    <string-array name="touch_sensor_education_2024">
+        <item>.669DF6:#669DF6</item>
+        <item>.000000:#000000</item>
+    </string-array>
+
+    <string-array name="touch_sensor_screen_protector">
+        <item>.primary:@sud_system_primary_dark</item>
+        <item>.onPrimary:@sud_system_on_primary_dark</item>
+        <item>.outline:@sud_system_outline_dark</item>
+        <item>.surfaceContainer:@sud_system_surface_container_dark</item>
+    </string-array>
+</resources>

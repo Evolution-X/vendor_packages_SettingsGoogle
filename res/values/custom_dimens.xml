@@ -3,4 +3,28 @@
     <!-- Expressive QR -->
     <dimen name="wifi_sharing_qrcode_fragment_size">264dp</dimen>
     <dimen name="wifi_sharing_qrcode_fragment_margin_size">23dp</dimen>
+
+    <!-- Biometrics -->
+    <dimen name="biometric_enroll_introduction_message_padding_bottom">16dp</dimen>
+    <dimen name="biometric_enroll_introduction_title_padding_vertical">24dp</dimen>
+    <dimen name="face_enroll_participation_checkbox_minimum_size">48dp</dimen>
+    <dimen name="face_enroll_posture_guidance_size">348dp</dimen>
+    <dimen name="face_error_text_appear_distance">16dp</dimen>
+    <dimen name="immobile_dialog_width">380dp</dimen>
+    <dimen name="lock_screen_bypass_lottie_height">236dp</dimen>
+    <dimen name="frr_divider_height_expressive">@dimen/settingslib_expressive_radius_extrasmall1</dimen>
+    <dimen name="frr_entry_bg_corner_radius_large_expressive">@dimen/settingslib_expressive_radius_extralarge1</dimen>
+    <dimen name="frr_entry_bg_corner_radius_small_expressive">@dimen/settingslib_expressive_radius_extrasmall2</dimen>
+    <dimen name="fingerprint_progress_bar_adjust_size_expressive">228dp</dimen>
+    <dimen name="ring_progress_bar_thickness_expressive">20px</dimen>
+    <dimen name="sfps_illustration_layout_height_expressive">351dp</dimen>
+    <dimen name="sfps_illustration_layout_width_expressive">351dp</dimen>
+    <dimen name="sfps_illustration_margin_bottom_expressive">0dp</dimen>
+    <dimen name="sfps_illustration_margin_end_expressive">0dp</dimen>
+    <dimen name="sfps_progress_bar_translate_x_expressive">0dp</dimen>
+    <dimen name="sfps_progress_bar_translate_y_expressive">7dp</dimen>
+    <dimen name="sp_qr_checkbox_size">156dp</dimen>
+    <dimen name="sp_qr_code_scanner_corner_radius">28dp</dimen>
+    <dimen name="sp_qr_code_scanner_padding_horizontal">56dp</dimen>
+    <dimen name="sp_qr_preview_min_size">@dimen/sp_qr_checkbox_size</dimen>
 </resources>

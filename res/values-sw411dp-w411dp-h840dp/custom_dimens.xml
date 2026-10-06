@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Biometrics -->
+    <dimen name="biometric_enroll_introduction_message_padding_bottom">8dp</dimen>
+    <dimen name="biometric_enroll_introduction_title_padding_vertical">20dp</dimen>
+</resources>

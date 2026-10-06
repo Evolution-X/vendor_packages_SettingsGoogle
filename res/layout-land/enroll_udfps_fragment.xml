@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.settings.biometrics.udfps.ui.widget.UdfpsEnrollEnrollingView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/setup_wizard_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="?attr/fingerprint_layout_theme">
+    <LinearLayout
+        android:orientation="vertical"
+        android:clipChildren="false"
+        android:clipToPadding="false"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        style="@style/SudContentFrame">
+        <FrameLayout
+            android:layout_gravity="bottom|center_horizontal"
+            android:id="@+id/layout_container"
+            android:clipChildren="false"
+            android:clipToPadding="false"
+            android:layout_width="match_parent"
+            android:layout_height="0dp">
+            <com.airbnb.lottie.LottieAnimationView
+                android:id="@+id/illustration_lottie"
+                android:visibility="gone"
+                android:clipChildren="false"
+                android:clipToPadding="false"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="@dimen/udfps_lottie_translate_y"
+                android:scaleType="centerInside"
+                app:lottie_autoPlay="true"
+                app:lottie_loop="true"
+                app:lottie_speed="0.85"/>
+            <include layout="@layout/enroll_udfps_progress"/>
+        </FrameLayout>
+    </LinearLayout>
+</com.google.android.settings.biometrics.udfps.ui.widget.UdfpsEnrollEnrollingView>

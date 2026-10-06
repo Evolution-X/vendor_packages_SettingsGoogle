@@ -1,5 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Introduction detail message shown in face education for accessibility [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">On the next screen, hold your phone at eye level</string>
+
+    <!-- Additional details shown when the accessibility toggle is expanded. [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">When using Face Unlock, your head may need to be more directly in front of your phone.</string>
+
+    <!-- Introduction detail message shown in face enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="security_settings_face_enroll_introduction_message" product="default">Use your face to unlock your phone or verify it’s you, like when you sign in to apps or approve a purchase.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">Looking at the phone can unlock it even when you don’t intend to. Your phone can also be unlocked by someone who looks a lot like you, like an identical sibling, or if someone holds it up to your face.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about what could cause the phone to unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">Looking at the phone can unlock it even when they don’t intend to. Their phone can also be unlocked by someone who looks a lot like them, like an identical sibling, or if someone holds it up to their face.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Using your child’s face to unlock their phone may be less secure than a strong pattern, PIN, or password</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about the relative security of face for unlocking the phone for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Using your face to unlock your phone may be less secure than a strong pattern, PIN, or password</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Face Unlock can require your eyes to be open to unlock the phone or verify it’s you. You can turn this option on at any time in Settings.</string>
+
+    <!-- Message on the face enrollment introduction page that provides information about how to require eyes to be open for Face Unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Face Unlock can require your child’s eyes to be open to unlock the phone or verify it’s them. You and your child can turn this option on at any time in Settings.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how face unlock works. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">Face Unlock creates a unique model of your face to verify it’s you. To create this face model during setup, you will take images of your face from different angles.\n\nWhen you use Face Unlock, images are used to update your face model. Images used to create your face model are never stored, but the face model is stored securely on your phone and never leaves the phone. All processing occurs securely on your phone.</string>
+
+    <!-- Message on the face enrollment introduction page that explains how Face Unlock works when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">Face Unlock creates a unique model of your child’s face to verify it’s them. To create this face model during setup, your child will take images of their face from different angles.\n\nWhen they use Face Unlock, images are used to update their face model. Images used to create their face model are not stored, but the face model is stored securely on the phone and never leaves the phone. All processing occurs securely on the phone.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">You can delete your face model or turn off Face Unlock at any time in Settings. Face models are stored on the phone until you delete them.&lt;br&gt;&lt;br&gt;Learn more at &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Message on the face enrollment introduction page that explains privacy controls for face unlock when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">You and your child can delete their face model or turn off Face Unlock at any time in Settings. Face models are stored on the phone until they’re deleted.&lt;br&gt;&lt;br&gt;Learn more at &lt;a href=\'http://g.co/pixel/faceunlock\'&gt;g.co/pixel/faceunlock&lt;/a&gt;.</string>
+
+    <!-- Footer description shown on face settings page. -->
+    <string name="security_settings_face_footer_description_class3" product="default">Use your face to unlock your phone or verify it’s you, like when you sign in to apps or approve a purchase.\n\nKeep in mind:\nYou can only have one face set up at a time. To add another face, delete the current one.\n\nLooking at the phone can unlock it when you don’t intend to.\n\nYour phone can be unlocked by someone who looks a lot like you, like an identical sibling.\n</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4" product="default">You can delete your fingerprint model, or turn off Pixel Imprint at any time in Settings. Fingerprint models are stored on the phone until you delete them.</string>
+
+    <!-- Introduction description message shown in fingerprint enrollment introduction screen in setup wizard when asking for parental consent. [CHAR LIMIT=NONE] -->
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4" product="default">You and your child can delete their fingerprint model, or turn off Pixel Imprint at any time in Settings. Fingerprint models are stored on the phone until they’re deleted.</string>
+
+    <!-- Introduction detail message shown in fingerprint enrollment dialog, when fingerprint unlock is disabled by device admin [CHAR LIMIT=NONE]-->
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">With Nexus Imprint, you can use your fingerprint to authorize purchases or sign in to apps.\n\nBe careful whose fingerprints you add. Any fingerprints added will be able to do these things.\n\nNote: You can’t use your fingerprint to unlock this device. For more information, contact your organization’s admin.</string>
+
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_summary" product="default">Adaptive Battery learns from your phone usage to continuously optimize how apps use battery. To extend battery life, it may reduce performance and delay notifications.</string>
     <string name="smart_battery_summary" product="tablet">Adaptive Battery learns from your tablet usage to continuously optimize how apps use battery. To extend battery life, it may reduce performance and delay notifications.</string>
@@ -14,4 +65,19 @@
 
     <!-- Title for Display settings [CHAR LIMIT=30] -->
     <string name="display_settings" product="default">Display &amp; touch</string>
+
+    <!-- Introduction title shown in face enrollment when when asking for parental consent for the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Allow Face Unlock</string>
+
+    <!-- Introduction title shown in face enrollment to introduce the face unlock feature [CHAR LIMIT=40] -->
+    <string name="security_settings_face_enroll_introduction_title" product="default">Set up Face Unlock</string>
+
+    <!-- Footer learn more description shown on face settings page. -->
+    <string name="security_settings_face_footer_learn_more_description" product="default">Learn more about Face Unlock</string>
+
+    <!-- Description shown for fingerprint settings page. [CHAR LIMIT=22] -->
+    <string name="security_settings_fingerprint_description" product="default">For extra convenience, set up Face Unlock as a backup for when your fingers are wet or cold.\n\nYour fingerprints are only stored on device and never sent to Google.</string>
+
+    <!-- Footer learn more URL shown on face settings page  [DO NOT TRANSLATE] -->
+    <string name="security_settings_face_footer_learn_more_url" product="default" translatable="false">http://g.co/pixel/faceunlock</string>
 </resources>

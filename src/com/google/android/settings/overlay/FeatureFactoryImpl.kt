@@ -1,5 +1,8 @@
 package com.google.android.settings.overlay
 
+import com.google.android.settings.biometrics.BiometricsFeatureProviderGoogleImpl
+import com.google.android.settings.biometrics.face.FaceFeatureProviderGoogleImpl
+import com.google.android.settings.biometrics.fingerprint.FingerprintFeatureProviderGoogleImpl
 import com.google.android.settings.fuelgauge.BatterySettingsFeatureProviderGoogleImpl
 import com.google.android.settings.fuelgauge.BatteryStatusFeatureProviderGoogleImpl
 import com.google.android.settings.fuelgauge.PowerUsageFeatureProviderGoogleImpl
@@ -20,4 +23,10 @@ abstract class FeatureFactoryImpl : com.android.settings.overlay.FeatureFactoryI
     override val wifiFeatureProvider by lazy { WifiFeatureProviderGoogleImpl(appContext) }
 
     override val privateSpaceLoginFeatureProvider by lazy { PrivateSpaceLoginFeatureProviderGoogleImpl() }
+
+    override val biometricsFeatureProvider by lazy { BiometricsFeatureProviderGoogleImpl(appContext) }
+
+    override val faceFeatureProvider by lazy { FaceFeatureProviderGoogleImpl() }
+
+    override val fingerprintFeatureProvider by lazy { FingerprintFeatureProviderGoogleImpl() }
 }

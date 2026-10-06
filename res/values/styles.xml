@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FingerprintLayoutTheme">
+        <item name="android:icon">@drawable/ic_lock</item>
+        <item name="android:clipChildren">true</item>
+        <item name="android:clipToPadding">true</item>
+    </style>
+
+    <style name="FaceLayoutTheme">
+        <item name="android:icon">@drawable/ic_lock</item>
+        <item name="android:clipChildren">true</item>
+        <item name="android:clipToPadding">true</item>
+    </style>
+
+    <style name="BiometricEnrollIntroTitle">
+        <item name="android:paddingVertical">@dimen/biometric_enroll_introduction_title_padding_vertical</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:textColor">@color/materialColorOnSurface</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="BiometricEnrollIntroMessage">
+        <item name="android:lineSpacingMultiplier">1.2</item>
+        <item name="android:paddingBottom">@dimen/biometric_enroll_introduction_message_padding_bottom</item>
+        <item name="android:textColor">@color/materialColorOnSurface</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="BiometricsEnrollStyle">
+        <item name="biometricsEnrollIcon">?android:attr/colorAccent</item>
+        <item name="biometricsMovingTargetFill">?android:attr/colorButtonNormal</item>
+        <item name="biometricsMovingTargetFillError">@color/udfps_moving_target_fill_error</item>
+        <item name="biometricsEnrollProgress">?android:attr/colorAccent</item>
+        <item name="biometricsEnrollProgressHelp">@color/udfps_enroll_progress_help</item>
+        <item name="biometricsEnrollProgressHelpWithTalkback">@color/udfps_enroll_progress_help_with_talkback</item>
+    </style>
+</resources>

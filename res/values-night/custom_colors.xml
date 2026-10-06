@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Biometrics -->
+    <color name="face_enroll_indicator">#ff8ab4f8</color>
+    <color name="sfps_enroll_immobile_continue_btn_bg_color">#c4cd7b</color>
+    <color name="sfps_enroll_immobile_continue_btn_text_color">#2e3300</color>
+    <color name="sfps_enroll_immobile_subtitle_text_color">#c8c7b7</color>
+    <color name="sfps_enroll_immobile_title_text_color">#e5e3d6</color>
+</resources>
