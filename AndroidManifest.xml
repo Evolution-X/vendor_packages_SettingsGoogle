@@ -150,6 +150,16 @@
             android:exported="true"
             android:multiprocess="false" />
 
+        <!-- Battery widget -->
+        <receiver
+            android:name="com.google.android.settings.fuelgauge.BatteryBroadcastReceiver"
+            android:permission="android.permission.BLUETOOTH_CONNECT"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="settings.intelligence.battery.action.FETCH_BLUETOOTH_BATTERY_DATA" />
+            </intent-filter>
+        </receiver>
+
         <!-- Biometrics -->
         <activity
             android:name="com.google.android.settings.biometrics.face.FaceEnrollParentalConsentGoogle"
