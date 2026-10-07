@@ -154,12 +154,6 @@
     <!-- Email address for the homepage contextual cards feedback -->
     <string name="config_contextual_card_feedback_email" translatable="false">contextual-settings-homepage-feedback@google.com</string>
 
-    <!-- ComponentName to launch a vendor-specific enrollment activity if available -->
-    <string name="config_face_enroll" translatable="false">com.android.settings/com.google.android.settings.biometrics.face.FaceEnrollTrampoline</string>
-
-    <!-- ComponentName to launch a vendor-specific posture guidance activity if available -->
-    <string name="config_face_enroll_guidance_page" translatable="false">com.android.settings/com.google.android.settings.biometrics.face.FaceEnrollFoldPage</string>
-
     <!-- App intent -->
     <string name="config_account_intent_uri" translatable="false">intent:#Intent;action=com.android.settings.action.VIEW_ACCOUNT;category=android.intent.category.DEFAULT;launchFlags=0x8000;S.extra.callingPackageName=com.android.settings;end</string>
 
@@ -215,9 +209,6 @@
 
     <!-- Whether to handle slot change events -->
     <bool name="config_handle_sim_slot_change">true</bool>
-
-    <!-- whether use partner overlay theme for outside setupwizard flow -->
-    <bool name="config_suc_use_partner_resource">true</bool>
 
     <!-- Whether to show Smart Storage toggle -->
     <bool name="config_show_smart_storage_toggle">false</bool>

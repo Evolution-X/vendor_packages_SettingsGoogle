@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item name="biometrics_glif_header_height_ratio" format="float" type="dimen">0.28</item>
-
-    <!-- Face -->
-    <item name="face_preview_translate_y" format="float" type="dimen">-460</item>
-    <item name="face_preview_translate_x" format="float" type="dimen">-130</item>
-</resources>

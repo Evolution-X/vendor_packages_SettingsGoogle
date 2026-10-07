@@ -2,13 +2,4 @@
 <resources>
     <!-- Locale Picker -->
     <bool name="config_show_setuplocalepicker_region_searchbox">true</bool>
-
-    <!-- Biometrics -->
-    <bool name="config_face_enroll_confirmation_show_illustration">true</bool>
-    <bool name="config_face_enroll_use_traffic_light">false</bool>
-    <bool name="config_face_settings_attention_supported">true</bool>
-    <bool name="config_face_settings_should_manage_preview">true</bool>
-    <bool name="config_fingerprint_enroll_calibration">false</bool>
-    <bool name="config_customized_guided_enroll">false</bool>
-    <string name="config_face_enroll_traffic_light_package" translatable="false"></string>
 </resources>

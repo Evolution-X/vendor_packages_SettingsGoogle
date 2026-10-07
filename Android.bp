@@ -16,8 +16,6 @@ android_library {
         "androidx.datastore_datastore-preferences-rxjava2",
         "androidx.datastore_datastore-preferences-core",
         "androidx.datastore_datastore-rxjava2",
-        "com.google.hardware.biometrics.fingerprint.fingerprint-ext-V3-java",
-        "com.google.hardware.biometrics.sidefps.fingerprint-ext-V1-java",
         "googlebattery-lib",
         "kotlinx_coroutines_reactive",
         "rxjava",
