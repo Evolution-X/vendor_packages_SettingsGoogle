@@ -27,16 +27,4 @@
     <dimen name="sp_qr_code_scanner_corner_radius">28dp</dimen>
     <dimen name="sp_qr_code_scanner_padding_horizontal">56dp</dimen>
     <dimen name="sp_qr_preview_min_size">@dimen/sp_qr_checkbox_size</dimen>
-
-    <!-- Quick Tap -->
-    <dimen name="columbus_action_list_item_spacing_vertical">16dp</dimen>
-    <dimen name="columbus_animation_layout_height">320dp</dimen>
-    <dimen name="columbus_animation_layout_width">320dp</dimen>
-    <dimen name="columbus_app_icon_padding">16dp</dimen>
-    <dimen name="columbus_app_icon_size">32dp</dimen>
-    <dimen name="columbus_app_list_item_spacing_vertical">8dp</dimen>
-    <dimen name="columbus_enroll_illustration_stroke_width">10dp</dimen>
-    <dimen name="columbus_illustration_layout_height">240dp</dimen>
-    <dimen name="columbus_illustration_layout_width">240dp</dimen>
-    <dimen name="columbus_list_item_text_spacing">32dp</dimen>
 </resources>
